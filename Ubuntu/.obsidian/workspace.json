@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8c418b830c139c84",
+        "id": "2b1ffa35828eed9d",
         "type": "tabs",
         "children": [
           {
-            "id": "2e1c77f69fdb66b5",
+            "id": "8dc04fdb4901feb5",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Ubuntu/How tos/Minecraft.md",
-                "bFile": "Ubuntu/How tos/Minecraft.md",
-                "aRef": ""
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Minecraft"
+              "icon": "lucide-file",
+              "title": "HomeLab - Getting Started"
             }
           }
         ]
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SSH.md",
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from SSH"
+              "title": "Outgoing links from HomeLab - Getting Started"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH.md",
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SSH"
+              "title": "Outline of HomeLab - Getting Started"
             }
           },
           {
@@ -162,7 +162,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -180,8 +180,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2e1c77f69fdb66b5",
+  "active": "3a5774c537f23144",
   "lastOpenFiles": [
+    "How tos/().md",
     "How tos/Minecraft.md",
     "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/LaTeX Ubuntu.md",
@@ -197,7 +198,6 @@
     "home/ap",
     "home",
     "How tos",
-    "How tos/().md",
     "How tos/Home server/Stack over flow.md",
     "Stack&20over flow.md",
     "How tos/Home server/Testing.md",
