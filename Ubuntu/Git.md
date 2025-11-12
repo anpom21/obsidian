@@ -1,0 +1,7 @@
+- Add syntax highlighting in commit messages
+	- `sudo apt install vim-nox`
+	- `git config --global core.editor vim`
+		- In vim to quit file: `ESC` + `:qa!`
+- See changes of file in repository
+	- `git diff <file>`
+-  Adding repos with uv [link](UV.md)

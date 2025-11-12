@@ -1,0 +1,4 @@
+- Remove tunneling (eg. password authentication):
+	- edit `sudo nano /etc/ssh/sshd_config`
+	- `PubkeyAuthentication yes`
+	- `PasswordAuthentication no`
