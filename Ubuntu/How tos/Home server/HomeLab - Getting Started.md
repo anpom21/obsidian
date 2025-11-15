@@ -1,6 +1,7 @@
 For common errors checkout [Stack over flow](Stack%20over%20flow.md)
+
 This YouTube [video](https://www.youtube.com/watch?v=IuRWqzfX1ik&) covers the basics quite well.
-- Acuire a computer could be any of
+- Acquire a computer could be any of
 	- Raspberry Pi
 	- Old laptop
 	- Dedicated server
@@ -25,8 +26,8 @@ The image is probably around 4 GB,  so pick a USB drive that fits that.
 Use [balena etcher](https://etcher.balena.io/) or similar to flash the image to the USB.
 
 
-#### Upload SSH keys to github
-Optional but recommended. By uploading the ssh keys to [GitHub](https://github.com/settings/keys) it is super easy for the OS to find the keys, which they can do simply with your github user name. 
+### Upload SSH keys to github
+Optional but **recommended**. By uploading the ssh keys to [GitHub](https://github.com/settings/keys) it is super easy for the OS to find the keys, which they can do simply with your github username. 
 If you just want to type them in later you can navigate to your `.ssh/` folder (typically at `~/.ssh/`) and then simply print the public key (typically its name `id_ed25519.pub`):
 ```bash
 cat ~/.ssh/id_ed25519.pub 
