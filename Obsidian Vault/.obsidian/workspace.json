@@ -1,24 +1,28 @@
 {
   "main": {
-    "id": "fbb87777d11ae552",
+    "id": "61e3c934a16fefcb",
     "type": "split",
     "children": [
       {
-        "id": "111d6bf995b75d73",
+        "id": "431b4c89f71fbca3",
         "type": "tabs",
         "children": [
           {
-            "id": "c4664a1ef0782424",
+            "id": "54c4a2a47ec97a63",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Master Thesis/3 blue one brown video.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "3 blue one brown video"
             }
           },
           {
-            "id": "559f630fbb4dde54",
+            "id": "2ea114b14b86b56d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,23 +34,37 @@
               "icon": "lucide-file",
               "title": "Welcome"
             }
+          },
+          {
+            "id": "35f95d54b9e922da",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Master Thesis/Initial Research.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Initial Research"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "4f9e141de9ce81fa",
+    "id": "fe03bcaeeb11492a",
     "type": "split",
     "children": [
       {
-        "id": "ed65013fffc14225",
+        "id": "ecf68dada2af1163",
         "type": "tabs",
         "children": [
           {
-            "id": "62cc51edfdbbd33d",
+            "id": "1f50e952b93b4fac",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -59,7 +77,7 @@
             }
           },
           {
-            "id": "60f640166871a664",
+            "id": "a23192b040f6842e",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -76,7 +94,7 @@
             }
           },
           {
-            "id": "f0937b517e0ee6cd",
+            "id": "f3d9a8360b3069df",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,20 +110,20 @@
     "width": 300
   },
   "right": {
-    "id": "b6e6ff4838007b7e",
+    "id": "ffcd22885b33595a",
     "type": "split",
     "children": [
       {
-        "id": "34555a53425920ab",
+        "id": "c01e8bc06756b177",
         "type": "tabs",
         "children": [
           {
-            "id": "f79533d5bfb7bdc1",
+            "id": "8d4d8ab7c3f4cba4",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Master Thesis/3 blue one brown video.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,25 +133,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for 3 blue one brown video"
             }
           },
           {
-            "id": "1777e67f6981f38c",
+            "id": "c40d3042d0b8ebf9",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Master Thesis/3 blue one brown video.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from 3 blue one brown video"
             }
           },
           {
-            "id": "59ac8cba016b22d5",
+            "id": "eb4592933faa3194",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -148,26 +166,36 @@
             }
           },
           {
-            "id": "2c1f48b33cf2ca5a",
+            "id": "a89e76dde5d1eb5e",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Master Thesis/3 blue one brown video.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of 3 blue one brown video"
+            }
+          },
+          {
+            "id": "cf47738078d7e31e",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -177,11 +205,23 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "559f630fbb4dde54",
+  "active": "35f95d54b9e922da",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Untitled.canvas",
+    "Welcome.md",
+    "2025-11-15.md",
+    "Untitled.base",
+    "link.md",
+    "create a link.md",
+    "Master Thesis/3 blue one brown video.md",
+    "Master Thesis/Initial Research.md",
+    "Papers/Denoising Diffusion Probabilistic Models.md",
+    "Papers",
+    "Master Thesis",
+    "desktop.ini"
   ]
 }
