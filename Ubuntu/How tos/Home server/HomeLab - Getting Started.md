@@ -165,7 +165,9 @@ sudo ufw allow 22/tcp \ # ssh
 && sudo ufw allow 8123/tcp \  # Home assistant
 && sudo ufw enable
 ```
-
+## CasaOS
+Install with one command
+`curl -fsSL https://get.casaos.io | sudo bash`
 
 ### Minecraft server
 The minecraft server is setup with docker. See the documentation [here](https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file).
