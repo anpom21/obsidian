@@ -26,9 +26,9 @@ sudo apt update
 apt-cache policy docker-ce
 ```
 
-You will see a list of versions. Copy the exact version string (e.g., 5:25.0.5-1~~debian.12~~bookworm) of the version you want to downgrade to.  
+You will see a list of versions. Copy the exact version string (e.g., 5:25.0.5-1bookworm) of the version you want to downgrade to.  
 Example snippet string:  
-5:28.3.2~~debian.12~~bookworm /last known running
+5:28.3.2bookworm /last known running
 3. Stop Docker Service
 ```
 sudo systemctl stop docker
