@@ -14,4 +14,12 @@ Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstatio
 ```
 bcdedit /enum firmware
 ```
-2. 
+Note the identifier for Ubuntu (looks like `{12345678-ABCD-EF...}`)
+2. Set Ubuntu as the next boot 
+```
+bcdedit /set "{fwbootmgr}" bootsequence "{UBUNTU_GUID}"
+```
+3. Reboot
+```
+shutdown /r /t 0
+```
