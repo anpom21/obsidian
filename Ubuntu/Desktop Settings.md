@@ -9,3 +9,9 @@ Set-SmbClientConfiguration -RequireSecuritySignature $false
 Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters" RequireSecureNegotiate -Value 0 -Force
 ```
 
+## Force boot into ubuntu
+1. List UEFI entries in PowerShell
+```
+bcdedit /enum firmware
+```
+2. 
