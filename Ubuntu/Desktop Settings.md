@@ -30,3 +30,38 @@ sudo efibootmgr -n 0000
 ```
 sudo reboot
 ```
+
+## Auto mount server folder
+1. Install CIFS tools
+```
+sudo apt install cifs-utils
+```
+2. Create credentials file
+```
+sudo nano /etc/samba/creds.myshare
+```
+Add (dont change `domain`):
+```
+username=YOURUSER
+password=YOURPASS
+domain=WORKGROUP 
+```
+Secure it:
+```
+sudo chmod 600 /etc/samba/creds.myshare
+```
+3. Add entry to `/etc/fstab`
+Change **ip** and **shared_folder**
+```
+# mount samba share
+//<ip>/<shared_folder>  /mnt/share  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.automount  0  0
+```
+Example:
+```
+//server.gazelle-shilling.ts.net/Share  /mnt/share  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.automount  0  0
+```
+4. Create a mount point
+```
+sudo mkdir -p /mnt/myshare
+```
+
