@@ -1,4 +1,6 @@
 
+
+# Windows
 ## Shared samba folder
 1. Go to `Control Panel > Programs and Features > Turn Windows features on or off`
 2. Check the box for "**SMB 1.0/CIFS File Sharing Support**"
@@ -9,6 +11,7 @@ Set-SmbClientConfiguration -RequireSecuritySignature $false
 Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters" RequireSecureNegotiate -Value 0 -Force
 ```
 
+# Ubuntu
 ## Force boot into windows from ubuntu
 1. Run
 ```
@@ -61,7 +64,14 @@ Example:
 //server.gazelle-shilling.ts.net/Share  /mnt/share  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.automount  0  0
 ```
 4. Create a mount point
+Here you can change the folder name **myshare**
 ```
 sudo mkdir -p /mnt/myshare
+```
+Test wihout reboot:
+```
+sudo systemctl daemon-reload
+sudo mount -a
+ls /mnt/myshare
 ```
 
