@@ -9,17 +9,24 @@ Set-SmbClientConfiguration -RequireSecuritySignature $false
 Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters" RequireSecureNegotiate -Value 0 -Force
 ```
 
-## Force boot into ubuntu
-1. List UEFI entries in PowerShell
+## Force boot into windows from ubuntu
+1. Run
 ```
-bcdedit /enum firmware
+sudo efibootmgr
 ```
-Note the identifier for Ubuntu (looks like `{12345678-ABCD-EF...}`)
-2. Set Ubuntu as the next boot 
+You should see something like:
 ```
-bcdedit /set "{fwbootmgr}" bootsequence "{UBUNTU_GUID}"
+BootCurrent: 0002
+Timeout: 1 seconds
+BootOrder: 0002,0000,0003,0004,0005
+Boot0000* Windows Boot Manager (...)
+Boot0002* Ubuntu	(...)
 ```
-3. Reboot
+2. Boot into windows on the next boot
 ```
-shutdown /r /t 0
+sudo efibootmgr -n 0000
+```
+2. Reboot
+```
+sudo reboot
 ```
