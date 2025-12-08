@@ -11,6 +11,8 @@ Set-SmbClientConfiguration -RequireSecuritySignature $false
 Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstation\Parameters" RequireSecureNegotiate -Value 0 -Force
 ```
 
+## SD Card formatter
+[link](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
 # Ubuntu
 ## Force boot into windows from ubuntu
 1. Run
@@ -35,11 +37,11 @@ sudo reboot
 ```
 
 ## Auto mount server folder
-1. Install CIFS tools
+### Install CIFS tools
 ```
 sudo apt install cifs-utils
 ```
-2. Create credentials file
+### Create credentials file
 ```
 sudo nano /etc/samba/creds.myshare
 ```
@@ -53,7 +55,7 @@ Secure it:
 ```
 sudo chmod 600 /etc/samba/creds.myshare
 ```
-3. Add entry to `/etc/fstab`
+### Add entry to `/etc/fstab`
 Change **ip** and **shared_folder**
 ```
 # mount samba share
@@ -63,7 +65,7 @@ Example:
 ```
 //server.gazelle-shilling.ts.net/Share  /mnt/share  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.automount  0  0
 ```
-4. Create a mount point
+### Create a mount point
 Here you can change the folder name **myshare**
 ```
 sudo mkdir -p /mnt/myshare
