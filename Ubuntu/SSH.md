@@ -7,5 +7,9 @@
 sudo apt install openssh-server
 cd ~/.ssh
 wget -O ap_keys https://github.com/anpom21.keys
-echo "$(cat keys)" >> authorized_keys
+echo "$(cat ap_keys)" >> authorized_keys
+```
+## Generate ssh key
+```
+ssh-keygen -t ed25519 -C "your_comment"
 ```
