@@ -1,4 +1,11 @@
-- Remove tunneling (eg. password authentication):
+## Remove tunneling (eg. password authentication):
 	- edit `sudo nano /etc/ssh/sshd_config`
 	- `PubkeyAuthentication yes`
 	- `PasswordAuthentication no`
+## Add github ssh keys to authorized_keys
+```
+sudo apt install openssh-server
+cd ~/.ssh
+wget -O ap_keys https://github.com/anpom21.keys
+echo "$(cat keys)" >> authorized_keys
+```

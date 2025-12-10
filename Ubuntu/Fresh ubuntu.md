@@ -29,6 +29,9 @@ git config --global user.email anpom21@student.sdu.dk
 
 # SSH
 sudo apt install openssh-server
+cd ~/.ssh
+wget -O keys https://github.com/anpom21.keys
+echo "$(cat keys)" >> authorized_keys
 
 # Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
