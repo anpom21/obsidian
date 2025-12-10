@@ -183,27 +183,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How tos/Home server/Stack over flow.md",
+                "file": "SSH.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Stack over flow"
-            }
-          },
-          {
-            "id": "d7620e00948a62ac",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of SSH"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,7 +211,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e357c31928cae1de",
+  "active": "3a5774c537f23144",
   "lastOpenFiles": [
     "Ubuntu.md",
     "Fresh ubuntu.md",
