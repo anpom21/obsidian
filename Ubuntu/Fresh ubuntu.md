@@ -2,13 +2,22 @@
 ## Bash script installing the basics 
 
 ```
+# ----- Simple headless installs ----- #
+# Apt installs
 sudo apt-get install -y build-essential \ # Python
 python3-dev \# Python
 git \
 python3-tk \ # Tk kinter
 aptitude \
 
+# SSH
+sudo apt install openssh-server
+cd ~/.ssh
+wget -O ap_keys https://github.com/anpom21.keys
+echo "$(cat ap_keys)" >> authorized_keys
 
+
+# ----- GUI required installs ----- #
 # Download and install git credential manager
 curl -L "$(curl -s https://api.github.com/repos/git-ecosystem/git-credential-manager/releases/latest \
   | grep browser_download_url \
@@ -27,11 +36,7 @@ git credential-manager github login
 git config --global user.name "Andreas Pommerencke"
 git config --global user.email anpom21@student.sdu.dk
 
-# SSH
-sudo apt install openssh-server
-cd ~/.ssh
-wget -O keys https://github.com/anpom21.keys
-echo "$(cat keys)" >> authorized_keys
+
 
 # Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh

@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SSH.md",
+                "file": "Fresh ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Fresh ubuntu"
             }
           }
         ],
@@ -183,13 +183,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SSH.md",
+                "file": "Fresh ubuntu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SSH"
+              "title": "Outline of Fresh ubuntu"
             }
           }
         ],
@@ -211,11 +211,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3a5774c537f23144",
+  "active": "e357c31928cae1de",
   "lastOpenFiles": [
-    "Ubuntu.md",
-    "Fresh ubuntu.md",
     "SSH.md",
+    "Fresh ubuntu.md",
+    "Ubuntu.md",
     "Desktop Settings.md",
     "How tos/Home server/Stack over flow.md",
     "How tos/Home server/HomeLab - Getting Started.md",
