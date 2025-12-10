@@ -27,7 +27,9 @@ git credential-manager github login
 git config --global user.name "Andreas Pommerencke"
 git config --global user.email anpom21@student.sdu.dk
 
-  
+# SSH
+sudo apt install openssh-server
+
 # Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
 ```
