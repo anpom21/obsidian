@@ -1,4 +1,5 @@
 summary
+https://chatgpt.com/share/693be3e8-b7c0-8012-a36d-9705ee10772b
 Syslog / rsyslog – Command Summary
 1. Inspect / diagnose
 Check running processes
