@@ -35,3 +35,21 @@ sudo systemctl restart teamviewerd
 sudo systemctl restart gdm3
 ```
 
+That should fix teamviewer.
+Then log into teamviewer and start sunhine:
+```
+sunshine &
+```
+
+Future fix you can try:
+## Optional but recommended (stability)
+
+### Disable Wayland (Sunshine + NVIDIA is still fragile)
+
+You already restarted GDM, so do this once:
+
+`sudo nano /etc/gdm3/custom.conf`
+
+Ensure:
+
+`WaylandEnable=false`
