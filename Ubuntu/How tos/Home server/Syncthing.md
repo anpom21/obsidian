@@ -1,1 +1,2 @@
-First install syncthing on all your desi
+First install [syncthing](https://syncthing.net/downloads/) on all your desired devices.
+
