@@ -1,0 +1,1 @@
+First install syncthing on all your desi
