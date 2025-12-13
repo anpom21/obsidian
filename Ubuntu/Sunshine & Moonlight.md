@@ -17,7 +17,11 @@ sudo make install
 ```
 4. Set fps limit
 For every game you need to do this step.
-Go to steam right-click on a game in your **library** and selecting **Properties** , then go to **General** then set **launch** **options** to: `strangle <desired_fps_limitr> %command%`
+Go to steam right-click on a game in your **library** and selecting **Properties** , then go to **General** then set **launch** **options** to: `strangle <your desired fps limit> %command%`
+
+5. When you are done you should have something like this:
+![[Pasted image 20251212190407.png]]
+
 ## Frozen full screen
 
 Harsh, but works:
