@@ -41,7 +41,7 @@ Then log into teamviewer and start sunhine:
 sunshine &
 ```
 
-Future fix you can try:
+# Future fix you can try:
 ## Optional but recommended (stability)
 
 ### Disable Wayland (Sunshine + NVIDIA is still fragile)
