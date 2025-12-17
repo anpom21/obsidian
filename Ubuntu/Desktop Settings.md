@@ -13,6 +13,9 @@ Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstatio
 
 ## SD Card formatter
 [link](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
+
+
+
 # Ubuntu
 ## Force boot into windows from ubuntu
 1. Run
@@ -35,7 +38,9 @@ sudo efibootmgr -n 0000
 ```
 sudo reboot
 ```
-
+## Startup without password
+Sign into local account
+Sign in with auto logon
 ## Auto mount server folder
 ### Install CIFS tools
 ```
