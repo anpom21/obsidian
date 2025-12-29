@@ -53,3 +53,5 @@ docker exec <mc server container name> rcon-cli <minecraft server command>
 docker exec minecraft_server-mc-1 rcon-cli "say hello"
 ```
 
+
+### Schedule server to suspend when 

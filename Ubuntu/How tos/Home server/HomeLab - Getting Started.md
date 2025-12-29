@@ -176,8 +176,20 @@ More notes here [Minecraft](Minecraft)
 
 ### Auto suspend and wake server
 Auto suspension and waking of the server can be done with a cron job and `rtcwake`.
-The following `rtcwake` command will suspend the machine and wake it the next day at 7:00.
+The following `rtcwake` command will suspend the machine at execution and wake it the next day at 7:00.
 ```bash
 rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
 ```
-And to add it using a c
+Next add the command as a cronjob.
+1. Open crontab.
+```
+crontab -e
+```
+2. Configure the command scheduling and paste the command.
+This cronjob will be executed every day at 23:00 and execute the 
+```bash
+# minute hour day month day-of-week   command
+00 23 * * * rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
+```
+
+If the server should rest when no one is on the server then a script can be found in the [Minecraft](Minecraft) tab.
