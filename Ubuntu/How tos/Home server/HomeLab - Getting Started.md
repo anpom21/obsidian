@@ -172,3 +172,4 @@ Install with one command
 ### Minecraft server
 The minecraft server is setup with docker. See the documentation [here](https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file).
 Great youtube [tutorial](https://www.youtube.com/watch?v=CpmsLOX-7DE).
+More notes here [Minecraft](Minecraft)
