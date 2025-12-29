@@ -1,5 +1,5 @@
 Install java
-```
+```bash
 sudo apt install default-jdk
 ```
 
