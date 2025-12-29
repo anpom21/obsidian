@@ -54,4 +54,29 @@ docker exec minecraft_server-mc-1 rcon-cli "say hello"
 ```
 
 
-### Schedule server to suspend when 
+### Suspend server when empty
+This script will be used in combination with a cron job to schedule a suspension of the server when no one is on the minecraft server.
+
+```bash
+#!/usr/bin/env bash
+set -euo pipefail
+
+out=$(docker exec minecraft_server-mc-1 rcon-cli "list" 2>/dev/null || true)
+
+echo $out | wall
+
+# Extract the first integer from the output (players online). Default to 0 if missing.
+players=$(grep -oE '[0-9]+' <<< "$out" | awk 'NR==3')
+players=${players:-0}
+
+if [[ "$players" -eq 0 ]]; then
+  echo "Suspending server." | wall
+
+  # Set an RTC alarm for 07:00, then suspend the system now
+  rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
+
+  docker exec minecraft_server-mc-1 rcon-cli "say Suspending server waking up again at 7:00" 2>/dev/null || true
+fi
+
+echo $players found online | wall
+```
