@@ -46,4 +46,10 @@ services:
       - ./data/logs/latest.log:/mc-latest.log:ro   # <--- change to this
 ```
 
-Commands can be send to the minecraft server with the `docker exec` com
+Commands can be send to the minecraft server with the `docker exec` command:
+```bash
+docker exec <mc server container name> rcon-cli <minecraft server command>
+# Example
+docker exec minecraft_server-mc-1 rcon-cli "say hello"
+```
+

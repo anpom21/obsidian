@@ -67,12 +67,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "How tos/Minecraft.md",
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Minecraft"
+              "title": "HomeLab - Getting Started"
             }
           }
         ],
@@ -235,10 +235,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1cfe70a9b58de670",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
-    "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/Minecraft.md",
+    "How tos/Home server/HomeLab - Getting Started.md",
     "Sunshine & Moonlight.md",
     "How tos/Home server/Syncthing.md",
     "How tos/Home server/Untitled.md",

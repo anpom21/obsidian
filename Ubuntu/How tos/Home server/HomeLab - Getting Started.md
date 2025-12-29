@@ -173,3 +173,11 @@ Install with one command
 The minecraft server is setup with docker. See the documentation [here](https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file).
 Great youtube [tutorial](https://www.youtube.com/watch?v=CpmsLOX-7DE).
 More notes here [Minecraft](Minecraft)
+
+### Auto suspend and wake server
+Auto suspension and waking of the server can be done with a cron job and `rtcwake`.
+The following `rtcwake` command will suspend the machine and wake it the next day at 7:00.
+```bash
+rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
+```
+And to add it using a c
