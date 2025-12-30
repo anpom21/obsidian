@@ -64,6 +64,25 @@ Then log into teamviewer and start sunhine:
 sunshine &
 ```
 
+## Moonlight graphics error
+### Port already in use
+If you got the following message when running `sunshine`
+```
+Fatal: Couldn't bind RTSP server to port [48010], Address already in use
+```
+Check what is using that port:
+```
+sudo ss -ltnp | grep :48010
+```
+Then fix it by killing the instance listening to that port (likely sunshine).
+```
+pkill -x sunshine || true
+sudo fuser -k 48010/tcp || true
+```
+Start sunshine again
+```
+sunshine &
+```
 # Future fix you can try:
 ## Optional but recommended (stability)
 
