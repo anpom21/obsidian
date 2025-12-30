@@ -121,17 +121,14 @@
             "id": "7c3f065dc868b02d",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 62.20456083418263,
-                  "y": -314.99971596667615,
-                  "zoom": -0.30000000000000004
-                }
+                "file": "Fresh ubuntu.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Fresh ubuntu"
             }
           }
         ],
@@ -256,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Fresh ubuntu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Fresh ubuntu"
             }
           },
           {
@@ -296,22 +293,23 @@
   },
   "active": "7c3f065dc868b02d",
   "lastOpenFiles": [
-    "Pasted image 20251230213107.png",
-    "Fresh ubuntu.md",
-    "Pasted image 20251230213056.png",
-    "How tos/Home server/HomeLab - Getting Started.md",
-    "How tos/Minecraft.md",
-    "conflict-files-obsidian-git.md",
+    "Pasted image 20251230213400.png",
     "How tos/LaTeX Ubuntu.md",
+    "How tos/Minecraft.md",
+    "2025-12-26.md",
+    "Desktop Settings.md",
+    "Fresh ubuntu.md",
+    "Pasted image 20251212190404.png",
+    "Pasted image 20251230213056.png",
+    "Pasted image 20251230213107.png",
+    "Pasted image 20251212190407.png",
+    "Untitled.canvas",
+    "How tos/Home server/HomeLab - Getting Started.md",
+    "conflict-files-obsidian-git.md",
     "Git.md",
     "UV.md",
     "Ubuntu.md",
-    "2025-12-26.md",
-    "Untitled.canvas",
     "Sunshine & Moonlight.md",
-    "Desktop Settings.md",
-    "Pasted image 20251212190407.png",
-    "Pasted image 20251212190404.png",
     "How tos/Home server/Syncthing.md",
     "SSH.md",
     "syslog bloat.md",

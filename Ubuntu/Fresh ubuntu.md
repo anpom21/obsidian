@@ -47,4 +47,8 @@ curl -fsSL https://tailscale.com/install.sh | sh
 
 
 - `btop`
+PC Performance manager
 ![[Pasted image 20251230213056.png]]
+- `ranger`
+File navigation
+![[Pasted image 20251230213400.png]]

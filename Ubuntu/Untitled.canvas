@@ -2,7 +2,8 @@
 	"nodes":[
 		{"id":"0bb2711d43b81e12","x":-320,"y":-240,"width":400,"height":216,"type":"file","file":"Pasted image 20251230213107.png"},
 		{"id":"5e01bcec889752b1","x":-320,"y":-440,"width":250,"height":134,"type":"text","text":"Hello\n"},
-		{"id":"8fd76bd84fbcd6ec","x":115,"y":-420,"width":400,"height":390,"color":"2","type":"file","file":"Fresh ubuntu.md"}
+		{"id":"8fd76bd84fbcd6ec","x":115,"y":-420,"width":400,"height":390,"color":"2","type":"file","file":"Fresh ubuntu.md"},
+		{"id":"d0448ee48625183d","x":-100,"y":-700,"width":250,"height":194,"type":"text","text":""}
 	],
 	"edges":[]
 }
