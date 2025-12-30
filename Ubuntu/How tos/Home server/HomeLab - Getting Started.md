@@ -58,7 +58,7 @@ Wake-on: d
 Link detected: yes
 ```
 If it cant detect a link try forcing a reload
-```
+```bash
 sudo ip link set enp5s0 down
 sudo rmmod r8169
 sudo modprobe r8169
@@ -97,7 +97,7 @@ If using a laptop as a homeserver then it will beneficial to close the laptop, b
 - **Disable LID Switch in bios**
 	- If bios has a lid switch option disable it.
 - Disable lid switch in ubuntu
-```
+```bash
 sudo nano /etc/systemd/logind.conf
 ```
 - Change the following lines:
@@ -111,7 +111,7 @@ These lines may be commented out make sure to remove the comment `#`
 (It might be only one of these needs to be disabled but i just disabled them all to be sure)
 
 - Apply changes
-```
+```bash
 sudo systemctl restart systemd-logind
 ```
 ### Port forwarding
@@ -120,7 +120,7 @@ sudo systemctl restart systemd-logind
 Internet wide ad blocker.
 #### DNS Port 53
 Ensure port 53 is not taken.
-```
+```bash
 sudo lsof -i -P -n | grep LISTEN
 ``` 
 If anything else listens, it is very likely its `systemd-resolved`
@@ -129,7 +129,7 @@ To solve that you need to edit the `/etc/systemd/resolved.conf` and uncomment `D
 After that reboot your system or restart the service with `service systemd-resolved restart`
 #### Port 80 is occupied
 It might occur that port 80 is occupied by CasaOS. There fore the port should be changed, change the line `port = "80o,443os,[::]:80o,[::]:443os"` in `/etc/pihole/pihole.toml`:
-```
+```bash
 sudo nano /etc/pihole/pihole.toml
 ```
 Use `Ctrl + W` (in nano) to search for 80 to make the search quicker.
@@ -172,3 +172,24 @@ Install with one command
 ### Minecraft server
 The minecraft server is setup with docker. See the documentation [here](https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file).
 Great youtube [tutorial](https://www.youtube.com/watch?v=CpmsLOX-7DE).
+More notes here [Minecraft](Minecraft)
+
+### Auto suspend and wake server
+Auto suspension and waking of the server can be done with a cron job and `rtcwake`.
+The following `rtcwake` command will suspend the machine at execution and wake it the next day at 7:00.
+```bash
+rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
+```
+Next add the command as a cronjob.
+1. Open crontab.
+```
+crontab -e
+```
+2. Configure the command scheduling and paste the command.
+This cronjob will be executed every day at 23:00 and execute the 
+```bash
+# minute hour day month day-of-week   command
+00 23 * * * rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
+```
+
+If the server should rest when no one is on the server then a script can be found in the [Minecraft](Minecraft) tab.
