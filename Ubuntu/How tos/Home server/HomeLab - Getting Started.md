@@ -191,5 +191,8 @@ This cronjob will be executed every day at 23:00 and execute the
 # minute hour day month day-of-week   command
 00 23 * * * rtcwake -m mem -t "$(date -d 'tomorrow 7:00' +%s)"
 ```
-
+Or if 8 hours sleep is required:
+```
+00 23 * * * rtcwake -m mem -s 28800
+```
 If the server should rest when no one is on the server then a script can be found in the [Minecraft](Minecraft) tab.
