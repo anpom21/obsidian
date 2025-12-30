@@ -57,6 +57,39 @@ Download accelerator
 ```
 axel -n <links> rul
 ```
+### `neofetch`
+PC summarizer
+```
+ap@desktop:~/Downloads$ neofetch
+            .-/+oossssoo+/-.               ap@desktop 
+        `:+ssssssssssssssssss+:`           ---------- 
+      -+ssssssssssssssssssyyssss+-         OS: Ubuntu 24.04.3 LTS x86_64 
+    .ossssssssssssssssssdMMMNysssso.       Kernel: 6.14.0-37-generic 
+   /ssssssssssshdmmNNmmyNMMMMhssssss/      Uptime: 1 hour, 30 mins 
+  +ssssssssshmydMMMMMMMNddddyssssssss+     Packages: 2350 (dpkg), 7 (flatpak),  
+ /sssssssshNMMMyhhyyyyhmNMMMNhssssssss/    Shell: bash 5.2.21 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Resolution: 1920x1080 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   DE: GNOME 46.0 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM: Mutter 
+ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM Theme: Adwaita 
++sssshhhyNMMNyssssssssssssyNMMMysssssss+   Theme: Yaru [GTK2/3] 
+.ssssssssdMMMNhsssssssssshNMMMdssssssss.   Icons: Yaru [GTK2/3] 
+ /sssssssshNMMMyhhyyyyhdNMMMNhssssssss/    Terminal: gnome-terminal 
+  +sssssssssdmydMMMMMMMMddddyssssssss+     CPU: AMD Ryzen 7 9800X3D (16) @ 5.27 
+   /ssssssssssshdmNNNNmyNMMMMhssssss/      GPU: AMD ATI 0d:00.0 Device 13c0 
+    .ossssssssssssssssssdMMMNysssso.       GPU: NVIDIA 01:00.0 NVIDIA Corporati 
+      -+sssssssssssssssssyyyssss+-         Memory: 9495MiB / 31239MiB 
+        `:+ssssssssssssssssss+:`
+            .-/+oossssoo+/-.                                       
+                                                                   
+
+
+
+```
+
+### `ffmpeg`
+Video converter.
+
 # .deb packages
 
 ### `speedtest`
