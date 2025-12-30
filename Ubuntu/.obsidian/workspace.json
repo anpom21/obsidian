@@ -74,9 +74,65 @@
               "icon": "lucide-file",
               "title": "Sunshine & Moonlight"
             }
+          },
+          {
+            "id": "4d996de2a5a9cac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunshine & Moonlight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunshine & Moonlight"
+            }
+          },
+          {
+            "id": "999f89d7240279e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sunshine & Moonlight.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sunshine & Moonlight"
+            }
+          },
+          {
+            "id": "db8dd5dcd43a695e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ubuntu"
+            }
+          },
+          {
+            "id": "7c3f065dc868b02d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UV.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "UV"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -197,13 +253,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sunshine & Moonlight.md",
+                "file": "UV.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Sunshine & Moonlight"
+              "title": "Outline of UV"
             }
           }
         ],
@@ -225,24 +281,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d42874abc680b1e6",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
+    "Ubuntu.md",
+    "2025-12-26.md",
+    "Untitled.canvas",
+    "How tos/Home server/HomeLab - Getting Started.md",
+    "Sunshine & Moonlight.md",
+    "Desktop Settings.md",
+    "Fresh ubuntu.md",
+    "How tos/Minecraft.md",
+    "Git.md",
     "Pasted image 20251212190407.png",
     "Pasted image 20251212190404.png",
-    "Fresh ubuntu.md",
-    "Desktop Settings.md",
+    "How tos/Home server/Syncthing.md",
     "SSH.md",
-    "Sunshine & Moonlight.md",
     "syslog bloat.md",
-    "Ubuntu.md",
     "How tos/Home server/Stack over flow.md",
-    "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/().md",
-    "How tos/Minecraft.md",
     "How tos/LaTeX Ubuntu.md",
     "UV.md",
     "Untitled.md",
-    "Git.md",
     "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
     "home/ap/Documents/speciale/LaTeX",
     "home/ap/Documents/speciale",
