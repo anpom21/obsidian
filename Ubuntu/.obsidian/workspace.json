@@ -121,14 +121,17 @@
             "id": "7c3f065dc868b02d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "How tos/Home server/HomeLab - Getting Started.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 62.20456083418263,
+                  "y": -314.99971596667615,
+                  "zoom": -0.30000000000000004
+                }
               },
-              "icon": "lucide-file",
-              "title": "HomeLab - Getting Started"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled"
             }
           }
         ],
@@ -253,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "file": "Untitled.canvas",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HomeLab - Getting Started"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -293,9 +296,12 @@
   },
   "active": "7c3f065dc868b02d",
   "lastOpenFiles": [
+    "Pasted image 20251230213107.png",
+    "Fresh ubuntu.md",
+    "Pasted image 20251230213056.png",
+    "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/Minecraft.md",
     "conflict-files-obsidian-git.md",
-    "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/LaTeX Ubuntu.md",
     "Git.md",
     "UV.md",
@@ -304,7 +310,6 @@
     "Untitled.canvas",
     "Sunshine & Moonlight.md",
     "Desktop Settings.md",
-    "Fresh ubuntu.md",
     "Pasted image 20251212190407.png",
     "Pasted image 20251212190404.png",
     "How tos/Home server/Syncthing.md",

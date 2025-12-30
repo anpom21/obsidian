@@ -41,3 +41,10 @@ git config --global user.email anpom21@student.sdu.dk
 # Tailscale
 curl -fsSL https://tailscale.com/install.sh | sh
 ```
+
+
+## Apt packages
+
+
+- `btop`
+![[Pasted image 20251230213056.png]]
