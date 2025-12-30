@@ -90,6 +90,9 @@ ossyNMMMNyMMhsssssssssssssshmmmhssssssso   WM Theme: Adwaita
 ### `ffmpeg`
 Video converter.
 
+### `tldr`
+Bette help messages.
+![[Pasted image 20251230215323.png]]
 # .deb packages
 
 ### `speedtest`
