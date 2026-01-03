@@ -13,6 +13,9 @@ Set-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Services\LanmanWorkstatio
 
 ## SD Card formatter
 [link](https://www.sdcard.org/downloads/formatter/sd-memory-card-formatter-for-windows-download/)
+
+
+
 # Ubuntu
 ## Force boot into windows from ubuntu
 1. Run
@@ -35,7 +38,25 @@ sudo efibootmgr -n 0000
 ```
 sudo reboot
 ```
+## Startup windows without password
+**Sign into local account** 
+1. **Open Settings:** Press **Windows key + I**.
+2. **Navigate:** Go to **Accounts** > **Your info**.
+3. **Initiate Switch:** Click on **"Sign in with a local account instead"**.
+4. **Verify:** Enter your current Microsoft account password or PIN when prompted.
+5. **Create Local Profile:** Follow the on-screen prompts to set a new username, password, and password hint for your local account.
+6. **Sign Out:** Sign out of your Microsoft account and sign back in with your new local credentials.
 
+**Sign in with auto logon**
+1. Download [autologon](https://learn.microsoft.com/en-us/sysinternals/downloads/autologon).
+2. Open `autologon.exe` or `autologon64.exe` if available
+3. Type in credentials
+4. Apply changes
+
+**Disable Fast Startup**
+As admin CMD turn off Fast Startup with:
+`powercfg /h off`
+This also disables hibernation (recommended for dual-boot).
 ## Auto mount server folder
 ### Install CIFS tools
 ```
