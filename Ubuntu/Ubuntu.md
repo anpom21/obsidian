@@ -10,4 +10,18 @@ See issue [here](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195
 3. Uncomment `ReconnectAttempts=7` (set the value to whatever number that you want)
 4. Uncomment `ReconnectIntervals=1, 2, 3`
 5. Run: `sudo systemctl restart bluetooth`
-6. 
+
+## Add AppImage as ubuntu app
+### 1) Move the AppImage to an Applications folder 
+Can be anywhere you choose.
+```bash
+mkdir -p ~/Applications
+mv ~/Downloads/<APP>.AppImage ~/Applications/<APP>.AppImage
+chmod +x ~/Applications/<APP>.AppImage
+```
+### 2) Create a `.desktop` launcher
+Create the file:
+```
+nano ~/.local/share/applications/moonlight.desktop
+```
+Paste a `
