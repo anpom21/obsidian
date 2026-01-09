@@ -21,7 +21,7 @@ chmod +x ~/Applications/<APP>.AppImage
 ```
 ### 2) Create a `.desktop` launcher
 Create the file:
-```
+```bash
 nano ~/.local/share/applications/moonlight.desktop
 ```
 Paste a `Desktop Entry`
@@ -51,19 +51,27 @@ StartupWMClass=Moonlight
 Save and exit
 ### 3) (Optional) Set a proper icon
 Find a prober `.png` logo, either from the internet or in the AppImage as demonstrated below:
-```
+```bash
 cd ~/Applications
-./Moonlight.AppImage --appimage-extract
+./<APP>.AppImage --appimage-extract
 ```
 Find the icon:
-```
-find squashfs-root -iname "*moonlight*png" -o -iname "*moonlight*svg"
+```bash
+find squashfs-root -iname "*<APP>*png" -o -iname "*<APP>*svg"
 ```
 Copy one to icons:
-```
+```bash
 mkdir -p ~/.local/share/icons
-cp squashfs-root/usr/share/icons/hicolor/256x256/apps/moonlight.png ~/.local/share/icons/
+cp squashfs-root/usr/share/SOME/PATH/<APP>.png ~/.local/share/icons/
 ```
 (Size adjustment might be required 256x256)
 
-### 
+### 4) Refresh the desktop database
+```bash
+update-desktop-database ~/.local/share/applications
+```
+Verify by searching for the app.
+Or launch with:
+```bash
+gtk-launch <app name>
+```
