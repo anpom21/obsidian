@@ -24,4 +24,46 @@ Create the file:
 ```
 nano ~/.local/share/applications/moonlight.desktop
 ```
-Paste a `
+Paste a `Desktop Entry`
+```ini
+[Desktop Entry]
+Type=Application
+Name=<Name>
+Comment=<comment>
+Exec=/home/ap/Applications/<APP>.AppImage
+Icon=<icon name without .png>
+Terminal=false 
+Categories=<cat2>;<cat2>;
+StartupWMClass=<Name>
+```
+Example with moonlight:
+```ini
+[Desktop Entry]
+Type=Application
+Name=Moonlight
+Comment=Game streaming client
+Exec=/home/ap/Applications/Moonlight.AppImage
+Icon=moonlight
+Terminal=false
+Categories=Game;Network;
+StartupWMClass=Moonlight
+```
+Save and exit
+### 3) (Optional) Set a proper icon
+Find a prober `.png` logo, either from the internet or in the AppImage as demonstrated below:
+```
+cd ~/Applications
+./Moonlight.AppImage --appimage-extract
+```
+Find the icon:
+```
+find squashfs-root -iname "*moonlight*png" -o -iname "*moonlight*svg"
+```
+Copy one to icons:
+```
+mkdir -p ~/.local/share/icons
+cp squashfs-root/usr/share/icons/hicolor/256x256/apps/moonlight.png ~/.local/share/icons/
+```
+(Size adjustment might be required 256x256)
+
+### 
