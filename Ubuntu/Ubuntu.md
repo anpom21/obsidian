@@ -2,7 +2,7 @@
 - 
 
 
-## Keychron K10 v2 Bluetooth issues
+# Keychron K10 v2 Bluetooth issues
 
 See issue [here](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444#enable-bluetooth-fast-connect-config)
 1. Edit the file `/etc/bluetooth/main.conf`
@@ -11,7 +11,7 @@ See issue [here](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195
 4. Uncomment `ReconnectIntervals=1, 2, 3`
 5. Run: `sudo systemctl restart bluetooth`
 
-## Add AppImage as ubuntu app
+# Add AppImage as ubuntu app
 ### 1) Move the AppImage to an Applications folder 
 Can be anywhere you choose.
 ```bash
@@ -74,4 +74,65 @@ Verify by searching for the app.
 Or launch with:
 ```bash
 gtk-launch <app name>
+```
+
+
+# Hard reset audio settings
+### 0. Close everything using audio
+
+- Quit Discord
+- Quit browser tabs with audio
+- Quit pavucontrol
+### 1. Kill the entire user audio stack
+
+```Bash
+systemctl --user stop pipewire pipewire-pulse wireplumber
+```
+Verify nothing is running:
+```bash
+ps aux | grep -E "pipewire|pulse" | grep -v grep
+```
+Should return **nothing**.
+### 2. HARD reset user audio config (this is the key step)
+
+This deletes all **user-level ALSA / Pulse / PipeWire state**.
+
+```
+rm -rf ~/.config/pulse 
+rm -rf ~/.config/pipewire 
+rm -rf ~/.config/wireplumber 
+rm -rf ~/.local/state/pipewire 
+rm -rf ~/.local/state/wireplumber 
+rm -rf ~/.cache/pulse
+```
+Do **not** skip any of these.
+### 3. Reset ALSA completely
+
+```bash
+sudo alsa force-reload
+```
+If that command is missing:
+
+```bash
+sudo systemctl restart alsa-restore
+```
+
+Optional but recommended:
+
+```bash
+sudo rm -rf /var/lib/alsa/asound.state
+```
+### 4. Reboot
+
+Do **not** skip reboot.
+
+```bash
+reboot
+```
+### 5. Verify clean state (before opening Discord)
+
+After reboot, run:
+
+```bash
+pactl list short sources
 ```
