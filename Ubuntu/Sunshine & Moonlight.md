@@ -95,3 +95,4 @@ You already restarted GDM, so do this once:
 Ensure:
 
 `WaylandEnable=false`
+
