@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu.md",
+                "file": "SSH.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "SSH"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "autho",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,7 +199,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
