@@ -123,12 +123,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu.md",
+                "file": "Sunshine & Moonlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "Sunshine & Moonlight"
             }
           }
         ],
@@ -293,8 +293,8 @@
   },
   "active": "7c3f065dc868b02d",
   "lastOpenFiles": [
-    "Sunshine & Moonlight.md",
     "Ubuntu.md",
+    "Sunshine & Moonlight.md",
     "Fresh ubuntu.md",
     "Git.md",
     "SSH.md",
