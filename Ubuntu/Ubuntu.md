@@ -136,3 +136,14 @@ After reboot, run:
 ```bash
 pactl list short sources
 ```
+
+## Turn .png's into a .gif using FFMPEG
+The basic command to turn images into a gif.
+```bash
+ffmpeg -i %04d_color.png output.gif
+```
+Where `%04d_color.png` expects images to appear as `0001_color.png`, `0002_color.png` and so on.
+If the images just counts up, use:
+```
+ffmpeg -i image-%d.png output.gif
+```

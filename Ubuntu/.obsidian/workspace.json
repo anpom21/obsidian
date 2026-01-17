@@ -130,9 +130,23 @@
               "icon": "lucide-file",
               "title": "Sunshine & Moonlight"
             }
+          },
+          {
+            "id": "da197b8b11f075cb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ubuntu.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ubuntu"
+            }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -291,7 +305,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c3f065dc868b02d",
+  "active": "da197b8b11f075cb",
   "lastOpenFiles": [
     "Ubuntu.md",
     "Sunshine & Moonlight.md",
