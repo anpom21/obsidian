@@ -57,7 +57,34 @@ sudo reboot
 As admin CMD turn off Fast Startup with:
 `powercfg /h off`
 This also disables hibernation (recommended for dual-boot).
+## Mount server folder
+
+On the **machine hosting the folder**:
+```
+sudo apt install samba
+```
+Create or choose a directory:
+```
+mkdir -p /srv/shared sudo chown -R $USER:$USER /srv/shared chmod 755 /srv/shared
+```
+Edit config:
+```
+sudo nano /etc/samba/smb.conf
+```
+Append:
+```
+[shared]    path = /srv/shared    browseable = yes    read only = no    guest ok = no
+```
+Add Samba user (must exist as Linux user):
+```
+sudo smbpasswd -a $USER
+```
+Restart:
+```
+sudo systemctl restart smbd
+```
 ## Auto mount server folder
+
 ### Install CIFS tools
 ```
 sudo apt install cifs-utils
