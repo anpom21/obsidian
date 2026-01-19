@@ -147,3 +147,9 @@ If the images just counts up, use:
 ```
 ffmpeg -i image-%d.png output.gif
 ```
+
+### Increase time between frames
+
+```
+ffmpeg -framerate 30 -i %04d_composite.png   -vf "setpts=2*PTS,scale=900:-1:flags=lanczos"   output9.gif
+```
