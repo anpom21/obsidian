@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Settings.md",
+                "file": "Sunshine & Moonlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desktop Settings"
+              "title": "Sunshine & Moonlight"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "samba",
+                "query": "sunshine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,8 +306,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "da197b8b11f075cb",
   "lastOpenFiles": [
+    "Desktop Settings.md",
     "SSH.md",
     "Ubuntu.md",
     "Sunshine & Moonlight.md",
@@ -315,7 +316,6 @@
     "Git.md",
     "syslog bloat.md",
     "How tos/Home server/Syncthing.md",
-    "Desktop Settings.md",
     "Pasted image 20251230215323.png",
     "Pasted image 20251230213400.png",
     "Pasted image 20251230213107.png",
