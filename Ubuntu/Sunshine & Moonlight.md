@@ -97,4 +97,14 @@ Ensure:
 `WaylandEnable=false`
 
 
-## Sunshine start 
+## Sunshine start remotely
+```
+systemctl --user reset-failed sunshine.service
+
+
+
+
+
+
+sudo loginctl enable-linger aris
+```
