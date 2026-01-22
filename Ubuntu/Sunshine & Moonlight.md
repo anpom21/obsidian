@@ -108,4 +108,6 @@ systemctl --user reset-failed sunshine.service
 
 sudo loginctl enable-linger aris
 xhost +SI:localuser:aris
+# to revoke:
+xhost -SI:localuser:aris
 ```
