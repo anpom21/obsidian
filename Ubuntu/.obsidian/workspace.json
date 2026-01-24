@@ -137,12 +137,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ubuntu.md",
+                "file": "Sunshine & Moonlight.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "Sunshine & Moonlight"
             }
           }
         ],
@@ -178,7 +178,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ffmp",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -199,8 +199,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,8 +307,11 @@
   },
   "active": "da197b8b11f075cb",
   "lastOpenFiles": [
-    "Fresh ubuntu.md",
+    "Untitled.base",
+    "2026-01-20.md",
+    "Untitled 1.canvas",
     "Ubuntu.md",
+    "Fresh ubuntu.md",
     "Desktop Settings.md",
     "Sunshine & Moonlight.md",
     "SSH.md",
@@ -344,7 +346,6 @@
     "How tos/Home server",
     "Welcome.md",
     "Adding repos as packages with uv.md",
-    "create a link.md",
-    "Untitled.base"
+    "create a link.md"
   ]
 }
