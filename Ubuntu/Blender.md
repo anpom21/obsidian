@@ -8,3 +8,5 @@
 - **Select linked**: Select -> Select Linked (**Ctrl L**)
 - **Seperate**: P
 	- By loose parts
+## Join objects
+- Ctrl + J
