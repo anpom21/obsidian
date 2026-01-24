@@ -21,8 +21,51 @@
               "icon": "lucide-file",
               "title": "Course 2"
             }
+          },
+          {
+            "id": "e8401640adb5d0e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions"
+            }
+          },
+          {
+            "id": "da3f0b1d0cbab78a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Guidance.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Guidance"
+            }
+          },
+          {
+            "id": "5607f8a45fe7af32",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Spørgsmål.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spørgsmål"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "dbaf68503f994f6c",
@@ -197,10 +240,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "55d912a2f2ecd302",
+  "active": "5607f8a45fe7af32",
   "lastOpenFiles": [
-    "Welcome.md",
+    "Guidance.md",
+    "Spørgsmål.md",
+    "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
+    "Papers",
     "Hugging Face course/Course 2.md",
+    "Welcome.md",
     "Untitled.base",
     "2025-10-25.md",
     "PyTorch.md",
