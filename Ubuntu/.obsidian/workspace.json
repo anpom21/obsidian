@@ -123,26 +123,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunshine & Moonlight.md",
+                "file": "Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunshine & Moonlight"
+              "title": "Ubuntu"
             }
           },
           {
-            "id": "da197b8b11f075cb",
+            "id": "2a9f7d8360ac4a30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunshine & Moonlight.md",
+                "file": "Blender.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunshine & Moonlight"
+              "title": "Blender"
             }
           }
         ],
@@ -291,7 +291,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -305,35 +306,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "da197b8b11f075cb",
+  "active": "2a9f7d8360ac4a30",
   "lastOpenFiles": [
-    "Untitled.base",
-    "2026-01-20.md",
-    "Untitled 1.canvas",
     "Ubuntu.md",
-    "Fresh ubuntu.md",
-    "Desktop Settings.md",
+    "Blender.md",
+    "Untitled 1",
+    "Untitled",
+    "Untitled.base",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "UV.md",
+    "syslog bloat.md",
     "Sunshine & Moonlight.md",
     "SSH.md",
-    "Git.md",
-    "syslog bloat.md",
-    "How tos/Home server/Syncthing.md",
     "Pasted image 20251230215323.png",
     "Pasted image 20251230213400.png",
     "Pasted image 20251230213107.png",
     "Pasted image 20251230213056.png",
     "Pasted image 20251212190407.png",
     "Pasted image 20251212190404.png",
+    "2026-01-20.md",
+    "Fresh ubuntu.md",
+    "Desktop Settings.md",
+    "Git.md",
+    "How tos/Home server/Syncthing.md",
     "conflict-files-obsidian-git.md",
     "How tos/Minecraft.md",
     "How tos/LaTeX Ubuntu.md",
     "2025-12-26.md",
-    "Untitled.canvas",
     "How tos/Home server/HomeLab - Getting Started.md",
-    "UV.md",
     "How tos/Home server/Stack over flow.md",
     "How tos/().md",
-    "Untitled.md",
     "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
     "home/ap/Documents/speciale/LaTeX",
     "home/ap/Documents/speciale",
@@ -343,7 +346,6 @@
     "How tos",
     "Stack&20over flow.md",
     "How tos/Home server/Testing.md",
-    "How tos/Home server",
     "Welcome.md",
     "Adding repos as packages with uv.md",
     "create a link.md"
