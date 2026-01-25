@@ -4,65 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5ef05c39cc305015",
+        "id": "2b1ffa35828eed9d",
         "type": "tabs",
         "children": [
           {
-            "id": "3e366ad150692f74",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "How tos/Home server/HomeLab - Getting Started.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "HomeLab - Getting Started"
-            }
-          },
-          {
-            "id": "bc584b4208ce1e4c",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.6"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.6"
-            }
-          },
-          {
-            "id": "cffd757fa8487555",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Desktop Settings.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Desktop Settings"
-            }
-          },
-          {
-            "id": "e357c31928cae1de",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Fresh ubuntu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Fresh ubuntu"
-            }
-          },
-          {
-            "id": "d42874abc680b1e6",
+            "id": "8dc04fdb4901feb5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -73,80 +19,9 @@
               },
               "icon": "lucide-file",
               "title": "Sunshine & Moonlight"
-            }
-          },
-          {
-            "id": "4d996de2a5a9cac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunshine & Moonlight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunshine & Moonlight"
-            }
-          },
-          {
-            "id": "999f89d7240279e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sunshine & Moonlight.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sunshine & Moonlight"
-            }
-          },
-          {
-            "id": "db8dd5dcd43a695e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubuntu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubuntu"
-            }
-          },
-          {
-            "id": "7c3f065dc868b02d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ubuntu.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ubuntu"
-            }
-          },
-          {
-            "id": "2a9f7d8360ac4a30",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Blender.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blender"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "vertical"
@@ -267,17 +142,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fresh ubuntu.md",
+                "file": "How tos/Home server/Stack over flow.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fresh ubuntu"
+              "title": "Outline of Stack over flow"
             }
           },
           {
-            "id": "d818cd2518ee6e53",
+            "id": "d7620e00948a62ac",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -291,8 +166,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,41 +180,40 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a9f7d8360ac4a30",
+  "active": "8dc04fdb4901feb5",
   "lastOpenFiles": [
-    "Pasted image 20260124120804 1.png",
-    "Pasted image 20260124120804.png",
-    "Pasted image 20260124120759 1.png",
-    "Pasted image 20260124120759.png",
-    "Ubuntu.md",
-    "Blender.md",
-    "Untitled 1",
-    "Untitled",
     "Untitled.base",
-    "Untitled.canvas",
     "Untitled 1.canvas",
-    "UV.md",
+    "Pasted image 20260124120804.png",
+    "Pasted image 20260124120804 1.png",
+    "Pasted image 20260124120759.png",
+    "Pasted image 20260124120759 1.png",
+    "Blender.md",
+    "2026-01-20.md",
+    "Desktop Settings.md",
+    "conflict-files-obsidian-git.md",
     "syslog bloat.md",
+    "Untitled.canvas",
     "Sunshine & Moonlight.md",
-    "SSH.md",
     "Pasted image 20251230215323.png",
     "Pasted image 20251230213400.png",
     "Pasted image 20251230213107.png",
     "Pasted image 20251230213056.png",
     "Pasted image 20251212190407.png",
     "Pasted image 20251212190404.png",
-    "2026-01-20.md",
-    "Fresh ubuntu.md",
-    "Desktop Settings.md",
-    "Git.md",
     "How tos/Home server/Syncthing.md",
-    "conflict-files-obsidian-git.md",
-    "How tos/Minecraft.md",
-    "How tos/LaTeX Ubuntu.md",
     "2025-12-26.md",
-    "How tos/Home server/HomeLab - Getting Started.md",
+    "How tos/Minecraft.md",
     "How tos/Home server/Stack over flow.md",
+    "Fresh ubuntu.md",
+    "How tos/Home server/HomeLab - Getting Started.md",
     "How tos/().md",
+    "How tos/LaTeX Ubuntu.md",
+    "UV.md",
+    "Untitled.md",
+    "Ubuntu.md",
+    "SSH.md",
+    "Git.md",
     "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
     "home/ap/Documents/speciale/LaTeX",
     "home/ap/Documents/speciale",
@@ -350,6 +223,7 @@
     "How tos",
     "Stack&20over flow.md",
     "How tos/Home server/Testing.md",
+    "How tos/Home server",
     "Welcome.md",
     "Adding repos as packages with uv.md",
     "create a link.md"
