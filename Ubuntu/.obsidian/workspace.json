@@ -144,9 +144,21 @@
               "icon": "lucide-file",
               "title": "Blender"
             }
+          },
+          {
+            "id": "f0f74f469404673a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.5"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -306,7 +318,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a9f7d8360ac4a30",
+  "active": "f0f74f469404673a",
   "lastOpenFiles": [
     "Pasted image 20260124120804 1.png",
     "Pasted image 20260124120804.png",
