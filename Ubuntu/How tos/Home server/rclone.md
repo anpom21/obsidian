@@ -26,4 +26,4 @@ rclone config update cloud remote_path /DATA/Documents/synced
 rclone config show synced
 ```
 8) Test connection
-9) 
+9) If it fails try:
