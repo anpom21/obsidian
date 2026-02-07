@@ -52,11 +52,12 @@ Enable Wake on LAN in bios if available. If it is not shown in bios, then it can
 - Check the wake status
 	- `sudo ethtool enp5s0`
 		- Eg. 
- ```
+```
 Supports Wake-on: pumbg
 Wake-on: d
 Link detected: yes
 ```
+
 If it cant detect a link try forcing a reload
 ```bash
 sudo ip link set enp5s0 down
