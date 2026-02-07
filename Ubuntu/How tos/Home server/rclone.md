@@ -27,3 +27,18 @@ rclone config show synced
 ```
 8) Test connection
 9) If it fails try:
+```
+rclone config update cloud key_file ""
+rclone config update cloud pubkey_file ""
+rclone config update cloud key_file_pass ""
+rclone config update cloud pass ""
+```
+10) Create a rclone alias:
+```
+rclone config create cloud_storage alias remote "cloud:/DATA/Documents/synced"
+```
+11) Test the alias
+```
+rclone lsf synced_storage:
+```
+
