@@ -42,3 +42,7 @@ rclone config create cloud_storage alias remote "cloud:/DATA/Documents/synced"
 rclone lsf synced_storage:
 ```
 
+12) Add excludes
+```
+nano ~/.config/rclone/excludes.txt
+```
