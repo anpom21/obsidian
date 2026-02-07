@@ -64,4 +64,11 @@ alias rpush-dry='rclone copy ~/cloud cloud_storage: \
 --exclude-from ~/.config/rclone/excludes.txt \
 --dry-run -P \
 --update'
+  
+rpush_any() {
+rclone copy "$1" cloud_storage: \
+--exclude-from ~/.config/rclone/excludes.txt \
+--update \
+-P
+}
 ```
