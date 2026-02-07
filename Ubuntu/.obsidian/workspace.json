@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -209,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0bbf5bf22a095a08",
+  "active": "d740995e95e226d1",
   "lastOpenFiles": [
-    "Git.md",
     "Speciale.md",
+    "Git.md",
     "Sunshine & Moonlight.md",
     "Untitled.base",
     "Untitled 1.canvas",
