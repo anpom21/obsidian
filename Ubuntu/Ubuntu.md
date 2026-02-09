@@ -1,7 +1,7 @@
 - [SSH](SSH.md)
 - 
 
-
+___
 # Keychron K10 v2 Bluetooth issues
 
 See issue [here](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195e444#enable-bluetooth-fast-connect-config)
@@ -10,7 +10,7 @@ See issue [here](https://gist.github.com/andrebrait/961cefe730f4a2c41f57911e6195
 3. Uncomment `ReconnectAttempts=7` (set the value to whatever number that you want)
 4. Uncomment `ReconnectIntervals=1, 2, 3`
 5. Run: `sudo systemctl restart bluetooth`
-
+___
 # Add AppImage as ubuntu app
 ### 1) Move the AppImage to an Applications folder 
 Can be anywhere you choose.
@@ -76,7 +76,7 @@ Or launch with:
 gtk-launch <app name>
 ```
 
-
+___
 # Hard reset audio settings
 ### 0. Close everything using audio
 
@@ -136,7 +136,7 @@ After reboot, run:
 ```bash
 pactl list short sources
 ```
-
+___
 ## Turn .png's into a .gif using FFMPEG
 The basic command to turn images into a gif.
 ```bash

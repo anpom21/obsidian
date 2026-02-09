@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Settings.md",
+                "file": "UV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desktop Settings"
+              "title": "UV"
             }
           }
         ]
@@ -182,21 +182,21 @@
   },
   "active": "3e366ad150692f74",
   "lastOpenFiles": [
-    "How tos/LaTeX Ubuntu.md",
+    "Untitled.base",
     "UV.md",
+    "Ubuntu.md",
+    "syslog bloat.md",
+    "Sunshine & Moonlight.md",
+    "SSH.md",
+    "Speciale.md",
+    "Git.md",
+    "Fresh ubuntu.md",
+    "Desktop Settings.md",
+    "How tos/LaTeX Ubuntu.md",
     "Creative",
     "How tos/Home server/rclone.md",
     "How tos/Home server/HomeLab - Getting Started.md",
     "Creative/Blender.md",
-    "Desktop Settings.md",
-    "Fresh ubuntu.md",
-    "Git.md",
-    "SSH.md",
-    "Sunshine & Moonlight.md",
-    "Speciale.md",
-    "syslog bloat.md",
-    "Ubuntu.md",
-    "Untitled.base",
     "attachments/Pasted image 20260204210757.png",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260207103638.png",
