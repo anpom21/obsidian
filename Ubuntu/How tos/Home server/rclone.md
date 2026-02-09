@@ -42,12 +42,21 @@ rclone config create cloud_storage alias remote "cloud:/DATA/Documents/synced"
 rclone lsf synced_storage:
 ```
 
-12) Add excludes
+
+## Add rclone alias
+1)  Add excludes
 ```bash
 nano ~/.config/rclone/excludes.txt
 ```
+Paste
+```
+.git/**
+.gitignore
+.cache/**
+__pycache__/**
+```
 
-13) Add alias to `.bashrc`
+2) Add alias to `.bashrc`
 ```bash
 # ---------------------------------- RCLONE ---------------------------------- #
 alias rpush='rclone copy ~/cloud cloud_storage: \
@@ -72,3 +81,4 @@ rclone copy "$1" cloud_storage: \
 -P
 }
 ```
+
