@@ -13,3 +13,5 @@ echo "$(cat ap_keys)" >> authorized_keys
 ```
 ssh-keygen -t ed25519 -C "your_comment"
 ```
+
+![[Pasted image 20260207103638.png]]

@@ -14,7 +14,7 @@
 - List user accounts:
 	- `cut -d: -f1 /etc/passwd`
 
-### Hold off updates
+### Hold off updates on docker
 If docker has a conflicting update with CasaOS, first fix it by [downgrading](https://github.com/IceWhaleTech/CasaOS/issues/2387#issuecomment-3514996581)
 1. Update the package list:
 ```
