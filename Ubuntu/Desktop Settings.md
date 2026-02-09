@@ -57,6 +57,7 @@ sudo reboot
 As admin CMD turn off Fast Startup with:
 `powercfg /h off`
 This also disables hibernation (recommended for dual-boot).
+___
 ## Mount server folder
 
 On the **machine hosting the folder**:
