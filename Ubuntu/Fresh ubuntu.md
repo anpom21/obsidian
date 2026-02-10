@@ -96,6 +96,17 @@ Bette help messages.
 
 ### `xclip`
 Save to clipboard
+
+### `bat`
+The internet says to make it work on ubuntu this way:
+```
+  mkdir -p ~/.local/bin
+  ln -s /usr/bin/batcat ~/.local/bin/bat
+```
+I got i working by:
+```
+sudo ln -s /usr/bin/batcat /usr/sbin/bat
+```
 # Snap
 ### `dust`
 ![[Pasted image 20260210213251.png]]
