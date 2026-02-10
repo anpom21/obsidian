@@ -10,3 +10,15 @@ Go to previous directory with cd
 ```
 cd -
 ```
+
+
+
+
+# 10 Zsh hacks I wish I knew about sooner
+https://www.youtube.com/watch?v=3fVAtaGhUyU
+
+### Tips
+Undo in Zsh
+```
+Ctrl + _
+```
