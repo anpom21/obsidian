@@ -105,6 +105,10 @@ Secure it:
 sudo chmod 600 /etc/samba/creds.myshare
 ```
 ### Add entry to `/etc/fstab`
+Change config
+```
+nano /etc/fstab
+```
 Change **ip** and **shared_folder**
 ```
 # mount samba share
@@ -112,7 +116,8 @@ Change **ip** and **shared_folder**
 ```
 Example:
 ```
-//server.gazelle-shilling.ts.net/Share  /mnt/share  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.automount  0  0
+# Server cloud
+//192.168.0.188/server_cloud /mnt/server_cloud/  cifs  credentials=/etc/samba/creds.myshare,iocharset=utf8,uid=1000,gid=1000,file_mode=0775,dir_mode=0775,_netdev,x-systemd.a>
 ```
 ### Create a mount point
 Here you can change the folder name **myshare**
