@@ -94,7 +94,12 @@ Video converter.
 Bette help messages.
 ![[Pasted image 20251230215323.png]]
 
-### 
+### `xclip`
+Save to clipboard
+# Snap
+### `dust`
+![[Pasted image 20260210213251.png]]
+
 # .deb packages
 
 ### `speedtest`
