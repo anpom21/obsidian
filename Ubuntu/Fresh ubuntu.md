@@ -116,6 +116,7 @@ sudo ln -s /usr/bin/batcat /usr/sbin/bat
 snap install chezmoi --classic
 ```
 
+Look into ansible
 # .deb packages
 
 ### `speedtest`
