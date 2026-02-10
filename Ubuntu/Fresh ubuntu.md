@@ -111,6 +111,11 @@ sudo ln -s /usr/bin/batcat /usr/sbin/bat
 ### `dust`
 ![[Pasted image 20260210213251.png]]
 
+### chezmoi
+```
+snap install chezmoi --classic
+```
+
 # .deb packages
 
 ### `speedtest`
