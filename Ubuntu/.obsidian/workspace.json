@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -180,7 +181,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b807442d8665fdd7",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
     "Fresh ubuntu.md",
     "Zsh.md",
