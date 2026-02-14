@@ -66,12 +66,14 @@
             "id": "2a745b623bdf0963",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "attachments/Pasted image 20251212190404.png"
+                "file": "Sunshine & Moonlight.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20251212190404"
+              "icon": "lucide-file",
+              "title": "Sunshine & Moonlight"
             }
           }
         ],
@@ -107,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "\"Pasted image\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,11 +130,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 368.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -234,44 +237,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a745b623bdf0963",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
-    "UV.md",
-    "syslog bloat.md",
-    "Ubuntu.md",
-    "Zsh.md",
-    "Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
-    "How tos/Home server/rclone.md",
-    "attachments/Screenshot from 2026-02-04 21-16-15.png",
-    "attachments/Pasted image 20260210213251.png",
-    "attachments/Pasted image 20260204222600.png",
-    "attachments/Pasted image 20260204222230.png",
-    "attachments/Pasted image 20260204221804.png",
-    "attachments/Pasted image 20260204215356.png",
-    "attachments/Pasted image 20260204215246.png",
-    "attachments/Pasted image 20260204215137.png",
-    "attachments/Pasted image 20260204214538.png",
-    "attachments/Pasted image 20260204214238.png",
-    "Notes",
     "Creative/Blender.md",
-    "Creative",
+    "Fresh ubuntu.md",
+    "attachments/Screenshot from 2026-02-04 21-16-15.png",
+    "attachments/Pasted image 20260204215137.png",
+    "attachments/Pasted image 20260204215356.png",
+    "attachments/Pasted image 20260204221804.png",
+    "attachments/Pasted image 20260204222230.png",
+    "attachments/Pasted image 20260204222600.png",
+    "attachments/Pasted image 20260207103638.png",
+    "attachments/Pasted image 20260210213251.png",
+    "Zsh.md",
+    "UV.md",
+    "Ubuntu.md",
+    "syslog bloat.md",
+    "Sunshine & Moonlight.md",
+    "SSH.md",
+    "Speciale.md",
     "Git.md",
+    "Desktop Settings.md",
+    "How tos/Minecraft.md",
+    "How tos/LaTeX Ubuntu.md",
+    "How tos/Home server/Testing.md",
+    "How tos/Home server/Syncthing.md",
+    "How tos/Home server/HomeLab - Getting Started.md",
+    "How tos/Home server/rclone.md",
+    "attachments/Pasted image 20260204210828.png",
+    "attachments/Pasted image 20260204210757.png",
+    "Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
+    "Notes",
+    "Creative",
     "Untitled 1.canvas",
     "Untitled.base",
-    "Speciale.md",
-    "How tos/Home server/Syncthing.md",
     "How tos/Home server/Stack over flow.md",
-    "How tos/Home server/Testing.md",
-    "How tos/LaTeX Ubuntu.md",
-    "How tos/Minecraft.md",
-    "How tos/Home server/HomeLab - Getting Started.md",
-    "Fresh ubuntu.md",
     "2025-12-26.md",
     "2026-01-20.md",
-    "Desktop Settings.md",
-    "SSH.md",
     "attachments",
-    "Sunshine & Moonlight.md",
     "Blender.md",
     "conflict-files-obsidian-git.md",
     "Untitled.canvas",
@@ -282,7 +285,6 @@
     "home/ap/Documents",
     "home/ap",
     "home",
-    "Stack&20over flow.md",
-    "Welcome.md"
+    "Stack&20over flow.md"
   ]
 }
