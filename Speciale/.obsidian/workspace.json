@@ -56,12 +56,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Spørgsmål.md",
+                "file": "Hugging Face course/Course 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Spørgsmål"
+              "title": "Course 2"
             }
           }
         ],
@@ -242,15 +242,15 @@
   },
   "active": "5607f8a45fe7af32",
   "lastOpenFiles": [
-    "Guidance.md",
-    "Spørgsmål.md",
     "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
+    "Guidance.md",
+    "PyTorch.md",
+    "Spørgsmål.md",
     "Papers",
     "Hugging Face course/Course 2.md",
     "Welcome.md",
     "Untitled.base",
     "2025-10-25.md",
-    "PyTorch.md",
     "Course_2.md",
     "Untitled.canvas",
     "Course.md",
