@@ -74,7 +74,11 @@ sudo nano /etc/samba/smb.conf
 ```
 Append:
 ```
-[shared]    path = /srv/shared    browseable = yes    read only = no    guest ok = no
+[shared]    
+path = /srv/shared    
+browseable = yes    
+read only = no    
+guest ok = no
 ```
 Add Samba user (must exist as Linux user):
 ```

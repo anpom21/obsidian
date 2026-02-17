@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sunshine & Moonlight.md",
+                "file": "Desktop Settings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sunshine & Moonlight"
+              "title": "Desktop Settings"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Pasted image\"",
+                "query": "cifs",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -237,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "2a745b623bdf0963",
   "lastOpenFiles": [
+    "Sunshine & Moonlight.md",
     "Creative/Blender.md",
     "Fresh ubuntu.md",
     "attachments/Screenshot from 2026-02-04 21-16-15.png",
@@ -253,7 +254,6 @@
     "UV.md",
     "Ubuntu.md",
     "syslog bloat.md",
-    "Sunshine & Moonlight.md",
     "SSH.md",
     "Speciale.md",
     "Git.md",
