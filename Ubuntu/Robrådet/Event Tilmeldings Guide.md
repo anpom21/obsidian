@@ -129,5 +129,6 @@ To make the emailing process semi-automatic a trigger needs to be setup to run t
 ![[Pasted image 20260313170127.png]]
 
 Du burde nu se en en trigger poppe op. 
-
 ## 9) Offentligør forms
+For at kunne teste email service skal forms dokumentet offentligøres.
+![[Pasted image 20260313171100.png]]
