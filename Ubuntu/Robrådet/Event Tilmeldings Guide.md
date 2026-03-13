@@ -11,9 +11,16 @@ Naviger til `Template - Event Registration`, så burde du se:
 Disse skal bare kopieres og omdøbes. Eksempel:
 ![[Pasted image 20260204210828.png]]
 
-## 3) Knyt sheets til forms
-Det næste skridt er at knytte `sheets` med `forms` dokumentet. 
-- Åben `forms`
+## 3) Knyt Sheets til Forms
+Det næste skridt er at knytte `Sheets` med `Forms` dokumentet. 
+- Åben `Forms`
 - Tryk på `svar`
-- Tryk på `
-
+- Tryk på `Knyt til Sheets`
+- Tryk på `Vælg et eksisterende regneark`
+- Vælg det omdøbte `Sheets` dokument 
+![[Pasted image 20260204211751.png]]
+![[Pasted image 20260313161608.png|640]]
+## 4) Åben apps scripts i `Sheets`
+- -> `Udvidelser`
+- -> `Apps Script`
+![[Pasted image 20260204213024.png]]
