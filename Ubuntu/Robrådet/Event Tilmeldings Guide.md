@@ -78,6 +78,7 @@ Robrådet - Robotics Student Council`;
 ```
 Lets say i want to host a boardgame night with the following details:
 - Participants: 30 
+- Date: 13/3/2026
 - Time: 19:00 - 21:00
 - Location: Papas papbar
 - Payment: 50 DKK
@@ -85,23 +86,22 @@ Then a desired email could look like:
 ```java
 /***** EMAIL *****/
 // Email Subject // UPDATE THIS
-const SUBJECT = "🎲 Robrådet Board game registration confirmation";
+const SUBJECT = "🎲 Robrådet board game event confirmation";
 
   
 // Email Body // UPDATE THIS
 function renderBody_(name) {
 return `Hi ${name},
  
-Your registration to the Robrådet XX event and YY DKK payment has been confirmed.
+Your registration to the Robrådet board game event and 50 DKK payment has been confirmed.
 
 <strong>Event details:</strong>
-📅 <strong>Date:</strong> dd mm
-🕕 <strong>Time:</strong> tt:tt - TT:TT
-📍 <strong>Location:</strong> Location
+📅 <strong>Date:</strong> 13-03-2026
+🕕 <strong>Time:</strong> 19:00 - 21:00
+📍 <strong>Location:</strong> Papas Papbar (Sankt Knuds Kirkestræde 2, 5000 Odense)
+🎲 <strong>What to bring:</strong> Student ID.
 
-EMOJI <strong>What to bring:</strong> Student ID.
-  
-Bla bla bla
+Bring your best luck for this awesome board game night.
 
 If you have any questions or can no longer attend, please contact us at 👉 robraadet@sdu.dk
 
@@ -110,3 +110,7 @@ See you there,
 Robrådet - Robotics Student Council`;
 }
 ```
+
+
+## 8) Enable email trigger
+To make the emailing process se
