@@ -39,5 +39,11 @@ For at forbinde `Apps Scripts` med `Sheets` og `Forms` skal 3 ID'er hentes. De k
 ![[Pasted image 20260313163905.png]]
 `FORMS_ID` kan lige ledes findes i `Forms` URL. Eksempel:
 ![[Pasted image 20260313163725.png]]
-Med de 3 ID'er:
-'SHEET_IOD
+Nu kan de 3 ID'er
+`SHEET_ID = 1ScPs07XmhQi_Orlmkszh6QleLMcP1fDJhtOPVD9MZVc`
+`TAB_ID = 765643494`
+`FORMS_ID = 1nPzhUTQMuYbC-x_J5Ge0lxvviDzkQiy11FphkkDno0Q`
+Indsættes i `Apps Script`:
+![[Pasted image 20260313164249.png]]
+
+## 7) Configure email. 
