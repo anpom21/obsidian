@@ -25,14 +25,17 @@ Find den under.
 - -> `Udvidelser`-> `Apps Script`
 ![[Pasted image 20260204213024.png]]
 Når den har åbnet burde du se noget lignende:
-![[Pasted image 20260313162307.png]] 
-
+![[Pasted image 20260313163112.png]]
 **!!!!!!!!OBS!!!!!!!!!** 
 Hvis du får en fejl her og siden ikke vil loade så log ind igen i privat/ incognito browser.
 
 ## 5) Forbind `Apps Scripts` med `Sheets` og `Forms`
 
-For at forbinde `Apps Scripts` med `Sheets` og `Forms` skal 3 ID'er hentes. 
-- Spreadsheet ID
-- Sheet ID
-- Forms ID
+For at forbinde `Apps Scripts` med `Sheets` og `Forms` skal 3 ID'er hentes. De kan alle findes i URL'et til `Sheets` eller `Forms`.
+- `SHEET_ID`
+- `TAB_ID`
+- `FORMS_ID`
+`SHEET_ID` og `TAB_ID` kan findes i `Sheets` URL. Eksempel:
+![[Pasted image 20260204214238.png]]
+Forms ID kan lige ledes findes i `Forms` URL. Eksempel:
+
