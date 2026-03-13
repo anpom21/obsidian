@@ -111,7 +111,7 @@ Robrådet - Robotics Student Council`;
 }
 ```
 
-
+### HUSK AT 
 ## 8) Enable email trigger
 To make the emailing process semi-automatic a trigger needs to be setup to run the script every time the sheets document is edited - dont worry it will only send an email if the paid column gets a new `Yes` entry. 
 
@@ -124,4 +124,9 @@ To make the emailing process semi-automatic a trigger needs to be setup to run t
 - Nu får du sikkert denne besked:
 ![[Pasted image 20260313165915.png]]
 - Det sker fordi vi skal give `Apps Script` lov til at sende emails på vegne af Robrådet (`robraadet.sdu@gmail.com`)
-- 
+- Tryk på `Advanced` -> `Go to Auto update forms (unsafe)`
+- Tryk på `Allow`
+![[Pasted image 20260313170127.png]]
+
+Du burde nu se en en trigger poppe op. 
+
