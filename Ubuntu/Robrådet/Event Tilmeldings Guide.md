@@ -30,4 +30,9 @@ Når den har åbnet burde du se noget lignende:
 **!!!!!!!!OBS!!!!!!!!!** 
 Hvis du får en fejl her og siden ikke vil loade så log ind igen i privat/ incognito browser.
 
-## 5) 
+## 5) Forbind `Apps Scripts` med `Sheets` og `Forms`
+
+For at forbinde `Apps Scripts` med `Sheets` og `Forms` skal 3 ID'er hentes. 
+- Spreadsheet ID
+- Sheet ID
+- Forms ID
