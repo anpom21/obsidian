@@ -22,7 +22,19 @@
             }
           },
           {
-            "id": "d6edf67431629cad",
+            "id": "0242974b5847820c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20260204210828.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260204210828"
+            }
+          },
+          {
+            "id": "34b279739f015acc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -34,21 +46,9 @@
               "icon": "lucide-file",
               "title": "Event Tilmeldings Guide"
             }
-          },
-          {
-            "id": "0242974b5847820c",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20260204210757.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260204210757"
-            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,22 +209,22 @@
   },
   "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260204210828.png",
+    "Robrådet/Event Tilmeldings Guide.md",
+    "attachments/Pasted image 20260204210757.png",
+    "attachments/Pasted image 20260204222600.png",
+    "attachments/Pasted image 20260204211751.png",
+    "attachments/Pasted image 20260124120804 1.png",
     "Robrådet/Confirmation email.gs",
     "Robrådet/email.gs",
     "Robrådet/Confirmation",
     "Desktop Settings.md",
-    "Robrådet/Event Tilmeldings Guide.md",
     "Robrådet",
-    "attachments/Pasted image 20260204210757.png",
-    "attachments/Pasted image 20260204210828.png",
-    "attachments/Pasted image 20260124120804 1.png",
-    "attachments/Pasted image 20260204211751.png",
     "attachments/Pasted image 20260204212240.png",
     "attachments/Pasted image 20260204212148.png",
     "attachments/Pasted image 20260204213026.png",
     "attachments/Pasted image 20260124120759.png",
     "attachments/Pasted image 20251230213107.png",
-    "attachments/Pasted image 20251230213056.png",
     "How tos/Home server/HomeLab - Getting Started.md",
     "Sunshine & Moonlight.md",
     "Fresh ubuntu.md",
@@ -255,7 +255,6 @@
     "Untitled 1.canvas",
     "2026-01-20.md",
     "2025-12-26.md",
-    "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
-    "home/ap/Documents/speciale/LaTeX"
+    "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt"
   ]
 }
