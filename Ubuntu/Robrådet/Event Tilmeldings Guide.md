@@ -153,4 +153,10 @@ SÅDAN! Hvis du nåede det hertil fejlfrit burde hele moletjavsen være klar til
 ### Der sker ikke noget efter jeg har skrevet `yes` i `Paid ?` kolonnen
 Der er en rigtig god debugging side i `Apps Scrips` under `Udførelser` her:
 ![[Pasted image 20260313172430.png]]
-Her kommer hver enkelt trigger ind og man kan så se fejlkoden hvis de ikke gik igen
+Her kommer hver enkelt trigger ind og man kan så se fejlkoden hvis de ikke gik igennem.
+Eksempelvis fik jeg den her da jeg prøvede at teste det uden at have offentliggjort `Forms`:
+![[Pasted image 20260313172604.png]]
+Og hvis fejlen ikke giver mening er Chatten til god hjælp.
+
+### Hvis alt andet fejler
+Chatten er ret god til den her så giv den lige et skud med kontekst fra scriptet og hvad du har prøvet.
