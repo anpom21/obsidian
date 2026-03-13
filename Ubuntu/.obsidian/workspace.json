@@ -27,7 +27,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Event Tilmeldings Guide.md",
+                "file": "Robrådet/Event Tilmeldings Guide.md",
                 "mode": "source",
                 "source": false
               },
@@ -207,14 +207,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d6edf67431629cad",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
+    "Robrådet/Confirmation email.gs",
+    "Robrådet/email.gs",
+    "Robrådet/Confirmation",
+    "Desktop Settings.md",
+    "Robrådet/Event Tilmeldings Guide.md",
+    "Robrådet",
     "attachments/Pasted image 20260204210757.png",
     "attachments/Pasted image 20260204210828.png",
     "attachments/Pasted image 20260124120804 1.png",
     "attachments/Pasted image 20260204211751.png",
     "attachments/Pasted image 20260204212240.png",
-    "Event Tilmeldings Guide.md",
     "attachments/Pasted image 20260204212148.png",
     "attachments/Pasted image 20260204213026.png",
     "attachments/Pasted image 20260124120759.png",
@@ -232,7 +237,6 @@
     "How tos/Home server/Testing.md",
     "How tos/LaTeX Ubuntu.md",
     "How tos/Minecraft.md",
-    "Desktop Settings.md",
     "Git.md",
     "Speciale.md",
     "SSH.md",
@@ -252,9 +256,6 @@
     "2026-01-20.md",
     "2025-12-26.md",
     "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
-    "home/ap/Documents/speciale/LaTeX",
-    "home/ap/Documents/speciale",
-    "home/ap/Documents",
-    "home/ap"
+    "home/ap/Documents/speciale/LaTeX"
   ]
 }
