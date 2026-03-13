@@ -132,3 +132,13 @@ Du burde nu se en en trigger poppe op.
 ## 9) Offentligør forms
 For at kunne teste email service skal forms dokumentet offentligøres.
 ![[Pasted image 20260313171100.png]]
+
+## 10) Test email service
+Udfyld en forms tilmelding med dine kontakt informationer og tryk indsend.
+Hvis alt går vel burde du se dine informationer i google `Sheets`
+Eksempel:
+![[Pasted image 20260313171747.png]]
+
+Så er tanken at så snart en deltager har betalt på mobilepay så skriver man `Yes` i `Paid?` kolonnen:
+![[Pasted image 20260313171855.png]]
+Og hvis alt så går som det skal burde der poppe et tidsstempel op når mailen er sendt.
