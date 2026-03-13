@@ -36,6 +36,8 @@ For at forbinde `Apps Scripts` med `Sheets` og `Forms` skal 3 ID'er hentes. De k
 - `TAB_ID`
 - `FORMS_ID`
 `SHEET_ID` og `TAB_ID` kan findes i `Sheets` URL. Eksempel:
-![[Pasted image 20260204214238.png]]
-Forms ID kan lige ledes findes i `Forms` URL. Eksempel:
-
+![[Pasted image 20260313163905.png]]
+`FORMS_ID` kan lige ledes findes i `Forms` URL. Eksempel:
+![[Pasted image 20260313163725.png]]
+Med de 3 ID'er:
+'SHEET_IOD
