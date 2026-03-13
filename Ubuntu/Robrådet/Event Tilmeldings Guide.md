@@ -47,3 +47,66 @@ Indsættes i `Apps Script`:
 ![[Pasted image 20260313164249.png]]
 
 ## 7) Configure email. 
+The default template email is:
+```java
+/***** EMAIL *****/
+// Email Subject // UPDATE THIS
+const SUBJECT = "EMOJI Robrådet XX registration confirmation";
+
+  
+// Email Body // UPDATE THIS
+function renderBody_(name) {
+return `Hi ${name},
+ 
+Your registration to the Robrådet XX event and YY DKK payment has been confirmed.
+
+<strong>Event details:</strong>
+📅 <strong>Date:</strong> dd mm
+🕕 <strong>Time:</strong> tt:tt - TT:TT
+📍 <strong>Location:</strong> Location
+
+EMOJI <strong>What to bring:</strong> Student ID.
+  
+Bla bla bla
+
+If you have any questions or can no longer attend, please contact us at 👉 robraadet@sdu.dk
+
+  
+See you there,
+Robrådet - Robotics Student Council`;
+}
+```
+Lets say i want to host a boardgame night with the following details:
+- Participants: 30 
+- Time: 19:00 - 21:00
+- Location: Papas papbar
+- Payment: 50 DKK
+Then a desired email could look like:
+```java
+/***** EMAIL *****/
+// Email Subject // UPDATE THIS
+const SUBJECT = "🎲 Robrådet Board game registration confirmation";
+
+  
+// Email Body // UPDATE THIS
+function renderBody_(name) {
+return `Hi ${name},
+ 
+Your registration to the Robrådet XX event and YY DKK payment has been confirmed.
+
+<strong>Event details:</strong>
+📅 <strong>Date:</strong> dd mm
+🕕 <strong>Time:</strong> tt:tt - TT:TT
+📍 <strong>Location:</strong> Location
+
+EMOJI <strong>What to bring:</strong> Student ID.
+  
+Bla bla bla
+
+If you have any questions or can no longer attend, please contact us at 👉 robraadet@sdu.dk
+
+  
+See you there,
+Robrådet - Robotics Student Council`;
+}
+```
