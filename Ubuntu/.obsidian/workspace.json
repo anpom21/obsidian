@@ -22,15 +22,29 @@
             }
           },
           {
-            "id": "69fcb4470f4e22c1",
+            "id": "d6edf67431629cad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Event Tilmeldings Guide.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Event Tilmeldings Guide"
+            }
+          },
+          {
+            "id": "0242974b5847820c",
             "type": "leaf",
             "state": {
               "type": "image",
               "state": {
-                "file": "attachments/Pasted image 20260204222600.png"
+                "file": "attachments/Pasted image 20260204210757.png"
               },
               "icon": "lucide-image",
-              "title": "Pasted image 20260204222600"
+              "title": "Pasted image 20260204210757"
             }
           }
         ],
@@ -193,36 +207,36 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0faabfb7edfbec21",
+  "active": "d6edf67431629cad",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260207103638.png",
-    "attachments/Pasted image 20260210213251.png",
-    "attachments/Pasted image 20260204222600.png",
-    "attachments/Pasted image 20260204222230.png",
-    "attachments/Pasted image 20260204215356.png",
-    "attachments/Pasted image 20260204215246.png",
-    "attachments/Pasted image 20260204214538.png",
-    "attachments/Pasted image 20260204214238.png",
-    "attachments/Pasted image 20260204213633.png",
-    "attachments/Pasted image 20260204213024.png",
+    "attachments/Pasted image 20260204210757.png",
     "attachments/Pasted image 20260204210828.png",
-    "Creative/Blender.md",
+    "attachments/Pasted image 20260124120804 1.png",
+    "attachments/Pasted image 20260204211751.png",
+    "attachments/Pasted image 20260204212240.png",
+    "Event Tilmeldings Guide.md",
+    "attachments/Pasted image 20260204212148.png",
+    "attachments/Pasted image 20260204213026.png",
+    "attachments/Pasted image 20260124120759.png",
+    "attachments/Pasted image 20251230213107.png",
+    "attachments/Pasted image 20251230213056.png",
     "How tos/Home server/HomeLab - Getting Started.md",
+    "Sunshine & Moonlight.md",
+    "Fresh ubuntu.md",
+    "syslog bloat.md",
+    "Systemctl.md",
+    "Creative/Blender.md",
     "How tos/Home server/rclone.md",
     "How tos/Home server/Stack over flow.md",
     "How tos/Home server/Syncthing.md",
     "How tos/Home server/Testing.md",
     "How tos/LaTeX Ubuntu.md",
     "How tos/Minecraft.md",
-    "Fresh ubuntu.md",
     "Desktop Settings.md",
     "Git.md",
     "Speciale.md",
     "SSH.md",
-    "Sunshine & Moonlight.md",
-    "syslog bloat.md",
     "Ubuntu.md",
-    "Systemctl.md",
     "Zsh.md",
     "Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
     "Notes",
@@ -237,7 +251,6 @@
     "Untitled 1.canvas",
     "2026-01-20.md",
     "2025-12-26.md",
-    "How tos/().md",
     "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt",
     "home/ap/Documents/speciale/LaTeX",
     "home/ap/Documents/speciale",
