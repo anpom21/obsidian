@@ -142,3 +142,15 @@ Eksempel:
 Så er tanken at så snart en deltager har betalt på mobilepay så skriver man `Yes` i `Paid?` kolonnen:
 ![[Pasted image 20260313171855.png]]
 Og hvis alt så går som det skal burde der poppe et tidsstempel op når mailen er sendt.
+![[Pasted image 20260313172226.png]]
+Bekræft også at mailen går igennem:
+![[Pasted image 20260313172203.png]]
+
+SÅDAN! Hvis du nåede det hertil fejlfrit burde hele moletjavsen være klar til et fedt event :D
+
+
+## Troubleshooting
+### Der sker ikke noget efter jeg har skrevet `yes` i `Paid ?` kolonnen
+Der er en rigtig god debugging side i `Apps Scrips` under `Udførelser` her:
+![[Pasted image 20260313172430.png]]
+Her kommer hver enkelt trigger ind og man kan så se fejlkoden hvis de ikke gik igen
