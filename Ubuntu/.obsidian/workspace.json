@@ -25,18 +25,6 @@
             "id": "0242974b5847820c",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20260204210828.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260204210828"
-            }
-          },
-          {
-            "id": "34b279739f015acc",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
                 "file": "Robrådet/Event Tilmeldings Guide.md",
@@ -46,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Event Tilmeldings Guide"
             }
+          },
+          {
+            "id": "b11c5eeb4a94ec4d",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20260204211751.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20260204211751"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,13 +207,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0faabfb7edfbec21",
+  "active": "0242974b5847820c",
   "lastOpenFiles": [
-    "attachments/Pasted image 20260204210828.png",
-    "Robrådet/Event Tilmeldings Guide.md",
-    "attachments/Pasted image 20260204210757.png",
-    "attachments/Pasted image 20260204222600.png",
     "attachments/Pasted image 20260204211751.png",
+    "attachments/Pasted image 20260204210828.png",
+    "attachments/Pasted image 20260204210757.png",
+    "Robrådet/Event Tilmeldings Guide.md",
+    "attachments/Pasted image 20260204222600.png",
     "attachments/Pasted image 20260124120804 1.png",
     "Robrådet/Confirmation email.gs",
     "Robrådet/email.gs",

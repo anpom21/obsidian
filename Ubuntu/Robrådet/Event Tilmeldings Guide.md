@@ -11,5 +11,9 @@ Naviger til `Template - Event Registration`, så burde du se:
 Disse skal bare kopieres og omdøbes. Eksempel:
 ![[Pasted image 20260204210828.png]]
 
-## 3) Klar gør forms
+## 3) Knyt sheets til forms
+Det næste skridt er at knytte `sheets` med `forms` dokumentet. 
+- Åben `forms`
+- Tryk på `svar`
+- Tryk på `
 
