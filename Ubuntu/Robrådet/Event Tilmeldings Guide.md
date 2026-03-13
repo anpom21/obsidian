@@ -20,7 +20,14 @@ Det næste skridt er at knytte `Sheets` med `Forms` dokumentet.
 - Vælg det omdøbte `Sheets` dokument 
 ![[Pasted image 20260204211751.png]]
 ![[Pasted image 20260313161608.png|640]]
-## 4) Åben apps scripts i `Sheets`
-- -> `Udvidelser`
-- -> `Apps Script`
+## 4) Åben `Apps Script` i `Sheets`
+Find den under.
+- -> `Udvidelser`-> `Apps Script`
 ![[Pasted image 20260204213024.png]]
+Når den har åbnet burde du se noget lignende:
+![[Pasted image 20260313162307.png]] 
+
+**!!!!!!!!OBS!!!!!!!!!** 
+Hvis du får en fejl her og siden ikke vil loade så log ind igen i privat/ incognito browser.
+
+## 5) 
