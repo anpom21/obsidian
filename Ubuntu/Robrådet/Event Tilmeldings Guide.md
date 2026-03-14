@@ -158,5 +158,8 @@ Eksempelvis fik jeg den her da jeg prøvede at teste det uden at have offentligg
 ![[Pasted image 20260313172604.png]]
 Og hvis fejlen ikke giver mening er Chatten til god hjælp.
 
+Og sådan her ser en korrekt udførelse ud:
+![[Pasted image 20260314115042.png|697]]
+![[Pasted image 20260314115148.png]]
 ### Hvis alt andet fejler
 Chatten er ret god til den her så giv den lige et skud med kontekst fra scriptet og hvad du har prøvet.
