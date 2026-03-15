@@ -1,9 +1,25 @@
+# Event Tilmeldings Guide
+
 Hvis man skal bruge person tilmelding og betaling så kan denne guide bruges til at tage imod tilmeldinger gennem google forms og samtidig sende en confirmation email når betaling er modtaget.
+
+## Indholdsfortegnelse
+
+- [1) Log ind med google konto](#1-log-ind-med-google-konto)
+- [2) Kopier dokumenter](#2-kopier-dokumenter)
+- [3) Knyt Sheets til Forms](#3-knyt-sheets-til-forms)
+- [4) Åben Apps Script i Sheets](#4-åben-apps-script-i-sheets)
+- [5) Forbind Apps Scripts med Sheets og Forms](#5-forbind-apps-scripts-med-sheets-og-forms)
+- [8) Enable email trigger](#8-enable-email-trigger)
+- [9) Offentligør forms](#9-offentligør-forms)
+- [10) Test email service](#10-test-email-service)
+- [Troubleshooting](#troubleshooting)
+- [Debugging](#debugging)
 
 ## 1) Log ind med google konto
 
 Email: `robraadet.sdu@gmail.com`
-Kodeord:
+
+Kodeord: **spørg bestyrelsen**
 
 ## 2) Kopier dokumenter
 
@@ -21,10 +37,10 @@ Det næste skridt er at knytte `Sheets` med `Forms` dokumentet.
 - Åben `Forms`
 - Tryk på `svar`
 - Tryk på `Knyt til Sheets`
-- Tryk på `Vælg et eksisterende regneark`
-- Vælg det omdøbte `Sheets` dokument
   ![forms-link-to-sheets-response-tab.png](forms-link-to-sheets-response-tab.png)
+- Tryk på `Vælg et eksisterende regneark`
   ![forms-select-existing-spreadsheet.png](forms-select-existing-spreadsheet.png)
+- Vælg det omdøbte `Sheets` dokument
 
 `Forms` burde åbne `Sheet` automatisk, og når den gør det så sørg for at tilføje 2 felter nemlig:
 
@@ -42,6 +58,7 @@ Find den under.
   Når den har åbnet burde du se noget lignende:
   ![apps-script-editor-initial-view.png](apps-script-editor-initial-view.png)
   **!!!!!!!!OBS!!!!!!!!!**
+
   Hvis du får en fejl her og siden ikke vil loade så log ind igen i privat/ incognito browser.
 
 ## 5) Forbind `Apps Scripts` med `Sheets` og `Forms`
