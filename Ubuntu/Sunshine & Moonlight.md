@@ -1,4 +1,4 @@
-[Ubuntu](Ubuntu)
+[Ubuntu](Ubuntu.md)
 ## FPS Limiter
 ### Ubuntu
 1. Clone fps strangle ([link](https://github.com/milaq/libstrangle))
