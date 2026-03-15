@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0faabfb7edfbec21",
+  "active": "0242974b5847820c",
   "lastOpenFiles": [
+    "copy/updated_markdown_with_renamed_images.md",
+    "copy/Event_Tilmeldings_Guide.md",
     "copy/template-event-registration-folder-overview.png",
     "copy/apps-script-harmless-intermittent-message.png",
     "copy/apps-script-successful-execution-details.png",
@@ -219,7 +221,6 @@
     "copy/confirmation-email-gs-col-variable.png",
     "copy/sheet-column-headers-must-match.png",
     "copy/confirmation-email-received.png",
-    "copy/sheets-email-sent-timestamp.png",
     "copy/Event Tilmeldings Guide.md",
     "copy",
     "attachments/filenames.txt",
@@ -255,7 +256,6 @@
     "attachments",
     "Robrådet Event Registration Guide.md",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "2026-01-20.md"
+    "Untitled 1.canvas"
   ]
 }
