@@ -4,4 +4,4 @@
 - fd
 - jq
 - doppler cli
-- 
+- asciicinema -  record terminal
