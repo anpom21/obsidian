@@ -20,6 +20,11 @@ Det næste skridt er at knytte `Sheets` med `Forms` dokumentet.
 - Vælg det omdøbte `Sheets` dokument 
 ![[Pasted image 20260204211751.png]]
 ![[Pasted image 20260313161608.png|640]]
+`Forms` burde åbne `Sheet` automatisk, og når den gør det så sørg for at tilføje 2 felter nemlig:
+- `Paid ?` - Bruges til manuelt at angive om betaling er modtaget.
+- `Email Sent At` - Når en email er send succesfuldt vil et timestamp komme ind her
+Efter kolonnerne er tilføjet burde det ligne det her:
+![[Pasted image 20260315121409.png]]
 ## 4) Åben `Apps Script` i `Sheets`
 Find den under.
 - -> `Udvidelser`-> `Apps Script`
@@ -154,8 +159,11 @@ Ikke matcher med `COL`variablen i `Confirmation email.gs`:
 ![[Pasted image 20260315120849.png]]
 Sørg for at de matcher 1:1, og til sidst er det også vigtigt at forms felterne:
 ![[Pasted image 20260315120959.png]]
-Også matcher med kolonnerne (men de)
-## Troubleshooting
+Også matcher med kolonnerne (men det burde de hvis templaten bare er kopieret.)
+
+## Tilføj flere user inputs.
+Man kan også tilføje flere user inputs hvis brugeren f.eks skal tilføje mad ønske til en julefrok
+# Troubleshooting
 
 ### Debugging
 Der er en rigtig god debugging side i `Apps Scrips` under `Udførelser` her:
