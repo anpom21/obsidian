@@ -21,3 +21,4 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/too
 2.) Unzip and copy to `~/.fonts`
 
 3.) Run the command `fc-cache -fv` to manually rebuild the font cache
+
