@@ -207,8 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0242974b5847820c",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
+    "copy",
+    "attachments/filenames.txt",
     "attachments/Pasted image 20260315121409.png",
     "attachments/Pasted image 20260315120959.png",
     "attachments/Pasted image 20260315120849.png",
@@ -219,7 +221,6 @@
     "attachments/Pasted image 20260314115148.png",
     "attachments/Pasted image 20260314115042.png",
     "attachments/Pasted image 20260313172604.png",
-    "attachments/Pasted image 20260313172430.png",
     "Robrådet/Event Tilmeldings Guide.md",
     "Robrådet/Confirmation email.gs",
     "Robrådet/email.gs",
@@ -255,7 +256,6 @@
     "Untitled.canvas",
     "Untitled 1.canvas",
     "2026-01-20.md",
-    "2025-12-26.md",
-    "home/ap/Documents/speciale/LaTeX/Kandidat_kontrakt"
+    "2025-12-26.md"
   ]
 }
