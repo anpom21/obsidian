@@ -162,7 +162,11 @@ Sørg for at de matcher 1:1, og til sidst er det også vigtigt at forms felterne
 Også matcher med kolonnerne (men det burde de hvis templaten bare er kopieret.)
 
 ## Tilføj flere user inputs.
-Man kan også tilføje flere user inputs hvis brugeren f.eks skal tilføje mad ønske til en julefrok
+Man kan også tilføje flere user inputs hvis brugeren f.eks skal tilføje mad ønske til en julefrokost eller lignende.  
+For at kunne bruge disse inputs i emailen f.eks skal følgende ændres:
+- `COL` variabel
+- `renderBody_(name, <NEW_INPUT>)`
+Det anbefales at bruge chatten til at få lidt hjælp her.
 # Troubleshooting
 
 ### Debugging
