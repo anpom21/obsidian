@@ -148,8 +148,15 @@ Bekræft også at mailen går igennem:
 
 SÅDAN! Hvis du nåede det hertil fejlfrit burde hele moletjavsen være klar til et fedt event :D
 
-
+**Hvis det ikke virker i første hug** så er det tit fordi at kolonne titlerne:
+![[Pasted image 20260315120749.png]]
+Ikke matcher med `COL`variablen i `Confirmation email.gs`:
+![[Pasted image 20260315120849.png]]
+Sørg for at de matcher 1:1, og til sidst er det også vigtigt at forms felterne:
+![[Pasted image 20260315120959.png]]
+Også matcher med kolonnerne (men de)
 ## Troubleshooting
+
 ### Debugging
 Der er en rigtig god debugging side i `Apps Scrips` under `Udførelser` her:
 ![[Pasted image 20260313172430.png]]
@@ -161,7 +168,7 @@ Og hvis fejlen ikke giver mening er Chatten til god hjælp.
 Og sådan her ser en korrekt udførelse ud:
 ![[Pasted image 20260314115042.png|697]]
 ![[Pasted image 20260314115148.png]]
-Denne besked kan også  komme ind i mellem men den er ufarlig så længe de andre triggers køre fint:
+Denne besked kan også  komme ind i mellem men den er ufarlig så længe de andre triggers kører fint:
 ![[Pasted image 20260314115342.png]]
 ### Hvis alt andet fejler
 Chatten er ret god til den her så giv den lige et skud med kontekst fra scriptet og hvad du har prøvet.
