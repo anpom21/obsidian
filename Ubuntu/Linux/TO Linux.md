@@ -1,0 +1,7 @@
+- ripgrep??
+- password-store?
+- gh cli
+- fd
+- jq
+- doppler cli
+- 
