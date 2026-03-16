@@ -1,5 +1,4 @@
-- ripgrep??
-- password-store?
+jj- password-store?
 - gh cli
 - fd
 - jq
