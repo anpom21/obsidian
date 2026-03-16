@@ -1,6 +1,5 @@
 jj- password-store?
 - gh cli
-- fd
 - jq
 - doppler cli
 - asciicinema -  record terminajjl
