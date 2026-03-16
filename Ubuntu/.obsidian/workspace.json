@@ -68,12 +68,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Desktop Settings.md",
+                "file": "Linux/Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Desktop Settings"
+              "title": "Ubuntu"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cifs",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -130,7 +130,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0faabfb7edfbec21",
+  "active": "2a745b623bdf0963",
   "lastOpenFiles": [
+    "Desktop Settings.md",
     "copy/docs/template-event-registration-folder-overview.png",
     "copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "copy/docs/sheets-registration-response-example.png",
@@ -248,7 +250,6 @@
     "copy/docs/sheet-column-headers-must-match.png",
     "copy/docs/forms-url-form-id.png",
     "copy/docs/forms-select-existing-spreadsheet.png",
-    "copy/docs/forms-publish-form.png",
     "copy/updated_markdown_with_renamed_images.pdf",
     "copy/docs",
     "copy/Event_Tilmeldings_Guide.pdf",

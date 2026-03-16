@@ -158,3 +158,6 @@ ffmpeg -framerate 30 -i %04d_composite.png   -vf "setpts=2*PTS,scale=900:-1:flag
 ```
 ffmpeg -framerate 30 -i %04d_composite.png   -vf "setpts=4*PTS,scale=1000:-1:flags=lanczos,split[s0][s1];[s0]palettegen=reserve_transparent=1:transparency_color=ffffff[p];[s1][p]paletteuse=dither=bayer:bayer_scale=3:alpha_threshold=128"   -loop 0 output4.gif
 ```
+
+## Bambulab Studio
+Download [link](https://github.com/bambulab/BambuStudio/releases).
