@@ -138,3 +138,16 @@ Idle Latency:     5.12 ms   (jitter: 10.25ms, low: 3.83ms, high: 24.34ms)
   Result URL: https://www.speedtest.net/result/c/ccd683d2-7ff3-4d25-b96e-806e678d4f75
 ```
 
+## ripgrep
+[Github](https://github.com/burntsushi/ripgrep)
+Install
+```
+sudo apt-get install ripgrep
+```
+
+## fd
+Smarter and easier `find`
+
+```
+sudo apt install fd-find
+```
