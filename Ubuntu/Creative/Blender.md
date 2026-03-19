@@ -1,4 +1,4 @@
-## Slice object
+D## Slice object
 ![[Pasted image 20260124120804 1.png]]
 - Go to edit mode
 - Select all
