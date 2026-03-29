@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home server/rclone.md",
+                "file": "Linux/Zsh.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "rclone"
+              "title": "Zsh"
             }
           },
           {
@@ -235,6 +235,7 @@
   },
   "active": "fc14c938a7317a7f",
   "lastOpenFiles": [
+    "Home server/rclone.md",
     "Linux/Ubuntu.md",
     "Linux/TO Linux.md",
     "Linux/Fresh ubuntu.md",
@@ -246,7 +247,6 @@
     "Linux/syslog bloat.md",
     "Linux/Systemctl.md",
     "copy/Event_Tilmeldings_Guide.pdf",
-    "Home server/rclone.md",
     "Desktop Settings.md",
     "Linux",
     "Robrådet/Event Tilmeldings Guide.md",
