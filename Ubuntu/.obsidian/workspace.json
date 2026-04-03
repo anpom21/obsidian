@@ -82,12 +82,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Ubuntu.md",
+                "file": "Robrådet/Event Tilmeldings Guide.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ubuntu"
+              "title": "Event Tilmeldings Guide"
             }
           }
         ],
@@ -144,8 +144,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -253,6 +252,8 @@
   },
   "active": "7454f6c08efca277",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260403081313.png",
+    "Linux/Ubuntu.md",
     "Linux/Zsh.md",
     "VSCode.md",
     "conflict-files-obsidian-git.md",
@@ -281,7 +282,6 @@
     "Robrådet/Confirmation",
     "Robrådet",
     "Linux/syslog bloat.md",
-    "Linux/Ubuntu.md",
     "Linux/TO Linux.md",
     "Linux/Systemctl.md",
     "Linux/SSH.md",
@@ -298,7 +298,6 @@
     "Fresh ubuntu.md",
     "Zsh.md",
     "UV.md",
-    "Ubuntu.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
