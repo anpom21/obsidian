@@ -76,6 +76,18 @@
             }
           },
           {
+            "id": "f96321a4e9cfe357",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
+          },
+          {
             "id": "b11c5eeb4a94ec4d",
             "type": "leaf",
             "state": {
@@ -88,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -247,7 +259,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "658eece7e772230a",
+  "active": "f96321a4e9cfe357",
   "lastOpenFiles": [
     "Linux/Zsh.md",
     "VSCode.md",
