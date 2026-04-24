@@ -11,7 +11,7 @@ nano ~/.local/share/systemd/user/streamdeck.service
 ```
 
 Paste:
-```
+```service
 [Unit]
 Description=Stream Deck UI background service
 
@@ -22,4 +22,11 @@ Restart=on-failure
 
 [Install]
 WantedBy=default.target
+```
+
+Enable and start the service
+```bash
+systemctl --user daemon-reload  
+systemctl --user enable streamdeck  
+systemctl --user start streamdeck
 ```
