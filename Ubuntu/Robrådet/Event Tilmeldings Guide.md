@@ -117,6 +117,7 @@ Robrådet - Robotics Student Council`;
 ```
 
 ### HUSK AT TRYKKE GEM!!
+![[Pasted image 20260403081313.png]]
 ## 8) Enable email trigger
 To make the emailing process semi-automatic a trigger needs to be setup to run the script every time the sheets document is edited - dont worry it will only send an email if the paid column gets a new `Yes` entry. 
 
