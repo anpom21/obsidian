@@ -81,12 +81,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Zsh.md",
+                "file": "Linux/Network storage.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zsh"
+              "title": "Network storage"
             }
           }
         ],
@@ -143,8 +143,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -252,24 +251,24 @@
   },
   "active": "15848e61a32e460a",
   "lastOpenFiles": [
+    "Linux/Git.md",
+    "Linux/Fresh ubuntu.md",
+    "Linux/Chezmoi.md",
+    "Linux/Zsh.md",
     "Linux/Streamdeck.md",
     "Linux/SSH.md",
     "VSCode.md",
     "attachments/Pasted image 20260204215246.png",
     "conflict-files-obsidian-git.md",
     "attachments/Pasted image 20260403081313.png",
-    "Linux/Zsh.md",
     "Home server/rclone.md",
     "Linux/Ubuntu.md",
     "Linux/TO Linux.md",
-    "Linux/Fresh ubuntu.md",
-    "Linux/Chezmoi.md",
     "How tos/LaTeX Ubuntu.md",
-    "Linux/Git.md",
     "Linux/syslog bloat.md",
     "Linux/Systemctl.md",
     "copy/Event_Tilmeldings_Guide.pdf",
-    "Desktop Settings.md",
+    "Linux/Network storage.md",
     "Linux",
     "Robrådet/Event Tilmeldings Guide.md",
     "copy/docs/template-event-registration-folder-overview.png",
