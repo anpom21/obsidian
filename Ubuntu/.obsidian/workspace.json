@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-02.md",
+                "file": "Inbox/2026-06-02 - test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-02 - test"
             }
           }
         ]
@@ -206,8 +206,9 @@
   },
   "active": "9475eb62597c20fb",
   "lastOpenFiles": [
-    "Templates/inbox.md",
     "Inbox/2026-06-02.md",
+    "Inbox/2026-06-02 - test.md",
+    "Templates/inbox.md",
     "Template.md",
     "How tos/LaTeX Ubuntu.md",
     "How tos/Minecraft.md",
@@ -245,7 +246,6 @@
     "Areas/Linux/Network storage.md",
     "Areas/Linux/Git.md",
     "Areas/Linux/Fresh ubuntu.md",
-    "Areas/Linux/SSH.md",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",

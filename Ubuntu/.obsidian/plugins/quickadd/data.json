@@ -8,7 +8,7 @@
       "templatePath": "Templates/inbox.md",
       "fileNameFormat": {
         "enabled": true,
-        "format": "{{DATE:}}"
+        "format": "{{DATE:}} - {{value}}"
       },
       "folder": {
         "enabled": true,
