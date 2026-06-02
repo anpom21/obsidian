@@ -106,7 +106,7 @@
       ]
     },
     {
-      "path": "attachments/Pasted image 20260403081313.png",
+      "path": "Archive/attachments/Pasted image 20260403081313.png",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -122,7 +122,7 @@
       ]
     },
     {
-      "path": "Clippings/why I switched to using Obsidian (as a former Notion user).md",
+      "path": "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 6,
       "openLogs": [
@@ -147,7 +147,7 @@
       ]
     },
     {
-      "path": "Linux/Zsh.md",
+      "path": "Areas/Linux/Zsh.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -157,7 +157,7 @@
       ]
     },
     {
-      "path": "Linux/Chezmoi.md",
+      "path": "Areas/Linux/Chezmoi.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -215,7 +215,7 @@
       ]
     },
     {
-      "path": "Linux/Ubuntu.md",
+      "path": "Areas/Linux/Ubuntu.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -247,6 +247,16 @@
       "openLogs": [
         {
           "timestampMillis": 1780393944117
+        }
+      ]
+    },
+    {
+      "path": "Creative/Blender.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394286511
         }
       ]
     }
