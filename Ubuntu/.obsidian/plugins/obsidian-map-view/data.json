@@ -111,10 +111,10 @@
   ],
   "mapControlsSections": {
     "filtersDisplayed": false,
-    "viewDisplayed": true,
+    "viewDisplayed": false,
     "linksDisplayed": false,
     "presetsDisplayed": false,
-    "editDisplayed": false
+    "editDisplayed": true
   },
   "mapControlsMinimized": false,
   "maxClusterRadiusPixels": 25,

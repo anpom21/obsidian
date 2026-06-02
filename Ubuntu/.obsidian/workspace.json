@@ -11,24 +11,30 @@
             "id": "b2e345fb0c895ab0",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "map",
               "state": {
-                "file": "Hjem.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "name": "Default",
+                "mapZoom": 17,
+                "mapCenter": {
+                  "lat": 55.39027375293355,
+                  "lng": 10.339717268943788
+                },
+                "query": "",
+                "queryError": false,
+                "chosenMapSource": 0,
+                "forceHistorySave": false,
+                "followActiveNote": false,
+                "followMyLocation": false,
+                "embeddedHeight": 300,
+                "autoFit": false,
+                "lock": false,
+                "showLinks": false,
+                "linkColor": "red",
+                "markerLabels": "off",
+                "editMode": false
               },
-              "icon": "lucide-file",
-              "title": "Hjem"
+              "icon": "map-pin",
+              "title": "Interactive Map View"
             }
           }
         ]
@@ -50,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "disc",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -213,6 +219,7 @@
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
     "Bolbro Discgolf.md",
+    "Hjem.md",
     "Daily/2026-06-02.md",
     "Daily/2026-06-03.md",
     "Areas/Linux/Ubuntu.md",
@@ -223,7 +230,6 @@
     "Inbox/Obsidian.md",
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Templates/daily.md",
-    "Hjem.md",
     "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
     "Inbox/2026-06-02 - testo.md",
     "Inbox/2026-06-02 - test.md",
