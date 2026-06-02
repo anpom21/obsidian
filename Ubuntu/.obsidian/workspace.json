@@ -11,30 +11,24 @@
             "id": "b2e345fb0c895ab0",
             "type": "leaf",
             "state": {
-              "type": "map",
+              "type": "markdown",
               "state": {
-                "name": "Default",
-                "mapZoom": 17,
-                "mapCenter": {
-                  "lat": 55.39027375293355,
-                  "lng": 10.339717268943788
-                },
-                "query": "",
-                "queryError": false,
-                "chosenMapSource": 0,
-                "forceHistorySave": false,
-                "followActiveNote": false,
-                "followMyLocation": false,
-                "embeddedHeight": 300,
-                "autoFit": false,
-                "lock": false,
-                "showLinks": false,
-                "linkColor": "red",
-                "markerLabels": "off",
-                "editMode": false
+                "file": "Inbox/Obsidian Hotkeys.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "map-pin",
-              "title": "Interactive Map View"
+              "icon": "lucide-file",
+              "title": "Obsidian Hotkeys"
             }
           }
         ]
@@ -56,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "heyo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,6 +212,7 @@
   },
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
+    "Inbox/Obsidian Hotkeys.md",
     "Bolbro Discgolf.md",
     "Hjem.md",
     "Daily/2026-06-02.md",
@@ -244,7 +239,6 @@
     "Templates/new meeting template.md",
     "Templates/new person template.md",
     "DataView.md",
-    "References/LaTeX Ubuntu.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",

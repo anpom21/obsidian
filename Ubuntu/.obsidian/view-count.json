@@ -702,6 +702,25 @@
           "timestampMillis": 1780411806982
         }
       ]
+    },
+    {
+      "path": "Inbox/Obsidian Hotkeys.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780411841439
+        },
+        {
+          "timestampMillis": 1780411852055
+        },
+        {
+          "timestampMillis": 1780411983562
+        },
+        {
+          "timestampMillis": 1780412005504
+        }
+      ]
     }
   ]
 }

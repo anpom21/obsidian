@@ -113,5 +113,13 @@
       ],
       "key": "ArrowLeft"
     }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
   ]
 }
