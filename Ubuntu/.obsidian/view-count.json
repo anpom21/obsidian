@@ -41,7 +41,7 @@
     {
       "path": "2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 19,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -99,6 +99,9 @@
         },
         {
           "timestampMillis": 1780393249454
+        },
+        {
+          "timestampMillis": 1780393928931
         }
       ]
     },
@@ -172,13 +175,16 @@
     {
       "path": "meetings.base",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780391558949
         },
         {
           "timestampMillis": 1780391575617
+        },
+        {
+          "timestampMillis": 1780393914929
         }
       ]
     },
@@ -215,6 +221,32 @@
       "openLogs": [
         {
           "timestampMillis": 1780393246256
+        }
+      ]
+    },
+    {
+      "path": "Templates/new person template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393884959
+        },
+        {
+          "timestampMillis": 1780393928084
+        },
+        {
+          "timestampMillis": 1780393929661
+        }
+      ]
+    },
+    {
+      "path": "Templates/new meeting template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393944117
         }
       ]
     }

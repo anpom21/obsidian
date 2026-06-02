@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-06-02.md",
+                "file": "Templates/new meeting template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "new meeting template"
             }
           }
         ]
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2026-06-02.md",
+                "file": "Templates/new meeting template.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-02"
+              "title": "Outline of new meeting template"
             }
           },
           {
@@ -206,12 +206,16 @@
   },
   "active": "9475eb62597c20fb",
   "lastOpenFiles": [
-    "Linux/Ubuntu.md",
+    "Templates/new person template.md",
     "2026-06-02.md",
+    "meetings.base",
+    "Templates/new meeting template.md",
+    "Templates/new-post-video-template-clipper.json",
+    "Templates",
+    "Linux/Ubuntu.md",
     "Template.md",
     "Clippings/new-post-video-template-clipper.json",
     "Clippings/why I switched to using Obsidian (as a former Notion user).md",
-    "meetings.base",
     "copy/Event_Tilmeldings_Guide.pdf",
     "Linux/Chezmoi.md",
     "2026/20260603.md",
@@ -246,12 +250,7 @@
     "copy/docs/sheet-column-headers-must-match.png",
     "copy/docs",
     "copy/Event_Tilmeldings_Guide_tmp.html",
-    "copy/updated_markdown_with_renamed_images.pdf",
-    "copy/updated_markdown_with_renamed_images_tmp.html",
     "copy/updated_markdown_with_renamed_images.md",
-    "copy/Event_Tilmeldings_Guide.md",
-    "copy/Event Tilmeldings Guide.md",
-    "Home server/HomeLab - Getting Started.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
