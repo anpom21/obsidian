@@ -11,5 +11,6 @@
   "templater-obsidian",
   "quickadd",
   "obsidian-linter",
-  "calendar"
+  "calendar",
+  "obsidian-editor-shortcuts"
 ]

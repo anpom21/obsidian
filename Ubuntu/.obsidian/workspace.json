@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Alt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,6 +79,19 @@
               "state": {},
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "492c31271887f90c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
         ]
@@ -210,7 +223,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2e345fb0c895ab0",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
     "Inbox/Obsidian Hotkeys.md",
     "Bolbro Discgolf.md",
