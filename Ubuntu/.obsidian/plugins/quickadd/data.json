@@ -5,13 +5,44 @@
       "name": "Inbox",
       "type": "Template",
       "command": true,
+      "templatePath": "Templates/inbox.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "Inbox"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsBehavior": {
+        "kind": "prompt"
+      }
+    },
+    {
+      "id": "ec51be55-893d-4ddd-8f07-20a6d1ba3514",
+      "name": "Try",
+      "type": "Template",
+      "command": false,
       "templatePath": "",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
       },
       "folder": {
-        "enabled": true,
+        "enabled": false,
         "folders": [],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

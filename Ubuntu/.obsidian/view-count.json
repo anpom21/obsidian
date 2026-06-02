@@ -216,13 +216,16 @@
     {
       "path": "Template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780393168039
         },
         {
           "timestampMillis": 1780393177837
+        },
+        {
+          "timestampMillis": 1780395173990
         }
       ]
     },
@@ -387,6 +390,29 @@
       "openLogs": [
         {
           "timestampMillis": 1780394489466
+        }
+      ]
+    },
+    {
+      "path": "Templates/inbox.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780395181190
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780395239456
+        },
+        {
+          "timestampMillis": 1780395242295
         }
       ]
     }
