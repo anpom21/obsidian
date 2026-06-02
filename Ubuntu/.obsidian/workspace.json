@@ -11,14 +11,10 @@
             "id": "b807442d8665fdd7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Zsh.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Zsh"
+              "title": "New tab"
             }
           },
           {
@@ -81,12 +77,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Network storage.md",
+                "file": "2026/20260603.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network storage"
+              "title": "20260603"
             }
           }
         ],
@@ -142,12 +138,23 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "1ee630c582774de1",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 313.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -246,16 +253,23 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false
     }
   },
   "active": "15848e61a32e460a",
   "lastOpenFiles": [
+    "2026/20260603.md",
+    "Speciale.md",
+    "UV.md",
+    "Linux/Streamdeck.md",
+    "2026",
+    "Robrådet/Event Tilmeldings Guide.md",
+    "Linux/Network storage.md",
     "Linux/Git.md",
     "Linux/Fresh ubuntu.md",
     "Linux/Chezmoi.md",
     "Linux/Zsh.md",
-    "Linux/Streamdeck.md",
     "Linux/SSH.md",
     "VSCode.md",
     "attachments/Pasted image 20260204215246.png",
@@ -268,9 +282,7 @@
     "Linux/syslog bloat.md",
     "Linux/Systemctl.md",
     "copy/Event_Tilmeldings_Guide.pdf",
-    "Linux/Network storage.md",
     "Linux",
-    "Robrådet/Event Tilmeldings Guide.md",
     "copy/docs/template-event-registration-folder-overview.png",
     "copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "copy/docs/sheets-registration-response-example.png",
@@ -289,14 +301,10 @@
     "copy",
     "attachments/filenames.txt",
     "Robrådet/Confirmation email.gs",
-    "Robrådet/email.gs",
     "Home server/HomeLab - Getting Started.md",
     "Sunshine & Moonlight.md",
     "Creative/Blender.md",
     "Home server/Stack over flow.md",
-    "Home server/Syncthing.md",
-    "Home server/Testing.md",
-    "How tos/Minecraft.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
