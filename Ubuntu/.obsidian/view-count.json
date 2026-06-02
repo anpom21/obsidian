@@ -842,10 +842,26 @@
     {
       "path": "Inbox/Obsidian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
+        },
+        {
+          "timestampMillis": 1780414854719
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Password manager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780414848986
+        },
+        {
+          "timestampMillis": 1780414884592
         }
       ]
     }
