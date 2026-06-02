@@ -118,7 +118,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zsh",
+                "query": "tag:#Learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -150,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",

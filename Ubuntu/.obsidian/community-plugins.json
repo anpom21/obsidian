@@ -2,5 +2,8 @@
   "obsidian-git",
   "notebook-navigator",
   "copy-inline-code",
-  "auto-template-trigger"
+  "auto-template-trigger",
+  "obsidian-doubleshift",
+  "obsidian-map-view",
+  "simple-time-tracker"
 ]
