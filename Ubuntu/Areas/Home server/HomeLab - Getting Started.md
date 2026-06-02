@@ -173,7 +173,7 @@ Install with one command
 ### Minecraft server
 The minecraft server is setup with docker. See the documentation [here](https://github.com/itzg/docker-minecraft-server?tab=readme-ov-file).
 Great youtube [tutorial](https://www.youtube.com/watch?v=CpmsLOX-7DE).
-More notes here [Minecraft](Minecraft)
+More notes here [Minecraft](Minecraft.md)
 
 ### Auto suspend and wake server
 Auto suspension and waking of the server can be done with a cron job and `rtcwake`.
@@ -196,4 +196,4 @@ Or if 8 hours sleep is required:
 ```
 00 23 * * * rtcwake -m mem -s 28800
 ```
-If the server should rest when no one is on the server then a script can be found in the [Minecraft](Minecraft) tab.
+If the server should rest when no one is on the server then a script can be found in the [Minecraft](Minecraft.md) tab.

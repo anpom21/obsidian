@@ -389,7 +389,7 @@
       ]
     },
     {
-      "path": "How tos/LaTeX Ubuntu.md",
+      "path": "References/LaTeX Ubuntu.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
       "openLogs": [
@@ -405,7 +405,7 @@
       ]
     },
     {
-      "path": "How tos/Minecraft.md",
+      "path": "References/Minecraft.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
@@ -505,6 +505,103 @@
       "openLogs": [
         {
           "timestampMillis": 1780396527077
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-03.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780396912541
+        },
+        {
+          "timestampMillis": 1780396982070
+        },
+        {
+          "timestampMillis": 1780396995385
+        },
+        {
+          "timestampMillis": 1780396996174
+        },
+        {
+          "timestampMillis": 1780396997386
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780396994330
+        },
+        {
+          "timestampMillis": 1780396995881
+        },
+        {
+          "timestampMillis": 1780396996573
+        },
+        {
+          "timestampMillis": 1780396997071
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/HomeLab - Getting Started.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397033432
+        },
+        {
+          "timestampMillis": 1780397034233
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/rclone.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397033656
+        },
+        {
+          "timestampMillis": 1780397036854
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Stack over flow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397037577
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Syncthing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397038442
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Testing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397039282
         }
       ]
     }

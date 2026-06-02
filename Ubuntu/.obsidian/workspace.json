@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026/06/20260603.md",
+                "file": "Areas/Home server/Testing.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20260603"
+              "title": "Testing"
             }
           }
         ],
@@ -196,6 +196,16 @@
               "icon": "eye",
               "title": "View count"
             }
+          },
+          {
+            "id": "2c17feb903f24487",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 2
@@ -221,8 +231,14 @@
   },
   "active": "328c29d453cc5774",
   "lastOpenFiles": [
-    "2026-06-02.md",
+    "Areas/Home server/Syncthing.md",
+    "Areas/Home server/Stack over flow.md",
+    "Areas/Home server/rclone.md",
+    "Areas/Home server/HomeLab - Getting Started.md",
+    "Daily/2026-06-03.md",
+    "Daily/2026-06-02.md",
     "2026/06/20260603.md",
+    "2026-06-02.md",
     "2026/06",
     "Templates/daily.md",
     "Templates/inbox template.md",
@@ -234,8 +250,8 @@
     "Inbox/2026-06-02 - test.md",
     "Inbox/2026-06-02.md",
     "Template.md",
-    "How tos/LaTeX Ubuntu.md",
-    "How tos/Minecraft.md",
+    "References/LaTeX Ubuntu.md",
+    "References/Minecraft.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
@@ -254,13 +270,7 @@
     "Literature",
     "Projects",
     "meetings.base",
-    "Areas/Linux/Ubuntu.md",
-    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
-    "Areas/Linux/Chezmoi.md",
     "Archive/attachments/Pasted image 20260403081313.png",
-    "Areas/Linux/Zsh.md",
-    "VSCode.md",
-    "Speciale.md",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
