@@ -367,13 +367,16 @@
     {
       "path": "How tos/LaTeX Ubuntu.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780394488106
         },
         {
           "timestampMillis": 1780394490182
+        },
+        {
+          "timestampMillis": 1780394834819
         }
       ]
     },
