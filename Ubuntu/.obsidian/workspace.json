@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/daily.md",
+                "file": "2026/06/20260603.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "daily"
+              "title": "20260603"
             }
           }
         ],
@@ -100,7 +100,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -221,11 +221,13 @@
   },
   "active": "328c29d453cc5774",
   "lastOpenFiles": [
+    "2026-06-02.md",
+    "2026/06/20260603.md",
+    "2026/06",
+    "Templates/daily.md",
     "Templates/inbox template.md",
     "Templates/new meeting template.md",
-    "Templates/daily.md",
     "Templates/new person template.md",
-    "2026-06-02.md",
     "DataView.md",
     "Inbox/2026-06-02 - testo.md",
     "Hjem.md",
@@ -252,7 +254,6 @@
     "Literature",
     "Projects",
     "meetings.base",
-    "Templates/new-post-video-template-clipper.json",
     "Areas/Linux/Ubuntu.md",
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Areas/Linux/Chezmoi.md",
@@ -260,7 +261,6 @@
     "Areas/Linux/Zsh.md",
     "VSCode.md",
     "Speciale.md",
-    "UV.md",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
