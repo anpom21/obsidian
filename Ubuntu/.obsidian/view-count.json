@@ -41,7 +41,7 @@
     {
       "path": "2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -90,6 +90,15 @@
         },
         {
           "timestampMillis": 1780391925984
+        },
+        {
+          "timestampMillis": 1780393175034
+        },
+        {
+          "timestampMillis": 1780393179400
+        },
+        {
+          "timestampMillis": 1780393249454
         }
       ]
     },
@@ -183,6 +192,29 @@
         },
         {
           "timestampMillis": 1780391565570
+        }
+      ]
+    },
+    {
+      "path": "Template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393168039
+        },
+        {
+          "timestampMillis": 1780393177837
+        }
+      ]
+    },
+    {
+      "path": "Linux/Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393246256
         }
       ]
     }
