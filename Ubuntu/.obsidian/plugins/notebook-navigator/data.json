@@ -293,7 +293,7 @@
   "calendarWeeksToShow": 1,
   "calendarIntegrationMode": "notebook-navigator",
   "calendarPeriodicNotesLocaleSource": "calendar",
-  "calendarCustomFilePattern": "YYYY/YYYYMMDD",
+  "calendarCustomFilePattern": "YYYY/MM/YYYYMMDD",
   "calendarCustomWeekPattern": "gggg/[W]ww",
   "calendarCustomMonthPattern": "YYYY/YYYYMM",
   "calendarCustomQuarterPattern": "YYYY/[Q]Q",
