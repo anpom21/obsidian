@@ -3,5 +3,6 @@
   "attachmentFolderPath": "Archive/attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "openBehavior": "daily"
+  "openBehavior": "daily",
+  "trashOption": "local"
 }
