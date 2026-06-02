@@ -1,6 +1,6 @@
 ---
 locations: geo:55.395940810416064,10.359438210725786
-adress: Gartnerbyen 86, 5200, Odense V
+address: Gartnerbyen 86, 5200, Odense V
 ---
 
 [Hjem](geo:55.395940810416064,10.359438210725786)

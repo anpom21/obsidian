@@ -13,7 +13,7 @@
     {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 42,
+      "totalTimesOpened": 47,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -140,6 +140,21 @@
         },
         {
           "timestampMillis": 1780397611163
+        },
+        {
+          "timestampMillis": 1780411351227
+        },
+        {
+          "timestampMillis": 1780411353178
+        },
+        {
+          "timestampMillis": 1780411355114
+        },
+        {
+          "timestampMillis": 1780411364636
+        },
+        {
+          "timestampMillis": 1780411368039
         }
       ]
     },
@@ -477,7 +492,7 @@
     {
       "path": "Hjem.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1780395983279
@@ -502,6 +517,9 @@
         },
         {
           "timestampMillis": 1780397273711
+        },
+        {
+          "timestampMillis": 1780411498329
         }
       ]
     },
@@ -636,6 +654,16 @@
       "openLogs": [
         {
           "timestampMillis": 1780397582383
+        }
+      ]
+    },
+    {
+      "path": "Bolbro Discgolf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780411439869
         }
       ]
     }

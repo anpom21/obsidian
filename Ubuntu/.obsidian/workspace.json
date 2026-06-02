@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-02.md",
+                "file": "Hjem.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "Hjem"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "disc",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,8 +81,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,8 +212,9 @@
   },
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
-    "Daily/2026-06-03.md",
+    "Bolbro Discgolf.md",
     "Daily/2026-06-02.md",
+    "Daily/2026-06-03.md",
     "Areas/Linux/Ubuntu.md",
     "Inbox/DataView.md",
     "Template.md",
@@ -239,7 +239,6 @@
     "Templates/new person template.md",
     "DataView.md",
     "References/LaTeX Ubuntu.md",
-    "References/Minecraft.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
