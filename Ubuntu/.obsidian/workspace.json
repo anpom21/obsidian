@@ -100,25 +100,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0faabfb7edfbec21",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "8cf9f3420477a1a0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Learning",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,8 +136,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -268,7 +254,7 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "15848e61a32e460a",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
     "2026/20260603.md",
     "Speciale.md",

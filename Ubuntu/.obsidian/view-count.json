@@ -1,3 +1,14 @@
 {
-  "items": []
+  "items": [
+    {
+      "path": "2026/20260603.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780390707038
+        }
+      ]
+    }
+  ]
 }
