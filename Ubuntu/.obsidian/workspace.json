@@ -236,8 +236,8 @@
             "state": {
               "type": "view-count",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "view-count"
+              "icon": "eye",
+              "title": "View count"
             }
           },
           {
@@ -265,7 +265,11 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "5389db7de63f7227",
