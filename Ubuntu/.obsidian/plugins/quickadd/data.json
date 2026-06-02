@@ -64,14 +64,14 @@
       "id": "2314054a-c6d7-46cc-955a-bdf1211e0a72",
       "name": "Heyo",
       "type": "Capture",
-      "command": false,
+      "command": true,
       "appendLink": false,
-      "captureTo": "",
+      "captureTo": "Inbox/{{DATE:}} - {{value}}.md",
       "captureToActiveFile": false,
       "captureToCanvasNodeId": "",
       "activeFileWritePosition": "cursor",
       "createFileIfItDoesntExist": {
-        "enabled": false,
+        "enabled": true,
         "createWithTemplate": false,
         "template": ""
       },
@@ -95,8 +95,8 @@
         "direction": "below"
       },
       "prepend": false,
-      "task": false,
-      "openFile": false,
+      "task": true,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",
