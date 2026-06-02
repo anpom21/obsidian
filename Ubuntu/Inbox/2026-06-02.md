@@ -1,6 +1,0 @@
----
-created:
-tags:
-source:
-aliases:
----

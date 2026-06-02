@@ -42,9 +42,9 @@
       ]
     },
     {
-      "path": "2026-06-02.md",
+      "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -117,6 +117,27 @@
         },
         {
           "timestampMillis": 1780396504288
+        },
+        {
+          "timestampMillis": 1780397242629
+        },
+        {
+          "timestampMillis": 1780397262861
+        },
+        {
+          "timestampMillis": 1780397275486
+        },
+        {
+          "timestampMillis": 1780397327640
+        },
+        {
+          "timestampMillis": 1780397342291
+        },
+        {
+          "timestampMillis": 1780397359731
+        },
+        {
+          "timestampMillis": 1780397366619
         }
       ]
     },
@@ -139,7 +160,7 @@
     {
       "path": "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780391210628
@@ -158,6 +179,9 @@
         },
         {
           "timestampMillis": 1780391577332
+        },
+        {
+          "timestampMillis": 1780397364134
         }
       ]
     },
@@ -302,10 +326,13 @@
     {
       "path": "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780394356036
+        },
+        {
+          "timestampMillis": 1780397221950
         }
       ]
     },
@@ -437,29 +464,9 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-02.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1780395294058
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-02 - test.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1780395316873
-        }
-      ]
-    },
-    {
       "path": "Hjem.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780395983279
@@ -472,46 +479,63 @@
         },
         {
           "timestampMillis": 1780396068507
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-02 - testo.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
+        },
         {
-          "timestampMillis": 1780396104915
+          "timestampMillis": 1780397112162
+        },
+        {
+          "timestampMillis": 1780397213580
+        },
+        {
+          "timestampMillis": 1780397260987
+        },
+        {
+          "timestampMillis": 1780397273711
         }
       ]
     },
     {
       "path": "Templates/daily.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780396342583
         },
         {
           "timestampMillis": 1780396356539
+        },
+        {
+          "timestampMillis": 1780397316425
         }
       ]
     },
     {
       "path": "2026/06/20260603.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780396527077
+        },
+        {
+          "timestampMillis": 1780397167456
+        },
+        {
+          "timestampMillis": 1780397168174
+        },
+        {
+          "timestampMillis": 1780397212147
+        },
+        {
+          "timestampMillis": 1780397218144
         }
       ]
     },
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -527,25 +551,27 @@
         },
         {
           "timestampMillis": 1780396997386
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-02.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1780396994330
         },
         {
-          "timestampMillis": 1780396995881
+          "timestampMillis": 1780397153160
         },
         {
-          "timestampMillis": 1780396996573
+          "timestampMillis": 1780397187310
         },
         {
-          "timestampMillis": 1780396997071
+          "timestampMillis": 1780397211651
+        },
+        {
+          "timestampMillis": 1780397327435
+        },
+        {
+          "timestampMillis": 1780397329872
+        },
+        {
+          "timestampMillis": 1780397345342
+        },
+        {
+          "timestampMillis": 1780397356071
         }
       ]
     },
@@ -602,6 +628,19 @@
       "openLogs": [
         {
           "timestampMillis": 1780397039282
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-02 - wassup.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397130135
+        },
+        {
+          "timestampMillis": 1780397212803
         }
       ]
     }
