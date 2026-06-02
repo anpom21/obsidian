@@ -706,7 +706,7 @@
     {
       "path": "Inbox/Obsidian Hotkeys.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780411841439
@@ -719,6 +719,9 @@
         },
         {
           "timestampMillis": 1780412005504
+        },
+        {
+          "timestampMillis": 1780412225438
         }
       ]
     }

@@ -8,5 +8,10 @@ aliases:
 
 ## Double shift
 
-- Alt +  $\uparrow$ : 
-- 
+| Command              | Function                                        |
+| -------------------- | ----------------------------------------------- |
+| Alt +  $\leftarrow$  | **Navigate back**                               |
+| Alt +  $\rightarrow$ | - Alt +  $\rightarrow$ **Navigate forward**<br> |
+| Ctrl + ;             | Settings                                        |
+|                      |                                                 |
+

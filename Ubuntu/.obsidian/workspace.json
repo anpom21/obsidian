@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heyo",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

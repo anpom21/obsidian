@@ -97,15 +97,6 @@
       "key": "ArrowLeft"
     }
   ],
-  "daily-notes": [
-    {
-      "modifiers": [
-        "Alt",
-        "Shift"
-      ],
-      "key": "ArrowUp"
-    }
-  ],
   "app:go-back": [
     {
       "modifiers": [
@@ -120,6 +111,24 @@
         "Alt"
       ],
       "key": "ArrowRight"
+    }
+  ],
+  "editor:add-cursor-above": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:add-cursor-below": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "ArrowDown"
     }
   ]
 }
