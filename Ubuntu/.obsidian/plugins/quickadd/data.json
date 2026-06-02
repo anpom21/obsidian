@@ -33,7 +33,7 @@
     },
     {
       "id": "ec51be55-893d-4ddd-8f07-20a6d1ba3514",
-      "name": "Try",
+      "name": "Task",
       "type": "Template",
       "command": false,
       "templatePath": "",
@@ -58,6 +58,53 @@
       },
       "fileExistsBehavior": {
         "kind": "prompt"
+      }
+    },
+    {
+      "id": "2314054a-c6d7-46cc-955a-bdf1211e0a72",
+      "name": "Heyo",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": false,
+      "captureToCanvasNodeId": "",
+      "activeFileWritePosition": "cursor",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": false,
+        "format": ""
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": false,
+      "task": false,
+      "openFile": false,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
       }
     }
   ],
