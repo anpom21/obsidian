@@ -13,7 +13,7 @@
     {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 54,
+      "totalTimesOpened": 63,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -176,13 +176,40 @@
         },
         {
           "timestampMillis": 1780413150367
+        },
+        {
+          "timestampMillis": 1780414311976
+        },
+        {
+          "timestampMillis": 1780414357539
+        },
+        {
+          "timestampMillis": 1780414359094
+        },
+        {
+          "timestampMillis": 1780414369337
+        },
+        {
+          "timestampMillis": 1780414406143
+        },
+        {
+          "timestampMillis": 1780414438567
+        },
+        {
+          "timestampMillis": 1780414438965
+        },
+        {
+          "timestampMillis": 1780414439356
+        },
+        {
+          "timestampMillis": 1780414478781
         }
       ]
     },
     {
       "path": "Archive/attachments/Pasted image 20260403081313.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780391027274
@@ -192,13 +219,19 @@
         },
         {
           "timestampMillis": 1780391312989
+        },
+        {
+          "timestampMillis": 1780414479533
+        },
+        {
+          "timestampMillis": 1780414480415
         }
       ]
     },
     {
       "path": "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1780391210628
@@ -220,23 +253,32 @@
         },
         {
           "timestampMillis": 1780397364134
+        },
+        {
+          "timestampMillis": 1780414479948
+        },
+        {
+          "timestampMillis": 1780414481956
         }
       ]
     },
     {
       "path": "Areas/Linux/Zsh.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780391268697
+        },
+        {
+          "timestampMillis": 1780414482379
         }
       ]
     },
     {
       "path": "Areas/Linux/Chezmoi.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391299855
@@ -246,6 +288,9 @@
         },
         {
           "timestampMillis": 1780391325392
+        },
+        {
+          "timestampMillis": 1780414483131
         }
       ]
     },
@@ -572,7 +617,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -621,6 +666,21 @@
         },
         {
           "timestampMillis": 1780413151430
+        },
+        {
+          "timestampMillis": 1780414355269
+        },
+        {
+          "timestampMillis": 1780414358199
+        },
+        {
+          "timestampMillis": 1780414438380
+        },
+        {
+          "timestampMillis": 1780414438756
+        },
+        {
+          "timestampMillis": 1780414439156
         }
       ]
     },
@@ -724,7 +784,7 @@
     {
       "path": "Inbox/Obsidian Hotkeys.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780411841439
@@ -746,6 +806,9 @@
         },
         {
           "timestampMillis": 1780412870246
+        },
+        {
+          "timestampMillis": 1780414439557
         }
       ]
     }

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-03.md",
+                "file": "Areas/Linux/Chezmoi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "Chezmoi"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Alt",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-06-03.md",
+                "file": "Areas/Linux/Chezmoi.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-03"
+              "title": "Outline of Chezmoi"
             }
           },
           {
@@ -202,7 +202,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -225,18 +225,20 @@
   },
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
+    "Areas/Linux/Zsh.md",
+    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
+    "Archive/attachments/Pasted image 20260403081313.png",
     "Daily/2026-06-02.md",
     "Inbox/Obsidian Hotkeys.md",
+    "Daily/2026-06-03.md",
     "Bolbro Discgolf.md",
     "Hjem.md",
-    "Daily/2026-06-03.md",
     "Areas/Linux/Ubuntu.md",
     "Inbox/DataView.md",
     "Template.md",
     "2026/06/20260603.md",
     "Inbox/2026-06-02 - wassup.md",
     "Inbox/Obsidian.md",
-    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Templates/daily.md",
     "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
     "Inbox/2026-06-02 - testo.md",
@@ -251,7 +253,6 @@
     "Templates/inbox template.md",
     "Templates/new meeting template.md",
     "Templates/new person template.md",
-    "DataView.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
@@ -264,7 +265,6 @@
     "Literature",
     "Projects",
     "meetings.base",
-    "Archive/attachments/Pasted image 20260403081313.png",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
