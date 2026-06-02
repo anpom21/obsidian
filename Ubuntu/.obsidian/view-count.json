@@ -3,7 +3,7 @@
     {
       "path": "2026/20260603.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780390707038
@@ -22,6 +22,9 @@
         },
         {
           "timestampMillis": 1780391288140
+        },
+        {
+          "timestampMillis": 1780391324121
         }
       ]
     },
@@ -38,7 +41,7 @@
     {
       "path": "2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -66,32 +69,65 @@
         },
         {
           "timestampMillis": 1780391289165
+        },
+        {
+          "timestampMillis": 1780391301710
+        },
+        {
+          "timestampMillis": 1780391318932
+        },
+        {
+          "timestampMillis": 1780391319532
+        },
+        {
+          "timestampMillis": 1780391326365
+        },
+        {
+          "timestampMillis": 1780391576401
+        },
+        {
+          "timestampMillis": 1780391579564
         }
       ]
     },
     {
       "path": "attachments/Pasted image 20260403081313.png",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780391027274
         },
         {
           "timestampMillis": 1780391288670
+        },
+        {
+          "timestampMillis": 1780391312989
         }
       ]
     },
     {
       "path": "Clippings/why I switched to using Obsidian (as a former Notion user).md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780391210628
         },
         {
           "timestampMillis": 1780391222187
+        },
+        {
+          "timestampMillis": 1780391298623
+        },
+        {
+          "timestampMillis": 1780391320857
+        },
+        {
+          "timestampMillis": 1780391325936
+        },
+        {
+          "timestampMillis": 1780391577332
         }
       ]
     },
@@ -102,6 +138,48 @@
       "openLogs": [
         {
           "timestampMillis": 1780391268697
+        }
+      ]
+    },
+    {
+      "path": "Linux/Chezmoi.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391299855
+        },
+        {
+          "timestampMillis": 1780391320039
+        },
+        {
+          "timestampMillis": 1780391325392
+        }
+      ]
+    },
+    {
+      "path": "meetings.base",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391558949
+        },
+        {
+          "timestampMillis": 1780391575617
+        }
+      ]
+    },
+    {
+      "path": "copy/Event_Tilmeldings_Guide.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391565448
+        },
+        {
+          "timestampMillis": 1780391565570
         }
       ]
     }
