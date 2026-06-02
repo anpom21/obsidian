@@ -3,10 +3,105 @@
     {
       "path": "2026/20260603.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780390707038
+        },
+        {
+          "timestampMillis": 1780390982258
+        },
+        {
+          "timestampMillis": 1780391002965
+        },
+        {
+          "timestampMillis": 1780391083956
+        },
+        {
+          "timestampMillis": 1780391136439
+        },
+        {
+          "timestampMillis": 1780391288140
+        }
+      ]
+    },
+    {
+      "path": "VSCode.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780390984294
+        }
+      ]
+    },
+    {
+      "path": "2026-06-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1780390993255
+        },
+        {
+          "timestampMillis": 1780391010414
+        },
+        {
+          "timestampMillis": 1780391020271
+        },
+        {
+          "timestampMillis": 1780391029300
+        },
+        {
+          "timestampMillis": 1780391060370
+        },
+        {
+          "timestampMillis": 1780391094596
+        },
+        {
+          "timestampMillis": 1780391129813
+        },
+        {
+          "timestampMillis": 1780391135910
+        },
+        {
+          "timestampMillis": 1780391289165
+        }
+      ]
+    },
+    {
+      "path": "attachments/Pasted image 20260403081313.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391027274
+        },
+        {
+          "timestampMillis": 1780391288670
+        }
+      ]
+    },
+    {
+      "path": "Clippings/why I switched to using Obsidian (as a former Notion user).md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391210628
+        },
+        {
+          "timestampMillis": 1780391222187
+        }
+      ]
+    },
+    {
+      "path": "Linux/Zsh.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391268697
         }
       ]
     }

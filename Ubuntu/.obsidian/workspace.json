@@ -49,44 +49,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Zsh.md",
+                "file": "2026-06-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Zsh"
-            }
-          },
-          {
-            "id": "658eece7e772230a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "VSCode.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VSCode"
-            }
-          },
-          {
-            "id": "15848e61a32e460a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2026/20260603.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20260603"
+              "title": "2026-06-02"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Learning",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -135,8 +107,22 @@
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
+          },
+          {
+            "id": "3a9e735daae82631",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -204,13 +190,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fresh ubuntu.md",
+                "file": "2026-06-02.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fresh ubuntu"
+              "title": "Outline of 2026-06-02"
             }
           },
           {
@@ -234,11 +220,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -254,9 +240,15 @@
       "obsidian-map-view:Open map view": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "fc14c938a7317a7f",
   "lastOpenFiles": [
+    "attachments/Pasted image 20260403081313.png",
     "2026/20260603.md",
+    "Linux/Zsh.md",
+    "Clippings/why I switched to using Obsidian (as a former Notion user).md",
+    "Clippings",
+    "2026-06-02.md",
+    "VSCode.md",
     "Speciale.md",
     "UV.md",
     "Linux/Streamdeck.md",
@@ -266,12 +258,9 @@
     "Linux/Git.md",
     "Linux/Fresh ubuntu.md",
     "Linux/Chezmoi.md",
-    "Linux/Zsh.md",
     "Linux/SSH.md",
-    "VSCode.md",
     "attachments/Pasted image 20260204215246.png",
     "conflict-files-obsidian-git.md",
-    "attachments/Pasted image 20260403081313.png",
     "Home server/rclone.md",
     "Linux/Ubuntu.md",
     "Linux/TO Linux.md",
@@ -297,11 +286,7 @@
     "copy/Event Tilmeldings Guide.md",
     "copy",
     "attachments/filenames.txt",
-    "Robrådet/Confirmation email.gs",
     "Home server/HomeLab - Getting Started.md",
-    "Sunshine & Moonlight.md",
-    "Creative/Blender.md",
-    "Home server/Stack over flow.md",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
