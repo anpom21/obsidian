@@ -3,7 +3,7 @@
     {
       "path": "2026/20260603.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780390707038
@@ -25,6 +25,9 @@
         },
         {
           "timestampMillis": 1780391324121
+        },
+        {
+          "timestampMillis": 1780394474399
         }
       ]
     },
@@ -41,7 +44,7 @@
     {
       "path": "2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -102,6 +105,9 @@
         },
         {
           "timestampMillis": 1780393928931
+        },
+        {
+          "timestampMillis": 1780394438416
         }
       ]
     },
@@ -189,15 +195,21 @@
       ]
     },
     {
-      "path": "copy/Event_Tilmeldings_Guide.pdf",
+      "path": "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391565448
         },
         {
           "timestampMillis": 1780391565570
+        },
+        {
+          "timestampMillis": 1780394410200
+        },
+        {
+          "timestampMillis": 1780394425844
         }
       ]
     },
@@ -251,12 +263,127 @@
       ]
     },
     {
-      "path": "Creative/Blender.md",
+      "path": "Projects/Blender.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394286511
+        },
+        {
+          "timestampMillis": 1780394389772
+        }
+      ]
+    },
+    {
+      "path": "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1780394286511
+          "timestampMillis": 1780394356036
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394409102
+        },
+        {
+          "timestampMillis": 1780394424647
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event_Tilmeldings_Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394409637
+        },
+        {
+          "timestampMillis": 1780394425155
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394411454
+        },
+        {
+          "timestampMillis": 1780394426439
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/Event Tilmeldings Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394422233
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251230213056.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394479780
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251212190407.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394480528
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251212190404.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394480887
+        }
+      ]
+    },
+    {
+      "path": "How tos/LaTeX Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394488106
+        },
+        {
+          "timestampMillis": 1780394490182
+        }
+      ]
+    },
+    {
+      "path": "How tos/Minecraft.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394489466
         }
       ]
     }

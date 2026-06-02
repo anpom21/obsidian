@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Creative/Blender.md",
+                "file": "How tos/LaTeX Ubuntu.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blender"
+              "title": "LaTeX Ubuntu"
             }
           }
         ]
@@ -85,7 +85,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Creative/Blender.md",
+                "file": "How tos/LaTeX Ubuntu.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Blender"
+              "title": "Outline of LaTeX Ubuntu"
             }
           },
           {
@@ -206,6 +206,20 @@
   },
   "active": "9475eb62597c20fb",
   "lastOpenFiles": [
+    "How tos/Minecraft.md",
+    "How tos/LaTeX Ubuntu.md",
+    "Archive/attachments/Pasted image 20251212190404.png",
+    "Archive/attachments/Pasted image 20251212190407.png",
+    "Archive/attachments/Pasted image 20251230213056.png",
+    "2026/20260603.md",
+    "2026-06-02.md",
+    "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
+    "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
+    "Areas/Robrådet/copy/Event_Tilmeldings_Guide.md",
+    "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+    "Areas/Robrådet/Event Tilmeldings Guide.md",
+    "Projects/Blender.md",
+    "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
     "Templates/new meeting template.md",
     "Archive",
     "Areas",
@@ -214,43 +228,30 @@
     "Literature",
     "Projects",
     "Templates/new person template.md",
-    "2026-06-02.md",
     "meetings.base",
     "Templates/new-post-video-template-clipper.json",
-    "Templates",
     "Areas/Linux/Ubuntu.md",
     "Template.md",
-    "Archive/Clippings/new-post-video-template-clipper.json",
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Areas/Linux/Chezmoi.md",
-    "2026/20260603.md",
     "Archive/attachments/Pasted image 20260403081313.png",
     "Areas/Linux/Zsh.md",
     "VSCode.md",
     "Speciale.md",
     "UV.md",
     "Areas/Linux/Streamdeck.md",
-    "Robrådet/Event Tilmeldings Guide.md",
     "Areas/Linux/Network storage.md",
     "Areas/Linux/Git.md",
     "Areas/Linux/Fresh ubuntu.md",
     "Areas/Linux/SSH.md",
     "Archive/attachments/Pasted image 20260204215246.png",
     "conflict-files-obsidian-git.md",
-    "Home server/rclone.md",
-    "Areas/Linux/TO Linux.md",
-    "How tos/LaTeX Ubuntu.md",
-    "Areas/Linux/syslog bloat.md",
-    "Areas/Linux/Systemctl.md",
-    "copy/docs/template-event-registration-folder-overview.png",
-    "copy/docs/sheets-url-sheet-id-and-tab-id.png",
-    "copy/docs/sheets-registration-response-example.png",
-    "copy/docs/sheets-paid-and-email-sent-columns.png",
-    "copy/docs/sheets-open-apps-script-menu.png",
-    "copy/docs/sheets-mark-paid-yes.png",
-    "copy/docs/sheets-email-sent-timestamp.png",
-    "copy/docs/sheet-column-headers-must-match.png",
-    "copy/updated_markdown_with_renamed_images.md",
+    "Areas/Home server/rclone.md",
+    "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
+    "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
+    "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
+    "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
+    "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
