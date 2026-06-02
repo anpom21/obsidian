@@ -1,4 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "attachments"
+  "attachmentFolderPath": "Archive/attachments",
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
 }

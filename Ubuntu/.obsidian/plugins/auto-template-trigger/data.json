@@ -1,0 +1,10 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Inbox",
+      "templateName": ""
+    }
+  ],
+  "disablePrompt": false,
+  "debug": false
+}

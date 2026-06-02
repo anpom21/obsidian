@@ -44,7 +44,7 @@
     {
       "path": "2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 22,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -111,6 +111,9 @@
         },
         {
           "timestampMillis": 1780396134783
+        },
+        {
+          "timestampMillis": 1780396195928
         }
       ]
     },
@@ -245,7 +248,7 @@
     {
       "path": "Templates/new person template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780393884959
@@ -255,16 +258,28 @@
         },
         {
           "timestampMillis": 1780393929661
+        },
+        {
+          "timestampMillis": 1780396327978
         }
       ]
     },
     {
       "path": "Templates/new meeting template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780393944117
+        },
+        {
+          "timestampMillis": 1780396327208
+        },
+        {
+          "timestampMillis": 1780396328557
+        },
+        {
+          "timestampMillis": 1780396348519
         }
       ]
     },
@@ -397,15 +412,24 @@
       ]
     },
     {
-      "path": "Templates/inbox.md",
+      "path": "Templates/inbox template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780395181190
         },
         {
           "timestampMillis": 1780395273426
+        },
+        {
+          "timestampMillis": 1780396324378
+        },
+        {
+          "timestampMillis": 1780396329089
+        },
+        {
+          "timestampMillis": 1780396349215
         }
       ]
     },
@@ -455,6 +479,19 @@
       "openLogs": [
         {
           "timestampMillis": 1780396104915
+        }
+      ]
+    },
+    {
+      "path": "Templates/daily.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780396342583
+        },
+        {
+          "timestampMillis": 1780396356539
         }
       ]
     }

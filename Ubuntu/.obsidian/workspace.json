@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2026-06-02.md",
+                "file": "Templates/daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "daily"
             }
           }
         ],
@@ -221,11 +221,16 @@
   },
   "active": "328c29d453cc5774",
   "lastOpenFiles": [
+    "Templates/inbox template.md",
+    "Templates/new meeting template.md",
+    "Templates/daily.md",
+    "Templates/new person template.md",
+    "2026-06-02.md",
+    "DataView.md",
     "Inbox/2026-06-02 - testo.md",
     "Hjem.md",
     "Inbox/2026-06-02 - test.md",
     "Inbox/2026-06-02.md",
-    "Templates/inbox.md",
     "Template.md",
     "How tos/LaTeX Ubuntu.md",
     "How tos/Minecraft.md",
@@ -233,7 +238,6 @@
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
     "2026/20260603.md",
-    "2026-06-02.md",
     "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
     "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
     "Areas/Robrådet/copy/Event_Tilmeldings_Guide.md",
@@ -241,14 +245,12 @@
     "Areas/Robrådet/Event Tilmeldings Guide.md",
     "Projects/Blender.md",
     "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
-    "Templates/new meeting template.md",
     "Archive",
     "Areas",
     "Daily",
     "Inbox",
     "Literature",
     "Projects",
-    "Templates/new person template.md",
     "meetings.base",
     "Templates/new-post-video-template-clipper.json",
     "Areas/Linux/Ubuntu.md",
@@ -259,8 +261,6 @@
     "VSCode.md",
     "Speciale.md",
     "UV.md",
-    "Areas/Linux/Streamdeck.md",
-    "Areas/Linux/Network storage.md",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
