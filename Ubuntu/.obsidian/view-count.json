@@ -1,37 +1,6 @@
 {
   "items": [
     {
-      "path": "2026/20260603.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1780390707038
-        },
-        {
-          "timestampMillis": 1780390982258
-        },
-        {
-          "timestampMillis": 1780391002965
-        },
-        {
-          "timestampMillis": 1780391083956
-        },
-        {
-          "timestampMillis": 1780391136439
-        },
-        {
-          "timestampMillis": 1780391288140
-        },
-        {
-          "timestampMillis": 1780391324121
-        },
-        {
-          "timestampMillis": 1780394474399
-        }
-      ]
-    },
-    {
       "path": "VSCode.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
@@ -44,7 +13,7 @@
     {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 42,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -138,6 +107,39 @@
         },
         {
           "timestampMillis": 1780397366619
+        },
+        {
+          "timestampMillis": 1780397373083
+        },
+        {
+          "timestampMillis": 1780397375705
+        },
+        {
+          "timestampMillis": 1780397402377
+        },
+        {
+          "timestampMillis": 1780397433359
+        },
+        {
+          "timestampMillis": 1780397576110
+        },
+        {
+          "timestampMillis": 1780397580975
+        },
+        {
+          "timestampMillis": 1780397584179
+        },
+        {
+          "timestampMillis": 1780397592409
+        },
+        {
+          "timestampMillis": 1780397596082
+        },
+        {
+          "timestampMillis": 1780397597613
+        },
+        {
+          "timestampMillis": 1780397611163
         }
       ]
     },
@@ -249,7 +251,7 @@
     {
       "path": "Template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780393168039
@@ -259,16 +261,25 @@
         },
         {
           "timestampMillis": 1780395173990
+        },
+        {
+          "timestampMillis": 1780397568269
+        },
+        {
+          "timestampMillis": 1780397578201
         }
       ]
     },
     {
       "path": "Areas/Linux/Ubuntu.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780393246256
+        },
+        {
+          "timestampMillis": 1780397586338
         }
       ]
     },
@@ -511,31 +522,9 @@
       ]
     },
     {
-      "path": "2026/06/20260603.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1780396527077
-        },
-        {
-          "timestampMillis": 1780397167456
-        },
-        {
-          "timestampMillis": 1780397168174
-        },
-        {
-          "timestampMillis": 1780397212147
-        },
-        {
-          "timestampMillis": 1780397218144
-        }
-      ]
-    },
-    {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -572,6 +561,15 @@
         },
         {
           "timestampMillis": 1780397356071
+        },
+        {
+          "timestampMillis": 1780397595469
+        },
+        {
+          "timestampMillis": 1780397596920
+        },
+        {
+          "timestampMillis": 1780397598005
         }
       ]
     },
@@ -632,15 +630,12 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-02 - wassup.md",
+      "path": "Inbox/DataView.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1780397130135
-        },
-        {
-          "timestampMillis": 1780397212803
+          "timestampMillis": 1780397582383
         }
       ]
     }

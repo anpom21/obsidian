@@ -4,18 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "3fb56853a006c73d",
+        "id": "2a957559a17a6f48",
         "type": "tabs",
         "children": [
           {
-            "id": "9475eb62597c20fb",
+            "id": "b2e345fb0c895ab0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Daily/2026-06-02.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
               "title": "2026-06-02"
@@ -40,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reysu",
+                "query": "tag:#Obsidian",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,17 +211,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9475eb62597c20fb",
+  "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
-    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
-    "Daily/2026-06-02.md",
     "Daily/2026-06-03.md",
     "Daily/2026-06-02.md",
+    "Areas/Linux/Ubuntu.md",
+    "Inbox/DataView.md",
+    "Template.md",
+    "2026/06/20260603.md",
+    "Inbox/2026-06-02 - wassup.md",
+    "Inbox/Obsidian.md",
+    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Templates/daily.md",
     "Hjem.md",
     "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
-    "2026/06/20260603.md",
-    "Inbox/2026-06-02 - wassup.md",
     "Inbox/2026-06-02 - testo.md",
     "Inbox/2026-06-02 - test.md",
     "Inbox/2026-06-02.md",
@@ -225,16 +238,13 @@
     "Templates/new meeting template.md",
     "Templates/new person template.md",
     "DataView.md",
-    "Template.md",
     "References/LaTeX Ubuntu.md",
     "References/Minecraft.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
-    "2026/20260603.md",
     "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
     "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
-    "Areas/Robrådet/copy/Event_Tilmeldings_Guide.md",
     "Archive",
     "Areas",
     "Daily",
