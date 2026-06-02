@@ -7,6 +7,8 @@ aliases:
 ---
 ## Plugins
 
+heyo
+
 - **Templater:** Advanced templating and automation using handlebars-like syntax.
 - **Code Editor Shortcuts:** Adds common code-editor keyboard shortcuts (VSCode/Sublime-style).
 - **Various Complements:** IDE-style word autocompletion.

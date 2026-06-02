@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Obsidian.md",
+                "file": "Daily/2026-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Obsidian"
+              "title": "2026-06-02"
             }
           },
           {
@@ -80,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -99,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +143,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,8 @@
             "state": {
               "type": "view-count",
               "state": {},
-              "icon": "eye",
-              "title": "View count"
+              "icon": "lucide-ghost",
+              "title": "view-count"
             }
           },
           {
@@ -265,18 +266,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "obsidian-map-view:Open map view": false,
-      "templater-obsidian:Templater": false
+      "bases:Create new base": false
     }
   },
-  "active": "5389db7de63f7227",
+  "active": "492feb4dd995558e",
   "lastOpenFiles": [
-    "Inbox/Obsidian.md",
-    "Inbox/Password manager.md",
     "Daily/2026-06-02.md",
+    "Inbox/Password manager.md",
+    "Inbox/Obsidian.md",
     "Inbox/Obsidian Hotkeys.md",
     "Archive/attachments/Pasted image 20260403081313.png",
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
