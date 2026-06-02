@@ -13,7 +13,7 @@
     {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 72,
+      "totalTimesOpened": 76,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -230,6 +230,18 @@
         },
         {
           "timestampMillis": 1780415961650
+        },
+        {
+          "timestampMillis": 1780416393594
+        },
+        {
+          "timestampMillis": 1780416400536
+        },
+        {
+          "timestampMillis": 1780416407353
+        },
+        {
+          "timestampMillis": 1780416408702
         }
       ]
     },
@@ -581,7 +593,7 @@
     {
       "path": "Templates/inbox template.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780395181190
@@ -597,6 +609,15 @@
         },
         {
           "timestampMillis": 1780396349215
+        },
+        {
+          "timestampMillis": 1780416388616
+        },
+        {
+          "timestampMillis": 1780416401083
+        },
+        {
+          "timestampMillis": 1780416409749
         }
       ]
     },
@@ -863,7 +884,7 @@
     {
       "path": "Inbox/Obsidian.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
@@ -876,6 +897,9 @@
         },
         {
           "timestampMillis": 1780416180491
+        },
+        {
+          "timestampMillis": 1780416419520
         }
       ]
     },
@@ -898,6 +922,22 @@
         },
         {
           "timestampMillis": 1780415513321
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780416391834
+        },
+        {
+          "timestampMillis": 1780416398292
+        },
+        {
+          "timestampMillis": 1780416407864
         }
       ]
     }

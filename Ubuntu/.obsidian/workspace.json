@@ -56,6 +56,30 @@
             }
           },
           {
+            "id": "c4d093c495275b0a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          },
+          {
             "id": "5389db7de63f7227",
             "type": "leaf",
             "state": {
@@ -274,9 +298,11 @@
   },
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
+    "Templates/inbox template.md",
     "Daily/2026-06-02.md",
-    "Inbox/Password manager.md",
+    "Inbox/Untitled.md",
     "Inbox/Obsidian.md",
+    "Inbox/Password manager.md",
     "Inbox/Obsidian Hotkeys.md",
     "Archive/attachments/Pasted image 20260403081313.png",
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
@@ -299,9 +325,7 @@
     "Areas/Home server/Syncthing.md",
     "Areas/Home server/Stack over flow.md",
     "Areas/Home server/rclone.md",
-    "Areas/Home server/HomeLab - Getting Started.md",
     "2026/06",
-    "Templates/inbox template.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
