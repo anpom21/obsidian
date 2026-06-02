@@ -79,8 +79,7 @@
               "title": "2026-06-02"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,8 +125,8 @@
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           },
           {
@@ -237,8 +236,8 @@
             "state": {
               "type": "view-count",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "view-count"
+              "icon": "eye",
+              "title": "View count"
             }
           },
           {
@@ -266,10 +265,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "492feb4dd995558e",
+  "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
     "Daily/2026-06-02.md",
     "Inbox/Password manager.md",
