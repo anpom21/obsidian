@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Linux/Chezmoi.md",
+                "file": "Daily/2026-06-02.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Chezmoi"
+              "title": "2026-06-02"
+            }
+          },
+          {
+            "id": "492feb4dd995558e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Obsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Obsidian"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -50,7 +75,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Obsidian",
+                "query": "obsi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,19 +104,6 @@
               "state": {},
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
-            }
-          },
-          {
-            "id": "492c31271887f90c",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
             }
           }
         ]
@@ -162,13 +174,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Areas/Linux/Chezmoi.md",
+                "file": "Inbox/Obsidian.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Chezmoi"
+              "title": "Outline of Obsidian"
             }
           },
           {
@@ -223,13 +235,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2e345fb0c895ab0",
+  "active": "492feb4dd995558e",
   "lastOpenFiles": [
-    "Areas/Linux/Zsh.md",
-    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
-    "Archive/attachments/Pasted image 20260403081313.png",
+    "Inbox/Obsidian.md",
     "Daily/2026-06-02.md",
     "Inbox/Obsidian Hotkeys.md",
+    "Archive/attachments/Pasted image 20260403081313.png",
+    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
+    "Areas/Linux/Zsh.md",
+    "Areas/Linux/Chezmoi.md",
     "Daily/2026-06-03.md",
     "Bolbro Discgolf.md",
     "Hjem.md",
@@ -238,7 +252,6 @@
     "Template.md",
     "2026/06/20260603.md",
     "Inbox/2026-06-02 - wassup.md",
-    "Inbox/Obsidian.md",
     "Templates/daily.md",
     "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
     "Inbox/2026-06-02 - testo.md",
@@ -251,8 +264,6 @@
     "Areas/Home server/HomeLab - Getting Started.md",
     "2026/06",
     "Templates/inbox template.md",
-    "Templates/new meeting template.md",
-    "Templates/new person template.md",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
     "Archive/attachments/Pasted image 20251230213056.png",
