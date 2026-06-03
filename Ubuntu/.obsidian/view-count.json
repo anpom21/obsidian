@@ -632,7 +632,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 37,
+      "totalTimesOpened": 38,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -744,6 +744,9 @@
         },
         {
           "timestampMillis": 1780493708782
+        },
+        {
+          "timestampMillis": 1780493986615
         }
       ]
     },
@@ -1021,7 +1024,7 @@
     {
       "path": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780489318038
@@ -1034,6 +1037,12 @@
         },
         {
           "timestampMillis": 1780493746966
+        },
+        {
+          "timestampMillis": 1780493970724
+        },
+        {
+          "timestampMillis": 1780493979420
         }
       ]
     }

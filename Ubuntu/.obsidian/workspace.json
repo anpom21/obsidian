@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "d7d2c0aa095cd0fe",
+        "id": "a83f7ecf77aad180",
         "type": "tabs",
         "children": [
           {
-            "id": "ce207a5f337c4597",
+            "id": "8ac34a620426df0b",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md"
+                "file": "Daily/2026-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "2026-06-03 2026-06-03 14.21.57.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-06-03"
             }
           }
         ]
@@ -161,13 +173,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
+                "file": "Daily/2026-06-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-03 2026-06-03 14.21.57.excalidraw"
+              "title": "Outline of 2026-06-03"
             }
           },
           {
@@ -213,12 +225,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ce207a5f337c4597",
+  "active": "8ac34a620426df0b",
   "lastOpenFiles": [
+    "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
+    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Daily/2026-06-03.md",
     "Test hi.md",
     "conflict-files-obsidian-git.md",
-    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
     "Tasks.md",
     "Inbox/Untitled.md",
@@ -247,7 +260,6 @@
     "Bolbro Discgolf.md",
     "Hjem.md",
     "Areas/Linux/Ubuntu.md",
-    "Inbox/DataView.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
