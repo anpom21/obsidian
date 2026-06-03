@@ -159,5 +159,14 @@
     }
   ],
   "obsidian-editor-shortcuts:insertLineBelow": [],
-  "editor:open-link-in-new-leaf": []
+  "editor:open-link-in-new-leaf": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertLineAbove": []
 }

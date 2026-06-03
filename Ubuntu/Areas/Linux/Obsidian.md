@@ -51,5 +51,5 @@ heyo
 - [ ] fix backup script
 
 ## Project: Home server
-- [ ] update Syncthing config 📅 2026-06-05
+- [ ] update Syncthing config 📅 2026-07-09
 - [ ] check rclone restore flow #waiting

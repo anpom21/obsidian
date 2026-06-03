@@ -104,7 +104,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -297,11 +297,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4d093c495275b0a",
+  "active": "7ae7c06ff5569a2a",
   "lastOpenFiles": [
+    "Daily/2026-06-03.md",
     "Daily/2026-06-02.md",
     "Inbox/Tasks.md",
-    "Daily/2026-06-03.md",
     "Areas/Linux/Obsidian.md",
     "Inbox/Untitled.base",
     "Inbox/Untitled.canvas",

@@ -986,13 +986,16 @@
     {
       "path": "Inbox/Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780469452319
         },
         {
           "timestampMillis": 1780469748266
+        },
+        {
+          "timestampMillis": 1780470322807
         }
       ]
     }
