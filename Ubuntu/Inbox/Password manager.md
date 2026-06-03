@@ -8,3 +8,4 @@ aliases:
 ---
 
 [[todo]]
+- [ ] Password manager 🔽 #agent 
