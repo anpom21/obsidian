@@ -3,7 +3,7 @@
     {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 81,
+      "totalTimesOpened": 88,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -247,6 +247,27 @@
         },
         {
           "timestampMillis": 1780471695748
+        },
+        {
+          "timestampMillis": 1780479975477
+        },
+        {
+          "timestampMillis": 1780479978404
+        },
+        {
+          "timestampMillis": 1780479996550
+        },
+        {
+          "timestampMillis": 1780480111811
+        },
+        {
+          "timestampMillis": 1780480118310
+        },
+        {
+          "timestampMillis": 1780480122600
+        },
+        {
+          "timestampMillis": 1780480134756
         }
       ]
     },
@@ -447,14 +468,20 @@
     },
     {
       "path": "Projects/Blender.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780394286511
         },
         {
           "timestampMillis": 1780394389772
+        },
+        {
+          "timestampMillis": 1780480127445
+        },
+        {
+          "timestampMillis": 1780480135496
         }
       ]
     },
@@ -632,7 +659,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 33,
+      "totalTimesOpened": 41,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -732,6 +759,30 @@
         },
         {
           "timestampMillis": 1780479799529
+        },
+        {
+          "timestampMillis": 1780479973792
+        },
+        {
+          "timestampMillis": 1780479976249
+        },
+        {
+          "timestampMillis": 1780479994113
+        },
+        {
+          "timestampMillis": 1780479997698
+        },
+        {
+          "timestampMillis": 1780480093044
+        },
+        {
+          "timestampMillis": 1780480093809
+        },
+        {
+          "timestampMillis": 1780480112652
+        },
+        {
+          "timestampMillis": 1780480119323
         }
       ]
     },
@@ -856,7 +907,7 @@
     {
       "path": "Areas/Linux/Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 15,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
@@ -902,13 +953,16 @@
         },
         {
           "timestampMillis": 1780470613400
+        },
+        {
+          "timestampMillis": 1780479894527
         }
       ]
     },
     {
       "path": "Inbox/Password manager.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780414848986
@@ -927,16 +981,34 @@
         },
         {
           "timestampMillis": 1780479841638
+        },
+        {
+          "timestampMillis": 1780480014676
         }
       ]
     },
     {
       "path": "Daily/2026-06-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780470905721
+        },
+        {
+          "timestampMillis": 1780479974901
+        },
+        {
+          "timestampMillis": 1780479975893
+        },
+        {
+          "timestampMillis": 1780479978087
+        },
+        {
+          "timestampMillis": 1780480114685
+        },
+        {
+          "timestampMillis": 1780480120720
         }
       ]
     },

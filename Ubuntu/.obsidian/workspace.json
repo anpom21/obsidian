@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "1196f46bce04421f",
+        "id": "57327669ba9e4f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "2aaea060cce4c77d",
+            "id": "0215d0571edf5136",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/DataView.md",
+                "file": "Projects/Blender.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DataView"
+              "title": "Blender"
             }
           }
         ]
@@ -226,12 +226,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2aaea060cce4c77d",
+  "active": "0215d0571edf5136",
   "lastOpenFiles": [
+    "Daily/2026-06-02.md",
+    "Projects/Blender.md",
+    "Daily/2026-06-06.md",
+    "Daily/2026-06-03.md",
+    "Areas/Linux/Obsidian.md",
+    "Inbox/DataView.md",
     "Inbox/Obsidian Hotkeys.md",
     "Inbox/Password manager.md",
-    "Inbox/DataView.md",
-    "Daily/2026-06-03.md",
     "Tasks.md",
     "Speciale.md",
     "meetings.base",
@@ -247,11 +251,8 @@
     "References/LaTeX Ubuntu.md",
     "References/Geolocations",
     "References",
-    "Projects/Blender.md",
     "Projects",
     "Inbox",
-    "Daily/2026-06-06.md",
-    "Daily/2026-06-02.md",
     "Daily",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
@@ -273,7 +274,6 @@
     "Areas/Linux/Zsh.md",
     "Areas/Linux/Ubuntu.md",
     "Areas/Linux/TO Linux.md",
-    "Areas/Linux/Systemctl.md",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]
