@@ -1096,7 +1096,7 @@
     {
       "path": "References/UNI/MasterThesisCasperAndreas.pdf",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780495216748
@@ -1112,6 +1112,9 @@
         },
         {
           "timestampMillis": 1780495892326
+        },
+        {
+          "timestampMillis": 1780496340822
         }
       ]
     }
