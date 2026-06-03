@@ -695,7 +695,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 25,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -771,6 +771,9 @@
         },
         {
           "timestampMillis": 1780469318761
+        },
+        {
+          "timestampMillis": 1780469744539
         }
       ]
     },
@@ -974,10 +977,13 @@
     {
       "path": "Inbox/Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780469452319
+        },
+        {
+          "timestampMillis": 1780469748266
         }
       ]
     }

@@ -5,6 +5,9 @@ source:
 aliases:
 ---
 not done
+
+
+
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
 #   '- [ ] ' or
@@ -14,7 +17,7 @@ not done
 not done
 
 # Tasks due today or earlier:
-due before tomorrow
+# due before tomorrow
 
 # Restrict to at most 100 tasks.
 # If you ask Tasks to display many hundreds or thousands of tasks,
@@ -29,3 +32,9 @@ sort by description
 # Optionally, ask Tasks to explain how it interpreted this query:
 explain
 ```
+
+- [ ] ➕ 2026-06-03  heyo wassup 📅 2026-06-03 
+- [ ] write summary
+- [ ] pay electricity bill #todo
+- [ ] follow up with Anna #tasks
+- [x]  ✅ 2026-06-03

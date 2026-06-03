@@ -4,5 +4,11 @@
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
   "openBehavior": "daily",
-  "trashOption": "local"
+  "trashOption": "local",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
 }
