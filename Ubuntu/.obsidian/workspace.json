@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled.md",
+                "file": "Daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,35 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "5389db7de63f7227",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-06-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "2026-06-03"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,15 +297,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ae7c06ff5569a2a",
+  "active": "c4d093c495275b0a",
   "lastOpenFiles": [
+    "Daily/2026-06-02.md",
+    "Inbox/Tasks.md",
     "Daily/2026-06-03.md",
     "Areas/Linux/Obsidian.md",
-    "Inbox/Tasks.md",
     "Inbox/Untitled.base",
     "Inbox/Untitled.canvas",
     "Archive/attachments/Pasted image 20260603084423.png",
-    "Daily/2026-06-02.md",
     "Templates/inbox template.md",
     "Inbox/Untitled.md",
     "Inbox/Password manager.md",

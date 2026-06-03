@@ -33,8 +33,3 @@ sort by description
 explain
 ```
 
-- [ ] ➕ 2026-06-03  heyo wassup 📅 2026-06-03 
-- [ ] write summary
-- [ ] pay electricity bill #todo
-- [ ] follow up with Anna #tasks
-- [x]  ✅ 2026-06-03

@@ -150,6 +150,14 @@
     }
   ],
   "editor:delete-paragraph": [],
-  "editor:toggle-checklist-status": [],
-  "obsidian-editor-shortcuts:insertLineBelow": []
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "obsidian-editor-shortcuts:insertLineBelow": [],
+  "editor:open-link-in-new-leaf": []
 }
