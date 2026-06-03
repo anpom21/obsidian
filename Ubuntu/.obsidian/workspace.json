@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-03.md",
+                "file": "Inbox/DataView.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-03"
+              "title": "DataView"
             }
           }
         ]
@@ -83,8 +83,21 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "958b04bca56a0989",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "pinned": true,
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -215,10 +228,13 @@
   },
   "active": "2aaea060cce4c77d",
   "lastOpenFiles": [
+    "Inbox/Obsidian Hotkeys.md",
+    "Inbox/Password manager.md",
+    "Inbox/DataView.md",
+    "Daily/2026-06-03.md",
     "Tasks.md",
     "Speciale.md",
     "meetings.base",
-    "Daily/2026-06-03.md",
     "Templates/new-post-video-template-clipper.json",
     "Templates/new person template.md",
     "Templates/new meeting template.md",
@@ -233,9 +249,6 @@
     "References",
     "Projects/Blender.md",
     "Projects",
-    "Inbox/Password manager.md",
-    "Inbox/Obsidian Hotkeys.md",
-    "Inbox/DataView.md",
     "Inbox",
     "Daily/2026-06-06.md",
     "Daily/2026-06-02.md",

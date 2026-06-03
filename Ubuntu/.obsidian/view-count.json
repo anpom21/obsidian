@@ -632,7 +632,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 32,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -729,6 +729,9 @@
         },
         {
           "timestampMillis": 1780479234941
+        },
+        {
+          "timestampMillis": 1780479799529
         }
       ]
     },
@@ -790,18 +793,27 @@
     },
     {
       "path": "Inbox/DataView.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780397582383
+        },
+        {
+          "timestampMillis": 1780479838443
+        },
+        {
+          "timestampMillis": 1780479839394
+        },
+        {
+          "timestampMillis": 1780479851637
         }
       ]
     },
     {
       "path": "Inbox/Obsidian Hotkeys.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1780411841439
@@ -829,6 +841,15 @@
         },
         {
           "timestampMillis": 1780414570043
+        },
+        {
+          "timestampMillis": 1780479839004
+        },
+        {
+          "timestampMillis": 1780479840539
+        },
+        {
+          "timestampMillis": 1780479851453
         }
       ]
     },
@@ -886,8 +907,8 @@
     },
     {
       "path": "Inbox/Password manager.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780414848986
@@ -903,6 +924,9 @@
         },
         {
           "timestampMillis": 1780415513321
+        },
+        {
+          "timestampMillis": 1780479841638
         }
       ]
     },
