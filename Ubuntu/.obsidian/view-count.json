@@ -632,7 +632,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 30,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -723,6 +723,12 @@
         },
         {
           "timestampMillis": 1780472032816
+        },
+        {
+          "timestampMillis": 1780488505628
+        },
+        {
+          "timestampMillis": 1780488564899
         }
       ]
     },
@@ -919,7 +925,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -968,6 +974,22 @@
         },
         {
           "timestampMillis": 1780472356919
+        },
+        {
+          "timestampMillis": 1780488508462
+        },
+        {
+          "timestampMillis": 1780488513568
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780488512545
         }
       ]
     }

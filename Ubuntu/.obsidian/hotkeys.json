@@ -177,5 +177,15 @@
       ],
       "key": "T"
     }
-  ]
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-editor-shortcuts:duplicateLine": []
 }

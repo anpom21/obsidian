@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-06-03"
             }
           }
         ]
@@ -227,10 +227,11 @@
   "active": "ce207a5f337c4597",
   "lastOpenFiles": [
     "Tasks.md",
+    "Inbox/Untitled.md",
+    "Daily/2026-06-03.md",
     "Daily/2026-06-02.md",
     "Areas/Linux/Obsidian.md",
     "open-tasks",
-    "Daily/2026-06-03.md",
     "References/Geolocations/Bolbro Discgolf.md",
     "References/Geolocations/Hjem.md",
     "References/Geolocations",
@@ -244,7 +245,6 @@
     "Inbox/Untitled.canvas",
     "Archive/attachments/Pasted image 20260603084423.png",
     "Templates/inbox template.md",
-    "Inbox/Untitled.md",
     "Inbox/Password manager.md",
     "Inbox/Obsidian Hotkeys.md",
     "Archive/attachments/Pasted image 20260403081313.png",
