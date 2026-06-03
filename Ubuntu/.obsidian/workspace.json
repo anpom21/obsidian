@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Obsidian.md",
+                "file": "Areas/Linux/Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,6 +29,30 @@
               },
               "icon": "lucide-file",
               "title": "Obsidian"
+            }
+          },
+          {
+            "id": "7ae7c06ff5569a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
             }
           },
           {
@@ -103,7 +127,8 @@
               "title": "2026-06-02"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -296,14 +321,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b2e345fb0c895ab0",
+  "active": "7ae7c06ff5569a2a",
   "lastOpenFiles": [
+    "Areas/Linux/Obsidian.md",
+    "Inbox/Tasks.md",
+    "Inbox/Untitled.base",
+    "Inbox/Untitled.canvas",
     "Daily/2026-06-03.md",
     "Archive/attachments/Pasted image 20260603084423.png",
     "Daily/2026-06-02.md",
     "Templates/inbox template.md",
     "Inbox/Untitled.md",
-    "Inbox/Obsidian.md",
     "Inbox/Password manager.md",
     "Inbox/Obsidian Hotkeys.md",
     "Archive/attachments/Pasted image 20260403081313.png",
@@ -337,7 +365,6 @@
     "Inbox",
     "Literature",
     "Projects",
-    "meetings.base",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",

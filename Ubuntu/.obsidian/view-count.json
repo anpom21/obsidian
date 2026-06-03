@@ -480,14 +480,20 @@
     },
     {
       "path": "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780394356036
         },
         {
           "timestampMillis": 1780397221950
+        },
+        {
+          "timestampMillis": 1780469339873
+        },
+        {
+          "timestampMillis": 1780469383717
         }
       ]
     },
@@ -689,7 +695,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 24,
+      "totalTimesOpened": 25,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -762,6 +768,9 @@
         },
         {
           "timestampMillis": 1780469062619
+        },
+        {
+          "timestampMillis": 1780469318761
         }
       ]
     },
@@ -897,9 +906,9 @@
       ]
     },
     {
-      "path": "Inbox/Obsidian.md",
+      "path": "Areas/Linux/Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
@@ -918,6 +927,9 @@
         },
         {
           "timestampMillis": 1780469169576
+        },
+        {
+          "timestampMillis": 1780469394583
         }
       ]
     },
@@ -956,6 +968,16 @@
         },
         {
           "timestampMillis": 1780416407864
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780469452319
         }
       ]
     }
