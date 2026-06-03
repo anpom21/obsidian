@@ -35,18 +35,6 @@
             "id": "78ab02ff7d8e9aca",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "References/UNI/MasterThesisCasperAndreas.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "MasterThesisCasperAndreas"
-            }
-          },
-          {
-            "id": "c507db14987c3abb",
-            "type": "leaf",
-            "state": {
               "type": "excalidraw",
               "state": {
                 "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md"
@@ -56,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -250,13 +238,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c507db14987c3abb",
+  "active": "78ab02ff7d8e9aca",
   "lastOpenFiles": [
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+    "Projects/Blender.md",
     "Inbox/Meeting - 11.00.md",
     "References/UNI",
-    "Projects/Blender.md",
     "Daily/2026-06-03.md",
     "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
     "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
