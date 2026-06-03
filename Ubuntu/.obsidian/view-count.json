@@ -447,14 +447,17 @@
     },
     {
       "path": "Projects/Blender.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780394286511
         },
         {
           "timestampMillis": 1780394389772
+        },
+        {
+          "timestampMillis": 1780495209982
         }
       ]
     },
@@ -1052,23 +1055,45 @@
     {
       "path": "Inbox/Meeting - 11.00.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780495000333
         },
         {
           "timestampMillis": 1780495094722
+        },
+        {
+          "timestampMillis": 1780495296552
         }
       ]
     },
     {
       "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780495129240
+        },
+        {
+          "timestampMillis": 1780495298025
+        },
+        {
+          "timestampMillis": 1780495302931
+        }
+      ]
+    },
+    {
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780495216748
+        },
+        {
+          "timestampMillis": 1780495299161
         }
       ]
     }
