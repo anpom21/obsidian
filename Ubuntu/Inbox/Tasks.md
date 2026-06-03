@@ -6,7 +6,7 @@ aliases:
 ---
 
 
-# All tasks
+# This week
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
 #   '- [ ] ' or
@@ -28,6 +28,53 @@ group by filename
 sort by description
 
 # Optionally, ask Tasks to explain how it interpreted this query:
+```
+
+# Work tasks
+```tasks
+not done
+
+# Tags including
+tag includes #work
+
+# Restrict to at most 100 tasks.
+limit 100
+
+# Group and sort the output:
+group by filename
+sort by description
+
+```
+# Home tasks
+```tasks
+not done
+
+# Tags including
+tag includes #home 
+
+# Restrict to at most 100 tasks.
+limit 100
+
+# Group and sort the output:
+group by filename
+sort by description
+
+```
+
+# Tasks waiting
+```tasks
+not done
+
+# Tags including
+tag includes #waiting 
+
+# Restrict to at most 100 tasks.
+limit 100
+
+# Group and sort the output:
+group by filename
+sort by description
+
 ```
 
 

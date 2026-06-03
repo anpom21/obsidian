@@ -917,7 +917,7 @@
     {
       "path": "Areas/Linux/Obsidian.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
@@ -939,6 +939,30 @@
         },
         {
           "timestampMillis": 1780469394583
+        },
+        {
+          "timestampMillis": 1780470563087
+        },
+        {
+          "timestampMillis": 1780470572525
+        },
+        {
+          "timestampMillis": 1780470580901
+        },
+        {
+          "timestampMillis": 1780470582124
+        },
+        {
+          "timestampMillis": 1780470593562
+        },
+        {
+          "timestampMillis": 1780470597963
+        },
+        {
+          "timestampMillis": 1780470599496
+        },
+        {
+          "timestampMillis": 1780470613400
         }
       ]
     },
@@ -986,7 +1010,7 @@
     {
       "path": "Inbox/Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780469452319
@@ -996,6 +1020,18 @@
         },
         {
           "timestampMillis": 1780470322807
+        },
+        {
+          "timestampMillis": 1780470565730
+        },
+        {
+          "timestampMillis": 1780470583479
+        },
+        {
+          "timestampMillis": 1780470600559
+        },
+        {
+          "timestampMillis": 1780470616340
         }
       ]
     }
