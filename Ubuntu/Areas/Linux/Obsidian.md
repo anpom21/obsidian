@@ -46,10 +46,10 @@ heyo
 - **Doubleshift:** Open command palette by pressing Shift twice and create custom shortcuts.
   Example: Press Shift twice to open the palette and run a custom "Insert meeting template" command.
 ## Inbox
-- [ ] book dentist
-- [ ] reply to Mika
-- [ ] fix backup script
+- [x] book dentist ✅ 2026-06-03
+- [x] reply to Mika ✅ 2026-06-03
+- [x] fix backup script ✅ 2026-06-03
 
 ## Project: Home server
-- [ ] update Syncthing config 📅 2026-06-07
-- [ ] check rclone restore flow #waiting
+- [x] update Syncthing config 📅 2026-06-07 ✅ 2026-06-03
+- [x] check rclone restore flow #waiting ✅ 2026-06-03

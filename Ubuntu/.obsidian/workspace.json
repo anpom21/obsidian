@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Tasks.md",
+                "file": "Daily/2026-06-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-06-06"
             }
           },
           {
@@ -299,8 +299,9 @@
   },
   "active": "7ae7c06ff5569a2a",
   "lastOpenFiles": [
-    "Areas/Linux/Obsidian.md",
     "Inbox/Tasks.md",
+    "Daily/2026-06-06.md",
+    "Areas/Linux/Obsidian.md",
     "Daily/2026-06-03.md",
     "Daily/2026-06-02.md",
     "Inbox/Untitled.base",
@@ -328,7 +329,6 @@
     "Inbox/2026-06-02.md",
     "Areas/Home server/Testing.md",
     "Areas/Home server/Syncthing.md",
-    "Areas/Home server/Stack over flow.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
