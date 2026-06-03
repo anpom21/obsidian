@@ -4,59 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2a957559a17a6f48",
+        "id": "d7d2c0aa095cd0fe",
         "type": "tabs",
         "children": [
           {
-            "id": "b2e345fb0c895ab0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Areas/Linux/Obsidian.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian"
-            }
-          },
-          {
-            "id": "492feb4dd995558e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-06-02.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-02"
-            }
-          },
-          {
-            "id": "c4d093c495275b0a",
+            "id": "ce207a5f337c4597",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -79,8 +31,7 @@
               "title": "Tasks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +94,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -272,12 +224,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c4d093c495275b0a",
+  "active": "ce207a5f337c4597",
   "lastOpenFiles": [
-    "open-tasks",
-    "Daily/2026-06-03.md",
     "Tasks.md",
     "Daily/2026-06-02.md",
+    "Areas/Linux/Obsidian.md",
+    "open-tasks",
+    "Daily/2026-06-03.md",
     "References/Geolocations/Bolbro Discgolf.md",
     "References/Geolocations/Hjem.md",
     "References/Geolocations",
@@ -287,7 +240,6 @@
     "Areas/Development",
     "Inbox/Tasks.md",
     "Daily/2026-06-06.md",
-    "Areas/Linux/Obsidian.md",
     "Inbox/Untitled.base",
     "Inbox/Untitled.canvas",
     "Archive/attachments/Pasted image 20260603084423.png",
@@ -315,7 +267,6 @@
     "Archive",
     "Areas",
     "Daily",
-    "Inbox",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
