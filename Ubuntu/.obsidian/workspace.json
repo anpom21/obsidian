@@ -42,47 +42,9 @@
               "icon": "excalidraw-icon",
               "title": "2026-06-03 2026-06-03 14.21.57.excalidraw"
             }
-          },
-          {
-            "id": "010ff7cda6b08414",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Ubuntu/.obsidian/community-plugins.json",
-                "bFile": "Ubuntu/.obsidian/community-plugins.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: community-plugins.json  (Working Tree)"
-            }
-          },
-          {
-            "id": "d0c866db1d5ea4d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,13 +186,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conflict-files-obsidian-git"
+              "title": "Outline"
             }
           },
           {
@@ -276,10 +237,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "d0c866db1d5ea4d5",
+  "active": "d818cd2518ee6e53",
   "lastOpenFiles": [
-    "Daily/2026-06-03.md",
     "conflict-files-obsidian-git.md",
+    "Daily/2026-06-03.md",
     "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
     "Tasks.md",

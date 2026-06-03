@@ -1030,19 +1030,6 @@
           "timestampMillis": 1780489335540
         }
       ]
-    },
-    {
-      "path": "conflict-files-obsidian-git.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1780490008636
-        },
-        {
-          "timestampMillis": 1780490046263
-        }
-      ]
     }
   ]
 }
