@@ -178,22 +178,15 @@
       "key": "T"
     }
   ],
-  "daily-notes:goto-next": [
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "various-complements:reload-custom-dictionaries": [],
+  "daily-notes": [
     {
       "modifiers": [
         "Mod",
         "Shift"
       ],
       "key": "D"
-    },
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "R"
     }
-  ],
-  "obsidian-editor-shortcuts:duplicateLine": [],
-  "various-complements:reload-custom-dictionaries": []
+  ]
 }

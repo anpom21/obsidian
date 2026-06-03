@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Blender.md",
+                "file": "Daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Blender"
+              "title": "2026-06-03"
             }
           }
         ]
@@ -228,8 +228,8 @@
   },
   "active": "0215d0571edf5136",
   "lastOpenFiles": [
-    "Daily/2026-06-02.md",
     "Projects/Blender.md",
+    "Daily/2026-06-02.md",
     "Daily/2026-06-06.md",
     "Daily/2026-06-03.md",
     "Areas/Linux/Obsidian.md",
