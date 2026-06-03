@@ -296,9 +296,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "7ae7c06ff5569a2a",
   "lastOpenFiles": [
     "Daily/2026-06-02.md",
+    "Tasks.md",
     "Daily/2026-06-03.md",
     "References/Geolocations/Bolbro Discgolf.md",
     "References/Geolocations/Hjem.md",
@@ -307,7 +308,6 @@
     "Areas/Development/VSCode.md",
     "Areas/Development/UV.md",
     "Areas/Development",
-    "Tasks.md",
     "Inbox/Tasks.md",
     "Daily/2026-06-06.md",
     "Areas/Linux/Obsidian.md",
