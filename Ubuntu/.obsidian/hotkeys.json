@@ -178,6 +178,8 @@
       "key": "T"
     }
   ],
+  "obsidian-editor-shortcuts:duplicateLine": [],
+  "various-complements:reload-custom-dictionaries": [],
   "daily-notes": [
     {
       "modifiers": [
@@ -186,6 +188,5 @@
       ],
       "key": "D"
     }
-  ],
-  "obsidian-editor-shortcuts:duplicateLine": []
+  ]
 }

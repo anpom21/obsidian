@@ -632,7 +632,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 32,
+      "totalTimesOpened": 36,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -729,6 +729,18 @@
         },
         {
           "timestampMillis": 1780488564899
+        },
+        {
+          "timestampMillis": 1780489272530
+        },
+        {
+          "timestampMillis": 1780489325621
+        },
+        {
+          "timestampMillis": 1780489330967
+        },
+        {
+          "timestampMillis": 1780490043274
         }
       ]
     },
@@ -990,6 +1002,45 @@
       "openLogs": [
         {
           "timestampMillis": 1780488512545
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780489250263
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780489318038
+        },
+        {
+          "timestampMillis": 1780489329583
+        },
+        {
+          "timestampMillis": 1780489335540
+        }
+      ]
+    },
+    {
+      "path": "conflict-files-obsidian-git.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780490008636
+        },
+        {
+          "timestampMillis": 1780490046263
         }
       ]
     }
