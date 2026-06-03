@@ -35,14 +35,40 @@
             "id": "c507db14987c3abb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Meeting - 11.00.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Meeting - 11.00"
+            }
+          },
+          {
+            "id": "78ab02ff7d8e9aca",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Meeting - 11.00 2026-06-03 15.58.49.excalidraw"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -184,12 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Meeting - 11.00 2026-06-03 15.58.49.excalidraw"
             }
           },
           {
@@ -235,8 +262,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "c507db14987c3abb",
+  "active": "78ab02ff7d8e9aca",
   "lastOpenFiles": [
+    "Inbox/Meeting - 11.00.md",
+    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "Daily/2026-06-03.md",
     "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
     "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
@@ -268,8 +297,6 @@
     "Areas/Linux/Zsh.md",
     "Areas/Linux/Chezmoi.md",
     "Bolbro Discgolf.md",
-    "Hjem.md",
-    "Areas/Linux/Ubuntu.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
