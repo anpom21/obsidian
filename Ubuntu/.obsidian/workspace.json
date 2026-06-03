@@ -212,6 +212,16 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7e78cfd54f544282",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
           }
         ],
         "currentTab": 4
@@ -232,7 +242,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d7620e00948a62ac",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
     "meetings.base",
     "Templates/new-post-video-template-clipper.json",
