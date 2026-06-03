@@ -12,8 +12,8 @@
     },
     {
       "path": "Daily/2026-06-02.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 77,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 78,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -245,6 +245,9 @@
         },
         {
           "timestampMillis": 1780416572671
+        },
+        {
+          "timestampMillis": 1780469011039
         }
       ]
     },
@@ -685,8 +688,8 @@
     },
     {
       "path": "Daily/2026-06-03.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 21,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -750,6 +753,15 @@
         },
         {
           "timestampMillis": 1780414439156
+        },
+        {
+          "timestampMillis": 1780468989337
+        },
+        {
+          "timestampMillis": 1780469012777
+        },
+        {
+          "timestampMillis": 1780469062619
         }
       ]
     },
@@ -886,8 +898,8 @@
     },
     {
       "path": "Inbox/Obsidian.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780414612538
@@ -903,6 +915,9 @@
         },
         {
           "timestampMillis": 1780416419520
+        },
+        {
+          "timestampMillis": 1780469169576
         }
       ]
     },

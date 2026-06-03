@@ -45,3 +45,11 @@ heyo
   Example: Click an inline code snippet like `npm install` to copy it to clipboard.
 - **Doubleshift:** Open command palette by pressing Shift twice and create custom shortcuts.
   Example: Press Shift twice to open the palette and run a custom "Insert meeting template" command.
+## Inbox
+- [ ] book dentist
+- [ ] reply to Mika
+- [ ] fix backup script
+
+## Project: Home server
+- [ ] update Syncthing config 📅 2026-06-05
+- [ ] check rclone restore flow #waiting

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-02.md",
+                "file": "Inbox/Obsidian.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-02"
+              "title": "Obsidian"
             }
           },
           {
@@ -298,8 +298,10 @@
   },
   "active": "b2e345fb0c895ab0",
   "lastOpenFiles": [
-    "Templates/inbox template.md",
+    "Daily/2026-06-03.md",
+    "Archive/attachments/Pasted image 20260603084423.png",
     "Daily/2026-06-02.md",
+    "Templates/inbox template.md",
     "Inbox/Untitled.md",
     "Inbox/Obsidian.md",
     "Inbox/Password manager.md",
@@ -308,7 +310,6 @@
     "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
     "Areas/Linux/Zsh.md",
     "Areas/Linux/Chezmoi.md",
-    "Daily/2026-06-03.md",
     "Bolbro Discgolf.md",
     "Hjem.md",
     "Areas/Linux/Ubuntu.md",
@@ -324,7 +325,6 @@
     "Areas/Home server/Testing.md",
     "Areas/Home server/Syncthing.md",
     "Areas/Home server/Stack over flow.md",
-    "Areas/Home server/rclone.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
@@ -343,7 +343,6 @@
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
     "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
-    "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
