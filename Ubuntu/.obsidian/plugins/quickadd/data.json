@@ -40,7 +40,17 @@
       "macro": {
         "name": "Open Tasks",
         "id": "98fe6bf2-d71f-48ea-b4f1-4deb2e6198bc",
-        "commands": []
+        "commands": [
+          {
+            "filePath": "Tasks.md",
+            "type": "OpenFile",
+            "id": "plSSnBAbL2GMR6KGmnR_c",
+            "openInNewTab": false,
+            "location": "reuse",
+            "focus": true,
+            "name": "Open file: Tasks.md"
+          }
+        ]
       }
     }
   ],

@@ -168,5 +168,14 @@
       "key": "Enter"
     }
   ],
-  "obsidian-editor-shortcuts:insertLineAbove": []
+  "obsidian-editor-shortcuts:insertLineAbove": [],
+  "quickadd:choice:76ce6afb-569d-4d43-83f4-305eb15a9ed0": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ]
 }

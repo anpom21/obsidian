@@ -61,30 +61,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-03"
-            }
-          },
-          {
-            "id": "7ae7c06ff5569a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
@@ -104,7 +80,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -123,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "task",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -296,11 +272,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ae7c06ff5569a2a",
+  "active": "c4d093c495275b0a",
   "lastOpenFiles": [
-    "Daily/2026-06-02.md",
-    "Tasks.md",
+    "open-tasks",
     "Daily/2026-06-03.md",
+    "Tasks.md",
+    "Daily/2026-06-02.md",
     "References/Geolocations/Bolbro Discgolf.md",
     "References/Geolocations/Hjem.md",
     "References/Geolocations",
@@ -329,7 +306,6 @@
     "Template.md",
     "2026/06/20260603.md",
     "Inbox/2026-06-02 - wassup.md",
-    "Templates/daily.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
