@@ -9,5 +9,10 @@
   "copy-inline-code",
   "obsidian-map-view",
   "notebook-navigator",
-  "quickadd"
+  "quickadd",
+  "simple-time-tracker",
+  "obsidian-tasks-plugin",
+  "templater-obsidian",
+  "various-complements",
+  "view-count"
 ]
