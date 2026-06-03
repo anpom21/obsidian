@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "7ae7c06ff5569a2a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-06-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-03"
-            }
-          },
-          {
             "id": "492feb4dd995558e",
             "type": "leaf",
             "state": {
@@ -102,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2026-06-03"
             }
+          },
+          {
+            "id": "7ae7c06ff5569a2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -123,9 +123,9 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "task",
                 "matchingCase": false,
-                "explainSearch": false,
+                "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -145,16 +145,6 @@
             }
           },
           {
-            "id": "1ee630c582774de1",
-            "type": "leaf",
-            "state": {
-              "type": "notebook-navigator",
-              "state": {},
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
-            }
-          },
-          {
             "id": "4e7393e431b113b6",
             "type": "leaf",
             "state": {
@@ -166,9 +156,18 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
+          },
+          {
+            "id": "1ee630c582774de1",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -297,13 +296,21 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7ae7c06ff5569a2a",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
+    "Daily/2026-06-02.md",
+    "Daily/2026-06-03.md",
+    "References/Geolocations/Bolbro Discgolf.md",
+    "References/Geolocations/Hjem.md",
+    "References/Geolocations",
+    "Areas/Home server/Sunshine & Moonlight.md",
+    "Areas/Development/VSCode.md",
+    "Areas/Development/UV.md",
+    "Areas/Development",
+    "Tasks.md",
     "Inbox/Tasks.md",
     "Daily/2026-06-06.md",
     "Areas/Linux/Obsidian.md",
-    "Daily/2026-06-03.md",
-    "Daily/2026-06-02.md",
     "Inbox/Untitled.base",
     "Inbox/Untitled.canvas",
     "Archive/attachments/Pasted image 20260603084423.png",
@@ -323,12 +330,6 @@
     "2026/06/20260603.md",
     "Inbox/2026-06-02 - wassup.md",
     "Templates/daily.md",
-    "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
-    "Inbox/2026-06-02 - testo.md",
-    "Inbox/2026-06-02 - test.md",
-    "Inbox/2026-06-02.md",
-    "Areas/Home server/Testing.md",
-    "Areas/Home server/Syncthing.md",
     "2026/06",
     "Archive/attachments/Pasted image 20251212190404.png",
     "Archive/attachments/Pasted image 20251212190407.png",
@@ -339,8 +340,6 @@
     "Areas",
     "Daily",
     "Inbox",
-    "Literature",
-    "Projects",
     "Archive/attachments/Pasted image 20260204215246.png",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",

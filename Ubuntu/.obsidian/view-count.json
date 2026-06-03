@@ -1,19 +1,9 @@
 {
   "items": [
     {
-      "path": "VSCode.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1780390984294
-        }
-      ]
-    },
-    {
       "path": "Daily/2026-06-02.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 79,
+      "totalTimesOpened": 81,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -251,6 +241,12 @@
         },
         {
           "timestampMillis": 1780470006206
+        },
+        {
+          "timestampMillis": 1780471676008
+        },
+        {
+          "timestampMillis": 1780471695748
         }
       ]
     },
@@ -392,28 +388,6 @@
         },
         {
           "timestampMillis": 1780394425844
-        }
-      ]
-    },
-    {
-      "path": "Template.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1780393168039
-        },
-        {
-          "timestampMillis": 1780393177837
-        },
-        {
-          "timestampMillis": 1780395173990
-        },
-        {
-          "timestampMillis": 1780397568269
-        },
-        {
-          "timestampMillis": 1780397578201
         }
       ]
     },
@@ -637,49 +611,6 @@
       ]
     },
     {
-      "path": "Hjem.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
-      "openLogs": [
-        {
-          "timestampMillis": 1780395983279
-        },
-        {
-          "timestampMillis": 1780395990652
-        },
-        {
-          "timestampMillis": 1780396035245
-        },
-        {
-          "timestampMillis": 1780396068507
-        },
-        {
-          "timestampMillis": 1780397112162
-        },
-        {
-          "timestampMillis": 1780397213580
-        },
-        {
-          "timestampMillis": 1780397260987
-        },
-        {
-          "timestampMillis": 1780397273711
-        },
-        {
-          "timestampMillis": 1780411498329
-        },
-        {
-          "timestampMillis": 1780411545640
-        },
-        {
-          "timestampMillis": 1780411803836
-        },
-        {
-          "timestampMillis": 1780411806175
-        }
-      ]
-    },
-    {
       "path": "Templates/daily.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 3,
@@ -698,7 +629,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 28,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -783,6 +714,9 @@
         },
         {
           "timestampMillis": 1780471280572
+        },
+        {
+          "timestampMillis": 1780471404942
         }
       ]
     },
@@ -849,37 +783,6 @@
       "openLogs": [
         {
           "timestampMillis": 1780397582383
-        }
-      ]
-    },
-    {
-      "path": "Bolbro Discgolf.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1780411439869
-        },
-        {
-          "timestampMillis": 1780411534885
-        },
-        {
-          "timestampMillis": 1780411540679
-        },
-        {
-          "timestampMillis": 1780411548274
-        },
-        {
-          "timestampMillis": 1780411801782
-        },
-        {
-          "timestampMillis": 1780411804756
-        },
-        {
-          "timestampMillis": 1780411805303
-        },
-        {
-          "timestampMillis": 1780411806982
         }
       ]
     },
@@ -992,59 +895,22 @@
       ]
     },
     {
-      "path": "Inbox/Untitled.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1780416391834
-        },
-        {
-          "timestampMillis": 1780416398292
-        },
-        {
-          "timestampMillis": 1780416407864
-        },
-        {
-          "timestampMillis": 1780470017326
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
-      "openLogs": [
-        {
-          "timestampMillis": 1780469452319
-        },
-        {
-          "timestampMillis": 1780469748266
-        },
-        {
-          "timestampMillis": 1780470322807
-        },
-        {
-          "timestampMillis": 1780470565730
-        },
-        {
-          "timestampMillis": 1780470583479
-        },
-        {
-          "timestampMillis": 1780470600559
-        },
-        {
-          "timestampMillis": 1780470616340
-        }
-      ]
-    },
-    {
       "path": "Daily/2026-06-06.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
           "timestampMillis": 1780470905721
+        }
+      ]
+    },
+    {
+      "path": "Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780471678803
         }
       ]
     }
