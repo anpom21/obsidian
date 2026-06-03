@@ -30,8 +30,19 @@
               "icon": "lucide-file",
               "title": "2026-06-03"
             }
+          },
+          {
+            "id": "c507db14987c3abb",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,13 +184,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-06-03.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-03"
+              "title": "Outline"
             }
           },
           {
@@ -225,11 +235,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ac34a620426df0b",
+  "active": "c507db14987c3abb",
   "lastOpenFiles": [
+    "Daily/2026-06-03.md",
     "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
     "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
-    "Daily/2026-06-03.md",
     "Test hi.md",
     "conflict-files-obsidian-git.md",
     "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
