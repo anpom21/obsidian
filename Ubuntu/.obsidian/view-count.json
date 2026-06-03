@@ -638,7 +638,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 39,
+      "totalTimesOpened": 40,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -756,6 +756,9 @@
         },
         {
           "timestampMillis": 1780495092693
+        },
+        {
+          "timestampMillis": 1780496361411
         }
       ]
     },
@@ -952,7 +955,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -1007,6 +1010,9 @@
         },
         {
           "timestampMillis": 1780488513568
+        },
+        {
+          "timestampMillis": 1780496383556
         }
       ]
     },
@@ -1074,7 +1080,7 @@
     {
       "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780495129240
@@ -1090,6 +1096,12 @@
         },
         {
           "timestampMillis": 1780495895097
+        },
+        {
+          "timestampMillis": 1780496349785
+        },
+        {
+          "timestampMillis": 1780496403540
         }
       ]
     },
