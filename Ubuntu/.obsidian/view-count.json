@@ -358,8 +358,8 @@
     },
     {
       "path": "meetings.base",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391558949
@@ -369,6 +369,9 @@
         },
         {
           "timestampMillis": 1780393914929
+        },
+        {
+          "timestampMillis": 1780479225171
         }
       ]
     },
@@ -629,7 +632,7 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1780396912541
@@ -723,6 +726,9 @@
         },
         {
           "timestampMillis": 1780477651608
+        },
+        {
+          "timestampMillis": 1780479234941
         }
       ]
     },
@@ -913,7 +919,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -947,6 +953,19 @@
         },
         {
           "timestampMillis": 1780477657098
+        },
+        {
+          "timestampMillis": 1780479229358
+        }
+      ]
+    },
+    {
+      "path": "Speciale.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780479228000
         }
       ]
     }

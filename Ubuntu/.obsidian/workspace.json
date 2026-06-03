@@ -11,10 +11,24 @@
             "id": "2aaea060cce4c77d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "2026-06-03"
             }
           }
         ]
@@ -202,8 +216,9 @@
   "active": "2aaea060cce4c77d",
   "lastOpenFiles": [
     "Tasks.md",
-    "Daily/2026-06-03.md",
+    "Speciale.md",
     "meetings.base",
+    "Daily/2026-06-03.md",
     "Templates/new-post-video-template-clipper.json",
     "Templates/new person template.md",
     "Templates/new meeting template.md",
