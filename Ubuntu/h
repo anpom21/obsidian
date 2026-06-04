@@ -1,0 +1,31 @@
+={"Filament name";"Total rolls";"Ordered by";
+  SORT(
+    HSTACK(
+      UNIQUE(FILTER(A2:A;A2:A<>""));
+      BYROW(
+        UNIQUE(FILTER(A2:A;A2:A<>""));
+        LAMBDA(filament;
+          SUMIF(A2:A;filament;B2:B)
+        )
+      );
+      BYROW(
+        UNIQUE(FILTER(A2:A;A2:A<>""));
+        LAMBDA(filament;
+          TEXTJOIN("; ";TRUE;
+            MAP(
+              UNIQUE(FILTER(IF(F2:F="";"Unknown";F2:F);A2:A=filament));
+              LAMBDA(buyer;
+                buyer & " (" &
+                SUMIFS(
+                  B2:B;
+                  A2:A;filament;
+                  IF(F2:F="";"Unknown";F2:F);buyer
+                ) & ")"
+              )
+            )
+          )
+        )
+      )
+    )
+  )
+}
