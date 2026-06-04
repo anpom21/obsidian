@@ -1,3 +1,18 @@
 [
-  "obsidian-git"
+  "obsidian-git",
+  "notebook-navigator",
+  "copy-inline-code",
+  "auto-template-trigger",
+  "obsidian-doubleshift",
+  "obsidian-map-view",
+  "simple-time-tracker",
+  "various-complements",
+  "view-count",
+  "templater-obsidian",
+  "quickadd",
+  "obsidian-linter",
+  "calendar",
+  "obsidian-editor-shortcuts",
+  "obsidian-tasks-plugin",
+  "obsidian-excalidraw-plugin"
 ]

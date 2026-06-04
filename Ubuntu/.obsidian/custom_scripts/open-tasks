@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+vault="Ubuntu"            # change if your vault name differs
+file="${1:-Tasks.md}"  # optional arg, default to Inbox/Tasks.md
+
+# URL-encode vault and file (preserve / in file)
+encoded_vault=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1], safe=''))" "$vault")
+encoded_file=$(python3 -c "import urllib.parse,sys;print(urllib.parse.quote(sys.argv[1], safe='/'))" "$file")
+
+xdg-open "obsidian://open?vault=${encoded_vault}&file=${encoded_file}"
