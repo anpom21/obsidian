@@ -361,8 +361,8 @@
     },
     {
       "path": "meetings.base",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391558949
@@ -372,6 +372,9 @@
         },
         {
           "timestampMillis": 1780393914929
+        },
+        {
+          "timestampMillis": 1780559133000
         }
       ]
     },
@@ -954,8 +957,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 19,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -1013,6 +1016,15 @@
         },
         {
           "timestampMillis": 1780496383556
+        },
+        {
+          "timestampMillis": 1780555495916
+        },
+        {
+          "timestampMillis": 1780555665225
+        },
+        {
+          "timestampMillis": 1780555999246
         }
       ]
     },
@@ -1038,8 +1050,8 @@
     },
     {
       "path": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780489318038
@@ -1058,6 +1070,12 @@
         },
         {
           "timestampMillis": 1780493979420
+        },
+        {
+          "timestampMillis": 1780559137274
+        },
+        {
+          "timestampMillis": 1780559180861
         }
       ]
     },
@@ -1079,8 +1097,8 @@
     },
     {
       "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
           "timestampMillis": 1780495129240
@@ -1102,13 +1120,31 @@
         },
         {
           "timestampMillis": 1780496403540
+        },
+        {
+          "timestampMillis": 1780555476846
+        },
+        {
+          "timestampMillis": 1780559140507
+        },
+        {
+          "timestampMillis": 1780559181419
+        },
+        {
+          "timestampMillis": 1780559346557
+        },
+        {
+          "timestampMillis": 1780559374749
+        },
+        {
+          "timestampMillis": 1780559481045
         }
       ]
     },
     {
       "path": "References/UNI/MasterThesisCasperAndreas.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1780495216748
@@ -1127,6 +1163,47 @@
         },
         {
           "timestampMillis": 1780496340822
+        },
+        {
+          "timestampMillis": 1780559335343
+        },
+        {
+          "timestampMillis": 1780559335499
+        },
+        {
+          "timestampMillis": 1780559341341
+        },
+        {
+          "timestampMillis": 1780559373158
+        },
+        {
+          "timestampMillis": 1780559479800
+        },
+        {
+          "timestampMillis": 1780559480125
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780555477710
+        },
+        {
+          "timestampMillis": 1780555613885
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20260603193752.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780559139733
         }
       ]
     }

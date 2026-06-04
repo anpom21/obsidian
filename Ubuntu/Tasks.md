@@ -4,10 +4,19 @@ tags:
 source:
 aliases:
 ---
+- [ ] sync to fierce-wolf
+- [ ] train new low res model with normal mineral wool as testing data
+- [ ] work on excalidraw
+- [ ] Make excalidraw overview of config
+- [ ] Make excalidraw of classification pipeline and [[classification]] evaluation logging
 
-
-
-
+- [ ] Make `aris sync` print out capture path at the end and optionally copy to clipboard. [[aris sync]]
+- [ ] Think of way to best way/ place to store task when using obsidian shortcut, maybe have shortcut go to daily note instead? 🔽 #agent 
+- [ ] Fix [[Zsh]] terminal bugs #home 
+- [ ] [[aris sync]] fix default folders for mineral wool
+- [ ] [[aris sort]] prompt user if the new 'Added folder' should be added to default folders
+- [ ] [[aris sort]] "Make a 'Clean up' folder button, that deletes all empty folders, make sure that all subfolders are also empty"
+- [ ] 
 
 # This week
 ```tasks
