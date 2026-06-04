@@ -74,9 +74,21 @@
               "icon": "lucide-file",
               "title": "Blender"
             }
+          },
+          {
+            "id": "3abaac9d2e8c874e",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -235,22 +247,53 @@
       "bases:Create new base": false
     }
   },
-  "active": "741b5aeb506f77b7",
+  "active": "3abaac9d2e8c874e",
   "lastOpenFiles": [
-    "3D Printing/Multiboard.md",
-    "3D Printing/Pasted image 20251220224957.png",
-    "Ubuntu/How tos/LaTeX Ubuntu.md",
-    "Ubuntu/How tos/Minecraft.md",
-    "Ubuntu/Desktop Settings.md",
-    "Ubuntu/Fresh ubuntu.md",
-    "Ubuntu/SSH.md",
-    "Ubuntu/Sunshine & Moonlight.md",
-    "Ubuntu/syslog bloat.md",
-    "Ubuntu/Ubuntu.md",
-    "Ubuntu/UV.md",
-    "Pasted image 20260111210223.png",
-    "3D Printing/Blender.md",
-    "3D Printing",
-    "Blender"
+    "Ubuntu/conflict-files-obsidian-git.md",
+    "Ubuntu/performance_metrics/training_val_loss.png.md",
+    "Ubuntu/performance_metrics",
+    "Ubuntu/meetings.base",
+    "Ubuntu/h",
+    "Ubuntu/Test hi.md",
+    "Ubuntu/Templates/new person template.md",
+    "Ubuntu/Templates/new-post-video-template-clipper.json",
+    "Ubuntu/Templates/inbox template.md",
+    "Ubuntu/Templates/new meeting template.md",
+    "Ubuntu/Templates/daily.md",
+    "Ubuntu/Templates",
+    "Ubuntu/Tasks.md",
+    "Ubuntu/Speciale.md",
+    "Ubuntu/References/UNI/MasterThesisCasperAndreas.pdf",
+    "Ubuntu/References/Geolocations/Hjem.md",
+    "Ubuntu/References/Geolocations/Bolbro Discgolf.md",
+    "Ubuntu/References/LaTeX Ubuntu.md",
+    "Ubuntu/References/Minecraft.md",
+    "Ubuntu/References/UNI",
+    "Ubuntu/References/Geolocations",
+    "Ubuntu/References",
+    "Ubuntu/Projects/Blender.md",
+    "Ubuntu/Projects",
+    "Ubuntu/Obsidian skill.md",
+    "Ubuntu/Inbox/Untitled.md",
+    "Ubuntu/Inbox/todo.md",
+    "Ubuntu/Inbox/sortinglist_v28_+_pool.md",
+    "Ubuntu/Inbox/Password manager.md",
+    "Ubuntu/Inbox/Obsidian Hotkeys.md",
+    "Ubuntu/Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+    "Ubuntu/Inbox/Meeting - 11.00.md",
+    "Ubuntu/Inbox/Disc golf.md",
+    "Ubuntu/Inbox/DataView.md",
+    "Ubuntu/Inbox/Dangerous waste prompt.md",
+    "Ubuntu/Inbox/Agentic workflow.md",
+    "Ubuntu/Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-mark-paid-yes.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheets-email-sent-timestamp.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/sheet-column-headers-must-match.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/forms-url-form-id.png",
+    "Ubuntu/Areas/Robrådet/copy/docs/forms-select-existing-spreadsheet.png"
   ]
 }
