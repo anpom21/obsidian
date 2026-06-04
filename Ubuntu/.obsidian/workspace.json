@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-04.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-04"
+              "title": "Tasks"
             }
           }
         ]
@@ -227,8 +227,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0215d0571edf5136",
+  "active": "958b04bca56a0989",
   "lastOpenFiles": [
+    "My Note.md",
+    "Daily/2026-06-04.md",
     "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Inbox/Dangerous waste prompt.md",
     "Inbox/sortinglist_v28_+_pool.md",
@@ -256,7 +258,6 @@
     "performance_metrics",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.md",
     "Literature",
-    "Daily/2026-06-04.md",
     "Daily/2026-06-03.md",
     "h",
     "Test hi.md",
@@ -273,7 +274,6 @@
     "Daily/2026-06-02.md",
     "Daily/2026-06-06.md",
     "Areas/Linux/Obsidian.md",
-    "Inbox/DataView.md",
     "meetings.base",
     "Untitled 1.canvas",
     "Untitled.canvas"
