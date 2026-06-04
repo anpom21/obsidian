@@ -46,7 +46,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -240,8 +240,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "cffd757fa8487555",
+  "active": "bc584b4208ce1e4c",
   "lastOpenFiles": [
+    "ARIS/Excalidraw/Speciale - Overview.md",
     "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
     "ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
     "Obsidian skill.md",
@@ -277,7 +278,6 @@
     "Inbox/todo.md",
     "Inbox/Meeting - 11.00.md",
     "Inbox/Password manager.md",
-    "Inbox/Obsidian Hotkeys.md",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
