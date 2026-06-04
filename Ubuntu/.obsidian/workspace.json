@@ -1,0 +1,292 @@
+{
+  "main": {
+    "id": "679770509f7d653c",
+    "type": "split",
+    "children": [
+      {
+        "id": "5ef05c39cc305015",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e366ad150692f74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "HomeLab - Getting Started"
+            }
+          },
+          {
+            "id": "bc584b4208ce1e4c",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.6"
+            }
+          },
+          {
+            "id": "cffd757fa8487555",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ARIS/Excalidraw/Speciale - Overview.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Speciale - Overview"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5a927eb0ef729c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4726f9420ca4792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0faabfb7edfbec21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8cf9f3420477a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f50f8682467b428a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0e3244bf76c86a41",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "10b7dc54a46eae74",
+    "type": "split",
+    "children": [
+      {
+        "id": "58eed16cb05b2748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088500ace93147d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SSH"
+            }
+          },
+          {
+            "id": "d2151a084d2f394b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HomeLab - Getting Started"
+            }
+          },
+          {
+            "id": "6618fe08289607af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a5774c537f23144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How tos/Home server/Stack over flow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stack over flow"
+            }
+          },
+          {
+            "id": "d7620e00948a62ac",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "45ad59ddd9e4977d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "e63ef5a8e67ecade",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 377.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-map-view:Open map view": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "cffd757fa8487555",
+  "lastOpenFiles": [
+    "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
+    "ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
+    "Obsidian skill.md",
+    "Test hi.md",
+    "Speciale.md",
+    "meetings.base",
+    "Tasks.md",
+    "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
+    "Daily/2026-06-04.md",
+    "conflict-files-obsidian-git.md",
+    "How tos/LaTeX Ubuntu.md",
+    "performance_metrics/training_val_loss.png.md",
+    "performance_metrics",
+    "h",
+    "Templates/new meeting template.md",
+    "Templates/new-post-video-template-clipper.json",
+    "Templates/new person template.md",
+    "Templates/inbox template.md",
+    "Templates/daily.md",
+    "Templates",
+    "References/UNI/MasterThesisCasperAndreas.pdf",
+    "References/Geolocations/Hjem.md",
+    "References/Geolocations/Bolbro Discgolf.md",
+    "References/UNI",
+    "References/LaTeX Ubuntu.md",
+    "References/Minecraft.md",
+    "References/Geolocations",
+    "References",
+    "Projects/Blender.md",
+    "Projects",
+    "Inbox/sortinglist_v28_+_pool.md",
+    "Inbox/Untitled.md",
+    "Inbox/todo.md",
+    "Inbox/Meeting - 11.00.md",
+    "Inbox/Password manager.md",
+    "Inbox/Obsidian Hotkeys.md",
+    "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
+    "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
+    "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
+    "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
+    "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
+    "Areas/Robrådet/copy/docs/sheets-mark-paid-yes.png",
+    "Areas/Robrådet/copy/docs/sheet-column-headers-must-match.png",
+    "Areas/Robrådet/copy/docs/sheets-email-sent-timestamp.png",
+    "Areas/Robrådet/copy/docs/forms-url-form-id.png",
+    "Areas/Robrådet/copy/docs/forms-publish-form.png"
+  ]
+}
