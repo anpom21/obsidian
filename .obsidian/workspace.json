@@ -86,9 +86,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.12.4"
             }
+          },
+          {
+            "id": "c4b7765f722b3fb3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -247,7 +259,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "3abaac9d2e8c874e",
+  "active": "c4b7765f722b3fb3",
   "lastOpenFiles": [
     "Ubuntu/conflict-files-obsidian-git.md",
     "Ubuntu/performance_metrics/training_val_loss.png.md",
