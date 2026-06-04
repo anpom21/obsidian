@@ -4,19 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a83f7ecf77aad180",
+        "id": "57327669ba9e4f2d",
         "type": "tabs",
         "children": [
           {
-            "id": "8ac34a620426df0b",
+            "id": "0215d0571edf5136",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md"
+                "file": "Daily/2026-06-03.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Meeting - 11.00 2026-06-03 15.58.49.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-06-03"
             }
           }
         ]
@@ -33,14 +45,27 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0faabfb7edfbec21",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
             "id": "8cf9f3420477a1a0",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "appimage",
                 "matchingCase": false,
-                "explainSearch": true,
+                "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
@@ -60,24 +85,13 @@
             }
           },
           {
-            "id": "4e7393e431b113b6",
+            "id": "958b04bca56a0989",
             "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
-            "id": "1ee630c582774de1",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "notebook-navigator",
               "state": {},
+              "pinned": true,
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
@@ -87,7 +101,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 368.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -146,7 +160,22 @@
             }
           },
           {
-            "id": "d818cd2518ee6e53",
+            "id": "3a5774c537f23144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "How tos/Home server/Stack over flow.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Stack over flow"
+            }
+          },
+          {
+            "id": "d7620e00948a62ac",
             "type": "leaf",
             "state": {
               "type": "git-view",
@@ -156,32 +185,7 @@
             }
           },
           {
-            "id": "3a5774c537f23144",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Meeting - 11.00 2026-06-03 15.58.49.excalidraw"
-            }
-          },
-          {
-            "id": "b7842ca1a4060e50",
-            "type": "leaf",
-            "state": {
-              "type": "view-count",
-              "state": {},
-              "icon": "eye",
-              "title": "View count"
-            }
-          },
-          {
-            "id": "2c17feb903f24487",
+            "id": "7e78cfd54f544282",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -189,13 +193,23 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "aff5fc5dbf5fbdf2",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -207,62 +221,60 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "notebook-navigator:Notebook Navigator": false,
       "obsidian-map-view:Open map view": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "8ac34a620426df0b",
+  "active": "0215d0571edf5136",
   "lastOpenFiles": [
-    "Inbox/todo.md",
-    "Inbox/Disc golf.md",
-    "Archive/attachments/Pasted image 20260603193752.png",
-    "Tasks.md",
-    "Daily/2026-06-03.md",
-    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-    "References/UNI/MasterThesisCasperAndreas.pdf",
-    "Projects/Blender.md",
-    "Inbox/Meeting - 11.00.md",
-    "References/UNI",
-    "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
-    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Test hi.md",
-    "conflict-files-obsidian-git.md",
-    "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
+    "References/UNI/MasterThesisCasperAndreas.pdf",
+    "References/UNI",
+    "Inbox/todo.md",
     "Inbox/Untitled.md",
+    "Inbox/Meeting - 11.00.md",
+    "Inbox/Disc golf.md",
+    "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
+    "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
+    "Archive/attachments/Pasted image 20260603193752.png",
+    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
+    "Projects/Blender.md",
     "Daily/2026-06-02.md",
-    "Areas/Linux/Obsidian.md",
-    "open-tasks",
-    "References/Geolocations/Bolbro Discgolf.md",
-    "References/Geolocations/Hjem.md",
-    "References/Geolocations",
-    "Areas/Home server/Sunshine & Moonlight.md",
-    "Areas/Development/VSCode.md",
-    "Areas/Development/UV.md",
-    "Areas/Development",
-    "Inbox/Tasks.md",
     "Daily/2026-06-06.md",
-    "Inbox/Untitled.base",
-    "Inbox/Untitled.canvas",
-    "Archive/attachments/Pasted image 20260603084423.png",
-    "Templates/inbox template.md",
-    "Inbox/Password manager.md",
+    "Daily/2026-06-03.md",
+    "Areas/Linux/Obsidian.md",
+    "Inbox/DataView.md",
     "Inbox/Obsidian Hotkeys.md",
-    "Archive/attachments/Pasted image 20260403081313.png",
-    "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
-    "2026/06",
-    "Archive/attachments/Pasted image 20251212190404.png",
-    "Archive/attachments/Pasted image 20251212190407.png",
-    "Archive/attachments/Pasted image 20251230213056.png",
-    "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
-    "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
-    "Archive",
-    "Archive/attachments/Pasted image 20260204215246.png",
+    "Inbox/Password manager.md",
+    "Tasks.md",
+    "Speciale.md",
+    "meetings.base",
+    "Templates/new-post-video-template-clipper.json",
+    "Templates/new person template.md",
+    "Templates/new meeting template.md",
+    "Templates/inbox template.md",
+    "Templates/daily.md",
+    "Templates",
+    "References/Geolocations/Hjem.md",
+    "References/Geolocations/Bolbro Discgolf.md",
+    "References/Minecraft.md",
+    "References/Geolocations",
+    "References",
+    "Projects",
+    "Inbox",
+    "Daily",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
+    "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
+    "Areas/Robrådet/copy/docs/sheets-mark-paid-yes.png",
+    "Areas/Robrådet/copy/docs/sheets-email-sent-timestamp.png",
+    "Areas/Robrådet/copy/docs/sheet-column-headers-must-match.png",
+    "Areas/Robrådet/copy/docs/forms-url-form-id.png",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
   ]
 }
