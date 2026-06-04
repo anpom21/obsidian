@@ -1,8 +1,8 @@
 ---
-
 name: obsidian-cli-basic
 description: Search, read, and write notes in an Obsidian vault using the official Obsidian CLI.
-------------------------------------------------------------------------------------------------
+---
+
 
 # Obsidian CLI Basic Skill
 
@@ -104,12 +104,6 @@ Agent usage:
 
 ## Read Commands
 
-### Read active file
-
-```bash
-obsidian read
-```
-
 ### Read by note name
 
 ```bash
@@ -147,17 +141,6 @@ Create from template:
 obsidian create name="Trip Plan" template="Travel"
 ```
 
-Overwrite existing file:
-
-```bash
-obsidian create path="Projects/New Note.md" content="Replacement content" overwrite
-```
-
-Create and open:
-
-```bash
-obsidian create name="New Note" content="Content here" open
-```
 
 Agent usage:
 
@@ -169,12 +152,6 @@ Agent usage:
 
 ```bash
 obsidian append path="Projects/My Note.md" content="New line"
-```
-
-Append without adding a newline:
-
-```bash
-obsidian append path="Projects/My Note.md" content="continued text" inline
 ```
 
 Append by note name:
@@ -196,11 +173,6 @@ Prepends after frontmatter if frontmatter exists.
 obsidian prepend path="Projects/My Note.md" content="Important note"
 ```
 
-Prepend without adding a newline:
-
-```bash
-obsidian prepend path="Projects/My Note.md" content="Important note" inline
-```
 
 Agent usage:
 
