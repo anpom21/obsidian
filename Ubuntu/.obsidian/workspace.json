@@ -11,24 +11,12 @@
             "id": "0215d0571edf5136",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily/2026-06-03.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-03"
+              "icon": "excalidraw-icon",
+              "title": "2026-06-03 2026-06-03 14.21.57.excalidraw"
             }
           }
         ]
@@ -63,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "appimage",
+                "query": "excal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -96,8 +84,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -213,6 +200,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -226,8 +214,37 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0215d0571edf5136",
+  "active": "0faabfb7edfbec21",
   "lastOpenFiles": [
+    "Inbox/Dangerous waste prompt.md",
+    "Inbox/sortinglist_v28_+_pool.md",
+    "ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
+    "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
+    "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
+    "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
+    "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T11-27-11-410_plasticbag_v01.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T11-27-07-194_plasticbag_v00.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T10-03-23-644_plasticbag_v01.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T10-03-18-303_plasticbag_v00.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T10-28-54-299_plasticbag_v01.png",
+    "Archive/attachments/img_gallant-stag_2025-10-15T10-28-31-976_plasticbag_v01.png",
+    "Inbox/Agentic workflow.md",
+    "ARIS/Excalidraw/Speciale - Overview.md",
+    "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+    "ARIS/Excalidraw",
+    "ARIS",
+    "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
+    "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
+    "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
+    "performance_metrics/training_val_loss.png.md",
+    "performance_metrics",
+    "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.md",
+    "Literature",
+    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
+    "Daily/2026-06-04.md",
+    "Daily/2026-06-03.md",
     "h",
     "Test hi.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
@@ -238,42 +255,13 @@
     "Inbox/Disc golf.md",
     "Daily/Drawing 2026-06-03 15.42.23.excalidraw.md",
     "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
-    "Archive/attachments/Pasted image 20260603193752.png",
     "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-    "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
     "Projects/Blender.md",
     "Daily/2026-06-02.md",
     "Daily/2026-06-06.md",
-    "Daily/2026-06-03.md",
     "Areas/Linux/Obsidian.md",
     "Inbox/DataView.md",
-    "Inbox/Obsidian Hotkeys.md",
-    "Inbox/Password manager.md",
-    "Tasks.md",
-    "Speciale.md",
     "meetings.base",
-    "Templates/new-post-video-template-clipper.json",
-    "Templates/new person template.md",
-    "Templates/new meeting template.md",
-    "Templates/inbox template.md",
-    "Templates/daily.md",
-    "Templates",
-    "References/Geolocations/Hjem.md",
-    "References/Geolocations/Bolbro Discgolf.md",
-    "References/Geolocations",
-    "References",
-    "Projects",
-    "Inbox",
-    "Daily",
-    "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
-    "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
-    "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
-    "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
-    "Areas/Robrådet/copy/docs/sheets-open-apps-script-menu.png",
-    "Areas/Robrådet/copy/docs/sheets-mark-paid-yes.png",
-    "Areas/Robrådet/copy/docs/sheets-email-sent-timestamp.png",
-    "Areas/Robrådet/copy/docs/sheet-column-headers-must-match.png",
-    "Areas/Robrådet/copy/docs/forms-url-form-id.png",
     "Untitled 1.canvas",
     "Untitled.canvas"
   ]

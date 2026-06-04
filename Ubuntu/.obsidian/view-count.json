@@ -361,8 +361,8 @@
     },
     {
       "path": "meetings.base",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391558949
@@ -372,6 +372,9 @@
         },
         {
           "timestampMillis": 1780393914929
+        },
+        {
+          "timestampMillis": 1780559133000
         }
       ]
     },
@@ -830,8 +833,8 @@
     },
     {
       "path": "Inbox/Obsidian Hotkeys.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1780411841439
@@ -859,6 +862,15 @@
         },
         {
           "timestampMillis": 1780414570043
+        },
+        {
+          "timestampMillis": 1780564928505
+        },
+        {
+          "timestampMillis": 1780569068239
+        },
+        {
+          "timestampMillis": 1780571585172
         }
       ]
     },
@@ -954,8 +966,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 19,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 36,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -1013,6 +1025,57 @@
         },
         {
           "timestampMillis": 1780496383556
+        },
+        {
+          "timestampMillis": 1780555495916
+        },
+        {
+          "timestampMillis": 1780555665225
+        },
+        {
+          "timestampMillis": 1780555999246
+        },
+        {
+          "timestampMillis": 1780560343248
+        },
+        {
+          "timestampMillis": 1780565003434
+        },
+        {
+          "timestampMillis": 1780565075335
+        },
+        {
+          "timestampMillis": 1780565094446
+        },
+        {
+          "timestampMillis": 1780565103022
+        },
+        {
+          "timestampMillis": 1780565222770
+        },
+        {
+          "timestampMillis": 1780569067809
+        },
+        {
+          "timestampMillis": 1780570466383
+        },
+        {
+          "timestampMillis": 1780572025504
+        },
+        {
+          "timestampMillis": 1780572063837
+        },
+        {
+          "timestampMillis": 1780577246651
+        },
+        {
+          "timestampMillis": 1780582498862
+        },
+        {
+          "timestampMillis": 1780582719084
+        },
+        {
+          "timestampMillis": 1780583265346
         }
       ]
     },
@@ -1038,8 +1101,8 @@
     },
     {
       "path": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780489318038
@@ -1058,13 +1121,19 @@
         },
         {
           "timestampMillis": 1780493979420
+        },
+        {
+          "timestampMillis": 1780559137274
+        },
+        {
+          "timestampMillis": 1780559180861
         }
       ]
     },
     {
-      "path": "Inbox/Meeting - 11.00.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "path": "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780495000333
@@ -1074,13 +1143,25 @@
         },
         {
           "timestampMillis": 1780495296552
+        },
+        {
+          "timestampMillis": 1780562257463
+        },
+        {
+          "timestampMillis": 1780564082122
+        },
+        {
+          "timestampMillis": 1780564708370
+        },
+        {
+          "timestampMillis": 1780564715727
         }
       ]
     },
     {
-      "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "path": "ARIS/Excalidraw/Speciale - Overview.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1780495129240
@@ -1102,13 +1183,82 @@
         },
         {
           "timestampMillis": 1780496403540
+        },
+        {
+          "timestampMillis": 1780555476846
+        },
+        {
+          "timestampMillis": 1780559140507
+        },
+        {
+          "timestampMillis": 1780559181419
+        },
+        {
+          "timestampMillis": 1780559346557
+        },
+        {
+          "timestampMillis": 1780559374749
+        },
+        {
+          "timestampMillis": 1780559481045
+        },
+        {
+          "timestampMillis": 1780560160718
+        },
+        {
+          "timestampMillis": 1780560345202
+        },
+        {
+          "timestampMillis": 1780560360972
+        },
+        {
+          "timestampMillis": 1780561817018
+        },
+        {
+          "timestampMillis": 1780561917071
+        },
+        {
+          "timestampMillis": 1780563169872
+        },
+        {
+          "timestampMillis": 1780564086528
+        },
+        {
+          "timestampMillis": 1780564261099
+        },
+        {
+          "timestampMillis": 1780564688683
+        },
+        {
+          "timestampMillis": 1780564716049
+        },
+        {
+          "timestampMillis": 1780564804497
+        },
+        {
+          "timestampMillis": 1780564834914
+        },
+        {
+          "timestampMillis": 1780564843338
+        },
+        {
+          "timestampMillis": 1780564854406
+        },
+        {
+          "timestampMillis": 1780581503495
+        },
+        {
+          "timestampMillis": 1780581545020
+        },
+        {
+          "timestampMillis": 1780582186796
         }
       ]
     },
     {
       "path": "References/UNI/MasterThesisCasperAndreas.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1780495216748
@@ -1127,6 +1277,342 @@
         },
         {
           "timestampMillis": 1780496340822
+        },
+        {
+          "timestampMillis": 1780559335343
+        },
+        {
+          "timestampMillis": 1780559335499
+        },
+        {
+          "timestampMillis": 1780559341341
+        },
+        {
+          "timestampMillis": 1780559373158
+        },
+        {
+          "timestampMillis": 1780559479800
+        },
+        {
+          "timestampMillis": 1780559480125
+        },
+        {
+          "timestampMillis": 1780561785593
+        },
+        {
+          "timestampMillis": 1780561888768
+        },
+        {
+          "timestampMillis": 1780564552381
+        },
+        {
+          "timestampMillis": 1780564713179
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 25,
+      "openLogs": [
+        {
+          "timestampMillis": 1780555477710
+        },
+        {
+          "timestampMillis": 1780555613885
+        },
+        {
+          "timestampMillis": 1780564072836
+        },
+        {
+          "timestampMillis": 1780564538122
+        },
+        {
+          "timestampMillis": 1780564553583
+        },
+        {
+          "timestampMillis": 1780564872955
+        },
+        {
+          "timestampMillis": 1780564919474
+        },
+        {
+          "timestampMillis": 1780565034146
+        },
+        {
+          "timestampMillis": 1780565218128
+        },
+        {
+          "timestampMillis": 1780565402079
+        },
+        {
+          "timestampMillis": 1780565562412
+        },
+        {
+          "timestampMillis": 1780569060898
+        },
+        {
+          "timestampMillis": 1780569066999
+        },
+        {
+          "timestampMillis": 1780569068610
+        },
+        {
+          "timestampMillis": 1780569069298
+        },
+        {
+          "timestampMillis": 1780569069431
+        },
+        {
+          "timestampMillis": 1780571585915
+        },
+        {
+          "timestampMillis": 1780571605613
+        },
+        {
+          "timestampMillis": 1780571610986
+        },
+        {
+          "timestampMillis": 1780571619964
+        },
+        {
+          "timestampMillis": 1780572026537
+        },
+        {
+          "timestampMillis": 1780572041577
+        },
+        {
+          "timestampMillis": 1780572068410
+        },
+        {
+          "timestampMillis": 1780581496118
+        },
+        {
+          "timestampMillis": 1780582310139
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20260603193752.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780559139733
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780560133406
+        },
+        {
+          "timestampMillis": 1780560151016
+        }
+      ]
+    },
+    {
+      "path": "performance_metrics/training_val_loss.png.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780560147998
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780560355841
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/img_calm-panda_2026-05-30T20-19-04-786.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780564244634
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 14,
+      "openLogs": [
+        {
+          "timestampMillis": 1780564781629
+        },
+        {
+          "timestampMillis": 1780564783219
+        },
+        {
+          "timestampMillis": 1780564824891
+        },
+        {
+          "timestampMillis": 1780564840372
+        },
+        {
+          "timestampMillis": 1780564854010
+        },
+        {
+          "timestampMillis": 1780564859051
+        },
+        {
+          "timestampMillis": 1780564899087
+        },
+        {
+          "timestampMillis": 1780569069012
+        },
+        {
+          "timestampMillis": 1780569069692
+        },
+        {
+          "timestampMillis": 1780569867531
+        },
+        {
+          "timestampMillis": 1780572032425
+        },
+        {
+          "timestampMillis": 1780581380218
+        },
+        {
+          "timestampMillis": 1780581578391
+        },
+        {
+          "timestampMillis": 1780582189037
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Agentic workflow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780565061157
+        },
+        {
+          "timestampMillis": 1780565092784
+        },
+        {
+          "timestampMillis": 1780565100496
+        },
+        {
+          "timestampMillis": 1780565117191
+        },
+        {
+          "timestampMillis": 1780565220168
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1780565540230
+        },
+        {
+          "timestampMillis": 1780569059772
+        },
+        {
+          "timestampMillis": 1780569365771
+        },
+        {
+          "timestampMillis": 1780571589205
+        },
+        {
+          "timestampMillis": 1780571607408
+        },
+        {
+          "timestampMillis": 1780571612408
+        },
+        {
+          "timestampMillis": 1780581509931
+        },
+        {
+          "timestampMillis": 1780582376266
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1780582207795
+        },
+        {
+          "timestampMillis": 1780582209147
+        },
+        {
+          "timestampMillis": 1780582316511
+        },
+        {
+          "timestampMillis": 1780582356021
+        },
+        {
+          "timestampMillis": 1780582374918
+        },
+        {
+          "timestampMillis": 1780582633149
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Dangerous waste prompt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1780582349113
+        },
+        {
+          "timestampMillis": 1780582357849
+        },
+        {
+          "timestampMillis": 1780582367942
+        },
+        {
+          "timestampMillis": 1780582378795
+        },
+        {
+          "timestampMillis": 1780582436661
+        },
+        {
+          "timestampMillis": 1780582497283
+        },
+        {
+          "timestampMillis": 1780582645229
+        },
+        {
+          "timestampMillis": 1780582725964
+        }
+      ]
+    },
+    {
+      "path": "Inbox/sortinglist_v28_+_pool.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780582711042
+        },
+        {
+          "timestampMillis": 1780582720555
         }
       ]
     }
