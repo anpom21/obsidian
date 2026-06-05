@@ -11,8 +11,10 @@ aliases:
 - 
 - [ ] Make excalidraw of classification pipeline and [[classification]] evaluation logging
 - [ ] Make [[Obsidian]] new note auto put in date #agent 
+  - Answer: Use Templater for the note body/frontmatter and QuickAdd for the filename. For a creation date in every new note, add `created: <% tp.date.now("YYYY-MM-DD") %>` to the relevant template. For notes created through QuickAdd, include `{{DATE:YYYY-MM-DD}}` in the filename or template. Daily Notes already points at `Templates/daily.md`, so that template can carry the date automatically for daily pages.
 - [ ] Make `aris sync` print out capture path at the end and optionally copy to clipboard. [[aris sync]] #agent #implement 
 - [ ] Think of way to best way/ place to store task when using obsidian shortcut, maybe have shortcut go to daily note instead? 🔽 #agent 
+  - Answer: Keep the shortcut as a quick capture into `Tasks.md` or an Inbox capture, then review it into daily/project notes later. Sending every shortcut task directly to the daily note feels tidy today but makes old tasks harder to find after a few days. A good setup is: capture fast to `Tasks.md`, optionally prefix with today's date or source, and use the existing Tasks queries plus daily review to decide what belongs on today's note.
 - [ ] Fix [[Zsh]] terminal bugs #home  🔽 
 - [ ] [[aris sync]] fix default folders for mineral wool #agent #implement 
 - [ ] [[aris sort]] prompt user if the new 'Added folder' should be added to default folders
