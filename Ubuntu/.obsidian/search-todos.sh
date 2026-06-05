@@ -13,7 +13,7 @@ NC='\033[0m' # No Color
 # Initialize variables
 TAGS=()
 NOTES=()
-VAULT_NAME="Ubuntu"
+VAULT_NAME=""
 VAULT_PATH="/home/ap/Documents/obsidian/Ubuntu"
 
 # Parse command-line arguments
@@ -78,10 +78,10 @@ if [ -n "$VAULT_NAME" ]; then
   VAULT_PARAM="vault=\"$VAULT_NAME\""
 fi
 
-# Default vault path: directory containing this script (useful when script is inside your vault)
+# Default vault path: parent of this script (when script lives in .obsidian)
 if [ -z "$VAULT_PATH" ]; then
   SCRIPT_DIR=$(cd "$(dirname "$0")" && pwd)
-  VAULT_PATH="$SCRIPT_DIR"
+  VAULT_PATH="$(cd "$SCRIPT_DIR/.." && pwd)"
 fi
 
 # Helper: run obsidian search inside vault path (if provided) or with vault param
@@ -116,8 +116,8 @@ if [ ${#TAGS[@]} -gt 0 ]; then
     tag=$(echo "$tag" | xargs)
     echo -e "${YELLOW}TODOs with tag: #${tag}${NC}"
     
-    # try obsidian first, fall back to grep
-    if obsidian_search query="- \[ \]" 2>&1 | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error"; then
+    # try obsidian first, fall back to grep if it errors or returns no matches
+    if obsidian_search query="- [ ]" 2>&1 | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error\|no matches found"; then
       grep_search_todos_in_files "$VAULT_PATH" | grep -i "#${tag}" | head -20
     else
       cat /tmp/obsidian_search.out | grep -i "#${tag}" | head -20
@@ -135,8 +135,8 @@ if [ ${#NOTES[@]} -gt 0 ]; then
     note=$(echo "$note" | xargs)
     echo -e "${YELLOW}TODOs in note: [[${note}]]${NC}"
     
-    # For notes, try obsidian first. If it fails, look for files that contain [[note]] or have matching filename
-    if obsidian_search query="- \[ \]" path="$note" 2>/dev/null | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error"; then
+    # For notes, try obsidian first. If it fails or returns no matches, look for files that contain [[note]] or have matching filename
+    if obsidian_search query="- [ ]" path="$note" 2>/dev/null | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error\|no matches found"; then
       # obsidian failed -> grep fallback
       # find files that contain the link [[note]] (case-insensitive) or filename matches
       files=$(find "$VAULT_PATH" -type f -name "*.md" -print0 | xargs -0 -I{} sh -c 'grep -qi "\[\[${0}\]\]" "{}" && printf "%s\n" "{}"' "$note" 2>/dev/null || true)
@@ -162,8 +162,8 @@ fi
 if [ ${#TAGS[@]} -eq 0 ] && [ ${#NOTES[@]} -eq 0 ]; then
   echo -e "${YELLOW}All TODOs in vault:${NC}\n"
   
-  # try obsidian; if it reports vault errors use grep fallback
-  if obsidian_search query="- \[ \]" limit=50 2>&1 | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error"; then
+  # try obsidian; if it errors or returns no matches use grep fallback
+  if obsidian_search query="- [ ]" limit=50 2>&1 | tee /tmp/obsidian_search.out | grep -qi "vault not found\|error\|no matches found"; then
     grep_search_todos_in_files "$VAULT_PATH" | head -100
   else
     cat /tmp/obsidian_search.out
