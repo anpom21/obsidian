@@ -13,8 +13,8 @@ NC='\033[0m' # No Color
 # Initialize variables
 TAGS=()
 NOTES=()
-VAULT_NAME=""
-VAULT_PATH=""
+VAULT_NAME="Ubuntu"
+VAULT_PATH="/home/ap/Documents/obsidian/Ubuntu"
 
 # Parse command-line arguments
 while [[ $# -gt 0 ]]; do

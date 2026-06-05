@@ -4,6 +4,25 @@ tags:
 source:
 aliases:
 ---
+- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
+- [x] train new low res model with normal mineral wool as testing data ✅ 2026-06-04
+- [x] work on excalidraw ✅ 2026-06-04
+- [ ] Make excalidraw overview of config
+- 
+- [ ] Make excalidraw of classification pipeline and [[classification]] evaluation logging
+- [ ] Make [[Obsidian]] new note auto put in date #agent 
+- [ ] Make `aris sync` print out capture path at the end and optionally copy to clipboard. [[aris sync]]
+- [ ] Think of way to best way/ place to store task when using obsidian shortcut, maybe have shortcut go to daily note instead? 🔽 #agent 
+- [ ] Fix [[Zsh]] terminal bugs #home  🔽 
+- [ ] [[aris sync]] fix default folders for mineral wool
+- [ ] [[aris sort]] prompt user if the new 'Added folder' should be added to default folders
+- [ ] [[aris sort]] "Make a 'Clean up' folder button, that deletes all empty folders, make sure that all subfolders are also empty"
+- [x]  ✅ 2026-06-04
+- [ ] [[WADE]] make it possible to configure normalization in deployment config #agent 
+- [x] [[WADE]] "Make a bash script that first of all checks if state machine is running on systemctl, if it is close script prompting user to close it. If everything is fine, then run the state_machine.py, in one thread perhaps just with `bash path/to/state_machine.py &`, then after 5s, pass one photo at a time to `/tmp/wade/image.png`, run `touch tmp/wade/ipfc/BUTTON.ipfc` to simulate button press,  wait for the `find /home/aris/images_backup -maxdepth 2 -type f -mmin -0.1` to detect a new added image, as this command basically checks  if the image has been imported, run that command every 5s, when it runs succesfully, wait 5s and then switch the next image and simulate the button press again. Continue until all images have been processed." ✅ 2026-06-04
+- [ ] Stena recylcing
+	- [ ] Aftager affald fra genbrugs station
+- [ ] Heyo
 
 
 
