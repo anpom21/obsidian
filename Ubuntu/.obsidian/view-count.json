@@ -412,8 +412,8 @@
     },
     {
       "path": "Templates/new person template.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780393884959
@@ -426,13 +426,19 @@
         },
         {
           "timestampMillis": 1780396327978
+        },
+        {
+          "timestampMillis": 1780642397390
+        },
+        {
+          "timestampMillis": 1780642532685
         }
       ]
     },
     {
       "path": "Templates/new meeting template.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780393944117
@@ -445,6 +451,15 @@
         },
         {
           "timestampMillis": 1780396348519
+        },
+        {
+          "timestampMillis": 1780642400394
+        },
+        {
+          "timestampMillis": 1780642417290
+        },
+        {
+          "timestampMillis": 1780642531121
         }
       ]
     },
@@ -593,8 +608,8 @@
     },
     {
       "path": "Templates/inbox template.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1780395181190
@@ -619,13 +634,22 @@
         },
         {
           "timestampMillis": 1780416409749
+        },
+        {
+          "timestampMillis": 1780642391808
+        },
+        {
+          "timestampMillis": 1780642536341
+        },
+        {
+          "timestampMillis": 1780642540286
         }
       ]
     },
     {
       "path": "Templates/daily.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780396342583
@@ -635,6 +659,9 @@
         },
         {
           "timestampMillis": 1780397316425
+        },
+        {
+          "timestampMillis": 1780642376940
         }
       ]
     },
@@ -1208,6 +1235,22 @@
       "openLogs": [
         {
           "timestampMillis": 1780638044756
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled 1.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780642404391
+        },
+        {
+          "timestampMillis": 1780642419091
+        },
+        {
+          "timestampMillis": 1780642539068
         }
       ]
     }
