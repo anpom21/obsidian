@@ -15,6 +15,7 @@ TAGS=()
 NOTES=()
 STRING_SEARCH=""
 CASE_SENSITIVE=0
+REQUIRE_TODO_START=0
 VAULT_NAME=""
 VAULT_PATH="/home/ap/Documents/obsidian/Ubuntu"
 
@@ -45,14 +46,19 @@ while [[ $# -gt 0 ]]; do
       CASE_SENSITIVE=1
       shift
       ;;
+    --todo)
+      REQUIRE_TODO_START=1
+      shift
+      ;;
     --help)
-      echo "Usage: $0 [--tag TAG1,TAG2,...] [--note NOTE1,NOTE2,...] [--string TEXT] [--case] [--vault VAULT_NAME]"
+      echo "Usage: $0 [--tag TAG1,TAG2,...] [--note NOTE1,NOTE2,...] [--string TEXT] [--case] [--todo] [--vault VAULT_NAME]"
       echo ""
       echo "Options:"
       echo "  --tag TAG1,TAG2,...     Filter TODOs by comma-separated tags"
       echo "  --note NOTE1,NOTE2,...  Filter TODOs in comma-separated notes"
       echo "  --string TEXT           Filter TODOs by substring"
       echo "  --case                  Enable case-sensitive matching (default is case-insensitive)"
+      echo "  --todo                  Require TODO marker at line start (- [ ])"
       echo "  --vault VAULT_NAME      Specify vault name (if multiple vaults)"
       echo "  --vault-path PATH       Specify absolute path to vault directory (preferred if name fails)"
       echo "  --help                  Show this help message"
@@ -63,6 +69,7 @@ while [[ $# -gt 0 ]]; do
       echo "  $0 --note aris sync,aris Sort                  # TODOs in specific notes"
       echo "  $0 --string report                            # TODOs that include a substring"
       echo "  $0 --string report --case                      # Case-sensitive substring match"
+      echo "  $0 --todo                                    # Only TODOs at line start"
       echo "  $0 --tag home --note projects                  # Combined filters"
       exit 0
       ;;
@@ -146,6 +153,14 @@ else
   RG_CASE_FLAGS="-i"
 fi
 
+if [ $REQUIRE_TODO_START -eq 1 ]; then
+  TODO_RG_FLAGS=""
+  TODO_PATTERN="^- \\[ \\]"
+else
+  TODO_RG_FLAGS=""
+  TODO_PATTERN="- \\[[^]]\\]"
+fi
+
 for i in "${!TAGS[@]}"; do
   TAGS[$i]=$(echo "${TAGS[$i]}" | xargs)
 done
@@ -166,7 +181,7 @@ if [ -z "$matching_files" ]; then
   exit 0
 fi
 
-printf "%s\n" "$matching_files" | xargs -d '\n' -r rg -n --with-filename ${RG_CASE_FLAGS} --fixed-strings -- "- [ ]" | while IFS= read -r line; do
+printf "%s\n" "$matching_files" | xargs -d '\n' -r rg -n --with-filename ${RG_CASE_FLAGS} ${TODO_RG_FLAGS} -- "$TODO_PATTERN" | while IFS= read -r line; do
   if line_has_all_tags "$line" "${TAGS[@]}" && line_has_all_notes "$line" "${NOTES[@]}" && line_has_string "$line" "$STRING_SEARCH"; then
     echo "$line"
   fi

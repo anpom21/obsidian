@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Linux/Zsh.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Zsh"
+              "title": "Tasks"
             }
           }
         ]
@@ -227,6 +227,7 @@
   },
   "active": "8ac34a620426df0b",
   "lastOpenFiles": [
+    "Areas/Linux/Zsh.md",
     "Tasks.md",
     "conflict-files-obsidian-git.md",
     "h",
@@ -263,7 +264,6 @@
     "ARIS/Speciale - Excalidraw.md",
     "ARIS/Mineral wool plastic bag.md",
     "ARIS/Speciale 1.md",
-    "ARIS/Speciale.md",
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
