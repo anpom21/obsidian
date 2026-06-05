@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Ubuntu/ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
-                "bFile": "Ubuntu/ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
+                "aFile": "Ubuntu/.obsidian/view-count.json",
+                "bFile": "Ubuntu/.obsidian/view-count.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: Dangerous waste prompt - Overview  (Working Tree)"
+              "title": "Diff: view-count.json  (Working Tree)"
             }
           }
         ]
@@ -217,6 +217,9 @@
   },
   "active": "8ac34a620426df0b",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
+    "Daily/2026-06-05.md",
     "Daily/2026-06-04.md",
     "Obsidian skill.md",
     "My Note.md",
@@ -230,7 +233,6 @@
     "ARIS/Excalidraw/Dangerous waste - Overview.md",
     "ARIS/Excalidraw/Mineral wool plastic bag - Overview 1.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
-    "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-11-410_plasticbag_v01.png",
@@ -253,10 +255,8 @@
     "ARIS/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
-    "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
-    "performance_metrics/training_val_loss.png.md",
     "performance_metrics",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "References/UNI",
