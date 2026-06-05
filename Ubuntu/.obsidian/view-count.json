@@ -958,7 +958,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 23,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -1028,6 +1028,9 @@
         },
         {
           "timestampMillis": 1780638202633
+        },
+        {
+          "timestampMillis": 1780638381354
         }
       ]
     },
@@ -1196,19 +1199,6 @@
       "openLogs": [
         {
           "timestampMillis": 1780638044756
-        }
-      ]
-    },
-    {
-      "path": "conflict-files-obsidian-git.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1780638186158
-        },
-        {
-          "timestampMillis": 1780638203617
         }
       ]
     }
