@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8ac34a620426df0b",
+            "id": "8b01f3d94bca39b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/inbox template.md",
+                "file": "Inbox/Password manager.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "inbox template"
+              "title": "Password manager"
             }
           },
           {
-            "id": "0e75cb5e86b6b16e",
+            "id": "62d4b57d4e8959f1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 1.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,10 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "Tasks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,10 +250,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ac34a620426df0b",
+  "active": "62d4b57d4e8959f1",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
+    "Inbox/2026-06-05 - yess.md",
+    "Inbox/Password manager.md",
+    "Inbox/2026-06-05 - something.md",
+    "Inbox/2026-06-05 - it works!.md",
+    "Inbox/2026-06-05 - gad.md",
+    "Inbox/2026-06-05 - heyo.md",
     "Templates/inbox template.md",
+    "Inbox/Untitled 1.md",
+    "Inbox/Untitled 4.md",
+    "Inbox/Untitled 3.md",
+    "Inbox/Untitled 2.md",
     "Templates/new person template.md",
     "Templates/new meeting template.md",
     "Templates/daily.md",
@@ -269,10 +279,6 @@
     "Inbox/Meeting - 11.00.md",
     "Inbox/sortinglist_v28_+_pool.md",
     "Inbox/Dangerous waste prompt.md",
-    "Inbox/Dangerous waste -.md",
-    "ARIS/Excalidraw/Dangerous waste prompt - Overview.md",
-    "ARIS/Excalidraw/Dangerous waste - Overview.md",
-    "ARIS/Excalidraw/Mineral wool plastic bag - Overview 1.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
@@ -282,11 +288,6 @@
     "Archive/attachments/img_gallant-stag_2025-10-15T10-03-18-303_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T10-28-54-299_plasticbag_v01.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T10-28-31-976_plasticbag_v01.png",
-    "Archive/attachments/2026-06-04 2026-06-04 11.32.20.excalidraw.md",
-    "Inbox/Agentic workflow.md",
-    "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
-    "ARIS/Excalidraw/Speciale - Overview.md",
-    "ARIS/Excalidraw/Mineral wool plastic bag.md",
     "ARIS/Excalidraw",
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",

@@ -5,7 +5,7 @@
       "name": "Inbox",
       "type": "Template",
       "command": true,
-      "templatePath": "Templates/inbox.md",
+      "templatePath": "Templates/inbox template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{DATE:}} - {{value}}"
@@ -20,7 +20,7 @@
         "chooseFromSubfolders": false
       },
       "appendLink": false,
-      "openFile": false,
+      "openFile": true,
       "fileOpening": {
         "location": "tab",
         "direction": "vertical",

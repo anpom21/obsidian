@@ -188,5 +188,14 @@
       ],
       "key": "D"
     }
+  ],
+  "file-explorer:new-file": [],
+  "quickadd:choice:c8987148-0975-4711-99cf-7228a5a9fb41": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }
