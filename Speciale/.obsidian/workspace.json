@@ -1,44 +1,16 @@
 {
   "main": {
-    "id": "143024c02d0935a0",
+    "id": "77e85f3f970997b1",
     "type": "split",
     "children": [
       {
-        "id": "cad2304793aeb236",
+        "id": "ab260ba2d218fbc9",
         "type": "tabs",
-        "dimension": 78.67549668874172,
         "children": [
           {
-            "id": "55d912a2f2ecd302",
+            "id": "cace372a1e044daa",
             "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hugging Face course/Course 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course 2"
-            }
-          },
-          {
-            "id": "e8401640adb5d0e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions"
-            }
-          },
-          {
-            "id": "da3f0b1d0cbab78a",
-            "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -46,40 +18,9 @@
                 "mode": "source",
                 "source": false
               },
+              "pinned": true,
               "icon": "lucide-file",
               "title": "Guidance"
-            }
-          },
-          {
-            "id": "5607f8a45fe7af32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hugging Face course/Course 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Course 2"
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "dbaf68503f994f6c",
-        "type": "tabs",
-        "dimension": 21.324503311258276,
-        "children": [
-          {
-            "id": "b0a9494363d8830d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
             }
           }
         ]
@@ -88,15 +29,16 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "2d4bede97469379d",
+    "id": "c8c5f79e0527b1b4",
     "type": "split",
     "children": [
       {
-        "id": "cff3beee3f49a032",
+        "id": "d46aecce6a1078b0",
         "type": "tabs",
+        "dimension": 66.66666666666667,
         "children": [
           {
-            "id": "e56c18729b7e6039",
+            "id": "42af4f1ef891900d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -109,7 +51,7 @@
             }
           },
           {
-            "id": "a785677fae9711a5",
+            "id": "8042cedd39507497",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -126,7 +68,7 @@
             }
           },
           {
-            "id": "f9b03b6e23e57bfd",
+            "id": "d481b69de8ac5693",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -136,84 +78,14 @@
             }
           }
         ]
-      }
-    ],
-    "direction": "horizontal",
-    "width": 300
-  },
-  "right": {
-    "id": "1c3d12984d5d34cc",
-    "type": "split",
-    "children": [
+      },
       {
-        "id": "848faf9e676995c0",
+        "id": "2af4f3c830b17026",
         "type": "tabs",
+        "dimension": 33.333333333333336,
         "children": [
           {
-            "id": "c8a87bcb53b77b9b",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Hugging Face course/Course 2.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": true,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Course 2"
-            }
-          },
-          {
-            "id": "0c72722f91db3e0e",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Course 2.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Course 2"
-            }
-          },
-          {
-            "id": "5b12976d2188e8fe",
-            "type": "leaf",
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "352c9aae49c33c00",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Course 2.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Course 2"
-            }
-          },
-          {
-            "id": "3e0a36be614238d1",
+            "id": "981d4ae76a88fb41",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -226,35 +98,177 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
+  },
+  "right": {
+    "id": "279416c7625b4660",
+    "type": "split",
+    "children": [
+      {
+        "id": "2fd9a64f0deb3159",
+        "type": "tabs",
+        "dimension": 67.85714285714286,
+        "children": [
+          {
+            "id": "53f920f8060070a2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "iPad MINI and FF Dec 2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for iPad MINI and FF Dec 2025"
+            }
+          },
+          {
+            "id": "5720a8812050f3b7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "df102072c4a377ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": true,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4c18205f15a43f5d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "c6412785a0953c64",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "2a5073634fabf08a",
+        "type": "tabs",
+        "dimension": 32.142857142857146,
+        "children": [
+          {
+            "id": "0c7f632e897519ae",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "omnisearch:Omnisearch": false,
+      "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5607f8a45fe7af32",
+  "active": "981d4ae76a88fb41",
   "lastOpenFiles": [
-    "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
     "Guidance.md",
-    "PyTorch.md",
     "Spørgsmål.md",
-    "Papers",
-    "Hugging Face course/Course 2.md",
-    "Welcome.md",
-    "Untitled.base",
-    "2025-10-25.md",
-    "Course_2.md",
-    "Untitled.canvas",
-    "Course.md",
-    "Course2.md",
-    "Hugging Face course"
+    "PyTorch.md",
+    "Papers/Advances in diffusion models for image data augmentation, a review of methods, models, evaluation metrics and future research directions.md",
+    "Journal/2025-02-17.md",
+    "Technical/Snippet/EFCore InMemory Db Config with Test.md",
+    "Technical/Home/DASH.md",
+    "2025-02-16.md",
+    "Technical/Technical/Azure Cache for Redis (Pluralsight).md",
+    "Main Dash.md",
+    "Technical/Technical/SQLite vs SQL Server.md",
+    "Technical/Technical/API Authentications.md",
+    "Blue/Snippets/SQL Script Disposable Income.md",
+    "Journal/Blue/Journal/2024-06-14.md",
+    "Technical/Technical/Idempotency in rest api.md",
+    "publish the Obsidian Vid.md",
+    "Business/Journal/2025-02-15 - todays.md",
+    "Business/Journal/2025-02-14.md",
+    "Blue/Common Issues/Everymessage, check documents being generated or not, Unproduced Welcome Letters.md",
+    "code snippets.md",
+    "Blog",
+    "Vlog",
+    "Business/Journal/2025-02-06.md",
+    "Business/Journal/Technical/Technical/Self-Improvement/High-Vis.md",
+    "Business/Journal/Technical/Technical/Self-Improvement/Technical Home.md",
+    "Business/Journal/Technical/Snippet/Contents/Snippet Home.md",
+    "Business/Journal/Technical/Plans/Journal/Day 2024.03.10.md",
+    "Business/Journal/Technical/Migrated/assets/why-not-jwt.png",
+    "Business/Journal/Technical/Migrated/assets/original.jpg",
+    "Business/Journal/Technical/Migrated/assets/oYukX.jpg",
+    "Business/Journal/Technical/Migrated/assets/iqueryable-dbcontext-everywhere.jpg",
+    "Business/Journal/Technical/Migrated/assets/image4.png",
+    "Business/Journal/Technical/Migrated/assets/image3.png",
+    "Business/Journal/Technical/Migrated/assets/image2.png",
+    "Business/Journal/Technical/Migrated/assets/image1.png",
+    "Business/Journal/Technical/Migrated/assets/image.jpeg",
+    "Business/Journal/Technical/Migrated/assets/image 2.png",
+    "Business/Journal/Technical/Migrated/assets/Brand.psd",
+    "Business/Journal/Technical/Migrated/assets/Brand-techpress.psd",
+    "Business/Journal/Technical/Migrated/assets/Brand-C.psd",
+    "Business/Journal/Technical/Migrated/assets/Audio 1.mp4",
+    "Business/Journal/Technical/Vlog/an alternative to every apple application lacking in ios 18.md",
+    "Business/Journal/Technical/Technical/Self-Improvement",
+    "Business/Journal/Technical/Snippet/Contents",
+    "Business/Journal/Technical/Plans/Journal",
+    "Business/Journal/Technical/Migrated/assets",
+    "Business/Journal/Technical/Migrated/Mind Map.canvas",
+    "Journal/Technical/Migrated/Mind Map.canvas",
+    "Technical/Migrated/Mind Map.canvas"
   ]
 }

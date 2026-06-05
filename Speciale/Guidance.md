@@ -5,3 +5,4 @@ This method ensures that the generated samples conform to the target class distr
 ### Classifier-Free guidance
 Ho and Salimans 2022 proposes Classifier-Free guidance eliminating the need of a classifier model by conditioning the DM on class labels during training.
 
+heyo what is going on
