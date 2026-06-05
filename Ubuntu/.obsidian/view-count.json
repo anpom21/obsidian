@@ -962,7 +962,7 @@
     {
       "path": "Inbox/Password manager.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1780414848986
@@ -990,6 +990,9 @@
         },
         {
           "timestampMillis": 1780642788255
+        },
+        {
+          "timestampMillis": 1780644179423
         }
       ]
     },
@@ -1009,7 +1012,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 30,
+      "totalTimesOpened": 32,
       "openLogs": [
         {
           "timestampMillis": 1780471678803
@@ -1100,6 +1103,12 @@
         },
         {
           "timestampMillis": 1780643886226
+        },
+        {
+          "timestampMillis": 1780644235417
+        },
+        {
+          "timestampMillis": 1780644336395
         }
       ]
     },
@@ -1281,6 +1290,19 @@
       "openLogs": [
         {
           "timestampMillis": 1780642811574
+        }
+      ]
+    },
+    {
+      "path": "Obsidian skill.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780644110452
+        },
+        {
+          "timestampMillis": 1780644150230
         }
       ]
     }
