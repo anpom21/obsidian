@@ -35,15 +35,24 @@
             "id": "62d4b57d4e8959f1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Ubuntu/.obsidian/custom_scripts/obsidian-search-todos/SKILL.md",
-                "bFile": "Ubuntu/.obsidian/custom_scripts/obsidian-search-todos/SKILL.md",
-                "aRef": "HEAD",
-                "bRef": ""
+                "file": "Daily/2026-06-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: SKILL  (Index)"
+              "icon": "lucide-file",
+              "title": "2026-06-05"
             }
           }
         ],
