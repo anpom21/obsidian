@@ -1,0 +1,29 @@
+= SORT(
+    HSTACK(
+      UNIQUE(FILTER(A6:A;A6:A<>""));
+      BYROW(
+        UNIQUE(FILTER(A6:A;A6:A<>""));
+        LAMBDA(filament;
+          SUMIF(A2:A;filament;B2:B)
+        )
+      );
+      BYROW(
+        UNIQUE(FILTER(A6:A;A6:A<>""));
+        LAMBDA(filament;
+          TEXTJOIN("; ";TRUE;
+            MAP(
+              UNIQUE(FILTER(IF(F6:F="";"Unknown";F6:F);A6:A=filament));
+              LAMBDA(buyer;
+                buyer & " (" &
+                SUMIFS(
+                  B6:B;
+                  A6:A;filament;
+                  IF(F6:F="";"Unknown";F6:F);buyer
+                ) & ")"
+              )
+            )
+          )
+        )
+      )
+    )
+  )

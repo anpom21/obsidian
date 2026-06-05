@@ -20,8 +20,33 @@
               "icon": "diff",
               "title": "Diff: view-count.json  (Working Tree)"
             }
+          },
+          {
+            "id": "5f2109fd3f23ec91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,9 +240,11 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8ac34a620426df0b",
+  "active": "5f2109fd3f23ec91",
   "lastOpenFiles": [
     "Tasks.md",
+    "conflict-files-obsidian-git.md",
+    "h",
     "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
     "Daily/2026-06-05.md",
     "Daily/2026-06-04.md",
@@ -252,7 +279,6 @@
     "ARIS/Mineral wool plastic bag.md",
     "ARIS/Speciale 1.md",
     "ARIS/Speciale.md",
-    "ARIS/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
@@ -262,7 +288,6 @@
     "References/UNI",
     "open-tasks",
     "References/Geolocations",
-    "Areas/Development",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
