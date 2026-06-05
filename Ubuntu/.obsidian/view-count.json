@@ -323,8 +323,8 @@
     },
     {
       "path": "Areas/Linux/Zsh.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780391268697
@@ -334,6 +334,9 @@
         },
         {
           "timestampMillis": 1780414566308
+        },
+        {
+          "timestampMillis": 1780639803414
         }
       ]
     },

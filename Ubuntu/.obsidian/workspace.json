@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Areas/Linux/Zsh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Zsh"
             }
           }
         ]
@@ -227,8 +227,8 @@
   },
   "active": "8ac34a620426df0b",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Tasks.md",
+    "conflict-files-obsidian-git.md",
     "h",
     "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
     "Daily/2026-06-05.md",
