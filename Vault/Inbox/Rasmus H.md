@@ -33,34 +33,21 @@ created:  <% tp.date.now("YYYY-MM-DD") %>
 - Interests:  
   
 ## Details  
-> [!info]- Family  
-> - Partner:  
-> - Kids:  
-> - Parents:  
-> - Siblings:  
-  
-> [!info]- Work / Professional Context  
-> - Company:  
-> - Role:  
-> - Current projects:  
-  
-> [!info]- Favorites  
-> - Food:  
-> - Drinks:  
-> - Hobbies:  
-> - Books/Movies:  
-  
-> [!info]- Personal Context  
-> ### Current Challenges  
-> -  
-> ### Current Goals  
-> -  
-> ### Important Life Events  
-> -  
-> ### Things They Care About  
-> -
 
-
+## Personal Context  
+%% fold %%  
+  
+### Current Challenges  
+-  
+  
+### Current Goals  
+-  
+  
+### Important Life Events  
+-  
+  
+### Things They Care About  
+-
 ## Related Notes
 
 ```dataview

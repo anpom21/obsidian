@@ -1,7 +1,3 @@
-<%*
-const now = tp.date.now("YYYYMMDDHHmmss");
-const personId = "person-" + now;
--%>
 ---
 id: <% personId %>
 type: person
@@ -56,7 +52,7 @@ created:  <% tp.date.now("YYYY-MM-DD") %>
 > - Books/Movies:  
   
 ## Personal Context  
-%% fold %%  
+%% fold %% 
   
 ### Current Challenges  
 -  

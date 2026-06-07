@@ -32,6 +32,54 @@
             }
           },
           {
+            "id": "d3dc0b58fa882dd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 3.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 3"
+            }
+          },
+          {
+            "id": "a12a0c442923c24c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Untitled 4.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 4"
+            }
+          },
+          {
             "id": "df2d24387a4ad6ac",
             "type": "leaf",
             "state": {
@@ -128,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -322,11 +370,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "20499e3a3a5917ef",
+  "active": "a12a0c442923c24c",
   "lastOpenFiles": [
-    "Inbox/heyog.md",
-    "Inbox/Rasmus H.md",
+    "Inbox/Untitled 3.md",
+    "Inbox/Untitled 4.md",
     "Templates/new person.md",
+    "Inbox/Rasmus H.md",
+    "Inbox/heyog.md",
     "Inbox/Untitled 2.md",
     "Inbox/heyo.md",
     "Inbox/2026-06-07 - heyo.md",
@@ -345,13 +395,11 @@
     "Inbox/2026-06-05 - gad.md",
     "Inbox/2026-06-05 - heyo.md",
     "Templates/inbox template.md",
-    "Inbox/Untitled 4.md",
     "Templates/new meeting template.md",
     "Templates/daily.md",
     "Areas/Linux/Zsh.md",
     "conflict-files-obsidian-git.md",
     "h",
-    "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
