@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 3.md",
+                "file": "Inbox/Emma Lykke Holm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 3"
+              "title": "Emma Lykke Holm"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Untitled 4.md",
+                "file": "Inbox/Emma Lykke Holm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Untitled 4"
+              "title": "Emma Lykke Holm"
             }
           },
           {
@@ -372,8 +372,8 @@
   },
   "active": "a12a0c442923c24c",
   "lastOpenFiles": [
-    "Inbox/Untitled 3.md",
     "Inbox/Untitled 4.md",
+    "Inbox/Emma Lykke Holm.md",
     "Templates/new person.md",
     "Inbox/Rasmus H.md",
     "Inbox/heyog.md",

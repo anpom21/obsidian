@@ -1,10 +1,11 @@
 ---
-id: <% personId %>
+id: p-001
 type: person
 tags:
   - person
 aliases:
-  - 
+  - Emma
+  - Emse
 relationship: friend
 birthday:
 anniversary:
@@ -21,8 +22,7 @@ linkedin:
 last_seen:
 last_contact:
 next_followup:
-created:  <% tp.date.now("YYYY-MM-DD") %>
-
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # <% tp.file.title %>

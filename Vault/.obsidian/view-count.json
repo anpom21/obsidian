@@ -1433,22 +1433,18 @@
       ]
     },
     {
-      "path": "Inbox/Untitled 3.md",
+      "path": "Inbox/Emma Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780823987714
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Untitled 4.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
+        },
         {
-          "timestampMillis": 1780824085592
+          "timestampMillis": 1780824905454
+        },
+        {
+          "timestampMillis": 1780824910198
         }
       ]
     }
