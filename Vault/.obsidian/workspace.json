@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Emma Lykke Holm.md",
+                "file": "Inbox/heyog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emma Lykke Holm"
+              "title": "heyog"
             }
           },
           {
@@ -372,10 +372,10 @@
   },
   "active": "a12a0c442923c24c",
   "lastOpenFiles": [
-    "Inbox/Untitled 4.md",
-    "Inbox/Emma Lykke Holm.md",
-    "Templates/new person.md",
     "Inbox/Rasmus H.md",
+    "Inbox/Emma Lykke Holm.md",
+    "Inbox/Untitled 4.md",
+    "Templates/new person.md",
     "Inbox/heyog.md",
     "Inbox/Untitled 2.md",
     "Inbox/heyo.md",
