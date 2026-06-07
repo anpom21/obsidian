@@ -2,8 +2,8 @@
   "items": [
     {
       "path": "Daily/2026-06-02.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 82,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 83,
       "openLogs": [
         {
           "timestampMillis": 1780390993255
@@ -250,6 +250,9 @@
         },
         {
           "timestampMillis": 1780472315541
+        },
+        {
+          "timestampMillis": 1780822433646
         }
       ]
     },
@@ -1303,6 +1306,29 @@
         },
         {
           "timestampMillis": 1780644150230
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-07.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780822441942
+        },
+        {
+          "timestampMillis": 1780822451132
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-07 - heyo.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780822448354
         }
       ]
     }
