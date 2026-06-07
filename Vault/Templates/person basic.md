@@ -26,6 +26,9 @@ partner:
 > - Hobbies:  
 > - Books/Movies:  
 > - Interests: 
+
+> [!info]- Notes  
+> - Food:  
   
   ---
   
