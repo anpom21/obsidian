@@ -78,9 +78,57 @@
               "icon": "lucide-file",
               "title": "new person"
             }
+          },
+          {
+            "id": "38c9ef1d6abcc3d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/heyog.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "heyog"
+            }
+          },
+          {
+            "id": "20499e3a3a5917ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Rasmus H.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Rasmus H"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -274,12 +322,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4c1a3667644e7991",
+  "active": "20499e3a3a5917ef",
   "lastOpenFiles": [
+    "Inbox/heyog.md",
+    "Inbox/Rasmus H.md",
+    "Templates/new person.md",
     "Inbox/Untitled 2.md",
     "Inbox/heyo.md",
     "Inbox/2026-06-07 - heyo.md",
-    "Templates/new person.md",
     "Inbox/Rasmus.md",
     "Inbox/Untitled 1.md",
     "Templates/new person template.md",
@@ -302,8 +352,6 @@
     "conflict-files-obsidian-git.md",
     "h",
     "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
-    "Daily/2026-06-05.md",
-    "Daily/2026-06-04.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",

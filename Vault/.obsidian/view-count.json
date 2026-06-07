@@ -1408,6 +1408,26 @@
           "timestampMillis": 1780823532559
         }
       ]
+    },
+    {
+      "path": "Inbox/heyog.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780823623130
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Rasmus H.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780823631463
+        }
+      ]
     }
   ]
 }
