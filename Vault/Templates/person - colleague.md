@@ -23,11 +23,6 @@ partner:
 > - Parents:  
 > - Siblings:  
 
-> [!info]- Work / Professional Context  
-> - Company:  
-> - Role:  
-> - Current projects:  
-
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -39,6 +34,7 @@ partner:
 > - Allergies:  
 > - ....
   ---
+## Current projects
   
 ## Updates
 - 
