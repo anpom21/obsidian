@@ -620,8 +620,8 @@
     },
     {
       "path": "Templates/inbox template.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1780395181190
@@ -664,6 +664,9 @@
         },
         {
           "timestampMillis": 1780642762333
+        },
+        {
+          "timestampMillis": 1780827560905
         }
       ]
     },
@@ -1321,13 +1324,16 @@
     {
       "path": "Daily/2026-06-07.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780822441942
         },
         {
           "timestampMillis": 1780822451132
+        },
+        {
+          "timestampMillis": 1780827468222
         }
       ]
     },
@@ -1345,9 +1351,9 @@
       ]
     },
     {
-      "path": "Templates/new person.md",
+      "path": "Templates/person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1375,6 +1381,12 @@
         },
         {
           "timestampMillis": 1780827166118
+        },
+        {
+          "timestampMillis": 1780827505416
+        },
+        {
+          "timestampMillis": 1780827561817
         }
       ]
     },
@@ -1543,10 +1555,13 @@
     {
       "path": "Inbox/2026-06-07 - mie.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780827230932
+        },
+        {
+          "timestampMillis": 1780827470360
         }
       ]
     }

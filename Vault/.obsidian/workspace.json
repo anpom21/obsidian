@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/new person.md",
+                "file": "Templates/person.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new person"
+              "title": "person"
             }
           },
           {
@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-07 - mie.md",
+                "file": "Templates/person.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-07 - mie"
+              "title": "person"
             }
           }
         ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/2026-06-07 - mie.md",
+                "file": "Templates/person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-07 - mie"
+              "title": "Backlinks for person"
             }
           },
           {
@@ -349,10 +349,14 @@
   },
   "active": "bb85a958e9d84603",
   "lastOpenFiles": [
-    "Inbox/Tim.md",
+    "Templates/inbox template.md",
+    "Templates/person.md",
     "Inbox/2026-06-07 - mie.md",
+    "Daily/2026-06-07.md",
+    "Daily/2026-06-08.md",
+    "Literature",
+    "Inbox/Tim.md",
     "Inbox/2026-06-07 - Heydo.md",
-    "Templates/new person.md",
     "Inbox/heyog.md",
     "Inbox/2026-06-07 - fyr.md",
     "Inbox/Untitled 4.md",
@@ -366,7 +370,6 @@
     "Inbox/Rasmus.md",
     "Inbox/Untitled 1.md",
     "Templates/new person template.md",
-    "Daily/2026-06-07.md",
     "Daily/2026-06-02.md",
     "Tasks.md",
     "Inbox/Password manager.md",
@@ -374,8 +377,6 @@
     "obsidian-search-todos",
     "Inbox/2026-06-05 - yess.md",
     "Inbox/2026-06-05 - something.md",
-    "Inbox/2026-06-05 - it works!.md",
-    "Inbox/2026-06-05 - gad.md",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
@@ -394,7 +395,6 @@
     "performance_metrics",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "References/UNI",
-    "open-tasks",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
