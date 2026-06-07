@@ -12,32 +12,27 @@ phone:
 email:
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
-
 # <% tp.file.title %>
-
-## Snapshot  
-- Personality:  
-- Interests:  
-  
 ## Details  
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
   
-  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
 > - Hobbies:  
 > - Books/Movies:  
+> - Interests: 
   
-### Important Life Events  
--  
+  ---
   
-### Things They Care About  
--
+## Updates
+- 
 
+## Timeline
+- 
 
 ## Related Notes
 
