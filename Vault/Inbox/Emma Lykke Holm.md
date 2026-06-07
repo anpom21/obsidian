@@ -8,12 +8,15 @@ aliases:
   - Emse
 relationship: friend
 birthday:
-anniversary:
-partner:
+anniversary: 2023-07-04
+partner: "[[Andreas Pommerencke]]"
 children: []
-parents: []
-siblings: []
-location:
+parents:
+  - "[[Helle Holm]]"
+  - "[[Thomas Lykke Holm]]"
+siblings:
+  - "[[Mathias Lykke Holm]]"
+location: Gartnerbyen 86, Odense V 5230
 phone:
 email:
 company:
