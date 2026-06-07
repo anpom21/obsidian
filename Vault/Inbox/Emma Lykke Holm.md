@@ -7,7 +7,7 @@ aliases:
   - Emma
   - Emse
 relationship: friend
-birthday:
+birthday: 2000-08-30
 anniversary: 2023-07-04
 partner: "[[Andreas Pommerencke]]"
 children: []
@@ -17,15 +17,15 @@ parents:
 siblings:
   - "[[Mathias Lykke Holm]]"
 location: Gartnerbyen 86, Odense V 5230
-phone:
-email:
-company:
-role:
+phone: "+4553635756"
+email: emmalykke00@icloud.com
+company: OUH
+role: Sygeplejerske
 linkedin:
 last_seen:
 last_contact:
 next_followup:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-06-07
 ---
 
 # <% tp.file.title %>
