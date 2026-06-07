@@ -29,6 +29,7 @@ partner:
 
 > [!info]- Notes  
 > - Allergies:  
+> - ....
   ---
   
 ## Updates
