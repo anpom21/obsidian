@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/new person.md",
+                "file": "Inbox/Untitled 4.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,16 +28,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new person"
+              "title": "Untitled 4"
             }
           },
           {
-            "id": "d3dc0b58fa882dd0",
+            "id": "a55c56895c5ba050",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Emma Lykke Holm.md",
+                "file": "Inbox/2026-06-07 - hasmus.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,131 +52,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emma Lykke Holm"
-            }
-          },
-          {
-            "id": "a12a0c442923c24c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/heyog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "heyog"
-            }
-          },
-          {
-            "id": "df2d24387a4ad6ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "4c1a3667644e7991",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Templates/new person.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "new person"
-            }
-          },
-          {
-            "id": "38c9ef1d6abcc3d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/heyog.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "heyog"
-            }
-          },
-          {
-            "id": "20499e3a3a5917ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Rasmus H.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Rasmus H"
+              "title": "2026-06-07 - hasmus"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -230,11 +110,13 @@
             }
           },
           {
-            "id": "499f33d06c12be60",
+            "id": "9704799e62961ea5",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "notebook-navigator",
               "state": {},
+              "pinned": true,
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
@@ -260,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/heyog.md",
+                "file": "Inbox/2026-06-07 - hasmus.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +152,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for heyog"
+              "title": "Backlinks for 2026-06-07 - hasmus"
             }
           },
           {
@@ -369,13 +251,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "088500ace93147d6",
+  "active": "a55c56895c5ba050",
   "lastOpenFiles": [
-    "Inbox/Rasmus H.md",
-    "Inbox/Emma Lykke Holm.md",
     "Inbox/Untitled 4.md",
+    "Inbox/2026-06-07 - hasmus.md",
     "Templates/new person.md",
     "Inbox/heyog.md",
+    "Inbox/Untitled 3.md",
+    "Inbox/Rasmus H.md",
+    "Inbox/Emma Lykke Holm.md",
     "Inbox/Untitled 2.md",
     "Inbox/heyo.md",
     "Inbox/2026-06-07 - heyo.md",
@@ -396,8 +280,6 @@
     "Templates/inbox template.md",
     "Templates/new meeting template.md",
     "Templates/daily.md",
-    "Areas/Linux/Zsh.md",
-    "conflict-files-obsidian-git.md",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",

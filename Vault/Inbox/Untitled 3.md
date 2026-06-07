@@ -1,3 +1,7 @@
+<%*
+const now = tp.date.now("YYYYMMDDHHmmss");
+const personId = "person-" + now;
+-%>
 ---
 id: <% personId %>
 type: person

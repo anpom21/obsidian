@@ -1347,7 +1347,7 @@
     {
       "path": "Templates/new person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1363,6 +1363,12 @@
         },
         {
           "timestampMillis": 1780823966286
+        },
+        {
+          "timestampMillis": 1780826406010
+        },
+        {
+          "timestampMillis": 1780826562187
         }
       ]
     },
@@ -1415,7 +1421,7 @@
     {
       "path": "Inbox/heyog.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780823623130
@@ -1425,6 +1431,9 @@
         },
         {
           "timestampMillis": 1780826157863
+        },
+        {
+          "timestampMillis": 1780826527802
         }
       ]
     },
@@ -1454,6 +1463,39 @@
         },
         {
           "timestampMillis": 1780824910198
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled 3.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780826379539
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled 4.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780826436512
+        },
+        {
+          "timestampMillis": 1780826571451
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-07 - hasmus.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780826601687
         }
       ]
     }

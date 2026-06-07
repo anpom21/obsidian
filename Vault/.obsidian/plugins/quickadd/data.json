@@ -58,7 +58,7 @@
       "name": "Person",
       "type": "Template",
       "command": false,
-      "templatePath": "",
+      "templatePath": "Templates/new person.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
