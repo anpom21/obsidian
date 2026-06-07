@@ -11,6 +11,7 @@ location:
 phone:
 email:
 created: <% tp.date.now("YYYY-MM-DD") %>
+partner:
 ---
 # <% tp.file.title %>
 ## Details  
@@ -34,6 +35,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 ## Timeline
 - 
 
+---
 ## Related Notes
 
 ```dataview
