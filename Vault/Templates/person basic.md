@@ -7,16 +7,9 @@ aliases:
   - 
 relationship: friend
 birthday:
-anniversary:
-partner:
 location:
 phone:
 email:
-company:
-role:
-linkedin:
-last_seen:
-next_followup:
 created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
