@@ -1,3 +1,0 @@
-- UNet vs DiT
-	- Inference time
-- 
