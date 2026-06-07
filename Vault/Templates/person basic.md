@@ -9,9 +9,6 @@ relationship: friend
 birthday:
 anniversary:
 partner:
-children: []
-parents: []
-siblings: []
 location:
 phone:
 email:
@@ -19,10 +16,8 @@ company:
 role:
 linkedin:
 last_seen:
-last_contact:
 next_followup:
-created:  <% tp.date.now("YYYY-MM-DD") %>
-
+created: <% tp.date.now("YYYY-MM-DD") %>
 ---
 
 # <% tp.file.title %>

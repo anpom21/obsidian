@@ -1353,7 +1353,7 @@
     {
       "path": "Templates/person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1387,6 +1387,21 @@
         },
         {
           "timestampMillis": 1780827561817
+        },
+        {
+          "timestampMillis": 1780828712982
+        },
+        {
+          "timestampMillis": 1780828723302
+        },
+        {
+          "timestampMillis": 1780828732132
+        },
+        {
+          "timestampMillis": 1780828735359
+        },
+        {
+          "timestampMillis": 1780828745220
         }
       ]
     },
@@ -1562,6 +1577,28 @@
         },
         {
           "timestampMillis": 1780827470360
+        }
+      ]
+    },
+    {
+      "path": "Templates/person basic.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780828717404
+        },
+        {
+          "timestampMillis": 1780828730020
+        },
+        {
+          "timestampMillis": 1780828733189
+        },
+        {
+          "timestampMillis": 1780828740879
+        },
+        {
+          "timestampMillis": 1780828748506
         }
       ]
     }
