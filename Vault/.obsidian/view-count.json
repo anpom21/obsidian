@@ -1353,7 +1353,7 @@
     {
       "path": "Templates/person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 16,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1402,6 +1402,9 @@
         },
         {
           "timestampMillis": 1780828745220
+        },
+        {
+          "timestampMillis": 1780858157698
         }
       ]
     },
@@ -1583,7 +1586,7 @@
     {
       "path": "Templates/person basic.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780828717404
@@ -1599,6 +1602,9 @@
         },
         {
           "timestampMillis": 1780828748506
+        },
+        {
+          "timestampMillis": 1780858237480
         }
       ]
     }

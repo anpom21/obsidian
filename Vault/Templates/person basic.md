@@ -14,7 +14,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
 ---
 # <% tp.file.title %>
-## Details  
+## Details 
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
@@ -28,8 +28,7 @@ partner:
 > - Interests: 
 
 > [!info]- Notes  
-> - Food:  
-  
+> - Allergies:  
   ---
   
 ## Updates
