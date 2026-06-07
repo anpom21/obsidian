@@ -1,15 +1,6 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD") %>
-tags:
 source:
-aliases:
----
-
-<%*
-const now = tp.date.now("YYYYMMDDHHmmss");
-const personId = "person-" + now;
--%>
----
 id: <% personId %>
 type: person
 tags:
@@ -32,8 +23,6 @@ linkedin:
 last_seen:
 last_contact:
 next_followup:
-created:  <% tp.date.now("YYYY-MM-DD") %>
-
 ---
 
 # <% tp.file.title %>

@@ -1415,13 +1415,16 @@
     {
       "path": "Inbox/heyog.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780823623130
         },
         {
           "timestampMillis": 1780826032691
+        },
+        {
+          "timestampMillis": 1780826157863
         }
       ]
     },

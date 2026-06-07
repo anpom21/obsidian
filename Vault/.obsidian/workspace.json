@@ -260,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
+                "file": "Inbox/heyog.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -270,7 +270,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SSH"
+              "title": "Backlinks for heyog"
             }
           },
           {
@@ -347,8 +347,7 @@
               "title": "calendar"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -370,7 +369,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a12a0c442923c24c",
+  "active": "088500ace93147d6",
   "lastOpenFiles": [
     "Inbox/Rasmus H.md",
     "Inbox/Emma Lykke Holm.md",
