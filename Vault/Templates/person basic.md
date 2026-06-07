@@ -32,15 +32,6 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 > - Hobbies:  
 > - Books/Movies:  
   
-## Personal Context  
--
-  
-### Current Challenges  
--  
-  
-### Current Goals  
--  
-  
 ### Important Life Events  
 -  
   
