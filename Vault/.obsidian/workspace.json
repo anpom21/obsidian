@@ -37,7 +37,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-07 - hasmus.md",
+                "file": "Templates/new person.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "new person"
+            }
+          },
+          {
+            "id": "c4f4e1730be2de2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/heyog.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-07 - hasmus"
+              "title": "heyog"
+            }
+          },
+          {
+            "id": "19fffe48be072433",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Tim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tim"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/2026-06-07 - hasmus.md",
+                "file": "Inbox/Tim.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +200,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-07 - hasmus"
+              "title": "Backlinks for Tim"
             }
           },
           {
@@ -251,12 +299,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a55c56895c5ba050",
+  "active": "19fffe48be072433",
   "lastOpenFiles": [
+    "Inbox/heyog.md",
+    "Inbox/Tim.md",
+    "Inbox/2026-06-07 - fyr.md",
+    "Templates/new person.md",
     "Inbox/Untitled 4.md",
     "Inbox/2026-06-07 - hasmus.md",
-    "Templates/new person.md",
-    "Inbox/heyog.md",
     "Inbox/Untitled 3.md",
     "Inbox/Rasmus H.md",
     "Inbox/Emma Lykke Holm.md",
@@ -278,8 +328,6 @@
     "Inbox/2026-06-05 - gad.md",
     "Inbox/2026-06-05 - heyo.md",
     "Templates/inbox template.md",
-    "Templates/new meeting template.md",
-    "Templates/daily.md",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",

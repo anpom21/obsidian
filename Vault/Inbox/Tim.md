@@ -1,10 +1,12 @@
 ---
-id: p-
-type: person
+created: 2026-06-07
 tags:
   - person
+source:
 aliases:
   - 
+id: p-
+type: person
 relationship: friend
 birthday:
 anniversary:
@@ -21,11 +23,9 @@ linkedin:
 last_seen:
 last_contact:
 next_followup:
-created:  <% tp.date.now("YYYY-MM-DD") %>
-
 ---
 
-# <% tp.file.title %>
+# 2026-06-07 - tim
 
 ## Snapshot  
 - How we met:  
