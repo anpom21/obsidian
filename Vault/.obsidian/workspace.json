@@ -135,7 +135,7 @@
               "state": {
                 "file": "Templates/person basic.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
