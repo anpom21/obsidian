@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/person - colleague.md",
+                "file": "Templates/person family.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "person - colleague"
+              "title": "person family"
             }
           }
         ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/person - colleague.md",
+                "file": "Templates/person family.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for person - colleague"
+              "title": "Backlinks for person family"
             }
           },
           {
@@ -349,9 +349,10 @@
   },
   "active": "bb85a958e9d84603",
   "lastOpenFiles": [
-    "Templates/person.md",
-    "Templates/person - colleague.md",
     "Templates/person basic.md",
+    "Templates/person family.md",
+    "Templates/person - colleague.md",
+    "Templates/person.md",
     "Inbox/Agnes.md",
     "Inbox/Babo.md",
     "Inbox/Unavngivet.md",
@@ -375,7 +376,6 @@
     "Inbox/Rasmus.md",
     "Inbox/Untitled 1.md",
     "Templates/new person template.md",
-    "Daily/2026-06-02.md",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",

@@ -10,11 +10,10 @@ birthday:
 location:
 phone:
 email:
-company:
-role:
-linkedin:
 created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
+parents:
+siblings:
 ---
 # <% tp.file.title %>
 ## Details 
@@ -22,7 +21,7 @@ partner:
 > - Partner:  
 > - Parents:  
 > - Siblings:  
-
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -34,8 +33,6 @@ partner:
 > - Allergies:  
 > - ....
   ---
-### Current projects
-
   
 ## Updates
 - 
