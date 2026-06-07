@@ -1347,7 +1347,7 @@
     {
       "path": "Templates/new person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1372,6 +1372,9 @@
         },
         {
           "timestampMillis": 1780826698468
+        },
+        {
+          "timestampMillis": 1780827166118
         }
       ]
     },
@@ -1511,10 +1514,39 @@
     {
       "path": "Inbox/Tim.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780826956193
+        },
+        {
+          "timestampMillis": 1780827216433
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-07 - Heydo.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780827093010
+        },
+        {
+          "timestampMillis": 1780827162173
+        },
+        {
+          "timestampMillis": 1780827202065
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-07 - mie.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780827230932
         }
       ]
     }

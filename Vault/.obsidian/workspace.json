@@ -102,9 +102,57 @@
               "icon": "lucide-file",
               "title": "Tim"
             }
+          },
+          {
+            "id": "b2ade32a1aaca2a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Tim.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tim"
+            }
+          },
+          {
+            "id": "bb85a958e9d84603",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-06-07 - mie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-07 - mie"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -190,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Tim.md",
+                "file": "Inbox/2026-06-07 - mie.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tim"
+              "title": "Backlinks for 2026-06-07 - mie"
             }
           },
           {
@@ -299,12 +347,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "19fffe48be072433",
+  "active": "bb85a958e9d84603",
   "lastOpenFiles": [
-    "Inbox/heyog.md",
     "Inbox/Tim.md",
-    "Inbox/2026-06-07 - fyr.md",
+    "Inbox/2026-06-07 - mie.md",
+    "Inbox/2026-06-07 - Heydo.md",
     "Templates/new person.md",
+    "Inbox/heyog.md",
+    "Inbox/2026-06-07 - fyr.md",
     "Inbox/Untitled 4.md",
     "Inbox/2026-06-07 - hasmus.md",
     "Inbox/Untitled 3.md",
@@ -326,8 +376,6 @@
     "Inbox/2026-06-05 - something.md",
     "Inbox/2026-06-05 - it works!.md",
     "Inbox/2026-06-05 - gad.md",
-    "Inbox/2026-06-05 - heyo.md",
-    "Templates/inbox template.md",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",

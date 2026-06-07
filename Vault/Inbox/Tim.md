@@ -25,7 +25,7 @@ last_contact:
 next_followup:
 ---
 
-# 2026-06-07 - tim
+# Tim
 
 ## Snapshot  
 - How we met:  
