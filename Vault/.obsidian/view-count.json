@@ -1353,7 +1353,7 @@
     {
       "path": "Templates/person.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
@@ -1405,6 +1405,12 @@
         },
         {
           "timestampMillis": 1780858157698
+        },
+        {
+          "timestampMillis": 1780858696087
+        },
+        {
+          "timestampMillis": 1780858744510
         }
       ]
     },
@@ -1605,6 +1611,22 @@
         },
         {
           "timestampMillis": 1780858237480
+        }
+      ]
+    },
+    {
+      "path": "Templates/person - colleague.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780858644856
+        },
+        {
+          "timestampMillis": 1780858719318
+        },
+        {
+          "timestampMillis": 1780858763854
         }
       ]
     }

@@ -133,9 +133,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/person basic.md",
+                "file": "Templates/person - colleague.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "person basic"
+              "title": "person - colleague"
             }
           }
         ],
@@ -238,7 +238,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Templates/person basic.md",
+                "file": "Templates/person - colleague.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -248,7 +248,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for person basic"
+              "title": "Backlinks for person - colleague"
             }
           },
           {
@@ -350,6 +350,7 @@
   "active": "bb85a958e9d84603",
   "lastOpenFiles": [
     "Templates/person.md",
+    "Templates/person - colleague.md",
     "Templates/person basic.md",
     "Inbox/Agnes.md",
     "Inbox/Babo.md",
@@ -375,7 +376,6 @@
     "Inbox/Untitled 1.md",
     "Templates/new person template.md",
     "Daily/2026-06-02.md",
-    "Tasks.md",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",

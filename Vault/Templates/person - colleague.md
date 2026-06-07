@@ -1,0 +1,57 @@
+---
+id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+type: person
+tags:
+  - person
+aliases:
+  - 
+relationship: friend
+birthday:
+location:
+phone:
+email:
+company:
+role:
+linkedin:
+created: <% tp.date.now("YYYY-MM-DD") %>
+partner:
+---
+# <% tp.file.title %>
+## Details 
+> [!info]- Family  
+> - Partner:  
+> - Parents:  
+> - Siblings:  
+
+> [!info]- Work / Professional Context  
+> - Company:  
+> - Role:  
+> - Current projects:  
+
+> [!info]- Favorites  
+> - Food:  
+> - Drinks:  
+> - Hobbies:  
+> - Books/Movies:  
+> - Interests: 
+
+> [!info]- Notes  
+> - Allergies:  
+> - ....
+  ---
+  
+## Updates
+- 
+
+## Timeline
+- 
+
+---
+## Related Notes
+
+```dataview
+TABLE file.mtime AS Updated
+FROM [[]]
+WHERE file.name != this.file.name
+SORT file.mtime DESC
+```
