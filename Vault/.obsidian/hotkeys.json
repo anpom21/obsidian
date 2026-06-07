@@ -189,7 +189,15 @@
       "key": "D"
     }
   ],
-  "file-explorer:new-file": [],
+  "file-explorer:new-file": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "N"
+    }
+  ],
   "quickadd:choice:c8987148-0975-4711-99cf-7228a5a9fb41": [
     {
       "modifiers": [
@@ -197,5 +205,6 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "file-explorer:new-file-in-new-pane": []
 }

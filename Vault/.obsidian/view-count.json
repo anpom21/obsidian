@@ -1344,10 +1344,33 @@
     {
       "path": "Templates/new person template 1.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1780822785801
+        },
+        {
+          "timestampMillis": 1780823085979
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Untitled 1.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780823086657
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Rasmus.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780823145953
         }
       ]
     }
