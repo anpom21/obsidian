@@ -1461,44 +1461,25 @@
       ]
     },
     {
-      "path": "Inbox/heyog.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1780823623130
-        },
-        {
-          "timestampMillis": 1780826032691
-        },
-        {
-          "timestampMillis": 1780826157863
-        },
-        {
-          "timestampMillis": 1780826527802
-        },
-        {
-          "timestampMillis": 1780826951240
-        }
-      ]
-    },
-    {
       "path": "Inbox/Rasmus H.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780823631463
         },
         {
           "timestampMillis": 1780826031294
+        },
+        {
+          "timestampMillis": 1780859706294
         }
       ]
     },
     {
       "path": "Inbox/Emma Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1780823987714
@@ -1508,91 +1489,19 @@
         },
         {
           "timestampMillis": 1780824910198
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Untitled 3.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1780826379539
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Untitled 4.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1780826436512
         },
         {
-          "timestampMillis": 1780826571451
+          "timestampMillis": 1780859703341
         },
         {
-          "timestampMillis": 1780826691960
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-07 - fyr.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1780826766410
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Tim.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1780826956193
-        },
-        {
-          "timestampMillis": 1780827216433
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-07 - Heydo.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1780827093010
-        },
-        {
-          "timestampMillis": 1780827162173
-        },
-        {
-          "timestampMillis": 1780827202065
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-07 - mie.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1780827230932
-        },
-        {
-          "timestampMillis": 1780827470360
+          "timestampMillis": 1780859708780
         }
       ]
     },
     {
       "path": "Templates/person basic.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1780828717404
@@ -1614,13 +1523,16 @@
         },
         {
           "timestampMillis": 1780859221951
+        },
+        {
+          "timestampMillis": 1780859625621
         }
       ]
     },
     {
       "path": "Templates/person - colleague.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1780858644856
@@ -1630,19 +1542,35 @@
         },
         {
           "timestampMillis": 1780858763854
+        },
+        {
+          "timestampMillis": 1780859621892
         }
       ]
     },
     {
       "path": "Templates/person family.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1780859228844
         },
         {
           "timestampMillis": 1780859230503
+        },
+        {
+          "timestampMillis": 1780859631814
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Agnes.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780859675753
         }
       ]
     }

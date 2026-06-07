@@ -7,7 +7,7 @@ aliases:
   - 
 relationship: friend
 birthday:
-location:
+address:
 phone:
 email:
 created: <% tp.date.now("YYYY-MM-DD") %>

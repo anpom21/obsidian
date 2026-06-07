@@ -7,7 +7,7 @@ aliases:
   - 
 relationship: friend
 birthday:
-location:
+address:
 phone:
 email:
 company:
