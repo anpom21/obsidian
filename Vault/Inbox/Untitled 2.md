@@ -1,3 +1,7 @@
+<%*
+const now = tp.date.now("YYYYMMDDHHmmss");
+const personId = "person-" + now;
+-%>
 ---
 id: <% personId %>
 type: person
@@ -21,8 +25,11 @@ linkedin:
 last_seen:
 last_contact:
 next_followup:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created:  <% tp.date.now("YYYY-MM-DD") %>
+
 ---
+
+# <% tp.file.title %>
 
 ## Snapshot  
 - How we met:  
@@ -57,6 +64,8 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 > -  
 > ### Things They Care About  
 > -
+
+
 ## Related Notes
 
 ```dataview

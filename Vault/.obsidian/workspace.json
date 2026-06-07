@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/new person template 1.md",
+                "file": "Templates/new person.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "new person template 1"
+              "title": "new person"
             }
           },
           {
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Rasmus.md",
+                "file": "Templates/new person.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Rasmus"
+              "title": "new person"
             }
           }
         ],
@@ -276,12 +276,14 @@
   },
   "active": "4c1a3667644e7991",
   "lastOpenFiles": [
-    "Inbox/Untitled 1.md",
+    "Inbox/Untitled 2.md",
+    "Inbox/heyo.md",
+    "Inbox/2026-06-07 - heyo.md",
+    "Templates/new person.md",
     "Inbox/Rasmus.md",
-    "Templates/new person template 1.md",
+    "Inbox/Untitled 1.md",
     "Templates/new person template.md",
     "Daily/2026-06-07.md",
-    "Inbox/2026-06-07 - heyo.md",
     "Daily/2026-06-02.md",
     "Tasks.md",
     "Inbox/Password manager.md",
@@ -294,7 +296,6 @@
     "Inbox/2026-06-05 - heyo.md",
     "Templates/inbox template.md",
     "Inbox/Untitled 4.md",
-    "Inbox/Untitled 3.md",
     "Templates/new meeting template.md",
     "Templates/daily.md",
     "Areas/Linux/Zsh.md",
@@ -303,7 +304,6 @@
     "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
     "Daily/2026-06-05.md",
     "Daily/2026-06-04.md",
-    "My Note.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
