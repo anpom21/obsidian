@@ -1,5 +1,5 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260607171639
 type: person
 tags:
   - person
@@ -10,10 +10,53 @@ birthday:
 location:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-06-07
 ---
 
-# <% tp.file.title %>
+# Agnes
+
+## Snapshot  
+- Personality:  
+- Interests:  
+  
+## Details  
+> [!info]- Family  
+> - Partner:  
+> - Parents:  
+> - Siblings:  
+  
+  
+> [!info]- Favorites  
+> - Food:  
+> - Drinks:  
+> - Hobbies:  
+> - Books/Movies:  
+  
+## Personal Context  
+-
+  
+### Current Challenges  
+-  
+  
+### Current Goals  
+-  
+  
+### Important Life Events  
+-  
+  
+### Things They Care About  
+-
+
+
+## Related Notes
+
+```dataview
+TABLE file.mtime AS Updated
+FROM [[]]
+WHERE file.name != this.file.name
+SORT file.mtime DESC
+```
+# Agnes
 
 ## Snapshot  
 - Personality:  
