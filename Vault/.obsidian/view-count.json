@@ -415,8 +415,8 @@
     },
     {
       "path": "Templates/new person template.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1780393884959
@@ -435,6 +435,15 @@
         },
         {
           "timestampMillis": 1780642532685
+        },
+        {
+          "timestampMillis": 1780822763999
+        },
+        {
+          "timestampMillis": 1780822774688
+        },
+        {
+          "timestampMillis": 1780822779017
         }
       ]
     },
@@ -1329,6 +1338,16 @@
       "openLogs": [
         {
           "timestampMillis": 1780822448354
+        }
+      ]
+    },
+    {
+      "path": "Templates/new person template 1.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780822785801
         }
       ]
     }

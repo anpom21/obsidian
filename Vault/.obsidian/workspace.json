@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-07.md",
+                "file": "Templates/new person template 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-07"
+              "title": "new person template 1"
             }
           }
         ]
@@ -227,8 +227,10 @@
   },
   "active": "8b01f3d94bca39b2",
   "lastOpenFiles": [
-    "Inbox/2026-06-07 - heyo.md",
+    "Templates/new person template.md",
+    "Templates/new person template 1.md",
     "Daily/2026-06-07.md",
+    "Inbox/2026-06-07 - heyo.md",
     "Daily/2026-06-02.md",
     "Tasks.md",
     "Inbox/Password manager.md",
@@ -244,7 +246,6 @@
     "Inbox/Untitled 4.md",
     "Inbox/Untitled 3.md",
     "Inbox/Untitled 2.md",
-    "Templates/new person template.md",
     "Templates/new meeting template.md",
     "Templates/daily.md",
     "Areas/Linux/Zsh.md",
@@ -254,7 +255,6 @@
     "Daily/2026-06-05.md",
     "Daily/2026-06-04.md",
     "My Note.md",
-    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-31-27-815_plasticbag_v00.png",
     "Archive/attachments/img_gallant-stag_2025-10-15T11-27-23-007_plasticbag_v00.png",
