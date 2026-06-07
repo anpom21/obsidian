@@ -28,10 +28,6 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 > - Parents:  
 > - Siblings:  
   
-> [!info]- Work / Professional Context  
-> - Company:  
-> - Role:  
-> - Current projects:  
   
 > [!info]- Favorites  
 > - Food:  
@@ -40,7 +36,7 @@ created: <% tp.date.now("YYYY-MM-DD") %>
 > - Books/Movies:  
   
 ## Personal Context  
-%% fold %%  
+-
   
 ### Current Challenges  
 -  
