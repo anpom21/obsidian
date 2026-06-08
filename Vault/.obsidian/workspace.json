@@ -8,30 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b01f3d94bca39b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Emma Lykke Holm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Emma Lykke Holm"
-            }
-          },
-          {
             "id": "a55c56895c5ba050",
             "type": "leaf",
             "state": {
@@ -141,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inbox/Emma Lykke Holm.md",
+                "file": "Templates/person.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Emma Lykke Holm"
+              "title": "Backlinks for person"
             }
           },
           {
@@ -250,35 +226,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b01f3d94bca39b2",
+  "active": "a55c56895c5ba050",
   "lastOpenFiles": [
-    "Inbox/Rasmus H.md",
-    "Inbox/Emma Lykke Holm.md",
-    "Inbox/heyog.md",
-    "Inbox/Untitled 3.md",
-    "Inbox/Untitled 4.md",
-    "Inbox/2026-06-07 - fyr.md",
-    "Inbox/Tim.md",
-    "Inbox/2026-06-07 - Heydo.md",
-    "Inbox/2026-06-07 - mie.md",
-    "Inbox/Unavngivet.md",
-    "Inbox/Babo.md",
-    "Inbox/Agnes.md",
-    "Templates/person family.md",
-    "Templates/person basic.md",
-    "Templates/person - colleague.md",
-    "Templates/person.md",
-    "Templates/inbox template.md",
-    "Daily/2026-06-07.md",
-    "Daily/2026-06-08.md",
-    "Literature",
-    "Inbox/2026-06-07 - hasmus.md",
-    "Inbox/Untitled 2.md",
-    "Inbox/heyo.md",
-    "Inbox/2026-06-07 - heyo.md",
-    "Inbox/Rasmus.md",
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
+    "Inbox/Evaluation tracking.md",
+    "Inbox/Wade-System.md",
+    "ARIS/Dangerous waste.md",
+    "Inbox/Classification.md",
+    "Inbox/Image sorter.md",
+    "Inbox/ARIS Config.md",
+    "Inbox/Annotation.md",
+    "Templates/ARIS Repository.md",
+    "Inbox/ARIS CLI.md",
+    "ARIS/sortinglist_v28_+_pool.md",
+    "ARIS/Dangerous waste prompt.md",
+    "Inbox/sortinglist_v28_+_pool.md",
+    "Inbox/Agnes Jensen?.md",
+    "Inbox/Dan Jensen.md",
+    "Inbox/Untitled.md",
+    "Inbox/Password manager.md",
+    "Inbox/Obsidian Hotkeys.md",
+    "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+    "Inbox/Meeting - 11.00.md",
+    "Inbox/Disc golf.md",
+    "Inbox/DataView.md",
+    "Inbox/Dangerous waste prompt.md",
+    "Inbox/Agentic workflow.md",
+    "Inbox/2026-06-05 - yess.md",
     "Inbox/Untitled 1.md",
-    "Templates/new person template.md",
+    "Literature",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",

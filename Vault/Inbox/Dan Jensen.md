@@ -1,28 +1,28 @@
 ---
-id: p-20260607214802
-type: person
+created: 2026-06-07
 tags:
   - person
+source:
 aliases:
   - 
+id: p-20260607214802
+type: person
 relationship: friend
 birthday:
 address:
 phone:
 email:
-company:
-role:
-linkedin:
-created: 2026-06-07
-partner:
+partner: "[[Gitte Holm?]]"
+parents:
+siblings:
 ---
-# person - colleague
+# person family
 ## Details 
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
-
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -34,8 +34,6 @@ partner:
 > - Allergies:  
 > - ....
   ---
-### Current projects
-
   
 ## Updates
 - 

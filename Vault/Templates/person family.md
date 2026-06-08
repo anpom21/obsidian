@@ -1,5 +1,5 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260607214802
 type: person
 tags:
   - person
@@ -10,12 +10,12 @@ birthday:
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-06-07
 partner:
 parents:
 siblings:
 ---
-# <% tp.file.title %>
+# person family
 ## Details 
 > [!info]- Family  
 > - Partner:  

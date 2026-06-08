@@ -1,28 +1,30 @@
 ---
-id: p-20260607214802
-type: person
+created: 2026-06-07
 tags:
   - person
+source:
 aliases:
-  - 
-relationship: friend
+  - Agnes
+id: p-20260607214802
+type: person
+relationship: family
 birthday:
-address:
+address: Roskilde
 phone:
 email:
-company:
-role:
-linkedin:
-created: 2026-06-07
 partner:
+parents:
+  - "[[Gitte Holm?]]"
+  - "[[Dan Jensen]]"
+siblings:
 ---
-# person - colleague
+
+# Agnes
 ## Details 
 > [!info]- Family  
 > - Partner:  
-> - Parents:  
-> - Siblings:  
-
+> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -31,14 +33,12 @@ partner:
 > - Interests: 
 
 > [!info]- Notes  
-> - Allergies:  
-> - ....
-  ---
-### Current projects
+> - Vegan
 
+  ---
   
 ## Updates
-- 
+- Højskole i Hillerrød
 
 ## Timeline
 - 
