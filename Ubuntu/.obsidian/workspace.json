@@ -20,8 +20,33 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
+          },
+          {
+            "id": "7b91c95f09cb1c15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-06-09 - Løn forhandling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-09 - Løn forhandling"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +240,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
+    "Inbox/2026-06-09 - Løn forhandling.md",
     "performance_metrics/training_val_loss.png.md",
     "performance_metrics",
     "meetings.base",
@@ -249,7 +275,6 @@
     "Inbox/Emma Lykke Holm.md",
     "Inbox/Disc golf.md",
     "Inbox/DataView.md",
-    "Inbox/Dan Jensen.md",
     "Areas/Robrådet/email.gs",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
