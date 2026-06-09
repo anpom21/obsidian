@@ -1,6 +1,7 @@
 ---
 created:
 tags:
+  - todo
 source:
 aliases:
 ---
