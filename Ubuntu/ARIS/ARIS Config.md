@@ -39,8 +39,18 @@ runs/
 
 ### Config yaml
 ```yaml
-experiment_name: classifier_sweep
+experiment_name: wood
 
+model:  
+	backbone: resnet18
+	lr: 0.001
+	...
+	
+data:
+	data_dir: path/to/data
+	resolution: 256
+	...
+	
 hydra:
   run:
     dir: runs/${experiment_name}/${now:%Y-%m-%d_%H-%M-%S}
@@ -54,11 +64,9 @@ hydra:
 
   output_subdir: .hydra
   
-model:  
-	backbone: resnet18
-	lr: 0.001
 ```
 
+### Structured config:
 
 # [[Tasks]]
 
