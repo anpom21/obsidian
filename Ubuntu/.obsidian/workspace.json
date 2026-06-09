@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "0ab8916432d75b0f",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Evaluation tracking - Overview.excalidraw"
+            }
+          },
+          {
             "id": "6e5724e70430adab",
             "type": "leaf",
             "state": {
@@ -337,8 +349,9 @@
   },
   "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
-    "ARIS/ARIS Config.md",
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
+    "ARIS/ARIS Config.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "Inbox/ARIS AI Classification Workflow.md",
     "References/Minecraft.md",
@@ -368,7 +381,6 @@
     "Tasks.md",
     "Speciale.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
-    "References/LaTeX Ubuntu.md",
     "References/Geolocations",
     "Projects",
     "Areas/Robrådet/email.gs",
