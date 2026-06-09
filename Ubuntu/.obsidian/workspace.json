@@ -20,33 +20,8 @@
               "icon": "diff",
               "title": "Diff: workspace.json  (Working Tree)"
             }
-          },
-          {
-            "id": "21606a414e2663d2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Meeting - Anders Mineral uld i plastik poser"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,9 +215,18 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "21606a414e2663d2",
+  "active": "d818cd2518ee6e53",
   "lastOpenFiles": [
+    "Templates/person.md",
+    "Templates/person family.md",
+    "Templates/person basic.md",
+    "Templates/person - colleague.md",
+    "Templates/ARIS Repository.md",
+    "Templates",
+    "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+    "Inbox",
     "Daily/2026-06-05.md",
+    "Daily",
     "conflict-files-obsidian-git.md",
     "References/UNI",
     "References",
@@ -257,19 +241,12 @@
     "Inbox/Image sorter.md",
     "Inbox/ARIS Config.md",
     "Inbox/Annotation.md",
-    "Templates/ARIS Repository.md",
     "Inbox/ARIS CLI.md",
     "ARIS/sortinglist_v28_+_pool.md",
     "ARIS/Dangerous waste prompt.md",
     "Inbox/Agnes Jensen?.md",
     "Inbox/Dan Jensen.md",
-    "Templates/person - colleague.md",
-    "Templates/person family.md",
     "Daily/2026-06-07.md",
-    "Templates/person basic.md",
-    "Templates/person.md",
-    "Inbox/Emma Lykke Holm.md",
-    "Daily/2026-06-08.md",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
@@ -285,9 +262,6 @@
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
-    "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
-    "performance_metrics",
-    "References/UNI/MasterThesisCasperAndreas.pdf",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
