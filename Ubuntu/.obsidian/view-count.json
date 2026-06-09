@@ -1,0 +1,59 @@
+{
+  "items": [
+    {
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1780495216748
+        },
+        {
+          "timestampMillis": 1780495299161
+        },
+        {
+          "timestampMillis": 1780495775905
+        },
+        {
+          "timestampMillis": 1780495777319
+        },
+        {
+          "timestampMillis": 1780495892326
+        },
+        {
+          "timestampMillis": 1780496340822
+        },
+        {
+          "timestampMillis": 1780559335343
+        },
+        {
+          "timestampMillis": 1780559335499
+        },
+        {
+          "timestampMillis": 1780559341341
+        },
+        {
+          "timestampMillis": 1780559373158
+        },
+        {
+          "timestampMillis": 1780559479800
+        },
+        {
+          "timestampMillis": 1780559480125
+        },
+        {
+          "timestampMillis": 1780561785593
+        },
+        {
+          "timestampMillis": 1780561888768
+        },
+        {
+          "timestampMillis": 1780564552381
+        },
+        {
+          "timestampMillis": 1780564713179
+        }
+      ]
+    }
+  ]
+}
