@@ -32,30 +32,6 @@
             }
           },
           {
-            "id": "7b91c95f09cb1c15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "ARIS AI Classification Workflow - Overview.excalidraw"
-            }
-          },
-          {
-            "id": "0ab8916432d75b0f",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Evaluation tracking - Overview.excalidraw"
-            }
-          },
-          {
             "id": "6e5724e70430adab",
             "type": "leaf",
             "state": {
@@ -346,10 +322,11 @@
       }
     ]
   },
-  "active": "7b91c95f09cb1c15",
+  "active": "6e5724e70430adab",
   "lastOpenFiles": [
-    "ARIS/ARIS Config.md",
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
+    "ARIS/ARIS Config.md",
     "Inbox/Helle Holm.md",
     "Inbox/Mai Holm?.md",
     "Templates/person - basic.md",
@@ -359,7 +336,6 @@
     "Inbox/Gitte Holm?.md",
     "Inbox/Agnes Jensen.md",
     "Inbox/ARIS AI Classification Workflow.md",
-    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "test.json",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "References/Minecraft.md",

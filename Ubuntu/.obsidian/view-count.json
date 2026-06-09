@@ -390,17 +390,20 @@
     {
       "path": "References/Minecraft.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781012353244
+        },
+        {
+          "timestampMillis": 1781032326457
         }
       ]
     },
     {
       "path": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781016505787
@@ -416,6 +419,9 @@
         },
         {
           "timestampMillis": 1781018196693
+        },
+        {
+          "timestampMillis": 1781032325206
         }
       ]
     }
