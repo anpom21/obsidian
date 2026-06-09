@@ -67,7 +67,7 @@ hydra:
 ```
 
 ### Structured config:
-```python
+```Python
 # config_schema.py
 from dataclasses import dataclass, field
 from hydra.conf import HydraConf, RunDir, SweepDir, JobConf
@@ -82,7 +82,7 @@ class ModelConfig:
 
 @dataclass
 class Config:
-    experiment_name: str = "classifier_sweep"
+    experiment_name}: str = "classifier_sweep"
     model: ModelConfig = field(default_factory=ModelConfig)
 
     hydra: HydraConf = field(
