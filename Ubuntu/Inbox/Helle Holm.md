@@ -4,7 +4,7 @@ type: person
 tags:
   - person
 aliases:
-  - 
+  - Helle
 relationship: family
 birthday:
 address:
@@ -15,7 +15,10 @@ created: 2026-06-09
 partner: "[[Thomas Lykke Holm]]"
 parents:
   - "[[Flemming Lykke]]"
+  - "[[Kirsten??]]"
 siblings:
+  - "[[Karsten Lykke]]"
+  -
 ---
 # Helle Holm
 ## Details 
