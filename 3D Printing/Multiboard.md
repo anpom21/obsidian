@@ -1,3 +1,0 @@
-
-
-## Parts for organization

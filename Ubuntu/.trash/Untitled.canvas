@@ -1,8 +1,0 @@
-{
-	"nodes":[
-		{"id":"e44eb73f1c95503b","x":-121,"y":-302,"width":250,"height":60,"type":"text","text":""},
-		{"id":"3bfa00aba1548aeb","x":-140,"y":-480,"width":250,"height":60,"type":"text","text":"Config"},
-		{"id":"d4d09615417ff7de","x":-600,"y":-358,"width":400,"height":233,"color":"1","type":"file","file":"Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md"}
-	],
-	"edges":[]
-}

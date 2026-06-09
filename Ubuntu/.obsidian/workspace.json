@@ -13,15 +13,40 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "Ubuntu/Inbox/2026-06-05 - yess.md",
-                "bFile": "Ubuntu/Inbox/2026-06-05 - yess.md",
+                "aFile": "Ubuntu/.obsidian/workspace.json",
+                "bFile": "Ubuntu/.obsidian/workspace.json",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 2026-06-05 - yess  (Working Tree)"
+              "title": "Diff: workspace.json  (Working Tree)"
+            }
+          },
+          {
+            "id": "21606a414e2663d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Meeting - Anders Mineral uld i plastik poser"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,8 +240,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8b01f3d94bca39b2",
+  "active": "21606a414e2663d2",
   "lastOpenFiles": [
+    "Daily/2026-06-05.md",
+    "conflict-files-obsidian-git.md",
+    "References/UNI",
+    "References",
     "Daily/2026-06-09.md",
     "Daily/Untitled.md",
     "Inbox/Færdig uddannet fejring.md",
@@ -241,8 +270,6 @@
     "Templates/person.md",
     "Inbox/Emma Lykke Holm.md",
     "Daily/2026-06-08.md",
-    "Tasks.md",
-    "Inbox/Password manager.md",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
@@ -261,8 +288,6 @@
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
     "performance_metrics",
     "References/UNI/MasterThesisCasperAndreas.pdf",
-    "References/UNI",
-    "open-tasks",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
