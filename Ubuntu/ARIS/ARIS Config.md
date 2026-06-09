@@ -67,6 +67,42 @@ hydra:
 ```
 
 ### Structured config:
+```python
+# config_schema.py
+from dataclasses import dataclass, field
+from hydra.conf import HydraConf, RunDir, SweepDir, JobConf
+from hydra.core.config_store import ConfigStore
+
+
+@dataclass
+class ModelConfig:
+    backbone: str = "resnet18"
+    lr: float = 0.001
+
+
+@dataclass
+class Config:
+    experiment_name: str = "classifier_sweep"
+    model: ModelConfig = field(default_factory=ModelConfig)
+
+    hydra: HydraConf = field(
+        default_factory=lambda: HydraConf(
+            run=RunDir(
+                dir="runs/${experiment_name}/${now:%Y-%m-%d_%H-%M-%S}"
+            ),
+            sweep=SweepDir(
+                dir="runs/${experiment_name}/${now:%Y-%m-%d_%H-%M-%S}",
+                subdir="${hydra.job.num}_${hydra.job.override_dirname}",
+            ),
+            job=JobConf(chdir=True),
+            output_subdir=".hydra",
+        )
+    )
+
+
+cs = ConfigStore.instance()
+cs.store(name="config", node=Config)
+```
 
 # [[Tasks]]
 
