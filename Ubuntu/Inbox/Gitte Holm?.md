@@ -1,22 +1,28 @@
 ---
-created: 2026-06-07
-tags:
-  - person
-source:
-aliases:
-  - 
 id: p-20260607214802
 type: person
+tags:
+  - person
+aliases:
+  - Gitte
 relationship: family
 birthday:
 address:
 phone:
 email:
-partner: "[[Gitte Holm?]]"
+created: 2026-06-07
+partner: "[[Dan Jensen]]"
 parents:
+  - "[[Mai Holm?]]"
+  - "[[Bent Holm?]]"
 siblings:
+  - "[[Helle Holm]]"
+  - "[[Peter Holm?]]"
+  - "[[Lykke Holm?]]"
+children:
+  - "[[Agnes Jensen]]"
 ---
-# person family
+# Gitte Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  
