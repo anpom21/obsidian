@@ -82,7 +82,7 @@
     {
       "path": "ARIS/ARIS Config.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1781008772574
@@ -92,6 +92,54 @@
         },
         {
           "timestampMillis": 1781011937922
+        },
+        {
+          "timestampMillis": 1781012092736
+        },
+        {
+          "timestampMillis": 1781012140086
+        },
+        {
+          "timestampMillis": 1781012234180
+        },
+        {
+          "timestampMillis": 1781012236866
+        },
+        {
+          "timestampMillis": 1781012238564
+        },
+        {
+          "timestampMillis": 1781012241451
+        },
+        {
+          "timestampMillis": 1781012242716
+        },
+        {
+          "timestampMillis": 1781012304120
+        },
+        {
+          "timestampMillis": 1781012309190
+        },
+        {
+          "timestampMillis": 1781012323008
+        },
+        {
+          "timestampMillis": 1781012325298
+        },
+        {
+          "timestampMillis": 1781012326701
+        },
+        {
+          "timestampMillis": 1781012328555
+        },
+        {
+          "timestampMillis": 1781012330825
+        },
+        {
+          "timestampMillis": 1781012341344
+        },
+        {
+          "timestampMillis": 1781012344520
         }
       ]
     },
@@ -160,10 +208,13 @@
     {
       "path": "ARIS/Meeting - 11.00.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781008800282
+        },
+        {
+          "timestampMillis": 1781012122271
         }
       ]
     },
@@ -190,13 +241,103 @@
     {
       "path": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781008803833
         },
         {
           "timestampMillis": 1781008831161
+        },
+        {
+          "timestampMillis": 1781012132693
+        },
+        {
+          "timestampMillis": 1781012209207
+        },
+        {
+          "timestampMillis": 1781012237306
+        },
+        {
+          "timestampMillis": 1781012307465
+        },
+        {
+          "timestampMillis": 1781012362428
+        }
+      ]
+    },
+    {
+      "path": "Inbox/ARIS AI Classification Workflow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1781012105660
+        },
+        {
+          "timestampMillis": 1781012152071
+        },
+        {
+          "timestampMillis": 1781012206289
+        },
+        {
+          "timestampMillis": 1781012235978
+        },
+        {
+          "timestampMillis": 1781012308389
+        },
+        {
+          "timestampMillis": 1781012362896
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1781012173245
+        },
+        {
+          "timestampMillis": 1781012208671
+        },
+        {
+          "timestampMillis": 1781012209933
+        },
+        {
+          "timestampMillis": 1781012240731
+        },
+        {
+          "timestampMillis": 1781012241934
+        },
+        {
+          "timestampMillis": 1781012246483
+        },
+        {
+          "timestampMillis": 1781012310187
+        },
+        {
+          "timestampMillis": 1781012327372
+        },
+        {
+          "timestampMillis": 1781012329861
+        },
+        {
+          "timestampMillis": 1781012342965
+        },
+        {
+          "timestampMillis": 1781012365292
+        }
+      ]
+    },
+    {
+      "path": "References/Minecraft.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781012353244
         }
       ]
     }
