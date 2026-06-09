@@ -80,22 +80,28 @@
       ]
     },
     {
-      "path": "Inbox/ARIS Config.md",
+      "path": "ARIS/ARIS Config.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781008772574
+        },
+        {
+          "timestampMillis": 1781008794105
         }
       ]
     },
     {
-      "path": "Inbox/Agentic workflow.md",
+      "path": "ARIS/Agentic workflow.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781008773097
+        },
+        {
+          "timestampMillis": 1781008795665
         }
       ]
     },
@@ -110,25 +116,31 @@
       ]
     },
     {
-      "path": "Inbox/Annotation.md",
+      "path": "ARIS/Annotation.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781008775158
+        },
+        {
+          "timestampMillis": 1781008777651
         }
       ]
     },
     {
-      "path": "Inbox/Classification.md",
+      "path": "ARIS/Classification.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781008776513
         },
         {
           "timestampMillis": 1781008777047
+        },
+        {
+          "timestampMillis": 1781008778371
         }
       ]
     },
@@ -139,6 +151,49 @@
       "openLogs": [
         {
           "timestampMillis": 1781008776717
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Meeting - 11.00.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008800282
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Wade-System.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008802047
+        }
+      ]
+    },
+    {
+      "path": "ARIS/WADE.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008802957
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008803833
+        },
+        {
+          "timestampMillis": 1781008831161
         }
       ]
     }

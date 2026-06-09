@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Classification.md",
+                "file": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classification"
+              "title": "Meeting - Anders Mineral uld i plastik poser"
             }
           }
         ]
@@ -225,14 +225,17 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "7b91c95f09cb1c15",
+  "active": "1ee630c582774de1",
   "lastOpenFiles": [
+    "ARIS/WADE.md",
+    "ARIS/Wade-System.md",
+    "ARIS/Meeting - 11.00.md",
+    "ARIS/Agentic workflow.md",
+    "ARIS/ARIS Config.md",
+    "ARIS/Classification.md",
+    "ARIS/Annotation.md",
     "Inbox/Dan Jensen.md",
-    "Inbox/Classification.md",
-    "Inbox/Annotation.md",
     "Inbox/Agnes Jensen?.md",
-    "Inbox/Agentic workflow.md",
-    "Inbox/ARIS Config.md",
     "Inbox/2026-06-09 - Løn forhandling.md",
     "ARIS/Dangerous waste prompt.md",
     "ARIS/ARIS CLI.md",
@@ -258,9 +261,6 @@
     "References/Geolocations",
     "Projects/Blender.md",
     "Projects",
-    "Obsidian skill.md",
-    "Inbox/todo.md",
-    "Inbox/Wade-System.md",
     "Areas/Robrådet/email.gs",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",

@@ -10,7 +10,7 @@ aliases:
 - [x] work on excalidraw ✅ 2026-06-04
 - [ ] Make excalidraw overview of config
 - [ ] Check out how to make a people dictionary
-- [ ] Make excalidraw of classification pipeline and [[classification]] evaluation logging
+- [ ] Make excalidraw of classification pipeline and [[Classification]] evaluation logging
 - [x] Make [[Obsidian]] new note auto put in date #agent ✅ 2026-06-08
   - Answer: Use Templater for the note body/frontmatter and QuickAdd for the filename. For a creation date in every new note, add `created: <% tp.date.now("YYYY-MM-DD") %>` to the relevant template. For notes created through QuickAdd, include `{{DATE:YYYY-MM-DD}}` in the filename or template. Daily Notes already points at `Templates/daily.md`, so that template can carry the date automatically for daily pages.
 - [ ] Make `aris sync` print out capture path at the end and optionally copy to clipboard. [[aris sync]] #agent #implement 
