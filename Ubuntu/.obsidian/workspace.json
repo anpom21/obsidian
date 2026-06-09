@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8b01f3d94bca39b2",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Ubuntu/.obsidian/workspace.json",
-                "bFile": "Ubuntu/.obsidian/workspace.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
-            }
-          },
-          {
             "id": "7b91c95f09cb1c15",
             "type": "leaf",
             "state": {
@@ -45,8 +31,37 @@
               "title": "2026-06-09 - Løn forhandling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "aa4e81fc4894fecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d9acb2f2ecc8d4fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "How to Negotiate Salary after Job Offer  5 Practical Tips"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,7 +257,9 @@
   },
   "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
+    "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
     "Inbox/2026-06-09 - Løn forhandling.md",
+    "Clippings",
     "performance_metrics/training_val_loss.png.md",
     "performance_metrics",
     "meetings.base",
@@ -274,7 +291,6 @@
     "Inbox/Evaluation tracking.md",
     "Inbox/Emma Lykke Holm.md",
     "Inbox/Disc golf.md",
-    "Inbox/DataView.md",
     "Areas/Robrådet/email.gs",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
@@ -287,7 +303,6 @@
     "Areas/Robrådet/copy/docs/forms-url-form-id.png",
     "Areas/Robrådet/copy/docs/forms-select-existing-spreadsheet.png",
     "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
-    "Areas/Robrådet/copy/docs",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

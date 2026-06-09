@@ -3,10 +3,44 @@
     {
       "path": "Inbox/2026-06-09 - Løn forhandling.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1781006915176
+        },
+        {
+          "timestampMillis": 1781007163467
+        },
+        {
+          "timestampMillis": 1781007208749
+        },
+        {
+          "timestampMillis": 1781007212266
+        }
+      ]
+    },
+    {
+      "path": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1781007154218
+        },
+        {
+          "timestampMillis": 1781007159880
+        },
+        {
+          "timestampMillis": 1781007194258
+        },
+        {
+          "timestampMillis": 1781007206782
+        },
+        {
+          "timestampMillis": 1781007207913
+        },
+        {
+          "timestampMillis": 1781007210533
         }
       ]
     }
