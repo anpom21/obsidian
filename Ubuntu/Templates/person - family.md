@@ -11,12 +11,12 @@ address:
 phone:
 email:
 profession:
-created:
+created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
 parents:
 siblings:
 ---
-# person family
+# <% tp.file.title %>
 ## Details 
 > [!info]- Family  
 > - Partner:  

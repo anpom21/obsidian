@@ -1,5 +1,5 @@
 ---
-id: p-20260607214802
+id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
 type: person
 tags:
   - person
@@ -13,7 +13,7 @@ email:
 company:
 profession:
 linkedin:
-created: 2026-06-07
+created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
 ---
 # person - colleague
