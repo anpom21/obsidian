@@ -3,7 +3,7 @@
     {
       "path": "Inbox/2026-06-09 - Løn forhandling.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781006915176
@@ -16,13 +16,16 @@
         },
         {
           "timestampMillis": 1781007212266
+        },
+        {
+          "timestampMillis": 1781008771309
         }
       ]
     },
     {
       "path": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781007154218
@@ -41,6 +44,101 @@
         },
         {
           "timestampMillis": 1781007210533
+        },
+        {
+          "timestampMillis": 1781008641289
+        }
+      ]
+    },
+    {
+      "path": "ARIS/ARIS CLI.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008750409
+        },
+        {
+          "timestampMillis": 1781008761907
+        },
+        {
+          "timestampMillis": 1781008766412
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Dangerous waste prompt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008765650
+        },
+        {
+          "timestampMillis": 1781008766799
+        }
+      ]
+    },
+    {
+      "path": "Inbox/ARIS Config.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008772574
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Agentic workflow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008773097
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Agnes Jensen?.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008774868
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Annotation.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008775158
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Classification.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008776513
+        },
+        {
+          "timestampMillis": 1781008777047
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Dan Jensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781008776717
         }
       ]
     }

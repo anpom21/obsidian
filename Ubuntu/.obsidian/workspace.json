@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-09 - Løn forhandling.md",
+                "file": "Inbox/Classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,37 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-09 - Løn forhandling"
-            }
-          }
-        ]
-      },
-      {
-        "id": "aa4e81fc4894fecf",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "d9acb2f2ecc8d4fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "How to Negotiate Salary after Job Offer  5 Practical Tips"
+              "title": "Classification"
             }
           }
         ]
@@ -257,8 +227,16 @@
   },
   "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
-    "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+    "Inbox/Dan Jensen.md",
+    "Inbox/Classification.md",
+    "Inbox/Annotation.md",
+    "Inbox/Agnes Jensen?.md",
+    "Inbox/Agentic workflow.md",
+    "Inbox/ARIS Config.md",
     "Inbox/2026-06-09 - Løn forhandling.md",
+    "ARIS/Dangerous waste prompt.md",
+    "ARIS/ARIS CLI.md",
+    "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
     "Clippings",
     "performance_metrics/training_val_loss.png.md",
     "performance_metrics",
@@ -283,14 +261,6 @@
     "Obsidian skill.md",
     "Inbox/todo.md",
     "Inbox/Wade-System.md",
-    "Inbox/Password manager.md",
-    "Inbox/Obsidian Hotkeys.md",
-    "Inbox/Meeting - 11.00.md",
-    "Inbox/Image sorter.md",
-    "Inbox/Færdig uddannet fejring.md",
-    "Inbox/Evaluation tracking.md",
-    "Inbox/Emma Lykke Holm.md",
-    "Inbox/Disc golf.md",
     "Areas/Robrådet/email.gs",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
