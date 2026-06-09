@@ -35,12 +35,24 @@
             "id": "7b91c95f09cb1c15",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md"
+                "file": "Inbox/ARIS AI Classification Workflow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "ARIS AI Classification Workflow - Overview.excalidraw"
+              "icon": "lucide-file",
+              "title": "ARIS AI Classification Workflow"
             }
           },
           {
@@ -123,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "meeting",
+                "query": "aris ai",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -167,8 +179,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -349,9 +360,9 @@
   },
   "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
+    "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
     "test.json",
     "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
-    "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
     "ARIS/ARIS Config.md",
     "Inbox/ARIS AI Classification Workflow.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
@@ -394,7 +405,6 @@
     "Areas/Robrådet/copy/docs/sheet-column-headers-must-match.png",
     "Areas/Robrådet/copy/docs/forms-url-form-id.png",
     "Areas/Robrådet/copy/docs/forms-select-existing-spreadsheet.png",
-    "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
