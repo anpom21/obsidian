@@ -16,6 +16,10 @@ partner: "[[Bent Holm?]]"
 parents:
 siblings:
   - "[[Eva Holm?]]"
+children:
+  - "[[Helle Holm]]"
+  - "[[Peter Holm?]]"
+  - "[[Lykke Holm?]]"
 ---
 # Mai Holm?
 ## Details 
