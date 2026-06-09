@@ -34,6 +34,6 @@
     "editor:insert-codeblock",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "daily-notes",
+  "mobilePullAction": "templater-obsidian:insert-templater",
   "tabSize": 4
 }

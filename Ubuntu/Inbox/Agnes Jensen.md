@@ -39,9 +39,11 @@ siblings:
   
 ## Updates
 - Højskole i Hillerrød
+Med politik
+- Arbejdet i børnehave (Felix …)
 
 ## Timeline
-- 
+- Storms 12 år fødselsdag
 
 ---
 ## Related Notes
