@@ -1,0 +1,78 @@
+{
+    "classification": {
+        "cascade_trigger_classes": {},
+        "models": {
+            "stage1": {
+                "tag": "mineral_wool",
+                "pretrained": true,
+                "model_name": "mineral_wool",
+                "n_frozen_layers": 7,
+                "architecture": "resnet18",
+                "thresholds": [
+                    0.65,
+                    0.58
+                ],
+                "class_imbalances": [
+                    0.18671799036540718,
+                    0.16350340316297596
+                ],
+                "model_path": "model_classification2.2.2_mineral_wool_01_synth0.1.1_epoch=50_val_loss=0.03_val_acc=0.91.pt",
+                "class_names": [
+                    "glass_wool",
+                    "stone_wool"
+                ],
+                "mappings": {
+                    "glass_wool": "glass_wool",
+                    "stone_wool": "stone_wool"
+                },
+                "input_size": {
+                    "width": 1920,
+                    "height": 1200
+                }
+            }
+        }
+    },
+    "display": {
+        "upper_line": "Placer uld",
+        "fractions": {
+            "undefined": {
+                "show_text": true,
+                "lower_text": "Eller spørg en medarbejder.",
+                "layout": "middle",
+                "show_image": false,
+                "upper_text": "Placer uld i midten og prøv igen",
+                "show_scanned_image": true
+            },
+            "glass_wool": {
+                "show_scanned_image": false,
+                "upper_text": "",
+                "image_name": "glass_wool",
+                "text": "",
+                "show_image": true,
+                "layout": "right",
+                "lower_text": "",
+                "show_text": false
+            },
+            "stone_wool": {
+                "image_name": "rock_wool",
+                "upper_text": "",
+                "show_scanned_image": false,
+                "text": "",
+                "show_image": true,
+                "show_text": false,
+                "lower_text": "",
+                "layout": "left"
+            }
+        },
+        "lower_line": "Tryk på knap"
+    },
+    "category": "mineral_wool",
+    "camera": {
+        "use_exposure_algorithm": false,
+        "default_exposure_time": 50000
+    },
+    "llm": {
+        "prompt": "You are a vision gate for a recycling sorting table. Goal: DO NOT MISS MINERAL WOOL FOR INSULATION OR PLASTIC BAGS.\n\nPrompt output depends entirely on the following image and rules.\n\nRules (apply in order):\n\n1) If any human hand, glove, or arm is visible → return hand.\n\n2) If the table is clearly empty → return background. Eg.:\n - No discrete board/panel/plank/object on the surface.\n - Only bare background/table (dust/scratches allowed).\n\n3) If any mineral wool is visible → return true.\n - Mineral wool can be in various forms: loose fibers, clumps, or compacted.\n - It may have irregular shapes and textures.\n - Common colors include yellow, pink, or white, but can vary.\n - It often has a fibrous, fluffy, or clumpy appearance.\n - It is often in plastic bags, so look for transparent or semi-transparent packaging that might reflect light.\n\n4) If any other material is visible (e.g., wood, metal, plastic) → return other.\n - Wood: Look for grain patterns, knots, or a solid structure.\n - Metal: Look for reflective surfaces, smooth textures, or metallic colors (silver, gray).\n - Plastic: Look for smooth surfaces, bright colors, or molded shapes.\n\n5) If the image is blurry, dark, or unclear → return unclear.\n - Blurry: Lack of sharpness or detail, making it hard to distinguish objects.\n\nGive the output in javascript format 'true|hand|background|other|unclear' only eg. 'true'. NOTHING ELSE JUST one of: 'true|hand|background|other|unclear'.",
+        "mode": "custom"
+    }
+}
