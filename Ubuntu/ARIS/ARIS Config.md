@@ -37,6 +37,28 @@ runs/
 		...
 ```
 
+### Config yaml
+```yaml
+experiment_name: classifier_sweep
+
+hydra:
+  run:
+    dir: runs/${experiment_name}/${now:%Y-%m-%d_%H-%M-%S}
+
+  sweep:
+    dir: runs/${experiment_name}/${now:%Y-%m-%d_%H-%M-%S}
+    subdir: ${hydra.job.num}_${hydra.job.override_dirname}
+
+  job:
+    chdir: true
+
+  output_subdir: .hydra
+  
+model:  
+	backbone: resnet18
+	lr: 0.001
+```
+
 
 # [[Tasks]]
 
