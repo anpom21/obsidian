@@ -82,13 +82,16 @@
     {
       "path": "ARIS/ARIS Config.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781008772574
         },
         {
           "timestampMillis": 1781008794105
+        },
+        {
+          "timestampMillis": 1781011937922
         }
       ]
     },

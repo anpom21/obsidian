@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
+                "file": "ARIS/ARIS Config.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meeting - Anders Mineral uld i plastik poser"
+              "title": "ARIS Config"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "config",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,8 +94,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -225,8 +224,9 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "7b91c95f09cb1c15",
   "lastOpenFiles": [
+    "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "ARIS/WADE.md",
     "ARIS/Wade-System.md",
     "ARIS/Meeting - 11.00.md",
@@ -259,7 +259,6 @@
     "References/Geolocations/Hjem.md",
     "References/Geolocations/Bolbro Discgolf.md",
     "References/Geolocations",
-    "Projects/Blender.md",
     "Projects",
     "Areas/Robrådet/email.gs",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
