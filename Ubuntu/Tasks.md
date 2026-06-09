@@ -11,7 +11,7 @@ aliases:
 - [ ] Make excalidraw overview of config
 - [ ] Check out how to make a people dictionary
 - [ ] Make excalidraw of classification pipeline and [[classification]] evaluation logging
-- [ ] Make [[Obsidian]] new note auto put in date #agent 
+- [x] Make [[Obsidian]] new note auto put in date #agent ✅ 2026-06-08
   - Answer: Use Templater for the note body/frontmatter and QuickAdd for the filename. For a creation date in every new note, add `created: <% tp.date.now("YYYY-MM-DD") %>` to the relevant template. For notes created through QuickAdd, include `{{DATE:YYYY-MM-DD}}` in the filename or template. Daily Notes already points at `Templates/daily.md`, so that template can carry the date automatically for daily pages.
 - [ ] Make `aris sync` print out capture path at the end and optionally copy to clipboard. [[aris sync]] #agent #implement 
 - [ ] Think of way to best way/ place to store task when using obsidian shortcut, maybe have shortcut go to daily note instead? 🔽 #agent 
@@ -21,8 +21,8 @@ aliases:
 - [ ] [[aris sort]] prompt user if the new 'Added folder' should be added to default folders
 - [ ] [[aris sort]] "Make a 'Clean up' folder button, that deletes all empty folders, make sure that all subfolders are also empty" #agent #implement 
 - [x]  ✅ 2026-06-04
-- [ ] [[WADE]] make it possible to configure normalization in deployment config #agent #implement
-- [x] [[WADE]] "Make a bash script that first of all checks if state machine is running on systemctl, if it is close script prompting user to close it. If everything is fine, then run the state_machine.py, in one thread perhaps just with `bash path/to/state_machine.py &`, then after 5s, pass one photo at a time to `/tmp/wade/image.png`, run `touch tmp/wade/ipfc/BUTTON.ipfc` to simulate button press,  wait for the `find /home/aris/images_backup -maxdepth 2 -type f -mmin -0.1` to detect a new added image, as this command basically checks  if the image has been imported, run that command every 5s, when it runs succesfully, wait 5s and then switch the next image and simulate the button press again. Continue until all images have been processed." ✅ 2026-06-05
+- [ ] [[Wade-System|WADE]] make it possible to configure normalization in deployment config #agent #implement
+- [x] [[Wade-System]] "Make a bash script that first of all checks if state machine is running on systemctl, if it is close script prompting user to close it. If everything is fine, then run the state_machine.py, in one thread perhaps just with `bash path/to/state_machine.py &`, then after 5s, pass one photo at a time to `/tmp/wade/image.png`, run `touch tmp/wade/ipfc/BUTTON.ipfc` to simulate button press,  wait for the `find /home/aris/images_backup -maxdepth 2 -type f -mmin -0.1` to detect a new added image, as this command basically checks  if the image has been imported, run that command every 5s, when it runs succesfully, wait 5s and then switch the next image and simulate the button press again. Continue until all images have been processed." ✅ 2026-06-05
 -  Stena recylcing
 	-  Aftager affald fra genbrugs station
 - [ ] Heyo
