@@ -11,9 +11,17 @@ address:
 phone:
 email:
 created: 2026-06-07
-partner:
+partner: "[[Claus Holm?]]"
 parents:
+  - "[[Mai Holm?]]"
+  - "[[Bent Holm?]]"
 siblings:
+  - "[[Helle Holm]]"
+  - "[[Gitte Holm?]]"
+  - "[[Peter Holm?]]"
+children:
+  - "[[Storm Holm?]]"
+  - "[[Dexter Holm?]]"
 ---
 # Lykke Holm ?
 ## Details 
@@ -30,8 +38,7 @@ siblings:
 > - Interests: 
 
 > [!info]- Notes  
-> - Allergies:  
-> - ....
+> - Tarm sygdom
   ---
   
 ## Updates
