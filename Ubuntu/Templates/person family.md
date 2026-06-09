@@ -1,16 +1,17 @@
 ---
-id: p-20260607214802
+id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
 type: person
 tags:
   - person
 aliases:
   - 
-relationship: friend
+relationship: family
 birthday:
 address:
 phone:
 email:
-created: 2026-06-07
+profession:
+created:
 partner:
 parents:
 siblings:

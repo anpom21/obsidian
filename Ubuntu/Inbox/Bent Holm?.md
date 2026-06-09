@@ -1,5 +1,5 @@
 ---
-id: p-20260607214802
+id: p-20260609201053
 type: person
 tags:
   - person
@@ -12,17 +12,9 @@ phone:
 email:
 profession:
 created: 2026-06-07
-partner: "[[Claus Holm?]]"
+partner:
 parents:
-  - "[[Mai Holm?]]"
-  - "[[Bent Holm?]]"
 siblings:
-  - "[[Helle Holm]]"
-  - "[[Gitte Holm?]]"
-  - "[[Peter Holm?]]"
-children:
-  - "[[Storm Holm?]]"
-  - "[[Dexter Holm?]]"
 ---
 # person family
 ## Details 

@@ -11,7 +11,7 @@ address:
 phone:
 email:
 company:
-role:
+profession:
 linkedin:
 created: 2026-06-07
 partner:
