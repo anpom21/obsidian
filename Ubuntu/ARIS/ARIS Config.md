@@ -13,6 +13,8 @@ path:
 - Use tensorboard to write logging messages
 - Use pytorch to write checkpoints 
 ### Example
+
+### Training run management
 ```
 runs/  
 	wood/  
@@ -27,8 +29,15 @@ runs/
 					epoch=004-val_loss=0.231.ckpt  
 				logs/
 					metrics.json
-				
+		2026-06-10_08_24_45/
+			...
+	plastic/
+		...
+	mineral_wool/
+		...
 ```
+
+
 # [[Tasks]]
 
 ## Agent description

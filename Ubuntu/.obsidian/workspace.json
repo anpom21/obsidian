@@ -91,8 +91,7 @@
               "title": "Meeting - Anders Mineral uld i plastik poser"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -335,10 +334,10 @@
       }
     ]
   },
-  "active": "7b91c95f09cb1c15",
+  "active": "fef17bc42943a4c2",
   "lastOpenFiles": [
-    "ARIS/ARIS Config.md",
     "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
+    "ARIS/ARIS Config.md",
     "Inbox/ARIS AI Classification Workflow.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "References/Minecraft.md",
