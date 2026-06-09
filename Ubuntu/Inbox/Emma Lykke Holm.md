@@ -28,7 +28,7 @@ next_followup:
 created: 2026-06-07
 ---
 
-# <% tp.file.title %>
+# Emma Lykke Holm
 
 ## Snapshot  
 - How we met:  

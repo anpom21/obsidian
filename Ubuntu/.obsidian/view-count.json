@@ -1,425 +1,57 @@
 {
   "items": [
     {
-      "path": "Inbox/2026-06-09 - Løn forhandling.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
-          "timestampMillis": 1781006915176
+          "timestampMillis": 1780495216748
         },
         {
-          "timestampMillis": 1781007163467
+          "timestampMillis": 1780495299161
         },
         {
-          "timestampMillis": 1781007208749
+          "timestampMillis": 1780495775905
         },
         {
-          "timestampMillis": 1781007212266
+          "timestampMillis": 1780495777319
         },
         {
-          "timestampMillis": 1781008771309
-        }
-      ]
-    },
-    {
-      "path": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
-      "openLogs": [
-        {
-          "timestampMillis": 1781007154218
-        },
-        {
-          "timestampMillis": 1781007159880
-        },
-        {
-          "timestampMillis": 1781007194258
-        },
-        {
-          "timestampMillis": 1781007206782
-        },
-        {
-          "timestampMillis": 1781007207913
-        },
-        {
-          "timestampMillis": 1781007210533
-        },
-        {
-          "timestampMillis": 1781008641289
-        }
-      ]
-    },
-    {
-      "path": "ARIS/ARIS CLI.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008750409
-        },
-        {
-          "timestampMillis": 1781008761907
-        },
-        {
-          "timestampMillis": 1781008766412
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Dangerous waste prompt.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008765650
-        },
-        {
-          "timestampMillis": 1781008766799
-        }
-      ]
-    },
-    {
-      "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 26,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008772574
-        },
-        {
-          "timestampMillis": 1781008794105
-        },
-        {
-          "timestampMillis": 1781011937922
-        },
-        {
-          "timestampMillis": 1781012092736
-        },
-        {
-          "timestampMillis": 1781012140086
-        },
-        {
-          "timestampMillis": 1781012234180
-        },
-        {
-          "timestampMillis": 1781012236866
-        },
-        {
-          "timestampMillis": 1781012238564
-        },
-        {
-          "timestampMillis": 1781012241451
-        },
-        {
-          "timestampMillis": 1781012242716
-        },
-        {
-          "timestampMillis": 1781012304120
-        },
-        {
-          "timestampMillis": 1781012309190
-        },
-        {
-          "timestampMillis": 1781012323008
-        },
-        {
-          "timestampMillis": 1781012325298
-        },
-        {
-          "timestampMillis": 1781012326701
-        },
-        {
-          "timestampMillis": 1781012328555
-        },
-        {
-          "timestampMillis": 1781012330825
-        },
-        {
-          "timestampMillis": 1781012341344
-        },
-        {
-          "timestampMillis": 1781012344520
-        },
-        {
-          "timestampMillis": 1781012450850
-        },
-        {
-          "timestampMillis": 1781013803675
-        },
-        {
-          "timestampMillis": 1781014681761
-        },
-        {
-          "timestampMillis": 1781016195380
-        },
-        {
-          "timestampMillis": 1781016230042
-        },
-        {
-          "timestampMillis": 1781016530884
-        },
-        {
-          "timestampMillis": 1781016929971
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Agentic workflow.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008773097
-        },
-        {
-          "timestampMillis": 1781008795665
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Agnes Jensen?.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008774868
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Annotation.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008775158
-        },
-        {
-          "timestampMillis": 1781008777651
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Classification.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008776513
-        },
-        {
-          "timestampMillis": 1781008777047
-        },
-        {
-          "timestampMillis": 1781008778371
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Dan Jensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008776717
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Meeting - 11.00.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008800282
-        },
-        {
-          "timestampMillis": 1781012122271
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Wade-System.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008802047
-        }
-      ]
-    },
-    {
-      "path": "ARIS/WADE.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008802957
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1781008803833
-        },
-        {
-          "timestampMillis": 1781008831161
-        },
-        {
-          "timestampMillis": 1781012132693
-        },
-        {
-          "timestampMillis": 1781012209207
-        },
-        {
-          "timestampMillis": 1781012237306
-        },
-        {
-          "timestampMillis": 1781012307465
-        },
-        {
-          "timestampMillis": 1781012362428
-        },
-        {
-          "timestampMillis": 1781016179892
-        }
-      ]
-    },
-    {
-      "path": "Inbox/ARIS AI Classification Workflow.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
-      "openLogs": [
-        {
-          "timestampMillis": 1781012105660
-        },
-        {
-          "timestampMillis": 1781012152071
-        },
-        {
-          "timestampMillis": 1781012206289
-        },
-        {
-          "timestampMillis": 1781012235978
-        },
-        {
-          "timestampMillis": 1781012308389
-        },
-        {
-          "timestampMillis": 1781012362896
-        },
-        {
-          "timestampMillis": 1781016928296
-        },
-        {
-          "timestampMillis": 1781017848532
-        },
-        {
-          "timestampMillis": 1781018199808
-        }
-      ]
-    },
-    {
-      "path": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 20,
-      "openLogs": [
-        {
-          "timestampMillis": 1781012173245
-        },
-        {
-          "timestampMillis": 1781012208671
-        },
-        {
-          "timestampMillis": 1781012209933
-        },
-        {
-          "timestampMillis": 1781012240731
-        },
-        {
-          "timestampMillis": 1781012241934
-        },
-        {
-          "timestampMillis": 1781012246483
-        },
-        {
-          "timestampMillis": 1781012310187
-        },
-        {
-          "timestampMillis": 1781012327372
-        },
-        {
-          "timestampMillis": 1781012329861
+          "timestampMillis": 1780495892326
         },
         {
-          "timestampMillis": 1781012342965
+          "timestampMillis": 1780496340822
         },
         {
-          "timestampMillis": 1781012365292
+          "timestampMillis": 1780559335343
         },
         {
-          "timestampMillis": 1781012454790
+          "timestampMillis": 1780559335499
         },
         {
-          "timestampMillis": 1781014595787
+          "timestampMillis": 1780559341341
         },
         {
-          "timestampMillis": 1781016183290
+          "timestampMillis": 1780559373158
         },
         {
-          "timestampMillis": 1781016231371
+          "timestampMillis": 1780559479800
         },
-        {
-          "timestampMillis": 1781016533784
-        },
-        {
-          "timestampMillis": 1781016535777
-        },
-        {
-          "timestampMillis": 1781017122736
-        },
-        {
-          "timestampMillis": 1781017253799
-        },
-        {
-          "timestampMillis": 1781018200429
-        }
-      ]
-    },
-    {
-      "path": "References/Minecraft.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781012353244
-        }
-      ]
-    },
-    {
-      "path": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
         {
-          "timestampMillis": 1781016505787
+          "timestampMillis": 1780559480125
         },
         {
-          "timestampMillis": 1781016534891
+          "timestampMillis": 1780561785593
         },
         {
-          "timestampMillis": 1781017120102
+          "timestampMillis": 1780561888768
         },
         {
-          "timestampMillis": 1781017166987
+          "timestampMillis": 1780564552381
         },
         {
-          "timestampMillis": 1781018196693
+          "timestampMillis": 1780564713179
         }
       ]
     }
