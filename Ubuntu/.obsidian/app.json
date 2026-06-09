@@ -34,5 +34,6 @@
     "editor:insert-codeblock",
     "editor:configure-toolbar"
   ],
-  "mobilePullAction": "daily-notes"
+  "mobilePullAction": "daily-notes",
+  "tabSize": 4
 }
