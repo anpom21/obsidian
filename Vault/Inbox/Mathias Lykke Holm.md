@@ -1,28 +1,31 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260609215648
 type: person
 tags:
   - person
 aliases:
   - 
-relationship: friend
-birthday:
-address:
+relationship: family
+birthday: 2000-08-30
+address: Aarhus
 phone:
 email:
-company:
 profession:
-linkedin:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+created: 2026-06-09
+partner: "[[Lea Vosegaard Als]]"
+parents:
+  - "[[Helle Holm]]"
+  - "[[Thomas Lykke Holm]]"
+siblings:
+  - "[[Emma Lykke Holm]]"
 ---
-# <% tp.file.title %>
+# Mathias Lykke Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
-
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -34,8 +37,6 @@ partner:
 > - Allergies:  
 > - ....
   ---
-### Current projects
-
   
 ## Updates
 - 

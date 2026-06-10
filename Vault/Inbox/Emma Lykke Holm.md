@@ -2,15 +2,14 @@
 id: p-001
 type: person
 tags:
-  - person
+  - people
 aliases:
   - Emma
   - Emse
-relationship: friend
+relationship: girlfriend
 birthday: 2000-08-30
 anniversary: 2023-07-04
 partner: "[[Andreas Pommerencke]]"
-children: []
 parents:
   - "[[Helle Holm]]"
   - "[[Thomas Lykke Holm]]"
@@ -22,52 +21,55 @@ email: emmalykke00@icloud.com
 company: OUH
 role: Sygeplejerske
 linkedin:
-last_seen:
-last_contact:
-next_followup:
 created: 2026-06-07
 ---
 
-# <% tp.file.title %>
+# Emma Lykke Holm
 
-## Snapshot  
-- How we met:  
-- Known since:  
-- Personality:  
-- Interests:  
+
   
-## Details  
+## Details
+> [!info]- Nuværende alder:
+>  `=date(today)-date(this.birthday)`
+
+> [!info]- Anniversary: 
+> `=date(today)-date(this.anniversary)`
+
 > [!info]- Family  
-> - Partner:  
+> - Partner:  `=this.partner`
 > - Kids:  
-> - Parents:  
+> - Parents:  `=this.parents`
 > - Siblings:  
   
 > [!info]- Work / Professional Context  
-> - Company:  
-> - Role:  
-> - Current projects:  
+> - Company:  OUH
+> - Role:  Sygeplejerske 
+> - Current projects:  Ortogpæd kiruisk
   
 > [!info]- Favorites  
-> - Food:  
-> - Drinks:  
-> - Hobbies:  
-> - Books/Movies:  
+> - Food:  Spareribs, bøf, sovs, berliner
+> - Drinks:  Pepsi Max, Cola Cherry, 1664 blanc
+> - Blomster: Lilla Gladiolus
+> - Farve: Lilla?
+> - Books/Movies:  Off campus
+> - Perfume: Zarko Perfume One Molecule
   
 ## Personal Context  
 %% fold %% 
+
+## Updates
+- 2026-06-09
+3 børn med 2-3 års mellemrum. 
+Så 1 v 27 år, 1 v 30 år, 1 v 32 år (drømmescenariet)
+
+- 2025-09-03 18:06 
+“Ja du har helt ret”
+
+
   
-### Current Challenges  
--  
-  
-### Current Goals  
--  
-  
-### Important Life Events  
--  
-  
-### Things They Care About  
--
+### Gift ideas
+- Maler: Werner Bronkhorst
+- 
 
 
 ## Related Notes

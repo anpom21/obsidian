@@ -1,29 +1,35 @@
 ---
-created: 2026-06-07
-tags:
-  - person
-source:
-aliases:
-  - Agnes
 id: p-20260607214802
 type: person
+tags:
+  - person
+aliases:
+  - 
 relationship: family
 birthday:
-address: Roskilde
+address:
 phone:
 email:
-partner:
+profession:
+created: 2026-06-07
+partner: "[[Claus Holm?]]"
 parents:
-  - "[[Gitte Holm?]]"
-  - "[[Dan Jensen]]"
+  - "[[Mai Holm?]]"
+  - "[[Bent Holm?]]"
 siblings:
+  - "[[Helle Holm]]"
+  - "[[Gitte Holm?]]"
+  - "[[Peter Holm?]]"
+children:
+  - "[[Storm Holm?]]"
+  - "[[Dexter Holm?]]"
 ---
-
-# Agnes
+# person family
 ## Details 
 > [!info]- Family  
 > - Partner:  
-> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+> - Parents:  
+> - Siblings:  
   
 > [!info]- Favorites  
 > - Food:  
@@ -33,12 +39,12 @@ siblings:
 > - Interests: 
 
 > [!info]- Notes  
-> - Vegan
-
+> - Allergies:  
+> - ....
   ---
   
 ## Updates
-- Højskole i Hillerrød
+- 
 
 ## Timeline
 - 

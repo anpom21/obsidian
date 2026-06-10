@@ -1,28 +1,30 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+created: 2026-06-07
 tags:
   - person
+source:
 aliases:
-  - 
-relationship: friend
+  - Agnes
+id: p-20260607214802
+type: person
+relationship: family
 birthday:
-address:
+address: Roskilde
 phone:
 email:
-company:
-profession:
-linkedin:
-created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
+parents:
+  - "[[Gitte Holm?]]"
+  - "[[Dan Jensen]]"
+siblings:
 ---
-# <% tp.file.title %>
+
+# Agnes
 ## Details 
 > [!info]- Family  
 > - Partner:  
-> - Parents:  
-> - Siblings:  
-
+> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -31,17 +33,17 @@ partner:
 > - Interests: 
 
 > [!info]- Notes  
-> - Allergies:  
-> - ....
-  ---
-### Current projects
+> - Vegan
 
+  ---
   
 ## Updates
-- 
+- Højskole i Hillerrød
+Med politik
+- Arbejdet i børnehave (Felix …)
 
 ## Timeline
-- 
+- Storms 12 år fødselsdag
 
 ---
 ## Related Notes

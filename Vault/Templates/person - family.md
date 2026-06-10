@@ -5,24 +5,27 @@ tags:
   - person
 aliases:
   - 
-relationship: friend
+relationship: family
 birthday:
 address:
 phone:
 email:
-company:
 profession:
-linkedin:
 created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
+parents:
+siblings:
 ---
 # <% tp.file.title %>
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
-
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -34,8 +37,6 @@ partner:
 > - Allergies:  
 > - ....
   ---
-### Current projects
-
   
 ## Updates
 - 

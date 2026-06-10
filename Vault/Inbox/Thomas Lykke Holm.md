@@ -1,33 +1,37 @@
 ---
-id: p-20260607214802
+id: p-20260609222743
 type: person
 tags:
   - person
 aliases:
-  - 
-relationship: friend
+  - Thomas
+relationship: family
 birthday:
-address:
+address: Nørre Voldgade 92, 7000 Fredericia
 phone:
 email:
-created: 2026-06-07
-partner:
+profession: Bankrådgiver- Sydbank
+created: 2026-06-09
+partner: "[[Helle Holm]]"
 parents:
 siblings:
 ---
-# person family
+# Thomas Lykke Holm
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
   
 > [!info]- Favorites  
-> - Food:  
-> - Drinks:  
-> - Hobbies:  
+> - Food:  Alt der smager godt 
+> - Drinks:  Pintia rød vin
+> - Hobbies:  Fiskeri, fluebinding, jagt
 > - Books/Movies:  
-> - Interests: 
+> - Interests: Investering, AI, 
 
 > [!info]- Notes  
 > - Allergies:  

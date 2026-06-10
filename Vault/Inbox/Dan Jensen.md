@@ -7,7 +7,7 @@ aliases:
   - 
 id: p-20260607214802
 type: person
-relationship: friend
+relationship: family
 birthday:
 address:
 phone:

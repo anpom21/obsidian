@@ -11,7 +11,7 @@ heyo
 
 - **Templater:** Advanced templating and automation using handlebars-like syntax.
   Example: Create a meeting-note template and insert the current date with 
-- <% tp.date.now("YYYY-MM-DD") %>.
+- 2026-06-09.
 
 
 - **Code Editor Shortcuts:** Adds common code-editor keyboard shortcuts (VSCode/Sublime-style).

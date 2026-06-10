@@ -15,6 +15,8 @@ partner:
 ---
 # <% tp.file.title %>
 ## Details 
+> [!info] current age: `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

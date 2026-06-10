@@ -1,28 +1,30 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260609222634
 type: person
 tags:
   - person
 aliases:
   - 
-relationship: friend
+relationship: family
 birthday:
 address:
 phone:
 email:
-company:
 profession:
-linkedin:
-created: <% tp.date.now("YYYY-MM-DD") %>
+created: 2026-06-09
 partner:
+parents:
+siblings:
 ---
-# <% tp.file.title %>
+# Andreas Pommerencke
 ## Details 
+> [!info]- Nuværende alder: `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
-
+  
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
@@ -34,8 +36,6 @@ partner:
 > - Allergies:  
 > - ....
   ---
-### Current projects
-
   
 ## Updates
 - 
