@@ -21,12 +21,41 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-10 - Speciale oplæsning.md",
+      "path": "Speciale/2026-06-10 - Speciale oplæsning.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781080586082
+        },
+        {
+          "timestampMillis": 1781083792062
+        },
+        {
+          "timestampMillis": 1781083810897
+        }
+      ]
+    },
+    {
+      "path": "Speciale.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781083763427
+        },
+        {
+          "timestampMillis": 1781083766703
+        }
+      ]
+    },
+    {
+      "path": "Test hi.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1781080586082
+          "timestampMillis": 1781083765334
         }
       ]
     }

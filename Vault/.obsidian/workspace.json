@@ -59,12 +59,24 @@
             "id": "04557dcb4c5290c0",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.12.7"
+                "file": "Speciale/2026-06-10 - Speciale oplæsning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
+              "icon": "lucide-file",
+              "title": "2026-06-10 - Speciale oplæsning"
             }
           }
         ],
@@ -124,13 +136,11 @@
           {
             "id": "9704799e62961ea5",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "pinned": true,
-              "icon": "lucide-ghost",
-              "title": "notebook-navigator"
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
             }
           }
         ],
@@ -258,12 +268,18 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-map-view:Open map view": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "04557dcb4c5290c0",
   "lastOpenFiles": [
-    "Inbox/2026-06-10 - Speciale oplæsning.md",
+    "Speciale",
+    "Speciale.md",
+    "Test hi.md",
+    "Speciale/2026-06-10 - Speciale oplæsning.md",
     "Inbox/Emma Lykke Holm.md",
     "Speciale",
     "Inbox/Mathias Lykke Holm.md",
@@ -272,7 +288,6 @@
     "meetings.base",
     "h",
     "conflict-files-obsidian-git.md",
-    "Test hi.md",
     "Templates/person.md",
     "Templates/person - family.md",
     "Templates/person - colleague.md",
@@ -285,7 +300,6 @@
     "Templates/daily.md",
     "Templates",
     "Tasks.md",
-    "Speciale.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "References/Minecraft.md",
     "References/LaTeX Ubuntu.md",
@@ -297,7 +311,6 @@
     "Obsidian skill.md",
     "Inbox/todo.md",
     "Inbox/emm.md",
-    "Inbox/Thomas Lykke Holm.md",
     "Inbox",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
