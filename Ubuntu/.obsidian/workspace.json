@@ -8,55 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a55c56895c5ba050",
+            "id": "8b01f3d94bca39b2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Templates/person.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "Ubuntu/.obsidian/workspace.json",
+                "bFile": "Ubuntu/.obsidian/workspace.json",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "person"
-            }
-          },
-          {
-            "id": "765ed392efd7a4d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "icon": "diff",
+              "title": "Diff: workspace.json  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,13 +75,11 @@
             }
           },
           {
-            "id": "9704799e62961ea5",
+            "id": "1ee630c582774de1",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "notebook-navigator",
               "state": {},
-              "pinned": true,
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
@@ -142,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "SSH.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conflict-files-obsidian-git"
+              "title": "Backlinks for SSH"
             }
           },
           {
@@ -215,8 +178,8 @@
             "state": {
               "type": "view-count",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "view-count"
+              "icon": "eye",
+              "title": "View count"
             }
           },
           {
@@ -225,8 +188,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           }
         ],
@@ -246,43 +209,44 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-map-view:Open map view": false,
       "notebook-navigator:Notebook Navigator": false,
-      "templater-obsidian:Templater": false
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "d818cd2518ee6e53",
   "lastOpenFiles": [
     "Templates/person.md",
+    "Templates/person family.md",
+    "Templates/person basic.md",
+    "Templates/person - colleague.md",
+    "Templates/ARIS Repository.md",
+    "Templates",
+    "Inbox/Meeting - Anders Mineral uld i plastik poser.md",
+    "Inbox",
+    "Daily/2026-06-05.md",
+    "Daily",
     "conflict-files-obsidian-git.md",
-    "Inbox/Daily Story.md",
+    "References/UNI",
+    "References",
     "Daily/2026-06-09.md",
-    "Inbox/Emma.md",
-    "2026/20260609.md",
-    "2026",
-    "Daily/2026-06-10.md",
-    "Inbox/Thomas Lykke Holm.md",
-    "Inbox/Helle Holm.md",
-    "Templates/person - family.md",
-    "Inbox/Andreas Pommerencke.md",
-    "Templates/person - basic.md",
-    "Inbox/emm.md",
-    "Inbox/Mathias Lykke Holm.md",
-    "Inbox/Bent Holm?.md",
-    "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
-    "Inbox/Mai Holm?.md",
-    "Inbox/Lykke Holm?.md",
-    "Inbox/Gitte Holm?.md",
-    "Inbox/Agnes Jensen.md",
-    "Inbox/ARIS AI Classification Workflow.md",
-    "ARIS/ARIS Config.md",
-    "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
-    "ARIS/Agentic workflow.md",
-    "ARIS/Meeting - 11.00.md",
-    "ARIS/Wade-System.md",
-    "Clippings",
-    "Literature",
+    "Daily/Untitled.md",
+    "Inbox/Færdig uddannet fejring.md",
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
+    "Inbox/Evaluation tracking.md",
+    "Inbox/Wade-System.md",
+    "ARIS/Dangerous waste.md",
+    "Inbox/Classification.md",
+    "Inbox/Image sorter.md",
+    "Inbox/ARIS Config.md",
+    "Inbox/Annotation.md",
+    "Inbox/ARIS CLI.md",
+    "ARIS/sortinglist_v28_+_pool.md",
+    "ARIS/Dangerous waste prompt.md",
+    "Inbox/Agnes Jensen?.md",
+    "Inbox/Dan Jensen.md",
+    "Daily/2026-06-07.md",
     "obsidian-search-todos",
     "h",
     "Archive/attachments/Screenshot from 2026-06-04 13-20-14.png",
@@ -298,8 +262,6 @@
     "ARIS",
     "Archive/attachments/img_gallant-stag_2026-03-21T16-07-49-936.png",
     "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04_0.pdf",
-    "Archive/attachments/mineral_wool_01_synth_model_report_2026-06-04.pdf",
-    "performance_metrics",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

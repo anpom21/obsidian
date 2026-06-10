@@ -1,9 +1,1223 @@
 {
   "items": [
     {
-      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "path": "Daily/2026-06-02.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 83,
+      "openLogs": [
+        {
+          "timestampMillis": 1780390993255
+        },
+        {
+          "timestampMillis": 1780391010414
+        },
+        {
+          "timestampMillis": 1780391020271
+        },
+        {
+          "timestampMillis": 1780391029300
+        },
+        {
+          "timestampMillis": 1780391060370
+        },
+        {
+          "timestampMillis": 1780391094596
+        },
+        {
+          "timestampMillis": 1780391129813
+        },
+        {
+          "timestampMillis": 1780391135910
+        },
+        {
+          "timestampMillis": 1780391289165
+        },
+        {
+          "timestampMillis": 1780391301710
+        },
+        {
+          "timestampMillis": 1780391318932
+        },
+        {
+          "timestampMillis": 1780391319532
+        },
+        {
+          "timestampMillis": 1780391326365
+        },
+        {
+          "timestampMillis": 1780391576401
+        },
+        {
+          "timestampMillis": 1780391579564
+        },
+        {
+          "timestampMillis": 1780391925984
+        },
+        {
+          "timestampMillis": 1780393175034
+        },
+        {
+          "timestampMillis": 1780393179400
+        },
+        {
+          "timestampMillis": 1780393249454
+        },
+        {
+          "timestampMillis": 1780393928931
+        },
+        {
+          "timestampMillis": 1780394438416
+        },
+        {
+          "timestampMillis": 1780396134783
+        },
+        {
+          "timestampMillis": 1780396195928
+        },
+        {
+          "timestampMillis": 1780396504288
+        },
+        {
+          "timestampMillis": 1780397242629
+        },
+        {
+          "timestampMillis": 1780397262861
+        },
+        {
+          "timestampMillis": 1780397275486
+        },
+        {
+          "timestampMillis": 1780397327640
+        },
+        {
+          "timestampMillis": 1780397342291
+        },
+        {
+          "timestampMillis": 1780397359731
+        },
+        {
+          "timestampMillis": 1780397366619
+        },
+        {
+          "timestampMillis": 1780397373083
+        },
+        {
+          "timestampMillis": 1780397375705
+        },
+        {
+          "timestampMillis": 1780397402377
+        },
+        {
+          "timestampMillis": 1780397433359
+        },
+        {
+          "timestampMillis": 1780397576110
+        },
+        {
+          "timestampMillis": 1780397580975
+        },
+        {
+          "timestampMillis": 1780397584179
+        },
+        {
+          "timestampMillis": 1780397592409
+        },
+        {
+          "timestampMillis": 1780397596082
+        },
+        {
+          "timestampMillis": 1780397597613
+        },
+        {
+          "timestampMillis": 1780397611163
+        },
+        {
+          "timestampMillis": 1780411351227
+        },
+        {
+          "timestampMillis": 1780411353178
+        },
+        {
+          "timestampMillis": 1780411355114
+        },
+        {
+          "timestampMillis": 1780411364636
+        },
+        {
+          "timestampMillis": 1780411368039
+        },
+        {
+          "timestampMillis": 1780411604403
+        },
+        {
+          "timestampMillis": 1780411799131
+        },
+        {
+          "timestampMillis": 1780413140150
+        },
+        {
+          "timestampMillis": 1780413141800
+        },
+        {
+          "timestampMillis": 1780413142502
+        },
+        {
+          "timestampMillis": 1780413142998
+        },
+        {
+          "timestampMillis": 1780413150367
+        },
+        {
+          "timestampMillis": 1780414311976
+        },
+        {
+          "timestampMillis": 1780414357539
+        },
+        {
+          "timestampMillis": 1780414359094
+        },
+        {
+          "timestampMillis": 1780414369337
+        },
+        {
+          "timestampMillis": 1780414406143
+        },
+        {
+          "timestampMillis": 1780414438567
+        },
+        {
+          "timestampMillis": 1780414438965
+        },
+        {
+          "timestampMillis": 1780414439356
+        },
+        {
+          "timestampMillis": 1780414478781
+        },
+        {
+          "timestampMillis": 1780414569777
+        },
+        {
+          "timestampMillis": 1780414610006
+        },
+        {
+          "timestampMillis": 1780415477949
+        },
+        {
+          "timestampMillis": 1780415486331
+        },
+        {
+          "timestampMillis": 1780415512025
+        },
+        {
+          "timestampMillis": 1780415512826
+        },
+        {
+          "timestampMillis": 1780415514051
+        },
+        {
+          "timestampMillis": 1780415687530
+        },
+        {
+          "timestampMillis": 1780415961650
+        },
+        {
+          "timestampMillis": 1780416393594
+        },
+        {
+          "timestampMillis": 1780416400536
+        },
+        {
+          "timestampMillis": 1780416407353
+        },
+        {
+          "timestampMillis": 1780416408702
+        },
+        {
+          "timestampMillis": 1780416572671
+        },
+        {
+          "timestampMillis": 1780469011039
+        },
+        {
+          "timestampMillis": 1780470006206
+        },
+        {
+          "timestampMillis": 1780471676008
+        },
+        {
+          "timestampMillis": 1780471695748
+        },
+        {
+          "timestampMillis": 1780472315541
+        },
+        {
+          "timestampMillis": 1780822433646
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20260403081313.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391027274
+        },
+        {
+          "timestampMillis": 1780391288670
+        },
+        {
+          "timestampMillis": 1780391312989
+        },
+        {
+          "timestampMillis": 1780414479533
+        },
+        {
+          "timestampMillis": 1780414480415
+        },
+        {
+          "timestampMillis": 1780414567625
+        },
+        {
+          "timestampMillis": 1780414569210
+        }
+      ]
+    },
+    {
+      "path": "Archive/Clippings/why I switched to using Obsidian (as a former Notion user).md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 11,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391210628
+        },
+        {
+          "timestampMillis": 1780391222187
+        },
+        {
+          "timestampMillis": 1780391298623
+        },
+        {
+          "timestampMillis": 1780391320857
+        },
+        {
+          "timestampMillis": 1780391325936
+        },
+        {
+          "timestampMillis": 1780391577332
+        },
+        {
+          "timestampMillis": 1780397364134
+        },
+        {
+          "timestampMillis": 1780414479948
+        },
+        {
+          "timestampMillis": 1780414481956
+        },
+        {
+          "timestampMillis": 1780414567019
+        },
+        {
+          "timestampMillis": 1780414567868
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Zsh.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391268697
+        },
+        {
+          "timestampMillis": 1780414482379
+        },
+        {
+          "timestampMillis": 1780414566308
+        },
+        {
+          "timestampMillis": 1780639803414
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Chezmoi.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391299855
+        },
+        {
+          "timestampMillis": 1780391320039
+        },
+        {
+          "timestampMillis": 1780391325392
+        },
+        {
+          "timestampMillis": 1780414483131
+        },
+        {
+          "timestampMillis": 1780414565427
+        }
+      ]
+    },
+    {
+      "path": "meetings.base",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391558949
+        },
+        {
+          "timestampMillis": 1780391575617
+        },
+        {
+          "timestampMillis": 1780393914929
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event_Tilmeldings_Guide.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780391565448
+        },
+        {
+          "timestampMillis": 1780391565570
+        },
+        {
+          "timestampMillis": 1780394410200
+        },
+        {
+          "timestampMillis": 1780394425844
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393246256
+        },
+        {
+          "timestampMillis": 1780397586338
+        }
+      ]
+    },
+    {
+      "path": "Templates/new person template.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393884959
+        },
+        {
+          "timestampMillis": 1780393928084
+        },
+        {
+          "timestampMillis": 1780393929661
+        },
+        {
+          "timestampMillis": 1780396327978
+        },
+        {
+          "timestampMillis": 1780642397390
+        },
+        {
+          "timestampMillis": 1780642532685
+        },
+        {
+          "timestampMillis": 1780822763999
+        },
+        {
+          "timestampMillis": 1780822774688
+        },
+        {
+          "timestampMillis": 1780822779017
+        }
+      ]
+    },
+    {
+      "path": "Templates/new meeting template.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1780393944117
+        },
+        {
+          "timestampMillis": 1780396327208
+        },
+        {
+          "timestampMillis": 1780396328557
+        },
+        {
+          "timestampMillis": 1780396348519
+        },
+        {
+          "timestampMillis": 1780642400394
+        },
+        {
+          "timestampMillis": 1780642417290
+        },
+        {
+          "timestampMillis": 1780642531121
+        }
+      ]
+    },
+    {
+      "path": "Projects/Blender.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394286511
+        },
+        {
+          "timestampMillis": 1780394389772
+        },
+        {
+          "timestampMillis": 1780495209982
+        },
+        {
+          "timestampMillis": 1780495779269
+        }
+      ]
+    },
+    {
+      "path": "Areas/Notes/The Complete Bash Scripting Course - Full Length Guide to learning the Bash Shell.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394356036
+        },
+        {
+          "timestampMillis": 1780397221950
+        },
+        {
+          "timestampMillis": 1780469339873
+        },
+        {
+          "timestampMillis": 1780469383717
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394409102
+        },
+        {
+          "timestampMillis": 1780394424647
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event_Tilmeldings_Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394409637
+        },
+        {
+          "timestampMillis": 1780394425155
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/updated_markdown_with_renamed_images.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394411454
+        },
+        {
+          "timestampMillis": 1780394426439
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/Event Tilmeldings Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394422233
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251230213056.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394479780
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251212190407.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394480528
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Pasted image 20251212190404.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394480887
+        }
+      ]
+    },
+    {
+      "path": "References/LaTeX Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394488106
+        },
+        {
+          "timestampMillis": 1780394490182
+        },
+        {
+          "timestampMillis": 1780394834819
+        }
+      ]
+    },
+    {
+      "path": "References/Minecraft.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780394489466
+        }
+      ]
+    },
+    {
+      "path": "Templates/inbox template.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 15,
+      "openLogs": [
+        {
+          "timestampMillis": 1780395181190
+        },
+        {
+          "timestampMillis": 1780395273426
+        },
+        {
+          "timestampMillis": 1780396324378
+        },
+        {
+          "timestampMillis": 1780396329089
+        },
+        {
+          "timestampMillis": 1780396349215
+        },
+        {
+          "timestampMillis": 1780416388616
+        },
+        {
+          "timestampMillis": 1780416401083
+        },
+        {
+          "timestampMillis": 1780416409749
+        },
+        {
+          "timestampMillis": 1780642391808
+        },
+        {
+          "timestampMillis": 1780642536341
+        },
+        {
+          "timestampMillis": 1780642540286
+        },
+        {
+          "timestampMillis": 1780642550130
+        },
+        {
+          "timestampMillis": 1780642738464
+        },
+        {
+          "timestampMillis": 1780642762333
+        },
+        {
+          "timestampMillis": 1780827560905
+        }
+      ]
+    },
+    {
+      "path": "Templates/daily.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780396342583
+        },
+        {
+          "timestampMillis": 1780396356539
+        },
+        {
+          "timestampMillis": 1780397316425
+        },
+        {
+          "timestampMillis": 1780642376940
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-03.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 41,
+      "openLogs": [
+        {
+          "timestampMillis": 1780396912541
+        },
+        {
+          "timestampMillis": 1780396982070
+        },
+        {
+          "timestampMillis": 1780396995385
+        },
+        {
+          "timestampMillis": 1780396996174
+        },
+        {
+          "timestampMillis": 1780396997386
+        },
+        {
+          "timestampMillis": 1780397153160
+        },
+        {
+          "timestampMillis": 1780397187310
+        },
+        {
+          "timestampMillis": 1780397211651
+        },
+        {
+          "timestampMillis": 1780397327435
+        },
+        {
+          "timestampMillis": 1780397329872
+        },
+        {
+          "timestampMillis": 1780397345342
+        },
+        {
+          "timestampMillis": 1780397356071
+        },
+        {
+          "timestampMillis": 1780397595469
+        },
+        {
+          "timestampMillis": 1780397596920
+        },
+        {
+          "timestampMillis": 1780397598005
+        },
+        {
+          "timestampMillis": 1780413151430
+        },
+        {
+          "timestampMillis": 1780414355269
+        },
+        {
+          "timestampMillis": 1780414358199
+        },
+        {
+          "timestampMillis": 1780414438380
+        },
+        {
+          "timestampMillis": 1780414438756
+        },
+        {
+          "timestampMillis": 1780414439156
+        },
+        {
+          "timestampMillis": 1780468989337
+        },
+        {
+          "timestampMillis": 1780469012777
+        },
+        {
+          "timestampMillis": 1780469062619
+        },
+        {
+          "timestampMillis": 1780469318761
+        },
+        {
+          "timestampMillis": 1780469744539
+        },
+        {
+          "timestampMillis": 1780470028039
+        },
+        {
+          "timestampMillis": 1780471280572
+        },
+        {
+          "timestampMillis": 1780471404942
+        },
+        {
+          "timestampMillis": 1780472032816
+        },
+        {
+          "timestampMillis": 1780488505628
+        },
+        {
+          "timestampMillis": 1780488564899
+        },
+        {
+          "timestampMillis": 1780489272530
+        },
+        {
+          "timestampMillis": 1780489325621
+        },
+        {
+          "timestampMillis": 1780489330967
+        },
+        {
+          "timestampMillis": 1780490043274
+        },
+        {
+          "timestampMillis": 1780493708782
+        },
+        {
+          "timestampMillis": 1780493986615
+        },
+        {
+          "timestampMillis": 1780495092693
+        },
+        {
+          "timestampMillis": 1780496361411
+        },
+        {
+          "timestampMillis": 1780588218162
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/HomeLab - Getting Started.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397033432
+        },
+        {
+          "timestampMillis": 1780397034233
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/rclone.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397033656
+        },
+        {
+          "timestampMillis": 1780397036854
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Stack over flow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397037577
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Syncthing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397038442
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Testing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397039282
+        }
+      ]
+    },
+    {
+      "path": "Inbox/DataView.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780397582383
+        },
+        {
+          "timestampMillis": 1780859863343
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Obsidian Hotkeys.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
+      "openLogs": [
+        {
+          "timestampMillis": 1780411841439
+        },
+        {
+          "timestampMillis": 1780411852055
+        },
+        {
+          "timestampMillis": 1780411983562
+        },
+        {
+          "timestampMillis": 1780412005504
+        },
+        {
+          "timestampMillis": 1780412225438
+        },
+        {
+          "timestampMillis": 1780412868596
+        },
+        {
+          "timestampMillis": 1780412870246
+        },
+        {
+          "timestampMillis": 1780414439557
+        },
+        {
+          "timestampMillis": 1780414570043
+        },
+        {
+          "timestampMillis": 1780859876558
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Obsidian.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 16,
+      "openLogs": [
+        {
+          "timestampMillis": 1780414612538
+        },
+        {
+          "timestampMillis": 1780414854719
+        },
+        {
+          "timestampMillis": 1780415516934
+        },
+        {
+          "timestampMillis": 1780416180491
+        },
+        {
+          "timestampMillis": 1780416419520
+        },
+        {
+          "timestampMillis": 1780469169576
+        },
+        {
+          "timestampMillis": 1780469394583
+        },
+        {
+          "timestampMillis": 1780470563087
+        },
+        {
+          "timestampMillis": 1780470572525
+        },
+        {
+          "timestampMillis": 1780470580901
+        },
+        {
+          "timestampMillis": 1780470582124
+        },
+        {
+          "timestampMillis": 1780470593562
+        },
+        {
+          "timestampMillis": 1780470597963
+        },
+        {
+          "timestampMillis": 1780470599496
+        },
+        {
+          "timestampMillis": 1780470613400
+        },
+        {
+          "timestampMillis": 1780472310025
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Password manager.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 13,
+      "openLogs": [
+        {
+          "timestampMillis": 1780414848986
+        },
+        {
+          "timestampMillis": 1780414884592
+        },
+        {
+          "timestampMillis": 1780415511395
+        },
+        {
+          "timestampMillis": 1780415512621
+        },
+        {
+          "timestampMillis": 1780415513321
+        },
+        {
+          "timestampMillis": 1780642723178
+        },
+        {
+          "timestampMillis": 1780642725005
+        },
+        {
+          "timestampMillis": 1780642787326
+        },
+        {
+          "timestampMillis": 1780642788255
+        },
+        {
+          "timestampMillis": 1780644179423
+        },
+        {
+          "timestampMillis": 1780859877622
+        },
+        {
+          "timestampMillis": 1780859882093
+        },
+        {
+          "timestampMillis": 1780859882584
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-06.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780470905721
+        },
+        {
+          "timestampMillis": 1780472342055
+        }
+      ]
+    },
+    {
+      "path": "Tasks.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 32,
+      "openLogs": [
+        {
+          "timestampMillis": 1780471678803
+        },
+        {
+          "timestampMillis": 1780471698382
+        },
+        {
+          "timestampMillis": 1780471700303
+        },
+        {
+          "timestampMillis": 1780471701147
+        },
+        {
+          "timestampMillis": 1780471701642
+        },
+        {
+          "timestampMillis": 1780471776633
+        },
+        {
+          "timestampMillis": 1780472034562
+        },
+        {
+          "timestampMillis": 1780472180092
+        },
+        {
+          "timestampMillis": 1780472189707
+        },
+        {
+          "timestampMillis": 1780472241984
+        },
+        {
+          "timestampMillis": 1780472306168
+        },
+        {
+          "timestampMillis": 1780472311338
+        },
+        {
+          "timestampMillis": 1780472316492
+        },
+        {
+          "timestampMillis": 1780472317588
+        },
+        {
+          "timestampMillis": 1780472317837
+        },
+        {
+          "timestampMillis": 1780472356919
+        },
+        {
+          "timestampMillis": 1780488508462
+        },
+        {
+          "timestampMillis": 1780488513568
+        },
+        {
+          "timestampMillis": 1780496383556
+        },
+        {
+          "timestampMillis": 1780594274230
+        },
+        {
+          "timestampMillis": 1780638092081
+        },
+        {
+          "timestampMillis": 1780638197213
+        },
+        {
+          "timestampMillis": 1780638202633
+        },
+        {
+          "timestampMillis": 1780638381354
+        },
+        {
+          "timestampMillis": 1780638677409
+        },
+        {
+          "timestampMillis": 1780640251349
+        },
+        {
+          "timestampMillis": 1780642822219
+        },
+        {
+          "timestampMillis": 1780643520201
+        },
+        {
+          "timestampMillis": 1780643885978
+        },
+        {
+          "timestampMillis": 1780643886226
+        },
+        {
+          "timestampMillis": 1780644235417
+        },
+        {
+          "timestampMillis": 1780644336395
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/conflict-files-obsidian-git 2026-06-03 14.20.50.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780489250263
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/2026-06-03 2026-06-03 14.21.57.excalidraw.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1780489318038
+        },
+        {
+          "timestampMillis": 1780489329583
+        },
+        {
+          "timestampMillis": 1780489335540
+        },
+        {
+          "timestampMillis": 1780493746966
+        },
+        {
+          "timestampMillis": 1780493970724
+        },
+        {
+          "timestampMillis": 1780493979420
+        },
+        {
+          "timestampMillis": 1780588265345
+        },
+        {
+          "timestampMillis": 1780588265847
+        },
+        {
+          "timestampMillis": 1780588274779
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 7,
+      "openLogs": [
+        {
+          "timestampMillis": 1780495129240
+        },
+        {
+          "timestampMillis": 1780495298025
+        },
+        {
+          "timestampMillis": 1780495302931
+        },
+        {
+          "timestampMillis": 1780495780616
+        },
+        {
+          "timestampMillis": 1780495895097
+        },
+        {
+          "timestampMillis": 1780496349785
+        },
+        {
+          "timestampMillis": 1780496403540
+        }
+      ]
+    },
+    {
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1780495216748
@@ -22,36 +1236,226 @@
         },
         {
           "timestampMillis": 1780496340822
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780588220536
         },
         {
-          "timestampMillis": 1780559335343
+          "timestampMillis": 1780594036415
         },
         {
-          "timestampMillis": 1780559335499
+          "timestampMillis": 1780594178684
         },
         {
-          "timestampMillis": 1780559341341
+          "timestampMillis": 1780594189936
         },
         {
-          "timestampMillis": 1780559373158
+          "timestampMillis": 1780594790369
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-05.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780638019817
         },
         {
-          "timestampMillis": 1780559479800
+          "timestampMillis": 1780638020546
         },
         {
-          "timestampMillis": 1780559480125
+          "timestampMillis": 1780643524257
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Agentic workflow brainstorm.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780638044756
+        }
+      ]
+    },
+    {
+      "path": "Obsidian skill.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1780644110452
         },
         {
-          "timestampMillis": 1780561785593
+          "timestampMillis": 1780644150230
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-07.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1780822441942
         },
         {
-          "timestampMillis": 1780561888768
+          "timestampMillis": 1780822451132
         },
         {
-          "timestampMillis": 1780564552381
+          "timestampMillis": 1780827468222
+        }
+      ]
+    },
+    {
+      "path": "Templates/person.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 25,
+      "openLogs": [
+        {
+          "timestampMillis": 1780822785801
         },
         {
-          "timestampMillis": 1780564713179
+          "timestampMillis": 1780823085979
+        },
+        {
+          "timestampMillis": 1780823451397
+        },
+        {
+          "timestampMillis": 1780823534833
+        },
+        {
+          "timestampMillis": 1780823966286
+        },
+        {
+          "timestampMillis": 1780826406010
+        },
+        {
+          "timestampMillis": 1780826562187
+        },
+        {
+          "timestampMillis": 1780826698468
+        },
+        {
+          "timestampMillis": 1780827166118
+        },
+        {
+          "timestampMillis": 1780827505416
+        },
+        {
+          "timestampMillis": 1780827561817
+        },
+        {
+          "timestampMillis": 1780828712982
+        },
+        {
+          "timestampMillis": 1780828723302
+        },
+        {
+          "timestampMillis": 1780828732132
+        },
+        {
+          "timestampMillis": 1780828735359
+        },
+        {
+          "timestampMillis": 1780828745220
+        },
+        {
+          "timestampMillis": 1780858157698
+        },
+        {
+          "timestampMillis": 1780858696087
+        },
+        {
+          "timestampMillis": 1780858744510
+        },
+        {
+          "timestampMillis": 1780924033628
+        },
+        {
+          "timestampMillis": 1781078965841
+        },
+        {
+          "timestampMillis": 1781079266883
+        },
+        {
+          "timestampMillis": 1781079568354
+        },
+        {
+          "timestampMillis": 1781079869807
+        },
+        {
+          "timestampMillis": 1781080171492
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Emma Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1780823987714
+        },
+        {
+          "timestampMillis": 1780824905454
+        },
+        {
+          "timestampMillis": 1780824910198
+        },
+        {
+          "timestampMillis": 1780859703341
+        },
+        {
+          "timestampMillis": 1780859708780
+        }
+      ]
+    },
+    {
+      "path": "Templates/person - colleague.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1780858644856
+        },
+        {
+          "timestampMillis": 1780858719318
+        },
+        {
+          "timestampMillis": 1780858763854
+        },
+        {
+          "timestampMillis": 1780859621892
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Disc golf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1780859865388
+        }
+      ]
+    },
+    {
+      "path": "conflict-files-obsidian-git.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781080171854
         }
       ]
     }
