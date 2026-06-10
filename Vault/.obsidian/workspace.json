@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-10 - Speciale oplæsning.md",
+                "file": "Daily/2026-06-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,11 +52,23 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-10 - Speciale oplæsning"
+              "title": "2026-06-10"
+            }
+          },
+          {
+            "id": "04557dcb4c5290c0",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.7"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -117,8 +129,8 @@
               "type": "notebook-navigator",
               "state": {},
               "pinned": true,
-              "icon": "notebook-navigator",
-              "title": "Notebook Navigator"
+              "icon": "lucide-ghost",
+              "title": "notebook-navigator"
             }
           }
         ],
@@ -246,16 +258,13 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-map-view:Open map view": false,
-      "notebook-navigator:Notebook Navigator": false,
-      "templater-obsidian:Templater": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "ba398b5edb2c3c0b",
+  "active": "04557dcb4c5290c0",
   "lastOpenFiles": [
-    "Inbox/Emma Lykke Holm.md",
     "Inbox/2026-06-10 - Speciale oplæsning.md",
+    "Inbox/Emma Lykke Holm.md",
     "Speciale",
     "Inbox/Mathias Lykke Holm.md",
     "performance_metrics/training_val_loss.png.md",
