@@ -2,26 +2,22 @@
 created: 2026-06-11
 tags:
   - person
-  - sviger
 source:
 aliases:
-  - Storm
-id: p-20260611210441
+  - 
+id: p-20260611210919
 type: person
 relationship: family
-birthday: 2014-06-05
+birthday:
 address:
 phone:
 email:
 profession:
 partner:
 parents:
-  - "[[Lykke Holm]]"
-  - "[[Claus Holm]]"
 siblings:
-  - "[[Dexter Holm]]"
 ---
-# Storm Holm
+# Dexter Holm
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -35,8 +31,8 @@ siblings:
 > - Food:  
 > - Drinks:  
 > - Hobbies:  
-> - Books/Movies:  One piece
-> - Interests: One piece, fortnite, tetris spillet, fodbold, disc golf?
+> - Books/Movies:  
+> - Interests:  
 
 > [!info]- Notes  
 > - Allergies:  
@@ -44,7 +40,7 @@ siblings:
   ---
   
 ## Updates
-- I
+- 
 
 ## Timeline
 - 

@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Storm Holm.md",
+                "file": "Inbox/Dexter Holm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Storm Holm"
+              "title": "Dexter Holm"
             }
           },
           {
@@ -300,8 +300,9 @@
   },
   "active": "54b7d38e6a5f6f32",
   "lastOpenFiles": [
-    "People/Lykke Holm.md",
     "Inbox/Storm Holm.md",
+    "Inbox/Dexter Holm.md",
+    "People/Lykke Holm.md",
     "People/Mathias Lykke Holm.md",
     "People/Thomas Lykke Holm.md",
     "Inbox/Karsten Lykke Something.md",
@@ -326,7 +327,6 @@
     "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "ARIS/ARIS Config.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
-    "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
     "People",
     "Archive/attachments/bitmap.png",
     "Archive/attachments/Pasted Image 20260611093306_661.png",

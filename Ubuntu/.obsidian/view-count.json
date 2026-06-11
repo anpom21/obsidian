@@ -852,6 +852,16 @@
           "timestampMillis": 1781204678376
         }
       ]
+    },
+    {
+      "path": "Inbox/Dexter Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204957333
+        }
+      ]
     }
   ]
 }
