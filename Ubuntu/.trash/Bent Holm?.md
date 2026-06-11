@@ -1,29 +1,31 @@
 ---
-created: 2026-06-07
+id: p-20260609201053
+type: person
 tags:
   - person
-source:
 aliases:
-  - Agnes
-id: p-20260607214802
-type: person
+  - 
 relationship: family
 birthday:
-address: Roskilde
+address:
 phone:
 email:
-partner:
+profession: Pensionist (Bankrådgiver)
+created: 2026-06-07
+partner: "[[Mai Holm?|Mai]]"
 parents:
-  - "[[Gitte Holm?]]"
-  - "[[Dan Jensen]]"
 siblings:
+children:
+  - "[[Peter Holm?]]"
+  - "[[Helle Holm]]"
+  - "[[Lykke Holm?]]"
 ---
-
-# Agnes
+ Bent Holm?
 ## Details 
 > [!info]- Family  
 > - Partner:  
-> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+> - Parents:  
+> - Siblings:  
   
 > [!info]- Favorites  
 > - Food:  
@@ -33,17 +35,15 @@ siblings:
 > - Interests: 
 
 > [!info]- Notes  
-> - Vegan
-
+> - Allergies:  
+> - Dårligt syn
   ---
   
 ## Updates
-- Højskole i Hillerrød
-Med politik
-- Arbejdet i børnehave (Felix …)
+- 
 
 ## Timeline
-- Storms 12 år fødselsdag
+- 
 
 ---
 ## Related Notes

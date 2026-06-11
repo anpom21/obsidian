@@ -4,7 +4,7 @@ tags:
   - person
 source:
 aliases:
-  - 
+  - Dan
 id: p-20260607214802
 type: person
 relationship: family
@@ -12,7 +12,7 @@ birthday:
 address:
 phone:
 email:
-partner: "[[Gitte Holm?]]"
+partner: "[[Gitte Holm]]"
 parents:
 siblings:
 ---

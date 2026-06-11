@@ -1,27 +1,28 @@
 ---
-id: p-20260609201814
+id: p-20260607214802
 type: person
 tags:
   - person
 aliases:
-  - Mai
+  - Gitte
 relationship: family
 birthday:
 address:
 phone:
 email:
-profession:
-created: 2026-06-09
-partner: "[[Bent Holm?]]"
+created: 2026-06-07
+partner: "[[Dan Jensen]]"
 parents:
+  - "[[Mai Holm]]"
+  - "[[Bent Holm]]"
 siblings:
-  - "[[Eva Holm?]]"
-children:
   - "[[Helle Holm]]"
-  - "[[Peter Holm?]]"
-  - "[[Lykke Holm?]]"
+  - "[[Peter Holm]]"
+  - "[[Lykke Holm]]"
+children:
+  - "[[Agnes Jensen]]"
 ---
-# Mai Holm?
+# Gitte Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  

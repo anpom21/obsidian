@@ -231,15 +231,27 @@
       ]
     },
     {
-      "path": "Inbox/Dan Jensen.md",
+      "path": "People/Dan Jensen.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781008776717
         },
         {
           "timestampMillis": 1781203768354
+        },
+        {
+          "timestampMillis": 1781203903586
+        },
+        {
+          "timestampMillis": 1781204002188
+        },
+        {
+          "timestampMillis": 1781204061415
+        },
+        {
+          "timestampMillis": 1781204073020
         }
       ]
     },
@@ -504,9 +516,9 @@
       ]
     },
     {
-      "path": "Inbox/Agnes Jensen.md",
+      "path": "People/Agnes Jensen.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781203730411
@@ -516,13 +528,25 @@
         },
         {
           "timestampMillis": 1781203769206
+        },
+        {
+          "timestampMillis": 1781203909719
+        },
+        {
+          "timestampMillis": 1781203953651
+        },
+        {
+          "timestampMillis": 1781204055606
+        },
+        {
+          "timestampMillis": 1781204078885
         }
       ]
     },
     {
       "path": "People/Andreas Pommerencke.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1781203731114
@@ -532,23 +556,16 @@
         },
         {
           "timestampMillis": 1781203749720
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Bent Holm?.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
+        },
         {
-          "timestampMillis": 1781203742531
+          "timestampMillis": 1781204056440
         }
       ]
     },
     {
       "path": "People/Bent Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1781203744654
@@ -558,6 +575,135 @@
         },
         {
           "timestampMillis": 1781203750861
+        },
+        {
+          "timestampMillis": 1781203784789
+        },
+        {
+          "timestampMillis": 1781203790904
+        },
+        {
+          "timestampMillis": 1781203884296
+        },
+        {
+          "timestampMillis": 1781203892401
+        },
+        {
+          "timestampMillis": 1781203901355
+        },
+        {
+          "timestampMillis": 1781204058376
+        },
+        {
+          "timestampMillis": 1781204080361
+        }
+      ]
+    },
+    {
+      "path": "People/Emma Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203792140
+        },
+        {
+          "timestampMillis": 1781203807883
+        },
+        {
+          "timestampMillis": 1781203814265
+        },
+        {
+          "timestampMillis": 1781204069130
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-09.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203810558
+        }
+      ]
+    },
+    {
+      "path": "People/Gitte Holm?.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 8,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203906674
+        },
+        {
+          "timestampMillis": 1781203911628
+        },
+        {
+          "timestampMillis": 1781203921485
+        },
+        {
+          "timestampMillis": 1781203989877
+        },
+        {
+          "timestampMillis": 1781203991791
+        },
+        {
+          "timestampMillis": 1781203993025
+        },
+        {
+          "timestampMillis": 1781203998984
+        },
+        {
+          "timestampMillis": 1781204017152
+        }
+      ]
+    },
+    {
+      "path": "People/Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203923708
+        },
+        {
+          "timestampMillis": 1781204019034
+        }
+      ]
+    },
+    {
+      "path": "People/Gitte Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203973273
+        },
+        {
+          "timestampMillis": 1781203991242
+        },
+        {
+          "timestampMillis": 1781203992407
+        },
+        {
+          "timestampMillis": 1781203996052
+        },
+        {
+          "timestampMillis": 1781204069719
+        }
+      ]
+    },
+    {
+      "path": "People/Mai Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204036259
+        },
+        {
+          "timestampMillis": 1781204041247
         }
       ]
     }
