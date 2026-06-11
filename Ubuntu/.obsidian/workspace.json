@@ -231,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Some week.md",
+                "file": "Daily/2026-06-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -246,26 +246,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Some week"
-            }
-          },
-          {
-            "id": "52bfe7bc412d4f62",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Ubuntu/Daily/2026-06-11.md",
-                "bFile": "Ubuntu/Daily/2026-06-11.md",
-                "aRef": "HEAD",
-                "bRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: 2026-06-11  (Index)"
+              "title": "2026-06-11"
             }
           }
         ],
-        "currentTab": 10
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -459,13 +444,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "52bfe7bc412d4f62",
+  "active": "3e11d28385a4d77a",
   "lastOpenFiles": [
+    "Inbox/Some week.md",
     "Daily/2026-06-11.md",
     "Daily/2026-06-05.md",
     "Weekly note.md",
     "Templates/weekly note.md",
-    "Inbox/Some week.md",
     "Inbox/Mathias Jensen.md",
     "Inbox/2026-06-11 - Cecilie Veidiksen.md",
     "Inbox/2026-06-11 - Johan Egtved Nissen.md",
