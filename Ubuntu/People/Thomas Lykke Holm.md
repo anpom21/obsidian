@@ -15,7 +15,11 @@ created: 2026-06-09
 partner: "[[Helle Holm]]"
 parents:
   - "[[Kirsten Gross Rasmussen]]"
+  - "[[Flemming Something]]"
 siblings:
+children:
+  - "[[Emma Lykke Holm|Emma]]"
+  - "[[Mathias Lykke Holm]]"
 ---
 # Thomas Lykke Holm
 ## Details 

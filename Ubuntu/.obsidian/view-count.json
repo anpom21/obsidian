@@ -646,13 +646,19 @@
     {
       "path": "People/Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1781203923708
         },
         {
           "timestampMillis": 1781204019034
+        },
+        {
+          "timestampMillis": 1781204615879
+        },
+        {
+          "timestampMillis": 1781204666844
         }
       ]
     },
@@ -788,6 +794,62 @@
         },
         {
           "timestampMillis": 1781204324912
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Karsten Lykke Something.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204423552
+        },
+        {
+          "timestampMillis": 1781204620582
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Flemming Something.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204507685
+        },
+        {
+          "timestampMillis": 1781204617775
+        }
+      ]
+    },
+    {
+      "path": "People/Thomas Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204624293
+        }
+      ]
+    },
+    {
+      "path": "People/Mathias Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204644849
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Storm Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204678376
         }
       ]
     }

@@ -1,26 +1,33 @@
 ---
-id: p-20260609215648
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - Mathias (E)
+  - 
+id: p-20260611210030
+type: person
 relationship: family
-birthday: 2000-08-30
-address: Aarhus
+birthday:
+address:
 phone:
 email:
 profession:
-created: 2026-06-09
-partner: "[[Lea Vosegaard Als]]"
+partner: "[[Lotte Something]]"
 parents:
-  - "[[Helle Holm]]"
-  - "[[Thomas Lykke Holm]]"
+  - "[[Kirsten Gross Rasmusen]]"
+  - "[[Flemming Something]]"
 siblings:
-  - "[[Emma Lykke Holm]]"
+  - "[[Thomas Lykke Holm]]"
+children:
+  - "[[Victor Something]]"
+  - "[[Oscar Something]]"
 ---
-# Mathias Lykke Holm
+# Karsten Lykke Something
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

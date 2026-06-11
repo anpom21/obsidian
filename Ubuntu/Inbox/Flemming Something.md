@@ -1,26 +1,30 @@
 ---
-id: p-20260609215648
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - Mathias (E)
+  - Flemming
+id: p-20260611210150
+type: person
 relationship: family
-birthday: 2000-08-30
-address: Aarhus
+birthday:
+address:
 phone:
 email:
 profession:
-created: 2026-06-09
-partner: "[[Lea Vosegaard Als]]"
+partner: "[[Britt]]"
 parents:
-  - "[[Helle Holm]]"
-  - "[[Thomas Lykke Holm]]"
 siblings:
-  - "[[Emma Lykke Holm]]"
+children:
+  - "[[Karsten Lykke Something]]"
+  - "[[Thomas Lykke Holm]]"
 ---
-# Mathias Lykke Holm
+# Flemming Somethiing
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

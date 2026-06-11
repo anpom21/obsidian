@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Lykke Holm.md",
+                "file": "Inbox/Storm Holm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Lykke Holm"
+              "title": "Storm Holm"
             }
           },
           {
@@ -85,9 +85,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Kirsten Gross Rasmusen.md",
-                "mode": "preview",
-                "source": true,
+                "file": "People/Mathias Lykke Holm.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -100,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Kirsten Gross Rasmusen"
+              "title": "Mathias Lykke Holm"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -298,10 +298,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5654342122f80073",
+  "active": "54b7d38e6a5f6f32",
   "lastOpenFiles": [
-    "Templates/person - family.md",
+    "People/Lykke Holm.md",
+    "Inbox/Storm Holm.md",
+    "People/Mathias Lykke Holm.md",
+    "People/Thomas Lykke Holm.md",
+    "Inbox/Karsten Lykke Something.md",
+    "Inbox/Flemming Something.md",
     "People/Kirsten Gross Rasmusen.md",
+    "Templates/person - family.md",
     "Daily/2026-06-10.md",
     "People/Helle Holm.md",
     "People/Gitte Holm.md",
@@ -314,7 +320,6 @@
     "People/Mai Holm.md",
     "People/Mai Holm?.md",
     "People/Lykke Holm?.md",
-    "People/Lykke Holm.md",
     "People/Bent Holm?.md",
     "Daily/2026-06-09.md",
     "People/Emma.md",
@@ -323,11 +328,6 @@
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
     "People",
-    "2026/20260609.md",
-    "performance_metrics/training_val_loss.png.md",
-    "Daily/2026-06-11.md",
-    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
-    "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "Archive/attachments/bitmap.png",
     "Archive/attachments/Pasted Image 20260611093306_661.png",
     "Archive/attachments/Pasted Image 20260611093252_957.png",

@@ -1,26 +1,27 @@
 ---
-id: p-20260609215648
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - Mathias (E)
+  - 
+id: p-20260611210441
+type: person
 relationship: family
-birthday: 2000-08-30
-address: Aarhus
+birthday:
+address:
 phone:
 email:
 profession:
-created: 2026-06-09
-partner: "[[Lea Vosegaard Als]]"
+partner:
 parents:
-  - "[[Helle Holm]]"
-  - "[[Thomas Lykke Holm]]"
 siblings:
-  - "[[Emma Lykke Holm]]"
 ---
-# Mathias Lykke Holm
+# Storm Holm
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
