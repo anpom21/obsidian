@@ -35,12 +35,24 @@
             "id": "6e5724e70430adab",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md"
+                "file": "Daily/2026-06-11.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Evaluation tracking - Overview.excalidraw"
+              "icon": "lucide-file",
+              "title": "2026-06-11"
             }
           },
           {
@@ -264,6 +276,7 @@
   },
   "active": "6e5724e70430adab",
   "lastOpenFiles": [
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "ARIS/ARIS Config.md",
     "Daily/2026-06-11.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
@@ -295,7 +308,6 @@
     "Inbox/Daily Story.md",
     "2026/20260609.md",
     "2026",
-    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
     "Inbox/Helle Holm.md",
     "test.json",
