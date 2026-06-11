@@ -18,6 +18,9 @@ siblings:
 ---
 # <% tp.file.title %>
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

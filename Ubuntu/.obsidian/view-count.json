@@ -81,8 +81,8 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 27,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1781008772574
@@ -164,6 +164,12 @@
         },
         {
           "timestampMillis": 1781031935315
+        },
+        {
+          "timestampMillis": 1781198009870
+        },
+        {
+          "timestampMillis": 1781198069654
         }
       ]
     },
@@ -254,8 +260,8 @@
     },
     {
       "path": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1781008803833
@@ -280,6 +286,12 @@
         },
         {
           "timestampMillis": 1781016179892
+        },
+        {
+          "timestampMillis": 1781198017990
+        },
+        {
+          "timestampMillis": 1781198067411
         }
       ]
     },
@@ -389,21 +401,30 @@
     },
     {
       "path": "References/Minecraft.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781012353244
         },
         {
           "timestampMillis": 1781032326457
+        },
+        {
+          "timestampMillis": 1781198009742
+        },
+        {
+          "timestampMillis": 1781198017070
+        },
+        {
+          "timestampMillis": 1781198061870
         }
       ]
     },
     {
       "path": "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781016505787
@@ -422,6 +443,22 @@
         },
         {
           "timestampMillis": 1781032325206
+        },
+        {
+          "timestampMillis": 1781198074614
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-11.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781198010134
+        },
+        {
+          "timestampMillis": 1781198068740
         }
       ]
     }

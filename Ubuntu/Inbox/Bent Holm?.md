@@ -10,13 +10,17 @@ birthday:
 address:
 phone:
 email:
-profession:
+profession: Pensionist (Bankrådgiver)
 created: 2026-06-07
-partner:
+partner: "[[Mai Holm?|Mai]]"
 parents:
 siblings:
+children:
+  - "[[Peter Holm?]]"
+  - "[[Helle Holm]]"
+  - "[[Lykke Holm?]]"
 ---
-# person family
+# Bent Holm?
 ## Details 
 > [!info]- Family  
 > - Partner:  
@@ -32,7 +36,7 @@ siblings:
 
 > [!info]- Notes  
 > - Allergies:  
-> - ....
+> - Dårligt syn
   ---
   
 ## Updates

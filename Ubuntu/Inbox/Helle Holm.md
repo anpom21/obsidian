@@ -7,18 +7,21 @@ aliases:
   - Helle
 relationship: family
 birthday:
-address:
+address: Nørre Voldgade 92, 7000 Fredericia
 phone: +45 31 26 17 72
 email:
-profession: Bankrådgiver
+profession: Bankrådgiver - Middelfart sparekasse
 created: 2026-06-09
 partner: "[[Thomas Lykke Holm]]"
 parents:
-  - "[[Flemming Lykke]]"
-  - "[[Kirsten??]]"
+  - "[[Mai Holm?]]"
+  - "[[Bent Holm?]]"
 siblings:
-  - "[[Karsten Lykke]]"
-  -
+  - "[[Peter Holm?]]"
+  - "[[Lykke Holm?]]"
+children:
+  - "[[Emma Lykke Holm|Emma]]"
+  - "[[Mathias Lykke Holm]]"
 ---
 # Helle Holm
 ## Details 

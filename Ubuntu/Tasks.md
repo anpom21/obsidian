@@ -25,7 +25,7 @@ aliases:
 - [x] [[Wade-System]] "Make a bash script that first of all checks if state machine is running on systemctl, if it is close script prompting user to close it. If everything is fine, then run the state_machine.py, in one thread perhaps just with `bash path/to/state_machine.py &`, then after 5s, pass one photo at a time to `/tmp/wade/image.png`, run `touch tmp/wade/ipfc/BUTTON.ipfc` to simulate button press,  wait for the `find /home/aris/images_backup -maxdepth 2 -type f -mmin -0.1` to detect a new added image, as this command basically checks  if the image has been imported, run that command every 5s, when it runs succesfully, wait 5s and then switch the next image and simulate the button press again. Continue until all images have been processed." ✅ 2026-06-05
 -  Stena recylcing
 	-  Aftager affald fra genbrugs station
-- [ ] Heyo
+- [x] Heyo ✅ 2026-06-10
 
 
 
