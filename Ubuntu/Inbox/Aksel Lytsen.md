@@ -2,21 +2,20 @@
 created: 2026-06-11
 tags:
   - person
-  - UNI
 source:
 aliases:
-  - Mathias K
-  - Bro
-id: p-20260611211248
+  - 
+id: p-20260611211853
 type: person
 relationship: friend
-birthday: 1998-01-01
-address:
-phone: "+4523272961"
+birthday:
+address: Tybrindvænget 1, 5230 Odense
+phone: "+4523882745"
 email:
 partner:
 ---
-# Mathias Tungelund Kristensen
+
+# Aksel Lytsen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

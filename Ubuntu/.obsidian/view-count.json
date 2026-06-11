@@ -574,7 +574,7 @@
     {
       "path": "People/Bent Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1781203744654
@@ -608,6 +608,9 @@
         },
         {
           "timestampMillis": 1781204087670
+        },
+        {
+          "timestampMillis": 1781205326493
         }
       ]
     },
@@ -646,7 +649,7 @@
     {
       "path": "People/Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781203923708
@@ -662,6 +665,9 @@
         },
         {
           "timestampMillis": 1781205023954
+        },
+        {
+          "timestampMillis": 1781205359477
         }
       ]
     },
@@ -845,20 +851,26 @@
     {
       "path": "People/Mathias Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781204644849
+        },
+        {
+          "timestampMillis": 1781205361741
         }
       ]
     },
     {
       "path": "Inbox/Storm Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781204678376
+        },
+        {
+          "timestampMillis": 1781205349831
         }
       ]
     },
@@ -875,13 +887,16 @@
     {
       "path": "Inbox/Mathias Tungelund Kristensen.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781205151887
         },
         {
           "timestampMillis": 1781205227510
+        },
+        {
+          "timestampMillis": 1781205365170
         }
       ]
     },
@@ -905,6 +920,146 @@
       "openLogs": [
         {
           "timestampMillis": 1781205206842
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Johan Egtved Nissen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205386133
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Cecilie Veidiksen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205392039
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Mathias Jensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205397505
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205444950
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Nikolai Prip.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205451689
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Rasmus Storm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205458113
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Tobias Pedersen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205465469
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Victor Nielsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205470628
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Markus Simonsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205480527
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Maja Abrahamsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205489285
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Magne Vethal Kanneworff.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205500245
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Kristoffer Jensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205505057
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Casper Rask.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205511365
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Aksel Lytsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205521021
         }
       ]
     }
