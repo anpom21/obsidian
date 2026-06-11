@@ -349,7 +349,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-11 - Magne Vethal Kanneworff.md",
+                "file": "Inbox/Magne Vethal Kanneworff.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -364,83 +364,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-11 - Magne Vethal Kanneworff"
-            }
-          },
-          {
-            "id": "004c9ddee92876ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Kristoffer Jensen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Kristoffer Jensen"
-            }
-          },
-          {
-            "id": "d147f02782aceaed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Casper Rask.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Casper Rask"
-            }
-          },
-          {
-            "id": "0b77c66a76831402",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Aksel Lytsen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Aksel Lytsen"
+              "title": "Magne Vethal Kanneworff"
             }
           }
         ],
-        "currentTab": 17
+        "currentTab": 14
       }
     ],
     "direction": "vertical"
@@ -634,12 +562,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b77c66a76831402",
+  "active": "eb35ea3883e99296",
   "lastOpenFiles": [
-    "Inbox/2026-06-11 - Casper Rask.md",
     "Inbox/Aksel Lytsen.md",
+    "Inbox/Casper Rask.md",
     "Inbox/2026-06-11 - Kristoffer Jensen.md",
-    "Inbox/2026-06-11 - Magne Vethal Kanneworff.md",
+    "Inbox/Magne Vethal Kanneworff.md",
     "Inbox/2026-06-11 - Maja Abrahamsen.md",
     "Inbox/2026-06-11 - Markus Simonsen.md",
     "Inbox/2026-06-11 - Victor Nielsen.md",

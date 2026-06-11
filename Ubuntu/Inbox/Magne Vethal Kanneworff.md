@@ -5,18 +5,17 @@ tags:
   - UNI
 source:
 aliases:
-  - Aksel
-id: p-20260611211853
+  - Magne
+id: p-20260611212340
 type: person
 relationship: friend
 birthday:
-address: Tybrindvænget 1, 5230 Odense
-phone: "+4523882745"
+address:
+phone:
 email:
-partner: "[[Rikke Something]]"
+partner:
 ---
-
-# Aksel Lytsen
+# Magne Vethal Kanneworff
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -39,10 +38,10 @@ partner: "[[Rikke Something]]"
   ---
   
 ## Updates
-- 
+- Skull bruge algortime til lokalisering da de har mange kameraer, 
 
 ## Timeline
-- 
+- Var med til Prips polterabend
 
 ---
 ## Related Notes

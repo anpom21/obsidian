@@ -5,18 +5,17 @@ tags:
   - UNI
 source:
 aliases:
-  - Aksel
-id: p-20260611211853
+  - Casper
+id: p-20260611212049
 type: person
 relationship: friend
-birthday:
-address: Tybrindvænget 1, 5230 Odense
-phone: "+4523882745"
+birthday: 2001-07-06
+address: Hørmarken 30, 5260 Odense
+phone: "+4530968323"
 email:
-partner: "[[Rikke Something]]"
+partner: "[[Camilla Something]]"
 ---
-
-# Aksel Lytsen
+# Casper Rask
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
