@@ -23,7 +23,7 @@
     {
       "path": "Speciale/2026-06-10 - Speciale oplæsning.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1781080586082
@@ -33,6 +33,9 @@
         },
         {
           "timestampMillis": 1781083810897
+        },
+        {
+          "timestampMillis": 1781094343933
         }
       ]
     },
@@ -56,6 +59,26 @@
       "openLogs": [
         {
           "timestampMillis": 1781083765334
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Better deep ensemble test.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781094333721
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Thesis defense prompt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781094377013
         }
       ]
     }

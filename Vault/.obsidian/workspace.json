@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "2026-06-10 - Speciale oplæsning"
             }
+          },
+          {
+            "id": "b3e6b9f3996f3a12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Thesis defense prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Thesis defense prompt"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -274,12 +298,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "04557dcb4c5290c0",
+  "active": "b3e6b9f3996f3a12",
   "lastOpenFiles": [
+    "Speciale/2026-06-10 - Speciale oplæsning.md",
+    "Inbox/Thesis defense prompt.md",
+    "Inbox/Better deep ensemble test.md",
     "Speciale",
     "Speciale.md",
     "Test hi.md",
-    "Speciale/2026-06-10 - Speciale oplæsning.md",
     "Inbox/Emma Lykke Holm.md",
     "Speciale",
     "Inbox/Mathias Lykke Holm.md",
@@ -310,8 +336,6 @@
     "Projects",
     "Obsidian skill.md",
     "Inbox/todo.md",
-    "Inbox/emm.md",
-    "Inbox",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
