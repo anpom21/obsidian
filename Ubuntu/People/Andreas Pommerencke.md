@@ -1,29 +1,29 @@
 ---
-created: 2026-06-07
+id: p-20260609222634
+type: person
 tags:
   - person
-source:
 aliases:
-  - Agnes
-id: p-20260607214802
-type: person
+  - 
 relationship: family
 birthday:
-address: Roskilde
+address:
 phone:
 email:
+profession:
+created: 2026-06-09
 partner:
 parents:
-  - "[[Gitte Holm?]]"
-  - "[[Dan Jensen]]"
 siblings:
 ---
-
-# Agnes
+# Andreas Pommerencke
 ## Details 
+> [!info]- Nuværende alder: `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
-> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+> - Parents:  
+> - Siblings:  
   
 > [!info]- Favorites  
 > - Food:  
@@ -33,17 +33,15 @@ siblings:
 > - Interests: 
 
 > [!info]- Notes  
-> - Vegan
-
+> - Allergies:  
+> - ....
   ---
   
 ## Updates
-- Højskole i Hillerrød
-Med politik
-- Arbejdet i børnehave (Felix …)
+- 
 
 ## Timeline
-- Storms 12 år fødselsdag
+- 
 
 ---
 ## Related Notes

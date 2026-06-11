@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fef17bc42943a4c2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARIS/ARIS Config.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ARIS Config"
-            }
-          },
-          {
-            "id": "6e5724e70430adab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-06-11.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11"
-            }
-          },
-          {
             "id": "03ed1036ca63265b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
+                "file": "Inbox/Agnes Jensen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Meeting - Anders Mineral uld i plastik poser"
+              "title": "Agnes Jensen"
+            }
+          },
+          {
+            "id": "bba481321ce4aa4e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Agnes Jensen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Agnes Jensen"
             }
           }
         ],
@@ -144,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -274,11 +250,22 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "6e5724e70430adab",
+  "active": "bba481321ce4aa4e",
   "lastOpenFiles": [
-    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
+    "Inbox/Dan Jensen.md",
+    "People/Bent Holm.md",
+    "People/Andreas Pommerencke.md",
+    "Inbox/Bent Holm?.md",
+    "Inbox/Agnes Jensen.md",
+    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "ARIS/ARIS Config.md",
+    "References/UNI/MasterThesisCasperAndreas.pdf",
+    "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+    "People",
+    "2026/20260609.md",
+    "performance_metrics/training_val_loss.png.md",
     "Daily/2026-06-11.md",
+    "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
     "References/Minecraft.md",
     "Inbox/config.yaml.md",
@@ -294,30 +281,19 @@
     "Inbox/Better deep ensemble test.md",
     "Inbox/Lykke Holm.md",
     "Inbox/Gitte Holm.md",
-    "Inbox/Bent Holm.md",
     "Inbox/Mathias Lykke Holm.md",
-    "Inbox/Andreas Pommerencke.md",
     "Speciale/2026-06-10 - Speciale oplæsning.md",
     "Inbox/Thomas Lykke Holm.md",
     "Inbox/kirsten.md",
     "Daily/2026-06-10.md",
-    "Inbox/2026-06-10 - Speciale oplæsning.md",
     "Speciale",
-    "Inbox/emm.md",
-    "Inbox/Emma.md",
-    "Inbox/Daily Story.md",
-    "2026/20260609.md",
     "2026",
-    "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
-    "Inbox/Helle Holm.md",
     "test.json",
     "Clippings",
     "performance_metrics",
     "meetings.base",
     "h",
     "Templates/new-post-video-template-clipper.json",
-    "References/UNI/MasterThesisCasperAndreas.pdf",
-    "References/Geolocations",
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",

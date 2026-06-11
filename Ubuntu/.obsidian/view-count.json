@@ -23,9 +23,9 @@
       ]
     },
     {
-      "path": "Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "path": "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1781007154218
@@ -47,6 +47,18 @@
         },
         {
           "timestampMillis": 1781008641289
+        },
+        {
+          "timestampMillis": 1781203599711
+        },
+        {
+          "timestampMillis": 1781203600144
+        },
+        {
+          "timestampMillis": 1781203634136
+        },
+        {
+          "timestampMillis": 1781203656516
         }
       ]
     },
@@ -82,7 +94,7 @@
     {
       "path": "ARIS/ARIS Config.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 29,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
           "timestampMillis": 1781008772574
@@ -170,6 +182,9 @@
         },
         {
           "timestampMillis": 1781198069654
+        },
+        {
+          "timestampMillis": 1781203706093
         }
       ]
     },
@@ -217,11 +232,14 @@
     },
     {
       "path": "Inbox/Dan Jensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781008776717
+        },
+        {
+          "timestampMillis": 1781203768354
         }
       ]
     },
@@ -462,6 +480,84 @@
         },
         {
           "timestampMillis": 1781203134573
+        }
+      ]
+    },
+    {
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203701702
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203711299
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Agnes Jensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203730411
+        },
+        {
+          "timestampMillis": 1781203732209
+        },
+        {
+          "timestampMillis": 1781203769206
+        }
+      ]
+    },
+    {
+      "path": "People/Andreas Pommerencke.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203731114
+        },
+        {
+          "timestampMillis": 1781203746716
+        },
+        {
+          "timestampMillis": 1781203749720
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Bent Holm?.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203742531
+        }
+      ]
+    },
+    {
+      "path": "People/Bent Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781203744654
+        },
+        {
+          "timestampMillis": 1781203748507
+        },
+        {
+          "timestampMillis": 1781203750861
         }
       ]
     }

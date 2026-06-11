@@ -12,7 +12,12 @@
       "hiddenFileProperties": [],
       "navigationBanner": null,
       "periodicNotesFolder": "Daily",
-      "shortcuts": [],
+      "shortcuts": [
+        {
+          "type": "folder",
+          "path": "ARIS"
+        }
+      ],
       "navRainbow": {
         "mode": "none",
         "balanceHueLuminance": true,
