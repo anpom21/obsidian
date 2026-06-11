@@ -233,7 +233,7 @@
     {
       "path": "People/Dan Jensen.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781008776717
@@ -252,6 +252,9 @@
         },
         {
           "timestampMillis": 1781204073020
+        },
+        {
+          "timestampMillis": 1781204088602
         }
       ]
     },
@@ -518,7 +521,7 @@
     {
       "path": "People/Agnes Jensen.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1781203730411
@@ -540,13 +543,16 @@
         },
         {
           "timestampMillis": 1781204078885
+        },
+        {
+          "timestampMillis": 1781204086145
         }
       ]
     },
     {
       "path": "People/Andreas Pommerencke.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781203731114
@@ -559,13 +565,16 @@
         },
         {
           "timestampMillis": 1781204056440
+        },
+        {
+          "timestampMillis": 1781204087089
         }
       ]
     },
     {
       "path": "People/Bent Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 10,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1781203744654
@@ -596,13 +605,16 @@
         },
         {
           "timestampMillis": 1781204080361
+        },
+        {
+          "timestampMillis": 1781204087670
         }
       ]
     },
     {
       "path": "People/Emma Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781203792140
@@ -615,6 +627,9 @@
         },
         {
           "timestampMillis": 1781204069130
+        },
+        {
+          "timestampMillis": 1781204090563
         }
       ]
     },
@@ -625,37 +640,6 @@
       "openLogs": [
         {
           "timestampMillis": 1781203810558
-        }
-      ]
-    },
-    {
-      "path": "People/Gitte Holm?.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1781203906674
-        },
-        {
-          "timestampMillis": 1781203911628
-        },
-        {
-          "timestampMillis": 1781203921485
-        },
-        {
-          "timestampMillis": 1781203989877
-        },
-        {
-          "timestampMillis": 1781203991791
-        },
-        {
-          "timestampMillis": 1781203993025
-        },
-        {
-          "timestampMillis": 1781203998984
-        },
-        {
-          "timestampMillis": 1781204017152
         }
       ]
     },
@@ -675,7 +659,7 @@
     {
       "path": "People/Gitte Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1781203973273
@@ -691,6 +675,21 @@
         },
         {
           "timestampMillis": 1781204069719
+        },
+        {
+          "timestampMillis": 1781204091640
+        },
+        {
+          "timestampMillis": 1781204097701
+        },
+        {
+          "timestampMillis": 1781204323074
+        },
+        {
+          "timestampMillis": 1781204323790
+        },
+        {
+          "timestampMillis": 1781204324152
         }
       ]
     },
@@ -704,6 +703,91 @@
         },
         {
           "timestampMillis": 1781204041247
+        }
+      ]
+    },
+    {
+      "path": "People/Helle Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204109099
+        },
+        {
+          "timestampMillis": 1781204322771
+        },
+        {
+          "timestampMillis": 1781204324322
+        }
+      ]
+    },
+    {
+      "path": "People/Kirsten Gross Rasmusen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 9,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204133259
+        },
+        {
+          "timestampMillis": 1781204148486
+        },
+        {
+          "timestampMillis": 1781204265473
+        },
+        {
+          "timestampMillis": 1781204273256
+        },
+        {
+          "timestampMillis": 1781204291341
+        },
+        {
+          "timestampMillis": 1781204322331
+        },
+        {
+          "timestampMillis": 1781204324448
+        },
+        {
+          "timestampMillis": 1781204324746
+        },
+        {
+          "timestampMillis": 1781204379365
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204141796
+        },
+        {
+          "timestampMillis": 1781204272514
+        },
+        {
+          "timestampMillis": 1781204321581
+        },
+        {
+          "timestampMillis": 1781204324608
+        }
+      ]
+    },
+    {
+      "path": "Templates/person - family.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781204256453
+        },
+        {
+          "timestampMillis": 1781204273416
+        },
+        {
+          "timestampMillis": 1781204324912
         }
       ]
     }

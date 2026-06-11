@@ -4,7 +4,7 @@ type: person
 tags:
   - person
 aliases:
-  - 
+  - Bent
 relationship: family
 birthday:
 address:

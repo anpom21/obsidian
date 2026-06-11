@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Gitte Holm?.md",
+                "file": "People/Dan Jensen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gitte Holm?"
+              "title": "Dan Jensen"
             }
           },
           {
@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Agnes Jensen.md",
+                "file": "People/Kirsten Gross Rasmusen.md",
                 "mode": "preview",
                 "source": true,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Agnes Jensen"
+              "title": "Kirsten Gross Rasmusen"
             }
           }
         ],
@@ -300,9 +300,14 @@
   },
   "active": "5654342122f80073",
   "lastOpenFiles": [
-    "People/Dan Jensen.md",
+    "Templates/person - family.md",
+    "People/Kirsten Gross Rasmusen.md",
+    "Daily/2026-06-10.md",
+    "People/Helle Holm.md",
     "People/Gitte Holm.md",
+    "People/Gitte Holm?.md",
     "People/Emma Lykke Holm.md",
+    "People/Dan Jensen.md",
     "People/Bent Holm.md",
     "People/Andreas Pommerencke.md",
     "People/Agnes Jensen.md",
@@ -310,7 +315,6 @@
     "People/Mai Holm?.md",
     "People/Lykke Holm?.md",
     "People/Lykke Holm.md",
-    "People/Gitte Holm?.md",
     "People/Bent Holm?.md",
     "Daily/2026-06-09.md",
     "People/Emma.md",
@@ -324,16 +328,12 @@
     "Daily/2026-06-11.md",
     "Archive/attachments/Evaluation tracking - Overview.excalidraw.md",
     "ARIS/Meeting - Anders Mineral uld i plastik poser.md",
-    "References/Minecraft.md",
-    "Inbox/config.yaml.md",
-    "Inbox/fierce-wolf.md",
     "Archive/attachments/bitmap.png",
     "Archive/attachments/Pasted Image 20260611093306_661.png",
     "Archive/attachments/Pasted Image 20260611093252_957.png",
     "Archive/attachments/Pasted Image 20260611093153_326.png",
     "Archive/attachments/Pasted Image 20260611093107_772.png",
     "Archive/attachments/Pasted Image 20260611093035_412.png",
-    "Inbox/Thesis defense prompt.md",
     "Speciale",
     "2026",
     "test.json",

@@ -1,9 +1,10 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260611205915
 type: person
 tags:
   - person
 aliases:
+  - Kirsten
   - 
 relationship: family
 birthday:
@@ -11,12 +12,15 @@ address:
 phone:
 email:
 profession:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+created: 2026-06-11
+partner: "[[Bent Something]]"
 parents:
 siblings:
+children:
+  - "[[Thomas Lykke Holm]]"
+  - "[[Karsten Lykke Something]]"
 ---
-# <% tp.file.title %>
+# Kirsten Gross Rasmusen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

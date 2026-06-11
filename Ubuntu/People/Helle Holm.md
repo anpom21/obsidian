@@ -14,11 +14,12 @@ profession: Bankrådgiver - Middelfart sparekasse
 created: 2026-06-09
 partner: "[[Thomas Lykke Holm]]"
 parents:
-  - "[[Mai Holm?]]"
-  - "[[Bent Holm?]]"
+  - "[[Mai Holm]]"
+  - "[[Bent Holm]]"
 siblings:
-  - "[[Peter Holm?]]"
-  - "[[Lykke Holm?]]"
+  - "[[Peter Holm]]"
+  - "[[Lykke Holm]]"
+  - "[[Gitte Holm]]"
 children:
   - "[[Emma Lykke Holm|Emma]]"
   - "[[Mathias Lykke Holm]]"
