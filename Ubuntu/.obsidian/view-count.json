@@ -521,7 +521,7 @@
     {
       "path": "People/Agnes Jensen.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1781203730411
@@ -546,6 +546,9 @@
         },
         {
           "timestampMillis": 1781204086145
+        },
+        {
+          "timestampMillis": 1781207113604
         }
       ]
     },
@@ -1140,7 +1143,7 @@
     {
       "path": "Inbox/2026-06-11 - Weekly note.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1781206762535
@@ -1156,26 +1159,74 @@
         },
         {
           "timestampMillis": 1781207080360
+        },
+        {
+          "timestampMillis": 1781207110867
+        },
+        {
+          "timestampMillis": 1781207118072
+        },
+        {
+          "timestampMillis": 1781207156209
+        },
+        {
+          "timestampMillis": 1781207315625
+        },
+        {
+          "timestampMillis": 1781207363873
+        },
+        {
+          "timestampMillis": 1781207364970
+        },
+        {
+          "timestampMillis": 1781207376496
         }
       ]
     },
     {
       "path": "Inbox/Some week.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1781206957068
+        },
+        {
+          "timestampMillis": 1781207146736
+        },
+        {
+          "timestampMillis": 1781207188329
+        },
+        {
+          "timestampMillis": 1781207196914
+        },
+        {
+          "timestampMillis": 1781207208298
+        },
+        {
+          "timestampMillis": 1781207250520
+        },
+        {
+          "timestampMillis": 1781207343412
+        },
+        {
+          "timestampMillis": 1781207352425
+        },
+        {
+          "timestampMillis": 1781207364558
         }
       ]
     },
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781207065373
+        },
+        {
+          "timestampMillis": 1781207103034
         }
       ]
     }

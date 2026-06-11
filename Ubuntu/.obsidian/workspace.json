@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "cb1a7af008caf666",
+            "id": "03ed1036ca63265b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Inbox/2026-06-11 - Weekly note.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -55,30 +55,6 @@
               },
               "icon": "lucide-file",
               "title": "2026-06-11 - Weekly note"
-            }
-          },
-          {
-            "id": "03ed1036ca63265b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Agnes Jensen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Agnes Jensen"
             }
           },
           {
@@ -564,11 +540,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "cb1a7af008caf666",
+  "active": "03ed1036ca63265b",
   "lastOpenFiles": [
-    "Daily/2026-06-03.md",
-    "Inbox/2026-06-11 - Weekly note.md",
     "Inbox/Some week.md",
+    "Inbox/2026-06-11 - Weekly note.md",
+    "People/Agnes Jensen.md",
+    "Daily/2026-06-03.md",
     "Inbox/2026-06-11 - Nikolai Prip.md",
     "Weekly note.md",
     "Inbox/2026-06-11 - Rasmus Storm.md",
@@ -591,7 +568,6 @@
     "People/Lykke Holm.md",
     "Inbox/Storm Holm.md",
     "People/Bent Holm.md",
-    "Templates/person - basic.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

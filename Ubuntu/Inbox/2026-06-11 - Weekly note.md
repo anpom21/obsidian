@@ -1,11 +1,16 @@
 ---
+ <%*  
+const weekStart = moment().startOf("isoWeek").format("YYYY-MM-DD");  
+const weekEnd = moment().endOf("isoWeek").format("YYYY-MM-DD");  
+const created = moment().format("YYYY-MM-DD HH:mm");  
+-%>
 tags:
-  - dashboard
-  - weekly
-  - weekly-review
-created: <% moment().format("YYYY-MM-DD HH") %>
-week_start: 2026-06-01
-week_end: 2026-06-07
+- dashboard
+- weekly
+- weekly-review  
+created: <% created %>  
+week_start: <% weekStart %>  
+week_end: <% weekEnd %>
 ---
 
 # Weekly Dashboard
