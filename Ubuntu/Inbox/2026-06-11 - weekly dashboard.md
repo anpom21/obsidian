@@ -1,21 +1,9 @@
 ---
-created: 2026-06-09
 tags:
-source:
-aliases:
----
----
-
-tags:
-
 - dashboard
-    
 - weekly
-    
 - rolling-review  
-    created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-    
-
+created: <% tp.date.now("YYYY-MM-DD HH") %>  
 ---
 
 # Rolling Weekly Dashboard
@@ -47,7 +35,17 @@ for (const day of days) {
     continue;
   }
 
-  dv.header(3, `[[${path.replace(".md", "")}|${readableDate}]]`);
+  dv.el(
+    "h2",
+    `📅 ${readableDate}`,
+    {
+      cls: "weekly-dashboard-header",
+      attr: {
+        style: "color: #00E5FF; font-size: 1.8em; font-weight: 800; margin-top: 1.5em; margin-bottom: 0.5em;"
+      }
+    }
+  );
+  dv.paragraph(`[[${path.replace(".md", "")}|Open Daily Note]]`);
 
   let content = await app.vault.read(file);
 

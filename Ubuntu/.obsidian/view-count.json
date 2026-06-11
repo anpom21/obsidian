@@ -774,7 +774,7 @@
     {
       "path": "Daily/2026-06-10.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781204141796
@@ -787,6 +787,9 @@
         },
         {
           "timestampMillis": 1781204324608
+        },
+        {
+          "timestampMillis": 1781206255851
         }
       ]
     },
@@ -1084,10 +1087,26 @@
     {
       "path": "Inbox/2026-06-11 - weekly dashboard.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781206142861
+        },
+        {
+          "timestampMillis": 1781206265601
+        },
+        {
+          "timestampMillis": 1781206300882
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-07.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781206298110
         }
       ]
     }

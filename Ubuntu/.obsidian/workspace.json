@@ -375,7 +375,7 @@
               "state": {
                 "file": "Inbox/2026-06-11 - weekly dashboard.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -588,8 +588,10 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
-    "Inbox/Magne Vethal Kanneworff.md",
+    "Daily/2026-06-07.md",
     "Inbox/2026-06-11 - weekly dashboard.md",
+    "Daily/2026-06-10.md",
+    "Inbox/Magne Vethal Kanneworff.md",
     "Inbox/Aksel Lytsen.md",
     "Inbox/Casper Rask.md",
     "Inbox/2026-06-11 - Kristoffer Jensen.md",
@@ -612,8 +614,6 @@
     "Templates/person - family.md",
     "Templates/person - colleague.md",
     "Inbox/Dexter Holm.md",
-    "People/Thomas Lykke Holm.md",
-    "Inbox/Karsten Lykke Something.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
