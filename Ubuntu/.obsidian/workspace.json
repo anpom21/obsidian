@@ -255,7 +255,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-05.md",
+                "file": "Daily/2026-06-11.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -270,7 +270,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-05"
+              "title": "2026-06-11"
             }
           }
         ],
@@ -470,6 +470,7 @@
   },
   "active": "52bfe7bc412d4f62",
   "lastOpenFiles": [
+    "Daily/2026-06-05.md",
     "Weekly note.md",
     "Templates/weekly note.md",
     "Inbox/Some week.md",
@@ -495,7 +496,6 @@
     "Inbox/2026-06-11 - Victor Nielsen.md",
     "Inbox/2026-06-11 - Tobias Pedersen.md",
     "People/Mathias Lykke Holm.md",
-    "Inbox/Storm Holm.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
