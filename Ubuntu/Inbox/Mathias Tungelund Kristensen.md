@@ -1,19 +1,21 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - 
+  - Mathias K
+  - Bro
+id: p-20260611211248
+type: person
 relationship: friend
-birthday:
+birthday: 1998-01-01
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
 partner:
 ---
-# <% tp.file.title %>
+# Mathias Tungelund Kristensen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

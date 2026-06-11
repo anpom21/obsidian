@@ -24,7 +24,7 @@ children:
   - "[[Storm Holm]]"
   - "[[Dexter Holm]]"
 ---
-# person family
+# Lykke Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  

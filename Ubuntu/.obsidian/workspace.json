@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Dexter Holm.md",
+                "file": "People/Lykke Holm.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Dexter Holm"
+              "title": "Lykke Holm"
+            }
+          },
+          {
+            "id": "35c7b82d4a1c8037",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Mathias Tungelund Kristensen.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mathias Tungelund Kristensen"
             }
           },
           {
@@ -104,7 +128,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -298,17 +322,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "54b7d38e6a5f6f32",
+  "active": "35c7b82d4a1c8037",
   "lastOpenFiles": [
-    "Inbox/Storm Holm.md",
-    "Inbox/Dexter Holm.md",
+    "Templates/person - basic.md",
+    "Templates/person - family.md",
+    "Templates/person - colleague.md",
+    "Inbox/Mathias Tungelund Kristensen.md",
     "People/Lykke Holm.md",
+    "Inbox/Dexter Holm.md",
+    "Inbox/Storm Holm.md",
     "People/Mathias Lykke Holm.md",
     "People/Thomas Lykke Holm.md",
     "Inbox/Karsten Lykke Something.md",
     "Inbox/Flemming Something.md",
     "People/Kirsten Gross Rasmusen.md",
-    "Templates/person - family.md",
     "Daily/2026-06-10.md",
     "People/Helle Holm.md",
     "People/Gitte Holm.md",
@@ -323,9 +350,6 @@
     "People/Lykke Holm?.md",
     "People/Bent Holm?.md",
     "Daily/2026-06-09.md",
-    "People/Emma.md",
-    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-    "ARIS/ARIS Config.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

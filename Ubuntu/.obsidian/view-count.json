@@ -646,7 +646,7 @@
     {
       "path": "People/Lykke Holm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781203923708
@@ -659,6 +659,9 @@
         },
         {
           "timestampMillis": 1781204666844
+        },
+        {
+          "timestampMillis": 1781205023954
         }
       ]
     },
@@ -784,7 +787,7 @@
     {
       "path": "Templates/person - family.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781204256453
@@ -794,6 +797,12 @@
         },
         {
           "timestampMillis": 1781204324912
+        },
+        {
+          "timestampMillis": 1781205204394
+        },
+        {
+          "timestampMillis": 1781205215633
         }
       ]
     },
@@ -860,6 +869,42 @@
       "openLogs": [
         {
           "timestampMillis": 1781204957333
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Mathias Tungelund Kristensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205151887
+        },
+        {
+          "timestampMillis": 1781205227510
+        }
+      ]
+    },
+    {
+      "path": "Templates/person - basic.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205202226
+        },
+        {
+          "timestampMillis": 1781205217204
+        }
+      ]
+    },
+    {
+      "path": "Templates/person - colleague.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781205206842
         }
       ]
     }
