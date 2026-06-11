@@ -14,6 +14,7 @@ profession: Bankrådgiver- Sydbank
 created: 2026-06-09
 partner: "[[Helle Holm]]"
 parents:
+  - "[[Kirsten Gross Rasmussen]]"
 siblings:
 ---
 # Thomas Lykke Holm

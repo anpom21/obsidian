@@ -1,84 +1,103 @@
 {
   "items": [
     {
-      "path": "Inbox/Mathias Lykke Holm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
-          "timestampMillis": 1781080503518
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Emma Lykke Holm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1781080508079
-        }
-      ]
-    },
-    {
-      "path": "Speciale/2026-06-10 - Speciale oplæsning.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1781080586082
+          "timestampMillis": 1780495216748
         },
         {
-          "timestampMillis": 1781083792062
+          "timestampMillis": 1780495299161
         },
         {
-          "timestampMillis": 1781083810897
+          "timestampMillis": 1780495775905
         },
         {
-          "timestampMillis": 1781094343933
+          "timestampMillis": 1780495777319
+        },
+        {
+          "timestampMillis": 1780495892326
+        },
+        {
+          "timestampMillis": 1780496340822
+        },
+        {
+          "timestampMillis": 1780559335343
+        },
+        {
+          "timestampMillis": 1780559335499
+        },
+        {
+          "timestampMillis": 1780559341341
+        },
+        {
+          "timestampMillis": 1780559373158
+        },
+        {
+          "timestampMillis": 1780559479800
+        },
+        {
+          "timestampMillis": 1780559480125
+        },
+        {
+          "timestampMillis": 1780561785593
+        },
+        {
+          "timestampMillis": 1780561888768
+        },
+        {
+          "timestampMillis": 1780564552381
+        },
+        {
+          "timestampMillis": 1780564713179
         }
       ]
     },
     {
-      "path": "Speciale.md",
+      "path": "Inbox/Lykke Holm?.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1781083763427
+          "timestampMillis": 1781157947240
         },
         {
-          "timestampMillis": 1781083766703
+          "timestampMillis": 1781159691446
+        },
+        {
+          "timestampMillis": 1781159835031
         }
       ]
     },
     {
-      "path": "Test hi.md",
+      "path": "Inbox/Helle Holm.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1781083765334
+          "timestampMillis": 1781159827234
         }
       ]
     },
     {
-      "path": "Inbox/Better deep ensemble test.md",
+      "path": "Inbox/Mai Holm.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1781094333721
+          "timestampMillis": 1781159828718
         }
       ]
     },
     {
-      "path": "Inbox/Thesis defense prompt.md",
+      "path": "Inbox/2026-06-09 - Løn forhandling.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1781094377013
+          "timestampMillis": 1781159869159
         }
       ]
     }
