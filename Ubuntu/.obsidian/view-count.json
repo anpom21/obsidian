@@ -972,13 +972,16 @@
     {
       "path": "Inbox/2026-06-11 - Nikolai Prip.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781205451689
         },
         {
           "timestampMillis": 1781206664350
+        },
+        {
+          "timestampMillis": 1781206952902
         }
       ]
     },
@@ -1137,10 +1140,42 @@
     {
       "path": "Inbox/2026-06-11 - Weekly note.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781206762535
+        },
+        {
+          "timestampMillis": 1781206947108
+        },
+        {
+          "timestampMillis": 1781206951844
+        },
+        {
+          "timestampMillis": 1781206975786
+        },
+        {
+          "timestampMillis": 1781207080360
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Some week.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781206957068
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-03.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781207065373
         }
       ]
     }
