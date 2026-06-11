@@ -1,9 +1,9 @@
 ---
 tags:
-- dashboard
-- weekly
-- rolling-review  
-created: <% tp.date.now("YYYY-MM-DD HH") %>
+  - dashboard
+  - weekly
+  - rolling-review
+created: 11-06-2026
 ---
 
 # Rolling Weekly Dashboard

@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-11 - Weekly note.md",
-                "mode": "source",
+                "file": "Templates/weekly note.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,127 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-11 - Weekly note"
-            }
-          },
-          {
-            "id": "bba481321ce4aa4e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Dan Jensen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Dan Jensen"
-            }
-          },
-          {
-            "id": "54b7d38e6a5f6f32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/Lykke Holm.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Lykke Holm"
-            }
-          },
-          {
-            "id": "5654342122f80073",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Mathias Tungelund Kristensen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mathias Tungelund Kristensen"
-            }
-          },
-          {
-            "id": "fa6a4602ab975a3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Johan Egtved Nissen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Johan Egtved Nissen"
-            }
-          },
-          {
-            "id": "1913ee9a8b9a6c68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Cecilie Veidiksen.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Cecilie Veidiksen"
+              "title": "weekly note"
             }
           },
           {
@@ -183,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-06-11 - Mathias Jensen.md",
+                "file": "Inbox/Mathias Jensen.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-11 - Mathias Jensen"
+              "title": "Mathias Jensen"
             }
           },
           {
@@ -344,9 +224,57 @@
               "icon": "lucide-file",
               "title": "Magne Vethal Kanneworff"
             }
+          },
+          {
+            "id": "3e11d28385a4d77a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Some week.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Some week"
+            }
+          },
+          {
+            "id": "52bfe7bc412d4f62",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-06-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-05"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -365,7 +293,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ns",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -540,14 +468,20 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "03ed1036ca63265b",
+  "active": "52bfe7bc412d4f62",
   "lastOpenFiles": [
+    "Weekly note.md",
+    "Templates/weekly note.md",
     "Inbox/Some week.md",
-    "Inbox/2026-06-11 - Weekly note.md",
+    "Inbox/Mathias Jensen.md",
+    "Inbox/2026-06-11 - Cecilie Veidiksen.md",
+    "Inbox/2026-06-11 - Johan Egtved Nissen.md",
+    "Inbox/Mathias Tungelund Kristensen.md",
+    "People/Lykke Holm.md",
+    "People/Dan Jensen.md",
     "People/Agnes Jensen.md",
     "Daily/2026-06-03.md",
     "Inbox/2026-06-11 - Nikolai Prip.md",
-    "Weekly note.md",
     "Inbox/2026-06-11 - Rasmus Storm.md",
     "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
     "Daily/2026-06-07.md",
@@ -560,14 +494,8 @@
     "Inbox/2026-06-11 - Markus Simonsen.md",
     "Inbox/2026-06-11 - Victor Nielsen.md",
     "Inbox/2026-06-11 - Tobias Pedersen.md",
-    "Inbox/2026-06-11 - Mathias Jensen.md",
-    "Inbox/2026-06-11 - Cecilie Veidiksen.md",
-    "Inbox/2026-06-11 - Johan Egtved Nissen.md",
-    "Inbox/Mathias Tungelund Kristensen.md",
     "People/Mathias Lykke Holm.md",
-    "People/Lykke Holm.md",
     "Inbox/Storm Holm.md",
-    "People/Bent Holm.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

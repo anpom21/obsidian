@@ -1,21 +1,16 @@
 ---
- <%*  
-const weekStart = moment().startOf("isoWeek").format("YYYY-MM-DD");  
-const weekEnd = moment().endOf("isoWeek").format("YYYY-MM-DD");  
-const created = moment().format("YYYY-MM-DD HH:mm");  
--%>
 tags:
 - dashboard
 - weekly
 - weekly-review  
-created: <% created %>  
-week_start: <% weekStart %>  
-week_end: <% weekEnd %>
+created: <% moment().format("YYYY-MM-DD HH:mm") %>  
+week_start: <% moment().startOf("isoWeek").format("YYYY-MM-DD") %>  
+week_end: <% moment().endOf("isoWeek").format("YYYY-MM-DD") %>
 ---
 
 # Weekly Dashboard
 
-> Overview of daily notes from **<% weekStart %>** to **<% weekEnd %>**.
+> Overview of daily notes from **<% moment().startOf("isoWeek").format("YYYY-MM-DD") %>** to **<% moment().endOf("isoWeek").format("YYYY-MM-DD") %>**.
 
 ---
 
@@ -52,35 +47,23 @@ if (!start || !end || !start.isValid || !end.isValid) {
     const readableDate = day.toFormat("cccc, dd LLL yyyy");
 
     if (!file) {
-      dv.el(
-        "h2",
-        `📅 ${readableDate}`,
-        {
-          cls: "weekly-dashboard-header",
-          attr: {
-            style: "color: #888; font-size: 1.5em; font-weight: 700; margin-top: 1.5em; margin-bottom: 0.5em;"
-          }
+      dv.el("h2", `📅 ${readableDate}`, {
+        attr: {
+          style: "color: #888; font-size: 1.5em; font-weight: 700; margin-top: 1.5em; margin-bottom: 0.5em;"
         }
-      );
+      });
 
       dv.paragraph(`_No daily note found for ${fileName}._`);
       continue;
     }
 
-    dv.el(
-      "h2",
-      "",
-      {
-        cls: "weekly-dashboard-header",
-        attr: {
-          style: "color: #00E5FF; font-size: 1.8em; font-weight: 800; margin-top: 1.5em; margin-bottom: 0.5em;"
-        }
+    dv.el("h2", `📅 ${readableDate}`, {
+      attr: {
+        style: "color: #00E5FF; font-size: 1.8em; font-weight: 800; margin-top: 1.5em; margin-bottom: 0.5em;"
       }
-    );
+    });
 
-    const headers = document.querySelectorAll(".weekly-dashboard-header");
-    const header = headers[headers.length - 1];
-    header.innerHTML = `📅 <a href="${path}" class="internal-link">${readableDate}</a>`;
+    dv.paragraph(`[[${path.replace(".md", "")}|Open daily note]]`);
 
     let content = await app.vault.read(file);
 
