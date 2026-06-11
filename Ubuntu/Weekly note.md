@@ -3,7 +3,7 @@ tags:
 - dashboard
 - weekly
 - rolling-review  
-created: <% tp.date.now("YYYY-MM-DD HH") %>  
+created: <% tp.date.now("YYYY-MM-DD HH") %>
 ---
 
 # Rolling Weekly Dashboard
@@ -37,7 +37,7 @@ for (const day of days) {
 
   dv.el(
     "h2",
-    `📅 ${readableDate}`,
+    "",
     {
       cls: "weekly-dashboard-header",
       attr: {
@@ -45,7 +45,10 @@ for (const day of days) {
       }
     }
   );
-  dv.paragraph(`[[${path.replace(".md", "")}|Open Daily Note]]`);
+
+  const headers = document.querySelectorAll(".weekly-dashboard-header");
+  const header = headers[headers.length - 1];
+  header.innerHTML = `📅 <a href="${path}" class="internal-link">${readableDate}</a>`;
 
   let content = await app.vault.read(file);
 
@@ -87,18 +90,6 @@ if (tasks.length === 0) {
 } else {
   dv.taskList(tasks, true);
 }
-```
-
----
-
-## Notes created or modified in the last 7 days
-
-```dataview
-TABLE file.mtime AS "Modified"
-FROM "Daily"
-WHERE file.mtime >= date(today) - dur(7 days)
-SORT file.mtime DESC
-LIMIT 20
 ```
 
 ---

@@ -8,6 +8,56 @@
         "type": "tabs",
         "children": [
           {
+            "id": "42f0b622cf6a2780",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekly note.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Weekly note"
+            }
+          },
+          {
+            "id": "cb1a7af008caf666",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-06-11 - Weekly note.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-11 - Weekly note"
+            }
+          },
+          {
             "id": "03ed1036ca63265b",
             "type": "leaf",
             "state": {
@@ -176,54 +226,6 @@
             }
           },
           {
-            "id": "374eb34e2a04edc7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Nicklas Nikolaj Grønvall"
-            }
-          },
-          {
-            "id": "a9e00f219ca17206",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - Nikolai Prip.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - Nikolai Prip"
-            }
-          },
-          {
             "id": "8fbe628269d06b32",
             "type": "leaf",
             "state": {
@@ -366,33 +368,9 @@
               "icon": "lucide-file",
               "title": "Magne Vethal Kanneworff"
             }
-          },
-          {
-            "id": "42f0b622cf6a2780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-06-11 - weekly dashboard.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-06-11 - weekly dashboard"
-            }
           }
         ],
-        "currentTab": 15
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -456,7 +434,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -586,10 +564,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "cb1a7af008caf666",
   "lastOpenFiles": [
+    "Weekly note.md",
+    "Inbox/2026-06-11 - Weekly note.md",
+    "Inbox/2026-06-11 - Rasmus Storm.md",
+    "Inbox/2026-06-11 - Nikolai Prip.md",
+    "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
     "Daily/2026-06-07.md",
-    "Inbox/2026-06-11 - weekly dashboard.md",
     "Daily/2026-06-10.md",
     "Inbox/Magne Vethal Kanneworff.md",
     "Inbox/Aksel Lytsen.md",
@@ -599,9 +581,6 @@
     "Inbox/2026-06-11 - Markus Simonsen.md",
     "Inbox/2026-06-11 - Victor Nielsen.md",
     "Inbox/2026-06-11 - Tobias Pedersen.md",
-    "Inbox/2026-06-11 - Rasmus Storm.md",
-    "Inbox/2026-06-11 - Nikolai Prip.md",
-    "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
     "Inbox/2026-06-11 - Mathias Jensen.md",
     "Inbox/2026-06-11 - Cecilie Veidiksen.md",
     "Inbox/2026-06-11 - Johan Egtved Nissen.md",
@@ -613,7 +592,6 @@
     "Templates/person - basic.md",
     "Templates/person - family.md",
     "Templates/person - colleague.md",
-    "Inbox/Dexter Holm.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

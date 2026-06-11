@@ -959,30 +959,39 @@
     {
       "path": "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205444950
+        },
+        {
+          "timestampMillis": 1781206664072
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Nikolai Prip.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205451689
+        },
+        {
+          "timestampMillis": 1781206664350
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Rasmus Storm.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205458113
+        },
+        {
+          "timestampMillis": 1781206665082
         }
       ]
     },
@@ -1085,9 +1094,9 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-11 - weekly dashboard.md",
+      "path": "Weekly note.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1781206142861
@@ -1097,6 +1106,21 @@
         },
         {
           "timestampMillis": 1781206300882
+        },
+        {
+          "timestampMillis": 1781206590140
+        },
+        {
+          "timestampMillis": 1781206608269
+        },
+        {
+          "timestampMillis": 1781206624701
+        },
+        {
+          "timestampMillis": 1781206659335
+        },
+        {
+          "timestampMillis": 1781206665772
         }
       ]
     },
@@ -1107,6 +1131,16 @@
       "openLogs": [
         {
           "timestampMillis": 1781206298110
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-06-11 - Weekly note.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781206762535
         }
       ]
     }
