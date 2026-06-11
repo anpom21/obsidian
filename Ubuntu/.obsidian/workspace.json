@@ -366,9 +366,33 @@
               "icon": "lucide-file",
               "title": "Magne Vethal Kanneworff"
             }
+          },
+          {
+            "id": "42f0b622cf6a2780",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-06-11 - weekly dashboard.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-11 - weekly dashboard"
+            }
           }
         ],
-        "currentTab": 14
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -562,12 +586,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "eb35ea3883e99296",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Inbox/Magne Vethal Kanneworff.md",
+    "Inbox/2026-06-11 - weekly dashboard.md",
     "Inbox/Aksel Lytsen.md",
     "Inbox/Casper Rask.md",
     "Inbox/2026-06-11 - Kristoffer Jensen.md",
-    "Inbox/Magne Vethal Kanneworff.md",
     "Inbox/2026-06-11 - Maja Abrahamsen.md",
     "Inbox/2026-06-11 - Markus Simonsen.md",
     "Inbox/2026-06-11 - Victor Nielsen.md",
@@ -589,7 +614,6 @@
     "Inbox/Dexter Holm.md",
     "People/Thomas Lykke Holm.md",
     "Inbox/Karsten Lykke Something.md",
-    "Inbox/Flemming Something.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

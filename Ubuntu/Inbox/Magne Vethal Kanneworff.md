@@ -38,7 +38,8 @@ partner:
   ---
   
 ## Updates
-- Skull bruge algortime til lokalisering da de har mange kameraer, 
+- Skulle bruge algoritme til lokalisering da de har mange kameraer, jeg forslog VSLAM. 
+- 
 
 ## Timeline
 - Var med til Prips polterabend
