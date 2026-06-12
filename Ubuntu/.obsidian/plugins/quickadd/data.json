@@ -52,6 +52,53 @@
           }
         ]
       }
+    },
+    {
+      "id": "72e3dac7-45d7-432f-ad90-dc8575cda379",
+      "name": "Add Reminder",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "Daily/{{DATE:YYYY-MM-DD}}.md",
+      "captureToActiveFile": false,
+      "captureToCanvasNodeId": "",
+      "activeFileWritePosition": "bottom",
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "- [ ] {{VALUE:Title}} @remind({{VALUE:When YYYY-MM-DD HH:mm}}, \"{{VALUE:Title}}\", \"{{VALUE:Message}}\")"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top",
+        "inline": false,
+        "replaceExisting": false,
+        "blankLineAfterMatchMode": "auto"
+      },
+      "newLineCapture": {
+        "enabled": false,
+        "direction": "below"
+      },
+      "prepend": true,
+      "task": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "templater": {
+        "afterCapture": "none"
+      }
     }
   ],
   "inputPrompt": "single-line",
