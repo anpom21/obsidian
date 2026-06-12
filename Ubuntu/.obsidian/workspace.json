@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "W24"
             }
+          },
+          {
+            "id": "5bbf0ad3e34c0757",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-06-12.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-12"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -225,10 +250,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "5bbf0ad3e34c0757",
   "lastOpenFiles": [
-    "Daily/2026-06-08.md",
     "Inbox/W24.md",
+    "Daily/2026-06-08.md",
     "Weekly note.md",
     "Daily/Untitled.md",
     "Templates/weekly note.md",
