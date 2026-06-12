@@ -3,14 +3,14 @@ tags:
 - dashboard
 - weekly
 - weekly-review  
-created: 2026-06-11 22:50  
-week_start: 2026-06-08  
-week_end: 2026-06-14
+created: <% moment().format("YYYY-MM-DD HH") %>  
+week_start: <% moment().startOf("isoWeek").format("YYYY-MM-DD") %>  
+week_end: <% moment().endOf("isoWeek").format("YYYY-MM-DD") %>
 ---
 
 # Weekly Dashboard
 
-> Overview of daily notes from **2026-06-08** to **2026-06-14**.
+> Overview of daily notes from **<% moment().startOf("isoWeek").format("YYYY-MM-DD") %>** to **<% moment().endOf("isoWeek").format("YYYY-MM-DD") %>**
 
 ---
 

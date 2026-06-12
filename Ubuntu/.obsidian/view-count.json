@@ -1168,7 +1168,7 @@
     {
       "path": "Weekly note.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 17,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1781206142861
@@ -1220,6 +1220,15 @@
         },
         {
           "timestampMillis": 1781245863089
+        },
+        {
+          "timestampMillis": 1781245969798
+        },
+        {
+          "timestampMillis": 1781245988102
+        },
+        {
+          "timestampMillis": 1781246034283
         }
       ]
     },
@@ -1239,7 +1248,7 @@
     {
       "path": "Templates/weekly note.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 20,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
           "timestampMillis": 1781206762535
@@ -1300,13 +1309,19 @@
         },
         {
           "timestampMillis": 1781245869081
+        },
+        {
+          "timestampMillis": 1781245922472
+        },
+        {
+          "timestampMillis": 1781245956135
         }
       ]
     },
     {
       "path": "Inbox/W24.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 14,
+      "totalTimesOpened": 18,
       "openLogs": [
         {
           "timestampMillis": 1781206957068
@@ -1349,6 +1364,18 @@
         },
         {
           "timestampMillis": 1781245767735
+        },
+        {
+          "timestampMillis": 1781245961646
+        },
+        {
+          "timestampMillis": 1781246014848
+        },
+        {
+          "timestampMillis": 1781246040175
+        },
+        {
+          "timestampMillis": 1781246041120
         }
       ]
     },
@@ -1391,6 +1418,19 @@
         },
         {
           "timestampMillis": 1781245515577
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-08.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781246010831
+        },
+        {
+          "timestampMillis": 1781246040721
         }
       ]
     }

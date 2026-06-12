@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/weekly note.md",
+                "file": "Inbox/W24.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "weekly note"
+              "title": "W24"
             }
           }
         ]
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "week",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -94,7 +94,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -224,11 +225,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
-    "Weekly note.md",
-    "Templates/weekly note.md",
+    "Daily/2026-06-08.md",
     "Inbox/W24.md",
+    "Weekly note.md",
+    "Daily/Untitled.md",
+    "Templates/weekly note.md",
     "Daily/2026-06-07.md",
     "Inbox/Mathias Jensen.md",
     "Inbox/2026-06-11 - Rasmus Storm.md",
@@ -250,8 +253,6 @@
     "Inbox/2026-06-11 - Nikolai Prip.md",
     "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
     "Daily/2026-06-10.md",
-    "Inbox/Aksel Lytsen.md",
-    "Inbox/Casper Rask.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
