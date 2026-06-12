@@ -1445,6 +1445,42 @@
           "timestampMillis": 1781246040721
         }
       ]
+    },
+    {
+      "path": "Daily/2026-06-04.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1781270841109
+        },
+        {
+          "timestampMillis": 1781270849079
+        },
+        {
+          "timestampMillis": 1781270849310
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781270844429
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Excalidraw/Speciale - Overview.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781270855297
+        }
+      ]
     }
   ]
 }

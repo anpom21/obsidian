@@ -83,24 +83,12 @@
             "id": "b3e6b9f3996f3a12",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily/2026-06-12.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "ARIS/Excalidraw/Speciale - Overview.md"
               },
-              "icon": "lucide-file",
-              "title": "2026-06-12"
+              "icon": "excalidraw-icon",
+              "title": "Speciale - Overview"
             }
           }
         ],
@@ -123,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "overview",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -167,8 +155,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -300,6 +287,8 @@
   },
   "active": "b3e6b9f3996f3a12",
   "lastOpenFiles": [
+    "Daily/2026-06-04.md",
+    "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
     "Daily/2026-06-12.md",
     "Inbox/W24.md",
     "Templates/weekly note.md",
@@ -324,8 +313,6 @@
     "Inbox/Storm Holm.md",
     "People/Mathias Lykke Holm.md",
     "People/Thomas Lykke Holm.md",
-    "Inbox/Karsten Lykke Something.md",
-    "Inbox/Flemming Something.md",
     "People",
     "Archive/attachments/bitmap.png",
     "Archive/attachments/Pasted Image 20260611093306_661.png",
