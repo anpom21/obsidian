@@ -70,7 +70,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{VALUE:Titel}} @remind({{VDATE:When}}  {{VALUE:Hvornår}}, \"{{VALUE:Titel}}\", \"{{VALUE:Besked}}\")"
+        "format": "- [ ] {{VALUE:Titel}} **@remind({{VDATE:When}}  {{VALUE:Hvornår}}, \"{{VALUE:Titel}}\", \"{{VALUE:Besked}}\")**"
       },
       "insertAfter": {
         "enabled": false,
