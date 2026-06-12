@@ -70,7 +70,7 @@
       },
       "format": {
         "enabled": true,
-        "format": "- [ ] {{VALUE:Header}} @remind({{VDATE:When}}  {{VALUE:ss}}, \"{{VALUE:Header}}\", \"{{VALUE:Message}}\")"
+        "format": "- [ ] {{VALUE:Header}} @remind({{VDATE:When}}  {{VALUE:When}}, \"{{VALUE:Header}}\", \"{{VALUE:Message}}\")"
       },
       "insertAfter": {
         "enabled": false,
