@@ -993,14 +993,17 @@
     },
     {
       "path": "Inbox/Mathias Jensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781205397505
         },
         {
           "timestampMillis": 1781207474568
+        },
+        {
+          "timestampMillis": 1781245676223
         }
       ]
     },
@@ -1035,61 +1038,76 @@
     },
     {
       "path": "Inbox/2026-06-11 - Rasmus Storm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781205458113
         },
         {
           "timestampMillis": 1781206665082
+        },
+        {
+          "timestampMillis": 1781245676023
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Tobias Pedersen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205465469
+        },
+        {
+          "timestampMillis": 1781245675820
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Victor Nielsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205470628
+        },
+        {
+          "timestampMillis": 1781245675456
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Markus Simonsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205480527
+        },
+        {
+          "timestampMillis": 1781245674957
         }
       ]
     },
     {
       "path": "Inbox/2026-06-11 - Maja Abrahamsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781205489285
+        },
+        {
+          "timestampMillis": 1781245674472
         }
       ]
     },
     {
       "path": "Inbox/Magne Vethal Kanneworff.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1781205500245
@@ -1099,6 +1117,9 @@
         },
         {
           "timestampMillis": 1781206100809
+        },
+        {
+          "timestampMillis": 1781245674077
         }
       ]
     },
@@ -1146,8 +1167,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 14,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 17,
       "openLogs": [
         {
           "timestampMillis": 1781206142861
@@ -1190,23 +1211,35 @@
         },
         {
           "timestampMillis": 1781207636782
+        },
+        {
+          "timestampMillis": 1781245676651
+        },
+        {
+          "timestampMillis": 1781245740229
+        },
+        {
+          "timestampMillis": 1781245863089
         }
       ]
     },
     {
       "path": "Daily/2026-06-07.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781206298110
+        },
+        {
+          "timestampMillis": 1781245737844
         }
       ]
     },
     {
       "path": "Templates/weekly note.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 17,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
           "timestampMillis": 1781206762535
@@ -1258,13 +1291,22 @@
         },
         {
           "timestampMillis": 1781207608232
+        },
+        {
+          "timestampMillis": 1781245676500
+        },
+        {
+          "timestampMillis": 1781245808554
+        },
+        {
+          "timestampMillis": 1781245869081
         }
       ]
     },
     {
-      "path": "Inbox/Some week.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 12,
+      "path": "Inbox/W24.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 14,
       "openLogs": [
         {
           "timestampMillis": 1781206957068
@@ -1301,6 +1343,12 @@
         },
         {
           "timestampMillis": 1781209711657
+        },
+        {
+          "timestampMillis": 1781245749949
+        },
+        {
+          "timestampMillis": 1781245767735
         }
       ]
     },
