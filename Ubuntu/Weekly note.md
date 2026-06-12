@@ -7,7 +7,6 @@ created: 11-06-2026
 ---
 
 # Rolling Weekly Dashboard
-
 > Rolling overview of the last 7 daily notes.
 
 ---
@@ -26,29 +25,16 @@ for (const day of days) {
   const fileName = day.toFormat(DATE_FORMAT);
   const path = `${DAILY_FOLDER}/${fileName}.md`;
   const file = app.vault.getAbstractFileByPath(path);
-
   const readableDate = day.toFormat("cccc, dd LLL yyyy");
 
   if (!file) {
-    dv.header(3, `${readableDate}`);
+    dv.header(2, `📅 ${readableDate}`);
     dv.paragraph(`_No daily note found for ${fileName}._`);
     continue;
   }
 
-  dv.el(
-    "h2",
-    "",
-    {
-      cls: "weekly-dashboard-header",
-      attr: {
-        style: "color: #00E5FF; font-size: 1.8em; font-weight: 800; margin-top: 1.5em; margin-bottom: 0.5em;"
-      }
-    }
-  );
-
-  const headers = document.querySelectorAll(".weekly-dashboard-header");
-  const header = headers[headers.length - 1];
-  header.innerHTML = `📅 <a href="${path}" class="internal-link">${readableDate}</a>`;
+  dv.header(2, `📅 ${readableDate}`);
+  dv.paragraph(dv.fileLink(path.replace(".md", ""), false, "Open daily note"));
 
   let content = await app.vault.read(file);
 
@@ -97,6 +83,10 @@ if (tasks.length === 0) {
 ## Weekly reflection
 
 ### Wins
+- Snakket om løn - bare det at gøre det var fedt.
+- Anders var fan af mit arbejde
+- Emma er bare for dejlig
+
 
 ### Problems / blockers
 

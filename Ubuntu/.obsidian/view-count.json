@@ -487,8 +487,8 @@
     },
     {
       "path": "Daily/2026-06-11.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1781198010134
@@ -522,6 +522,9 @@
         },
         {
           "timestampMillis": 1781210573723
+        },
+        {
+          "timestampMillis": 1781243780161
         }
       ]
     },
@@ -1321,6 +1324,16 @@
       "openLogs": [
         {
           "timestampMillis": 1781207687323
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-12.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781243780491
         }
       ]
     }

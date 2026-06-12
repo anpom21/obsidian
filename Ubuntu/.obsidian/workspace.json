@@ -231,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-11.md",
+                "file": "Daily/2026-06-12.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -246,7 +246,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-11"
+              "title": "2026-06-12"
             }
           }
         ],
@@ -446,8 +446,9 @@
   },
   "active": "3e11d28385a4d77a",
   "lastOpenFiles": [
-    "Inbox/Some week.md",
     "Daily/2026-06-11.md",
+    "Daily/2026-06-12.md",
+    "Inbox/Some week.md",
     "Daily/2026-06-05.md",
     "Weekly note.md",
     "Templates/weekly note.md",
@@ -471,7 +472,6 @@
     "Inbox/2026-06-11 - Maja Abrahamsen.md",
     "Inbox/2026-06-11 - Markus Simonsen.md",
     "Inbox/2026-06-11 - Victor Nielsen.md",
-    "Inbox/2026-06-11 - Tobias Pedersen.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
