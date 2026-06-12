@@ -12,19 +12,19 @@ phone:
 email:
 profession:
 created: 2026-06-07
-partner: "[[Claus Holm?]]"
+partner: "[[Claus Holm]]"
 parents:
-  - "[[Mai Holm?]]"
-  - "[[Bent Holm?]]"
+  - "[[Mai Holm]]"
+  - "[[Bent Holm]]"
 siblings:
   - "[[Helle Holm]]"
-  - "[[Gitte Holm?]]"
-  - "[[Peter Holm?]]"
+  - "[[Gitte Holm]]"
+  - "[[Peter Holm]]"
 children:
-  - "[[Storm Holm?]]"
-  - "[[Dexter Holm?]]"
+  - "[[Storm Holm]]"
+  - "[[Dexter Holm]]"
 ---
-# person family
+# Lykke Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  

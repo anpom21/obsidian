@@ -1,23 +1,27 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260609201053
 type: person
 tags:
   - person
 aliases:
-  - 
-relationship: friend
+  - Bent
+relationship: family
 birthday:
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+profession: Pensionist (Bankrådgiver)
+created: 2026-06-07
+partner: "[[Mai Holm?|Mai]]"
+parents:
+siblings:
+children:
+  - "[[Peter Holm?]]"
+  - "[[Helle Holm]]"
+  - "[[Lykke Holm?]]"
 ---
-# <% tp.file.title %>
+# Bent Holm?
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
@@ -32,7 +36,7 @@ partner:
 
 > [!info]- Notes  
 > - Allergies:  
-> - ....
+> - Dårligt syn
   ---
   
 ## Updates

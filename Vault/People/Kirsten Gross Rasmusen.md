@@ -1,26 +1,30 @@
 ---
-id: p-20260609215648
+id: p-20260611205915
 type: person
 tags:
   - person
 aliases:
+  - Kirsten
   - 
 relationship: family
-birthday: 2000-08-30
-address: Aarhus
+birthday:
+address:
 phone:
 email:
 profession:
-created: 2026-06-09
-partner: "[[Lea Vosegaard Als]]"
+created: 2026-06-11
+partner: "[[Bent Something]]"
 parents:
-  - "[[Helle Holm]]"
-  - "[[Thomas Lykke Holm]]"
 siblings:
-  - "[[Emma Lykke Holm]]"
+children:
+  - "[[Thomas Lykke Holm]]"
+  - "[[Karsten Lykke Something]]"
 ---
-# Mathias Lykke Holm
+# Kirsten Gross Rasmusen
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

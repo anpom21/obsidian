@@ -1,19 +1,26 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - 
-relationship: friend
+  - Flemming
+id: p-20260611210150
+type: person
+relationship: family
 birthday:
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+profession:
+partner: "[[Britt]]"
+parents:
+siblings:
+children:
+  - "[[Karsten Lykke Something]]"
+  - "[[Thomas Lykke Holm]]"
 ---
-# <% tp.file.title %>
+# Flemming Somethiing
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

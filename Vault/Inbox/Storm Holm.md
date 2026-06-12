@@ -1,19 +1,27 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+created: 2026-06-11
 tags:
   - person
+  - sviger
+source:
 aliases:
-  - 
-relationship: friend
-birthday:
+  - Storm
+id: p-20260611210441
+type: person
+relationship: family
+birthday: 2014-06-05
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
+profession:
 partner:
+parents:
+  - "[[Lykke Holm]]"
+  - "[[Claus Holm]]"
+siblings:
+  - "[[Dexter Holm]]"
 ---
-# <% tp.file.title %>
+# Storm Holm
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -27,8 +35,8 @@ partner:
 > - Food:  
 > - Drinks:  
 > - Hobbies:  
-> - Books/Movies:  
-> - Interests: 
+> - Books/Movies:  One piece
+> - Interests: One piece, fortnite, tetris spillet, fodbold, disc golf?
 
 > [!info]- Notes  
 > - Allergies:  
@@ -36,7 +44,7 @@ partner:
   ---
   
 ## Updates
-- 
+- I
 
 ## Timeline
 - 

@@ -1,19 +1,23 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
   - 
-relationship: friend
+id: p-20260611210919
+type: person
+relationship: family
 birthday:
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
+profession:
 partner:
+parents:
+siblings:
 ---
-# <% tp.file.title %>
+# Dexter Holm
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -27,8 +31,8 @@ partner:
 > - Food:  
 > - Drinks:  
 > - Hobbies:  
-> - Books/Movies:  
-> - Interests: 
+> - Books/Movies:  Ninjago (Lloyd Montgomery Garmadon), sådan træner du din drage
+> - Interests:  
 
 > [!info]- Notes  
 > - Allergies:  

@@ -1,27 +1,26 @@
 ---
-id: p-20260609201053
-type: person
+created: 2026-06-11
 tags:
   - person
+  - UNI
+source:
 aliases:
-  - 
-relationship: family
+  - Aksel
+id: p-20260611211853
+type: person
+relationship: friend
 birthday:
-address:
-phone:
+address: Tybrindvænget 1, 5230 Odense
+phone: "+4523882745"
 email:
-profession: Pensionist (Bankrådgiver)
-created: 2026-06-07
-partner: "[[Mai Holm?|Mai]]"
-parents:
-siblings:
-children:
-  - "[[Peter Holm?]]"
-  - "[[Helle Holm]]"
-  - "[[Lykke Holm?]]"
+partner: "[[Rikke Something]]"
 ---
-# Bent Holm?
+
+# Aksel Lytsen
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
@@ -36,7 +35,7 @@ children:
 
 > [!info]- Notes  
 > - Allergies:  
-> - Dårligt syn
+> - ....
   ---
   
 ## Updates

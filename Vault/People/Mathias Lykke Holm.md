@@ -1,38 +1,37 @@
 ---
-id: p-20260609222743
+id: p-20260609215648
 type: person
 tags:
   - person
 aliases:
-  - Thomas
+  - Mathias (E)
 relationship: family
-birthday:
-address: Nørre Voldgade 92, 7000 Fredericia
+birthday: 2000-08-30
+address: Aarhus
 phone:
 email:
-profession: Bankrådgiver- Sydbank
+profession:
 created: 2026-06-09
-partner: "[[Helle Holm]]"
+partner: "[[Lea Vosegaard Als]]"
 parents:
-  - "[[Kirsten Gross Rasmussen]]"
+  - "[[Helle Holm]]"
+  - "[[Thomas Lykke Holm]]"
 siblings:
+  - "[[Emma Lykke Holm]]"
 ---
-# Thomas Lykke Holm
+# Mathias Lykke Holm
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
 > - Siblings:  
   
 > [!info]- Favorites  
-> - Food:  Alt der smager godt 
-> - Drinks:  Pintia rød vin
-> - Hobbies:  Fiskeri, fluebinding, jagt
+> - Food:  
+> - Drinks:  
+> - Hobbies:  
 > - Books/Movies:  
-> - Interests: Investering, AI, 
+> - Interests: 
 
 > [!info]- Notes  
 > - Allergies:  

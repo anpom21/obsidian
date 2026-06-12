@@ -1,29 +1,33 @@
 ---
-id: p-20260607214802
-type: person
+created: 2026-06-11
 tags:
   - person
+source:
 aliases:
-  - Gitte
+  - 
+id: p-20260611210030
+type: person
 relationship: family
 birthday:
 address:
 phone:
 email:
-created: 2026-06-07
-partner: "[[Dan Jensen]]"
+profession:
+partner: "[[Lotte Something]]"
 parents:
-  - "[[Mai Holm?]]"
-  - "[[Bent Holm?]]"
+  - "[[Kirsten Gross Rasmusen]]"
+  - "[[Flemming Something]]"
 siblings:
-  - "[[Helle Holm]]"
-  - "[[Peter Holm?]]"
-  - "[[Lykke Holm?]]"
+  - "[[Thomas Lykke Holm]]"
 children:
-  - "[[Agnes Jensen]]"
+  - "[[Victor Something]]"
+  - "[[Oscar Something]]"
 ---
-# Gitte Holm
+# Karsten Lykke Something
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

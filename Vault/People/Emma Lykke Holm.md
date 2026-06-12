@@ -54,8 +54,6 @@ created: 2026-06-07
 > - Books/Movies:  Off campus
 > - Perfume: Zarko Perfume One Molecule
   
-## Personal Context  
-%% fold %% 
 
 ## Updates
 - 2026-06-09

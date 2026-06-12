@@ -1,23 +1,29 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260607214802
 type: person
 tags:
   - person
 aliases:
-  - 
-relationship: friend
+  - Gitte
+relationship: family
 birthday:
 address:
 phone:
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+created: 2026-06-07
+partner: "[[Dan Jensen]]"
+parents:
+  - "[[Mai Holm]]"
+  - "[[Bent Holm]]"
+siblings:
+  - "[[Helle Holm]]"
+  - "[[Peter Holm]]"
+  - "[[Lykke Holm]]"
+children:
+  - "[[Agnes Jensen]]"
 ---
-# <% tp.file.title %>
+# Gitte Holm
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

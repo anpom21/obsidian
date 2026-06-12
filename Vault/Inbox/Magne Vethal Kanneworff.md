@@ -1,30 +1,25 @@
 ---
-id: p-20260609202759
-type: person
+created: 2026-06-11
 tags:
   - person
+  - UNI
+source:
 aliases:
-  - Helle
-relationship: family
+  - Magne
+id: p-20260611212340
+type: person
+relationship: friend
 birthday:
-address: Nørre Voldgade 92, 7000 Fredericia
-phone: +45 31 26 17 72
+address:
+phone:
 email:
-profession: Bankrådgiver - Middelfart sparekasse
-created: 2026-06-09
-partner: "[[Thomas Lykke Holm]]"
-parents:
-  - "[[Mai Holm?]]"
-  - "[[Bent Holm?]]"
-siblings:
-  - "[[Peter Holm?]]"
-  - "[[Lykke Holm?]]"
-children:
-  - "[[Emma Lykke Holm|Emma]]"
-  - "[[Mathias Lykke Holm]]"
+partner:
 ---
-# Helle Holm
+# Magne Vethal Kanneworff
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
@@ -43,10 +38,11 @@ children:
   ---
   
 ## Updates
+- Skulle bruge algoritme til lokalisering da de har mange kameraer, jeg forslog VSLAM. 
 - 
 
 ## Timeline
-- 
+- Var med til Prips polterabend
 
 ---
 ## Related Notes

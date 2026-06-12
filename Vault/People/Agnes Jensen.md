@@ -14,7 +14,7 @@ phone:
 email:
 partner:
 parents:
-  - "[[Gitte Holm?]]"
+  - "[[Gitte Holm]]"
   - "[[Dan Jensen]]"
 siblings:
 ---
@@ -23,7 +23,7 @@ siblings:
 ## Details 
 > [!info]- Family  
 > - Partner:  
-> - Parents:  [[Dan Jensen]], [[Gitte Holm?]]
+> - Parents:  [[Dan Jensen]], [[Gitte Holm]]
   
 > [!info]- Favorites  
 > - Food:  

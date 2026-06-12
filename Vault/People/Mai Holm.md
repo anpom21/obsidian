@@ -1,22 +1,27 @@
 ---
-created: 2026-06-07
+id: p-20260609201814
+type: person
 tags:
   - person
-source:
 aliases:
-  - 
-id: p-20260607214802
-type: person
+  - Mai
 relationship: family
 birthday:
 address:
 phone:
 email:
-partner: "[[Gitte Holm?]]"
+profession:
+created: 2026-06-09
+partner: "[[Bent Holm]]"
 parents:
 siblings:
+  - "[[Eva Holm]]"
+children:
+  - "[[Helle Holm]]"
+  - "[[Peter Holm]]"
+  - "[[Lykke Holm]]"
 ---
-# person family
+# Mai Holm
 ## Details 
 > [!info]- Family  
 > - Partner:  

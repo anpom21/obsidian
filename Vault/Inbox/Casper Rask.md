@@ -1,28 +1,25 @@
 ---
-id: p-20260609201814
-type: person
+created: 2026-06-11
 tags:
   - person
+  - UNI
+source:
 aliases:
-  - Mai
-relationship: family
-birthday:
-address:
-phone:
+  - Casper
+id: p-20260611212049
+type: person
+relationship: friend
+birthday: 2001-07-06
+address: Hørmarken 30, 5260 Odense
+phone: "+4530968323"
 email:
-profession:
-created: 2026-06-09
-partner: "[[Bent Holm?]]"
-parents:
-siblings:
-  - "[[Eva Holm?]]"
-children:
-  - "[[Helle Holm]]"
-  - "[[Peter Holm?]]"
-  - "[[Lykke Holm?]]"
+partner: "[[Camilla Something]]"
 ---
-# Mai Holm?
+# Casper Rask
 ## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
+
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

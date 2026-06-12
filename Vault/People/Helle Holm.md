@@ -1,23 +1,31 @@
 ---
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
+id: p-20260609202759
 type: person
 tags:
   - person
 aliases:
-  - 
-relationship: friend
+  - Helle
+relationship: family
 birthday:
-address:
-phone:
+address: Nørre Voldgade 92, 7000 Fredericia
+phone: +45 31 26 17 72
 email:
-created: <% tp.date.now("YYYY-MM-DD") %>
-partner:
+profession: Bankrådgiver - Middelfart sparekasse
+created: 2026-06-09
+partner: "[[Thomas Lykke Holm]]"
+parents:
+  - "[[Mai Holm]]"
+  - "[[Bent Holm]]"
+siblings:
+  - "[[Peter Holm]]"
+  - "[[Lykke Holm]]"
+  - "[[Gitte Holm]]"
+children:
+  - "[[Emma Lykke Holm|Emma]]"
+  - "[[Mathias Lykke Holm]]"
 ---
-# <% tp.file.title %>
+# Helle Holm
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
