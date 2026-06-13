@@ -979,19 +979,6 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-11 - Cecilie Veidiksen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205392039
-        },
-        {
-          "timestampMillis": 1781207474317
-        }
-      ]
-    },
-    {
       "path": "Inbox/Mathias Jensen.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
@@ -1033,48 +1020,6 @@
         },
         {
           "timestampMillis": 1781206952902
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Rasmus Storm.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205458113
-        },
-        {
-          "timestampMillis": 1781206665082
-        },
-        {
-          "timestampMillis": 1781245676023
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Tobias Pedersen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205465469
-        },
-        {
-          "timestampMillis": 1781245675820
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Victor Nielsen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205470628
-        },
-        {
-          "timestampMillis": 1781245675456
         }
       ]
     },
@@ -1407,8 +1352,8 @@
     },
     {
       "path": "Daily/2026-06-12.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781243780491
@@ -1424,6 +1369,9 @@
         },
         {
           "timestampMillis": 1781246081541
+        },
+        {
+          "timestampMillis": 1781366818084
         }
       ]
     },
@@ -1437,6 +1385,26 @@
         },
         {
           "timestampMillis": 1781246040721
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-13.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781366818424
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-14.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781366825997
         }
       ]
     }

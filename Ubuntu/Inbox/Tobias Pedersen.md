@@ -2,20 +2,20 @@
 created: 2026-06-13
 tags:
   - person
+  - UNI
 source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
+  - Tobias
+id: p-20260613135044
 type: person
 relationship: friend
-birthday: 2000-10-12
+birthday:
 address:
-phone: "+4551412012"
+phone:
 email:
-partner: "[[Cecilie Veidiksen]]"
+partner:
 ---
-# Mathias Jensen
+# Tobias Pedersen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
