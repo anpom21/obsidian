@@ -54,9 +54,33 @@
               "icon": "lucide-file",
               "title": "2026-06-14"
             }
+          },
+          {
+            "id": "e0729710d54e6838",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-06-13.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-13"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -250,10 +274,10 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "5bbf0ad3e34c0757",
+  "active": "e0729710d54e6838",
   "lastOpenFiles": [
-    "Daily/2026-06-13.md",
     "Daily/2026-06-14.md",
+    "Daily/2026-06-13.md",
     "Inbox/Victor Nielsen.md",
     "Inbox/Tobias Pedersen.md",
     "Inbox/Cecilie Veidiksen.md",

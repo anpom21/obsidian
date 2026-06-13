@@ -1391,23 +1391,29 @@
     {
       "path": "Daily/2026-06-13.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1781366818424
+        },
+        {
+          "timestampMillis": 1781382986231
         }
       ]
     },
     {
       "path": "Daily/2026-06-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781366825997
         },
         {
           "timestampMillis": 1781382893077
+        },
+        {
+          "timestampMillis": 1781382971609
         }
       ]
     }
