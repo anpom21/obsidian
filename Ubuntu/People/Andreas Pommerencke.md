@@ -4,7 +4,7 @@ type: person
 tags:
   - person
 aliases:
-  - 
+  - Me
 relationship: family
 birthday:
 address:

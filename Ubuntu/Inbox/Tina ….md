@@ -1,21 +1,23 @@
 ---
-created: 2026-06-13
+id: p-20260615202739
+type: person
 tags:
   - person
-source:
+  - sviger
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
-relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+  - Tina
+relationship: family
+birthday:
+address:
+phone:
+email:
+profession: Konsulent?
+created: 2026-06-15
+partner: "[[Søren …]]"
+parents:
+siblings:
 ---
-# Mathias Jensen
+# Tina …
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -38,10 +40,11 @@ partner: "[[Cecilie Veidiksen]]"
   ---
   
 ## Updates
-- 
-
+2026-06-13
+- Arbejder med noget slags grøn omstilling og firmaer der skal budgettere for deres co2 bekostning. 
+- Meget interesseret i mit speciale og arbejde
 ## Timeline
-- 
+- 2026-06-13. Var med til [[Rock Under Broen]] brunch. 
 
 ---
 ## Related Notes

@@ -7,7 +7,8 @@ aliases:
 ---
 - [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
 - [x] train new low res model with normal mineral wool as testing data ✅ 2026-06-04
-- [x] work on excalidraw ✅ 2026-06-04
+- [ ] work on excalidraw ✅ 2026-06-04
+- [ ] 
 - [ ] Make excalidraw overview of config
 - [ ] Check out how to make a people dictionary
 - [ ] Make excalidraw of classification pipeline and [[Classification]] evaluation logging
@@ -26,9 +27,10 @@ aliases:
 -  Stena recylcing
 	-  Aftager affald fra genbrugs station
 - [x] Heyo ✅ 2026-06-10
-
-
-
+- [ ] [[aris sync]] make outdoor wood be sorted to impregnated wood by default and indoor wood to normal wood #agent 
+- [ ] [[Image sorter]]
+- [ ] Make a standardized documentation format #ARIS #Documentation
+- [ ] Implement [[Nautilus scripts]] #agent 
 
 
 # This week
@@ -91,7 +93,7 @@ sort by description
 not done
 
 # Tags including
-tag includes #waiting 
+tag includes #agent 
 
 # Restrict to at most 100 tasks.
 limit 100

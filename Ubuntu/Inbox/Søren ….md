@@ -1,21 +1,23 @@
 ---
-created: 2026-06-13
+id: p-20260615202628
+type: person
 tags:
   - person
-source:
+  - sviger
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
-relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+  - 
+relationship: family
+birthday:
+address:
+phone:
+email:
+profession:
+created: 2026-06-15
+partner: "[[Tina …]]"
+parents:
+siblings:
 ---
-# Mathias Jensen
+# Søren
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -38,11 +40,11 @@ partner: "[[Cecilie Veidiksen]]"
   ---
   
 ## Updates
-- 
-
+2026-06-13
+- Arbejder i et firma og har en kunde/ kollega der brugte claude code
 ## Timeline
+- 2026-06-13. Var med til [[Rock Under Broen]] brunch. 
 - 
-
 ---
 ## Related Notes
 

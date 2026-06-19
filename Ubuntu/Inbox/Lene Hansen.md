@@ -1,21 +1,24 @@
 ---
-created: 2026-06-13
+id: p-20260617203812
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
-relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+  - Mor
+relationship: family
+birthday: 1962-06-17
+address: Hegensgårdsvej 38, 7120, Vejle Ø
+phone: +45 23 39 68 81
+email: hanle@mail.dk
+created: 2026-06-17
+partner: "[[Claus Petersen]]"
+profession:
+parents:
+siblings:
+children:
+  - "[[Andreas Pommerencke]]"
 ---
-# Mathias Jensen
+# Lene Hansen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

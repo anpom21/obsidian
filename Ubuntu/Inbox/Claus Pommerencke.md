@@ -1,21 +1,25 @@
 ---
-created: 2026-06-13
+id: p-20260617204123
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
-relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+  - Far
+  - Daddy cool
+relationship: family
+birthday: 1957-10-16
+address: Katrinelund 3, Vejle Ø, 7120
+phone: +45 21 26 00 02
+email: cpepost@gmail.com
+created: 2026-06-17
+partner:
+profession:
+parents:
+siblings:
+children:
+  - "[[Andreas Pommerencke]]"
 ---
-# Mathias Jensen
+# Claus Pommerencke
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

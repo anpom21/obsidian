@@ -3,7 +3,7 @@
   "attachmentFolderPath": "Archive/attachments",
   "newFileLocation": "folder",
   "newFileFolderPath": "Inbox",
-  "openBehavior": "daily",
+  "openBehavior": "file:Weekly note",
   "trashOption": "local",
   "pdfExportSettings": {
     "pageSize": "Letter",

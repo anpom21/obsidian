@@ -1,21 +1,28 @@
 ---
-created: 2026-06-13
+id: p-20260617204447
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
-relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+  - farmor
+relationship: family
+birthday:
+address: Strandaleen 63
+phone:
+email:
+profession:
+created: 2026-06-17
+partner: "[[Ole Pommerencke]]"
+parents:
+siblings:
+children:
+  - "[[Karen-Louise Pommerencke|KL]]"
+  - "[[Claus Pommerencke|Far]]"
+  - "[[Stig Pommerencke]]"
+  - "[[Annette Pommerencke]]"
+  - "[[Charlotte Pommerencke]]"
 ---
-# Mathias Jensen
+# Birthe Pommerencke
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

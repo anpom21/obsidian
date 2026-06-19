@@ -1,21 +1,19 @@
 ---
-created: 2026-06-13
+id: p-20260617215127
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
+  - Prip
 relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+birthday: 2000-03-19
+address: Villestoftehegnet 124, 5210 Odense, Danmark
+phone: +45 29 92 88 41
+email:
+created: 2026-06-17
+partner: "[[Julie Shulz Prip]]"
 ---
-# Mathias Jensen
+# Nikolai Schulz Prip
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

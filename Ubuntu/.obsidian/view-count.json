@@ -966,19 +966,6 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-11 - Johan Egtved Nissen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205386133
-        },
-        {
-          "timestampMillis": 1781207474108
-        }
-      ]
-    },
-    {
       "path": "Inbox/Mathias Jensen.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
@@ -991,61 +978,6 @@
         },
         {
           "timestampMillis": 1781245676223
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Nicklas Nikolaj Grønvall.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205444950
-        },
-        {
-          "timestampMillis": 1781206664072
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Nikolai Prip.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205451689
-        },
-        {
-          "timestampMillis": 1781206664350
-        },
-        {
-          "timestampMillis": 1781206952902
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Markus Simonsen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205480527
-        },
-        {
-          "timestampMillis": 1781245674957
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Maja Abrahamsen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205489285
-        },
-        {
-          "timestampMillis": 1781245674472
         }
       ]
     },
@@ -1065,19 +997,6 @@
         },
         {
           "timestampMillis": 1781245674077
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Kristoffer Jensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205505057
-        },
-        {
-          "timestampMillis": 1781205772360
         }
       ]
     },
@@ -1426,6 +1345,29 @@
         },
         {
           "timestampMillis": 1781383402567
+        }
+      ]
+    },
+    {
+      "path": "Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1781852090080
+        },
+        {
+          "timestampMillis": 1781852090375
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-19.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1781852122563
         }
       ]
     }

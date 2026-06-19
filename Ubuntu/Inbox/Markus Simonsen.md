@@ -1,21 +1,21 @@
 ---
-created: 2026-06-13
+created: 2026-06-17
 tags:
   - person
 source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
+  - Markus
+  - 
+id: p-20260617214551
 type: person
 relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+birthday: 2001-04-25
+address:
+phone: +45 30 27 38 10
+email:
+partner: "[[Maja Abrahamsen]]"
 ---
-# Mathias Jensen
+# Markus Simonsen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -51,4 +51,21 @@ TABLE file.mtime AS Updated
 FROM [[]]
 WHERE file.name != this.file.name
 SORT file.mtime DESC
-```
+```---
+created: 2026-06-17
+tags:
+  - person
+source:
+aliases:
+  - Markus
+  - 
+id: p-20260617214528
+type: person
+relationship: friend
+birthday: 2001-04-25
+address:
+phone: +45 30 27 38 10
+email:
+partner:
+---
+

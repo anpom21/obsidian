@@ -1,25 +1,20 @@
 ---
-created: 2026-06-13
+id: p-20260619085451
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
+  - 
 relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+birthday:
+address:
+phone:
+email:
+created: 2026-06-19
+partner:
 ---
-# Mathias Jensen
+# person - basic (iphone)
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  

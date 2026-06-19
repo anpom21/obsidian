@@ -1,21 +1,20 @@
 ---
-created: 2026-06-13
+created: 2026-06-17
 tags:
   - person
 source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
+  - Kristoffer
+id: p-20260617215701
 type: person
 relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+birthday:
+address:
+phone:
+email:
+partner:
 ---
-# Mathias Jensen
+# Kristoffer Kranker Jensen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`
@@ -51,4 +50,20 @@ TABLE file.mtime AS Updated
 FROM [[]]
 WHERE file.name != this.file.name
 SORT file.mtime DESC
-```
+```---
+created: 2026-06-17
+tags:
+  - person
+source:
+aliases:
+  - 
+id: p-20260617215636
+type: person
+relationship: friend
+birthday:
+address:
+phone:
+email:
+partner:
+---
+

@@ -79,17 +79,3 @@ if (tasks.length === 0) {
 ```
 
 ---
-
-## Weekly reflection
-
-### Wins
-- Snakket om løn - bare det at gøre det var fedt.
-- Anders var fan af mit arbejde
-- Emma er bare for dejlig
-
-
-### Problems / blockers
-
-### Follow-ups
-
-### Priorities for the next 7 days

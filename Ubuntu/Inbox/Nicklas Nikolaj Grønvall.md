@@ -1,25 +1,21 @@
 ---
-created: 2026-06-13
+id: p-20260617215336
+type: person
 tags:
   - person
-source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
-type: person
+  - Nicklas
+  - Sniels
 relationship: friend
-birthday: 2000-10-12
-address: 
-phone: "+4551412012"
-email: 
-partner: "[[Cecilie Veidiksen]]"
+birthday:
+address: Jens Benzons Gade 54C, 1.1, 5000 Odense, Danmark
+phone: 22 80 82 21
+email:
+created: 2026-06-17
+partner:
 ---
-# Mathias Jensen
+# Nicklas Nikolaj Grønvall
 ## Details 
-> [!info]- Nuværende alder: 
-> `=date(today)-date(this.birthday)`
-
 > [!info]- Family  
 > - Partner:  
 > - Parents:  
