@@ -1360,7 +1360,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1370,13 +1370,19 @@
         },
         {
           "timestampMillis": 1781855102634
+        },
+        {
+          "timestampMillis": 1781855478577
+        },
+        {
+          "timestampMillis": 1781855582152
         }
       ]
     },
     {
       "path": "Daily/2026-06-19.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1781852122563
@@ -1398,6 +1404,12 @@
         },
         {
           "timestampMillis": 1781855114323
+        },
+        {
+          "timestampMillis": 1781855489792
+        },
+        {
+          "timestampMillis": 1781855596125
         }
       ]
     }
