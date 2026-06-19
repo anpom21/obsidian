@@ -78,9 +78,33 @@
               "icon": "lucide-file",
               "title": "Tasks"
             }
+          },
+          {
+            "id": "efb41850f788a73e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-06-19.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-06-19"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -164,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +198,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks"
+              "title": "Backlinks for 2026-06-19"
             }
           },
           {
@@ -183,12 +207,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasks"
+              "title": "Outgoing links from 2026-06-19"
             }
           },
           {
@@ -212,13 +236,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasks"
+              "title": "Outline of 2026-06-19"
             }
           },
           {
@@ -264,13 +288,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0729710d54e6838",
+  "active": "efb41850f788a73e",
   "lastOpenFiles": [
+    "Tasks.md",
     "Daily/2026-06-19.md",
     "Daily/2026-06-12.md",
     "Inbox/W24.md",
     "Daily/2026-06-14.md",
-    "Tasks.md",
     "Daily/2026-06-18.md",
     "Inbox/Nautilus scripts.md",
     "Inbox/Kristoffer Kranker Jensen.md",
