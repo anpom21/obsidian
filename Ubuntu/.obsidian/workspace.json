@@ -207,28 +207,18 @@
             }
           },
           {
-            "id": "d818cd2518ee6e53",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "3a5774c537f23144",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+                "file": "Daily/2026-06-19.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Meeting - 11.00 2026-06-03 15.58.49.excalidraw"
+              "title": "Outline of 2026-06-19"
             }
           },
           {
@@ -274,7 +264,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "e0729710d54e6838",
+  "active": "3a5774c537f23144",
   "lastOpenFiles": [
     "Tasks.md",
     "Daily/2026-06-19.md",
