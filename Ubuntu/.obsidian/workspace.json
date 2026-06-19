@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SSH.md",
+                "file": "Daily/2026-06-19.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for SSH"
+              "title": "Backlinks for 2026-06-19"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "file": "Daily/2026-06-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from HomeLab - Getting Started"
+              "title": "Outgoing links from 2026-06-19"
             }
           },
           {
@@ -242,11 +242,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 458.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,10 +264,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3a5774c537f23144",
+  "active": "e0729710d54e6838",
   "lastOpenFiles": [
-    "Tasks.md",
+    "Daily/2026-06-12.md",
     "Daily/2026-06-19.md",
+    "Inbox/W24.md",
+    "Daily/2026-06-14.md",
+    "Tasks.md",
     "Daily/2026-06-18.md",
     "Inbox/Nautilus scripts.md",
     "Inbox/Kristoffer Kranker Jensen.md",
@@ -289,9 +292,6 @@
     "Inbox/Tina ….md",
     "Inbox/Søren ….md",
     "Daily/2026-06-15.md",
-    "Inbox/Chris Sejerskilde.md",
-    "Templates/person - basic (iphone).md",
-    "Daily/2026-06-14.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
