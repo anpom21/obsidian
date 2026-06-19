@@ -1360,13 +1360,16 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
         },
         {
           "timestampMillis": 1781852090375
+        },
+        {
+          "timestampMillis": 1781855102634
         }
       ]
     },

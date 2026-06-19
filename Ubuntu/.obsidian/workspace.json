@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-19.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-19"
+              "title": "Tasks"
             }
           }
         ],
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-06-19.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-06-19"
+              "title": "Backlinks for Tasks"
             }
           },
           {
@@ -183,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-06-19.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-06-19"
+              "title": "Outgoing links from Tasks"
             }
           },
           {
@@ -212,13 +212,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily/2026-06-19.md",
+                "file": "Tasks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-06-19"
+              "title": "Outline of Tasks"
             }
           },
           {
@@ -266,8 +266,8 @@
   },
   "active": "e0729710d54e6838",
   "lastOpenFiles": [
-    "Daily/2026-06-12.md",
     "Daily/2026-06-19.md",
+    "Daily/2026-06-12.md",
     "Inbox/W24.md",
     "Daily/2026-06-14.md",
     "Tasks.md",
