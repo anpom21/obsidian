@@ -8,6 +8,9 @@ GitHub:
 Notion:
 path:
 ---
+# Info
+Stena recylcing
+	-  Aftager affald fra genbrugs station
 ## Ideas
 
 # [[Tasks]]

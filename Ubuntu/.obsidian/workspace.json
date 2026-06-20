@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-19.md",
+                "file": "Weekly note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-19"
+              "title": "Weekly note"
             }
           }
         ],
@@ -220,7 +220,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 667.5
+    "width": 307.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -338,8 +338,15 @@
   },
   "active": "1bdff7dcc5295ab3",
   "lastOpenFiles": [
-    "Tasks.md",
     "Daily/2026-06-19.md",
+    "Weekly note.md",
+    "Inbox/Emma Malm.md",
+    "Inbox/Amelia Bloch Sønstebø.md",
+    "Inbox/Mark Staunsager.md",
+    "Daily/2026-06-20.md",
+    "Inbox/amalie.md",
+    "Inbox/Obsidian Sync Reminder Server Setup.md",
+    "Tasks.md",
     "Daily/2026-06-12.md",
     "Inbox/W24.md",
     "Daily/2026-06-14.md",
@@ -357,13 +364,6 @@
     "Inbox/Johan Egtved Nissen.md",
     "Inbox/Unavngivet.md",
     "Inbox/Birthe Pommerencke.md",
-    "Inbox/Karen-Louise Pommerencke.md",
-    "Inbox/Claus Pommerencke.md",
-    "Inbox/Lene Hansen.md",
-    "Daily/2026-06-16.md",
-    "Inbox/Tina ….md",
-    "Inbox/Søren ….md",
-    "Daily/2026-06-15.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",

@@ -117,7 +117,7 @@ cs.store(name="config", node=Config)
 }
 ```
 # [[Tasks]]
-- [ ] Grill session with thesis config and current classification setup
+- [x] Grill session with thesis config and current classification setup ✅ 2026-06-19
 - [ ] Implement data handling in configs
 - [ ] Implement new config management
 - [ ] Test old method, and new method and ensure similar results are obtained
