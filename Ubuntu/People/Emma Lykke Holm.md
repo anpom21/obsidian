@@ -69,6 +69,7 @@ Så 1 v 27 år, 1 v 30 år, 1 v 32 år (drømmescenariet)
 - Stray til switch
 - Elsker labubu ting
 - Push present skanning af hende til statue
+- Great nothern
 
 ## Related Notes
 
