@@ -62,13 +62,13 @@ Så 1 v 27 år, 1 v 30 år, 1 v 32 år (drømmescenariet)
 
 - 2025-09-03 18:06 
 “Ja du har helt ret”
-
-
   
 ### Gift ideas
 - Maler: Werner Bronkhorst
-- 
-
+- cd spiller
+- Stray til switch
+- Elsker labubu ting
+- Push present skanning af hende til statue
 
 ## Related Notes
 

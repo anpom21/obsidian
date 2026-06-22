@@ -1031,8 +1031,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 24,
       "openLogs": [
         {
           "timestampMillis": 1781206142861
@@ -1102,6 +1102,9 @@
         },
         {
           "timestampMillis": 1781947614834
+        },
+        {
+          "timestampMillis": 1782146375635
         }
       ]
     },
