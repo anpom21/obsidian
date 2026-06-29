@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-06-30.md",
+                "file": "Daily/2026-07-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-30"
+              "title": "2026-07-01"
             }
           }
         ],
@@ -338,8 +338,8 @@
   },
   "active": "1bdff7dcc5295ab3",
   "lastOpenFiles": [
-    "Daily/2026-06-29.md",
     "Daily/2026-06-30.md",
+    "Daily/2026-06-29.md",
     "Weekly note.md",
     "Daily/2026-06-28.md",
     "Daily/2026-06-23.md",
