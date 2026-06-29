@@ -133,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Daily/2026-06-30.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +148,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly note"
+              "title": "2026-06-30"
             }
           }
         ],
@@ -338,13 +338,24 @@
   },
   "active": "1bdff7dcc5295ab3",
   "lastOpenFiles": [
+    "Daily/2026-06-29.md",
+    "Daily/2026-06-30.md",
+    "Weekly note.md",
+    "Daily/2026-06-28.md",
+    "Daily/2026-06-23.md",
+    "Daily/2026-06-26.md",
+    "Daily/2026-06-24.md",
+    "Daily/2026-06-27.md",
+    "Inbox/Jernpande.md",
+    "Archive/attachments/IMG_3998.jpeg",
+    "Daily/2026-07-01.md",
+    "Inbox/ARIS Fuldtids Kontrakt.md",
     "Inbox/Unavngivet 3.md",
     "Daily/2026-06-22.md",
     "Inbox/Rasmus Heide.md",
     "Inbox/Emma.md",
     "Daily/2026-06-21.md",
     "Daily/2026-06-19.md",
-    "Weekly note.md",
     "Inbox/Emma Malm.md",
     "Inbox/Amelia Bloch Sønstebø.md",
     "Inbox/Mark Staunsager.md",
@@ -354,16 +365,6 @@
     "Tasks.md",
     "Daily/2026-06-12.md",
     "Inbox/W24.md",
-    "Daily/2026-06-14.md",
-    "Daily/2026-06-18.md",
-    "Inbox/Nautilus scripts.md",
-    "Inbox/Kristoffer Kranker Jensen.md",
-    "Inbox/Nicklas Nikolaj Grønvall.md",
-    "Inbox/Unavngivet 2.md",
-    "Daily/2026-06-17.md",
-    "Inbox/Nikolai Schulz Prip.md",
-    "Inbox/NNikolai Prip.md",
-    "Inbox/Unavngivet 1.md",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
     "Archive/attachments/bitmap.png",
@@ -383,7 +384,6 @@
     "Areas/Robrådet/copy/docs/template-event-registration-folder-overview.png",
     "Areas/Robrådet/copy/docs/sheets-url-sheet-id-and-tab-id.png",
     "Areas/Robrådet/copy/docs/sheets-registration-response-example.png",
-    "Areas/Robrådet/copy/docs/sheets-paid-and-email-sent-columns.png",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

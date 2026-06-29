@@ -53,6 +53,7 @@ created: 2026-06-07
 > - Farve: Lilla?
 > - Books/Movies:  Off campus
 > - Perfume: Zarko Perfume One Molecule
+> - Is: Isbåd
   
 
 ## Updates
@@ -70,6 +71,13 @@ Så 1 v 27 år, 1 v 30 år, 1 v 32 år (drømmescenariet)
 - Elsker labubu ting
 - Push present skanning af hende til statue
 - Great nothern
+
+## Citat
+- Jeg er ikke engang gået i spurt #citat
+- Hvis jeg kan løbe en km på 6 min så kan jeg gå den på 7 #citat 
+
+## Remember
+- Første date: Emma havde grønt top på
 
 ## Related Notes
 

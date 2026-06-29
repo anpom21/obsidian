@@ -8,6 +8,17 @@ GitHub:
 Notion:
 path:
 ---
+# [[Tasks]]
+- [x] Grill session with thesis config and current classification setup ✅ 2026-06-19
+- [ ] Implement data handling in configs
+- [ ] Implement new config management
+- [ ] Test old method, and new method and ensure similar results are obtained
+- [ ] Setup notion table which can be manually written to in the beginning
+- [ ] Change the output structure to also include a tag instead of just a date
+- [ ] Rename `default_real_roots` to `default_real_directories`
+- [ ] Add a check that validates the input size of the images so they are equal to the desired dimensions. Make them fail fast so the fail wont occur at training time. Display a warning if the im
+- [ ] When a model has finished training it should rename the run name of the folder to `trained_<run_folder_name>`  or `evaluated_<run_folder_name` to easily sort through the untrained, trained and evaluated runs. To be renamed to evaluated the run should also be uploaded to the [[Evaluation tracking]]. 
+- [ ] Implement efficientnet, objectdetection (YOLO), segmentation model
 ## Ideas
 - Use hydra to organize configs
 - Use tensorboard to write logging messages
@@ -116,11 +127,5 @@ cs.store(name="config", node=Config)
 	dataset_file: "2026-05-03T16-53-23",
 }
 ```
-# [[Tasks]]
-- [x] Grill session with thesis config and current classification setup ✅ 2026-06-19
-- [ ] Implement data handling in configs
-- [ ] Implement new config management
-- [ ] Test old method, and new method and ensure similar results are obtained
-- [ ] Setup notion table which can be manually written to in the beginning
-- [ ] 
+
 ## Agent description

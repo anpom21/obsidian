@@ -9,7 +9,7 @@ id: p-20260613091105
 type: person
 relationship: friend
 birthday: 2000-06-29
-address:
+address: Rugårdsvej 24, 2tv.
 phone:
 email:
 partner: "[[Mathias Jensen]]"

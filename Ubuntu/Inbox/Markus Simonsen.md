@@ -38,11 +38,12 @@ partner: "[[Maja Abrahamsen]]"
   ---
   
 ## Updates
-- 
+- Starter arbejde 1. August
 
 ## Timeline
 - 
 
+- [ ] Ski tur i kbh i juli🔼 
 ---
 ## Related Notes
 

@@ -10,9 +10,9 @@ id: p-20260613090447
 type: person
 relationship: friend
 birthday: 2000-10-12
-address: 
+address: Rugårdsvej 24, 2tv.
 phone: "+4551412012"
-email: 
+email:
 partner: "[[Cecilie Veidiksen]]"
 ---
 # Mathias Jensen
