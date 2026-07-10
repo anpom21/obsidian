@@ -10,7 +10,7 @@ aliases:
 ## Connect python to Notion API
 ### Create a Personal Access Token (PAT)
 Follow the [official Notion documentation](https://developers.notion.com/guides/get-started/personal-access-tokens#create-a-pat) to create a PAT.
-Should be something like `ntn_238637256376YodMWs1XBVsRzUovvxLOdaLNlZFy33P`
+Should be something like `ntn_238637256376YodMWs1XBVsRzUovvxLOdaLNlZFy33`
 ### Fetch Database ID
 
 From the [official Notion documentation](https://developers.notion.com/reference/retrieve-database):

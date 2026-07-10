@@ -1375,7 +1375,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 7,
+      "totalTimesOpened": 9,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1397,6 +1397,12 @@
         },
         {
           "timestampMillis": 1783683249659
+        },
+        {
+          "timestampMillis": 1783683744882
+        },
+        {
+          "timestampMillis": 1783684209519
         }
       ]
     },
@@ -1459,31 +1465,139 @@
     },
     {
       "path": "Daily/2026-07-01.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1782714906522
+        },
+        {
+          "timestampMillis": 1783684728053
         }
       ]
     },
     {
       "path": "Daily/2026-06-22.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1783683504816
+        },
+        {
+          "timestampMillis": 1783683743754
         }
       ]
     },
     {
       "path": "Inbox/Asger Wendel Tilma.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1783683529040
+        },
+        {
+          "timestampMillis": 1783683585936
+        },
+        {
+          "timestampMillis": 1783683743621
+        }
+      ]
+    },
+    {
+      "path": "ARIS/The Training Bible.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1783684323531
+        },
+        {
+          "timestampMillis": 1783684415748
+        },
+        {
+          "timestampMillis": 1783684422824
+        },
+        {
+          "timestampMillis": 1783684436294
+        },
+        {
+          "timestampMillis": 1783684448420
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Evaluation.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1783684339552
+        },
+        {
+          "timestampMillis": 1783684447161
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-07-08.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1783684523941
+        },
+        {
+          "timestampMillis": 1783685772509
+        },
+        {
+          "timestampMillis": 1783685945780
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-07-10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1783684543714
+        },
+        {
+          "timestampMillis": 1783684712129
+        },
+        {
+          "timestampMillis": 1783684782099
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Notion API.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1783685570169
+        },
+        {
+          "timestampMillis": 1783685936385
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-02.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1783685755525
+        },
+        {
+          "timestampMillis": 1783685836086
+        },
+        {
+          "timestampMillis": 1783685930000
         }
       ]
     }
