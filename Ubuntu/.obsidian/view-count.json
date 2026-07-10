@@ -1543,7 +1543,7 @@
     {
       "path": "Daily/2026-07-08.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1783684523941
@@ -1556,6 +1556,9 @@
         },
         {
           "timestampMillis": 1783686226509
+        },
+        {
+          "timestampMillis": 1783686322188
         }
       ]
     },
@@ -1601,6 +1604,16 @@
         },
         {
           "timestampMillis": 1783685930000
+        }
+      ]
+    },
+    {
+      "path": "conflict-files-obsidian-git.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1783686318285
         }
       ]
     }
