@@ -3,6 +3,7 @@ id: p-20260609222743
 type: person
 tags:
   - person
+  - sviger
 aliases:
   - Thomas
 relationship: family

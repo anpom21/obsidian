@@ -5,6 +5,7 @@ tags:
   - person
 aliases:
   - KL
+  - Karen-Louise
 relationship: family
 birthday:
 address: Strandaleen 63

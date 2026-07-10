@@ -3,6 +3,7 @@ id: p-20260609201053
 type: person
 tags:
   - person
+  - sviger
 aliases:
   - Bent
 relationship: family
@@ -12,13 +13,13 @@ phone:
 email:
 profession: Pensionist (Bankrådgiver)
 created: 2026-06-07
-partner: "[[Mai Holm?|Mai]]"
+partner: "[[Mai Holm]]"
 parents:
 siblings:
 children:
-  - "[[Peter Holm?]]"
+  - "[[Peter Holm]]"
   - "[[Helle Holm]]"
-  - "[[Lykke Holm?]]"
+  - "[[Lykke Holm]]"
 ---
 # Bent Holm?
 ## Details 

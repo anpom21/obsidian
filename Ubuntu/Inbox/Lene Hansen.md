@@ -41,7 +41,7 @@ children:
   ---
   
 ## Updates
-- 
+- Vil gerne give tilskud til vielse
 
 ## Timeline
 - 

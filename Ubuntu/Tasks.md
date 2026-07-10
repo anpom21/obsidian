@@ -28,6 +28,10 @@ aliases:
 - [ ] [[Image sorter]]
 - [ ] Make a standardized documentation format #ARIS #Documentation
 - [ ] Implement [[Nautilus scripts]] #agent 
+- [ ] Dangerous waste project. Configure WADE display for new and more buttons. 🔼 
+
+
+
 
 
 # This week

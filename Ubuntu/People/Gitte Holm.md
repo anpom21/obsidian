@@ -3,6 +3,7 @@ id: p-20260607214802
 type: person
 tags:
   - person
+  - sviger
 aliases:
   - Gitte
 relationship: family

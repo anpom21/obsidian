@@ -1374,8 +1374,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1391,6 +1391,12 @@
         },
         {
           "timestampMillis": 1781855582152
+        },
+        {
+          "timestampMillis": 1783683249376
+        },
+        {
+          "timestampMillis": 1783683249659
         }
       ]
     },
@@ -1458,6 +1464,26 @@
       "openLogs": [
         {
           "timestampMillis": 1782714906522
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-06-22.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1783683504816
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Asger Wendel Tilma.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1783683529040
         }
       ]
     }

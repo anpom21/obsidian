@@ -3,6 +3,7 @@ id: p-20260609202759
 type: person
 tags:
   - person
+  - sviger
 aliases:
   - Helle
 relationship: family

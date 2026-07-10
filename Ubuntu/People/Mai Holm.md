@@ -3,6 +3,7 @@ id: p-20260609201814
 type: person
 tags:
   - person
+  - sviger
 aliases:
   - Mai
 relationship: family
