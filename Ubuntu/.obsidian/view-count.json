@@ -1199,8 +1199,8 @@
     },
     {
       "path": "Inbox/W24.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 20,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1781206957068
@@ -1261,6 +1261,9 @@
         },
         {
           "timestampMillis": 1781852776830
+        },
+        {
+          "timestampMillis": 1783686542009
         }
       ]
     },
@@ -1349,8 +1352,8 @@
     },
     {
       "path": "Daily/2026-06-14.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1781366825997
@@ -1369,13 +1372,16 @@
         },
         {
           "timestampMillis": 1781852775700
+        },
+        {
+          "timestampMillis": 1783686541299
         }
       ]
     },
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 9,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1403,6 +1409,12 @@
         },
         {
           "timestampMillis": 1783684209519
+        },
+        {
+          "timestampMillis": 1783686539140
+        },
+        {
+          "timestampMillis": 1783686540523
         }
       ]
     },
@@ -1565,7 +1577,7 @@
     {
       "path": "Daily/2026-07-10.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1783684543714
@@ -1575,6 +1587,9 @@
         },
         {
           "timestampMillis": 1783684782099
+        },
+        {
+          "timestampMillis": 1783686589524
         }
       ]
     },
@@ -1614,16 +1629,6 @@
       "openLogs": [
         {
           "timestampMillis": 1783686318285
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Notion API.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1783685570169
         }
       ]
     }

@@ -13,31 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/W24.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "W24"
-            }
-          },
-          {
-            "id": "5bbf0ad3e34c0757",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-06-14.md",
+                "file": "Daily/2026-07-10.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,83 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-06-14"
-            }
-          },
-          {
-            "id": "e0729710d54e6838",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "efb41850f788a73e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "79e91423def5a1cd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-07-08.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-07-08"
+              "title": "2026-07-10"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-07-08.md",
+                "file": "Daily/2026-07-10.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-08"
+              "title": "Backlinks for 2026-07-10"
             }
           },
           {
@@ -230,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-07-08.md",
+                "file": "Daily/2026-07-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-08"
+              "title": "Outgoing links from 2026-07-10"
             }
           },
           {
@@ -311,10 +214,13 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "79e91423def5a1cd",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Inbox/W24.md",
+    "Daily/2026-06-14.md",
+    "Tasks.md",
     "Daily/2026-07-08.md",
+    "conflict-files-obsidian-git.md",
     "Projects/Context Builder.md",
     "Inbox/Verdensbaletten 2026.md",
     "Daily/2026-08-02.md",
@@ -328,7 +234,6 @@
     "ARIS/The Training Bible.md",
     "ARIS/Evaluation.md",
     "ARIS/The Training Bible 1.md",
-    "Tasks.md",
     "Inbox/Unavngivet 4.md",
     "Daily/2026-06-22.md",
     "Inbox/Asger Wendel Tilma.md",
@@ -348,8 +253,6 @@
     "The Training Bible/image.png.md",
     "The Training Bible",
     "Daily/2026-07-06.md",
-    "Daily/2026-07-05.md",
-    "Inbox/Peter Holm.md",
     "Excalidraw",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
