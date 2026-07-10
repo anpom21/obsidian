@@ -1,72 +1,46 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD") %>
+type: person
 tags:
   - person
-source:
 aliases:
-  - 
-id: p-<% tp.date.now("YYYYMMDDHHmmss") %>
-type: person
+  - Asger
 relationship: friend
-birthday:
-anniversary:
-partner:
-children: []
-parents: []
-siblings: []
-location:
+birthday: 2000-07-12
+address:
 phone:
 email:
-company:
-role:
-linkedin:
-last_seen:
-last_contact:
-next_followup:
+created: 2026-07-10
+partner: "[[Liv ...]]"
 ---
+# Asger Wendel Tilma
+## Details 
+> [!info]- Nuværende alder: 
+> `=date(today)-date(this.birthday)`
 
-# <% tp.file.title %>
-
-## Snapshot  
-- How we met:  
-- Known since:  
-- Personality:  
-- Interests:  
-  
-## Details  
 > [!info]- Family  
 > - Partner:  
-> - Kids:  
 > - Parents:  
 > - Siblings:  
-  
-> [!info]- Work / Professional Context  
-> - Company:  
-> - Role:  
-> - Current projects:  
   
 > [!info]- Favorites  
 > - Food:  
 > - Drinks:  
 > - Hobbies:  
 > - Books/Movies:  
-  
-## Personal Context  
-%% fold %%  
-  
-### Current Challenges  
--  
-  
-### Current Goals  
--  
-  
-### Important Life Events  
--  
-  
-### Things They Care About  
--
+> - Interests: 
 
+> [!info]- Notes  
+> - Allergies:  
+> - ....
+  ---
+  
+## Updates
+- 
 
+## Timeline
+- 
+
+---
 ## Related Notes
 
 ```dataview
