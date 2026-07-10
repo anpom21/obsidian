@@ -1,3 +1,28 @@
+---
+created: 2026-06-09
+tags:
+  - ARIS
+  - Documentation
+source:
+aliases:
+---
+**TODO:**
+
+
+- [ ] Make `class_separation.py` more robust to manual `train/` and `val/` folders
+- [ ]  Look through classification
+- [ ]  Test all christians helper scripts and make them robust
+- [ ]  Make evaluation documentation
+- [ ]  Clean up training documentation
+- [ ]  Synthetics:
+    - [ ]  Make proper logging warning printouts visible
+Idea:
+- [ ]  Have 2 of each of the main repositories (Annotations, Synthetics, Classification)
+    - [ ]  One for development, where mistakes doesn’t matter much
+    - [ ]  One for production that is guaranteed to work.
+- [ ]  Tensorboard/ training monitoring
+
+---
 # The Training Bible
 
 The Training Bible is a complete guide that takes you from newly collected data to a specialized classification model. It's organized into different repositories for each step of the process. For each step, the relevant repository is linked along with helpful scripts for organizing and preparing your data.
