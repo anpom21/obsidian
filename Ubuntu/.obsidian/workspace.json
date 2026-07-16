@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-07-10.md",
+                "file": "Weekly note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-10"
+              "title": "Weekly note"
             }
           }
         ]
@@ -133,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-07-10.md",
+                "file": "Weekly note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-10"
+              "title": "Outgoing links from Weekly note"
             }
           },
           {
@@ -216,6 +216,10 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Archive/attachments/att.HNBfQXnB7Nttn-61HIIchAS0K-zEfe_BlHEMSXkZxZI.jpeg",
+    "Archive/attachments/att.TPQfy6TpwOFtgn-8WV1V3wfztCkvVrBD1i12vBg7h1o.jpeg",
+    "Inbox/Emma sommer arbejde.md",
+    "Inbox/Unavngivet 4.md",
     "Inbox/W24.md",
     "Daily/2026-06-14.md",
     "Tasks.md",
@@ -234,7 +238,6 @@
     "ARIS/The Training Bible.md",
     "ARIS/Evaluation.md",
     "ARIS/The Training Bible 1.md",
-    "Inbox/Unavngivet 4.md",
     "Daily/2026-06-22.md",
     "Inbox/Asger Wendel Tilma.md",
     "Daily/2026-07-09.md",
@@ -249,10 +252,7 @@
     "Inbox/Claus Petersen.md",
     "Archive/attachments/image 1.png",
     "Archive/attachments/image 2.png",
-    "Archive/attachments/image 3.png",
-    "The Training Bible/image.png.md",
     "The Training Bible",
-    "Daily/2026-07-06.md",
     "Excalidraw",
     "References/UNI/MasterThesisCasperAndreas.pdf",
     "People",
