@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "07-08",
+                "query": "kontrakt",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -214,8 +214,12 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "8cf9f3420477a1a0",
   "lastOpenFiles": [
+    "Daily/2026-07-10.md",
+    "Weekly note.md",
+    "Archive/attachments/Anættelsesaftale - Fuldtid - Andreas Pommerencke_cje_underskrevet.pdf",
+    "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
     "Daily/2026-07-15.md",
     "Inbox/Coding standard.md",
     "Inbox/Logging.md",
@@ -246,9 +250,6 @@
     "Inbox/Emma sommer arbejde.md",
     "Inbox/Unavngivet 4.md",
     "Inbox/W24.md",
-    "Daily/2026-06-14.md",
-    "Tasks.md",
-    "Daily/2026-07-08.md",
     "Archive/attachments/Pasted image 20260710134831.png",
     "Archive/attachments/Pasted image 20260710134817.png",
     "Archive/attachments/Pasted image 20260709104350.png",
@@ -261,7 +262,6 @@
     "test.json",
     "Clippings",
     "performance_metrics",
-    "meetings.base",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
