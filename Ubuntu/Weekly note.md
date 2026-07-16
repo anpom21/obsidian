@@ -3,13 +3,12 @@ tags:
   - dashboard
   - weekly
   - rolling-review
-created: 11-06-2026
+  - weekly-review
+created: 2026-07-12 15
+week_start: 2026-07-06
+week_end: 2026-07-12
 ---
 
-# Rolling Weekly Dashboard
-> Rolling overview of the last 7 daily notes.
-
----
 
 ## Last 7 daily notes
 

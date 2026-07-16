@@ -5,7 +5,7 @@ tags:
 source:
 aliases:
 ---
-- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
+n0- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
 - [x] train new low res model with normal mineral wool as testing data ✅ 2026-06-04
 - [x] work on excalidraw ✅ 2026-06-19
 - [x]  ✅ 2026-06-19
@@ -29,6 +29,7 @@ aliases:
 - [ ] Make a standardized documentation format #ARIS #Documentation
 - [ ] Implement [[Nautilus scripts]] #agent 
 - [ ] Dangerous waste project. Configure WADE display for new and more buttons. 🔼 
+- [ ] Handle secret API keys correctly ⏫  [[Evaluation tracking]] (Notion API, firebase upload, calculate cm performance)
 
 
 

@@ -11,5 +11,8 @@ path:
 ## Ideas
 
 # [[Tasks]]
+- [ ] [[Evaluation]] showing misclassifications. Add groundtruth label and model confidence for each category. 
+- [ ] Fix [[Evaluation]] script so when the training script auto runs it, the **misclassifications** are generated correctly ⏫ 
+- [ ] 
 
 ## Agent description

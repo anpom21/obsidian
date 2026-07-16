@@ -7,7 +7,7 @@ aliases:
   - Nicklas
   - Sniels
 relationship: friend
-birthday:
+birthday: 1998-10-28
 address: Jens Benzons Gade 54C, 1.1, 5000 Odense, Danmark
 phone: 22 80 82 21
 email:

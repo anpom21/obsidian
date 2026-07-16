@@ -25,6 +25,91 @@ path:
 - [ ] Instead of saving the models under weird names, just keep them understandable during training. So instead of `model_resnet18_3.0.1_default0.0.1_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` do like `best-val-acc_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` or `lowest-val-loss_epoch=02_val_loss=1.14_val_acc=0.72.ckpt`
 - [ ] Fix the `_to_namespace` dependency everywhere
 - [ ] `mean` and `std` is hard coded into `previeiw_augmentation()` in `train_model.py` fix that, so i takes the mean and std for a config instead maybe.
+- [ ] Make it possible to pass classes directly in the config like:
+```yaml
+impregnated_wood:
+- impregnated_wood
+- impregnated_wood_painted
+- outdoor_wood
+- outdoor_wood_painted
+- forest_wood
+- fence_outdoor
+- furniture_outdoor
+
+normal_wood:
+- normal_wood
+- wooden_tool_shaft
+- tool_with_wooden_shaft
+- pallet
+- pallet_collar
+- normal_wood_painted
+- furniture
+- furniture_panel  
+
+floor_tile:
+- floor_tile
+
+wood_wool_board:
+- wood_wool_board
+```
+Instead of
+```YAML
+classes:
+impregnated_wood:
+real:
+subcategories:
+- impregnated_wood
+- impregnated_wood_painted
+- outdoor_wood
+- outdoor_wood_painted
+- forest_wood
+- fence_outdoor
+- furniture_outdoor
+synthetic:
+subcategories:
+- impregnated_wood
+- impregnated_wood_painted
+- outdoor_wood
+- outdoor_wood_painted
+- forest_wood
+- fence_outdoor
+- furniture_outdoor
+normal_wood:
+real:
+subcategories:
+- normal_wood
+- wooden_tool_shaft
+- tool_with_wooden_shaft
+- pallet
+- pallet_collar
+- normal_wood_painted
+- furniture
+- furniture_panel
+synthetic:
+subcategories:
+- normal_wood
+- wooden_tool_shaft
+- tool_with_wooden_shaft
+- pallet
+- pallet_collar
+- normal_wood_painted
+- furniture
+- furniture_panel
+floor_tile:
+real:
+subcategories:
+- floor_tile
+synthetic:
+subcategories:
+- floor_tile
+wood_wool_board:
+real:
+subcategories:
+- wood_wool_board
+synthetic:
+subcategories:
+- wood_wool_board
+```
 ## Ideas
 - Use hydra to organize configs
 - Use tensorboard to write logging messages
