@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +28,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly note"
+              "title": "ARIS Fuldtid Ansættelseskontrakt"
+            }
+          },
+          {
+            "id": "88c5341eab50e180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Warrantaftale - ARIS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Warrantaftale - ARIS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,12 +158,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Inbox/Warrantaftale - ARIS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weekly note"
+              "title": "Outgoing links from Warrantaftale - ARIS"
             }
           },
           {
@@ -214,12 +239,16 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "88c5341eab50e180",
   "lastOpenFiles": [
-    "Daily/2026-07-10.md",
-    "Weekly note.md",
-    "Archive/attachments/Anættelsesaftale - Fuldtid - Andreas Pommerencke_cje_underskrevet.pdf",
+    "Archive/attachments/Bilag A - Key Employee Shareholders' Agreement.pdf",
+    "Archive/attachments/Warrantaftale vedr. ARIS Robotics ApS.pdf",
     "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
+    "Inbox/Warrantaftale - ARIS.md",
+    "Inbox/ARIS Fuldtids Kontrakt.md",
+    "Weekly note.md",
+    "Daily/2026-07-10.md",
+    "Archive/attachments/Anættelsesaftale - Fuldtid - Andreas Pommerencke_cje_underskrevet.pdf",
     "Daily/2026-07-15.md",
     "Inbox/Coding standard.md",
     "Inbox/Logging.md",
@@ -247,9 +276,6 @@
     "Inbox/Mor.md",
     "Archive/attachments/att.HNBfQXnB7Nttn-61HIIchAS0K-zEfe_BlHEMSXkZxZI.jpeg",
     "Archive/attachments/att.TPQfy6TpwOFtgn-8WV1V3wfztCkvVrBD1i12vBg7h1o.jpeg",
-    "Inbox/Emma sommer arbejde.md",
-    "Inbox/Unavngivet 4.md",
-    "Inbox/W24.md",
     "Archive/attachments/Pasted image 20260710134831.png",
     "Archive/attachments/Pasted image 20260710134817.png",
     "Archive/attachments/Pasted image 20260709104350.png",
@@ -261,7 +287,6 @@
     "2026",
     "test.json",
     "Clippings",
-    "performance_metrics",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

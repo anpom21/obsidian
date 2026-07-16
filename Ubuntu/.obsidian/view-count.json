@@ -1583,10 +1583,28 @@
     {
       "path": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1784202577650
+        },
+        {
+          "timestampMillis": 1784202635255
+        },
+        {
+          "timestampMillis": 1784202637014
+        },
+        {
+          "timestampMillis": 1784202637788
+        },
+        {
+          "timestampMillis": 1784202639691
+        },
+        {
+          "timestampMillis": 1784202652127
+        },
+        {
+          "timestampMillis": 1784202653682
         }
       ]
     },
@@ -1597,6 +1615,16 @@
       "openLogs": [
         {
           "timestampMillis": 1784202604381
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Warrantaftale - ARIS.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1784202733168
         }
       ]
     }
