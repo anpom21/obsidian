@@ -54,9 +54,43 @@
               "icon": "lucide-file",
               "title": "Weekly note"
             }
+          },
+          {
+            "id": "b7842ca1a4060e50",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
+          },
+          {
+            "id": "f3109425ae0ec1d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Context Builder.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Context Builder"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -75,8 +109,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context",
-                "matchingCase": true,
+                "query": "context builder",
+                "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
                 "extraContext": false,
@@ -123,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 716.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -158,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Inbox/Context Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weekly note"
+              "title": "Outgoing links from Context Builder"
             }
           },
           {
@@ -194,16 +228,6 @@
               },
               "icon": "lucide-list",
               "title": "Outline of 2026-06-19"
-            }
-          },
-          {
-            "id": "b7842ca1a4060e50",
-            "type": "leaf",
-            "state": {
-              "type": "view-count",
-              "state": {},
-              "icon": "eye",
-              "title": "View count"
             }
           },
           {
@@ -239,15 +263,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "8cf9f3420477a1a0",
+  "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Weekly note.md",
     "Inbox/Unavngivet 4.md",
     "Archive/attachments/Bilag A - Key Employee Shareholders' Agreement.pdf",
     "Archive/attachments/Warrantaftale vedr. ARIS Robotics ApS.pdf",
     "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
     "Inbox/Warrantaftale - ARIS.md",
     "Inbox/ARIS Fuldtids Kontrakt.md",
-    "Weekly note.md",
     "Daily/2026-07-10.md",
     "Archive/attachments/Anættelsesaftale - Fuldtid - Andreas Pommerencke_cje_underskrevet.pdf",
     "Daily/2026-07-15.md",

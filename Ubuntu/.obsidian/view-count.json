@@ -1032,7 +1032,7 @@
     {
       "path": "Weekly note.md",
       "uniqueDaysOpened": 7,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1781947517352
@@ -1066,6 +1066,12 @@
         },
         {
           "timestampMillis": 1784317014156
+        },
+        {
+          "timestampMillis": 1784317399259
+        },
+        {
+          "timestampMillis": 1784317429803
         }
       ]
     },
@@ -1631,6 +1637,16 @@
       "openLogs": [
         {
           "timestampMillis": 1784202733168
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Context Builder.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1784317615558
         }
       ]
     }
