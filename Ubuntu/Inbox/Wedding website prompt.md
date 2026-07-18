@@ -190,25 +190,11 @@ Is it:
 4. “meet other guests” feature,
 5. party game?
 
-Mostly funny icebreaker for the singles. 
-
-What do “boys, girls, women, and men” mean?
-
-Are these age categories? Gender categories? Joke categories?
-
-Would “single men,” “single women,” and maybe “single guests” be clearer?
-
-Do you want non-binary/other options?
-
-Should guests choose how they are shown?
-
-Should people be able to opt out completely?
-
-Should anyone be listed without explicit consent? I strongly recommend no.
-
-Should the page be visible to all guests or only logged-in guests?
-
-Should the page be hidden from parents/family, or is it all in good fun?
+Mostly funny icebreaker for the singles. So they can make their own profile which includes 3 things:
+- An image
+- A short description/ icebreaker / interest 
+- Instagram handle (optional)
+When they have signed up they will be given some keyword they can use to log in to the singles page AND change their own profile. Example key word funniest-wingman-23, or best-toastmast-58 or some combination of adjective and wedding/ party person role so it is easy to remember. 
 
 ## 4.2 Signup flow
 
