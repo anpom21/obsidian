@@ -330,9 +330,9 @@ Should there be a practical note about shoes if there is grass, gravel, sand, or
 # 6. Menu page
 
 Is the menu fixed, or will guests choose?
-
+Menu is fixed
 Should guests see the full menu before the wedding?
-
+No only at the wedding
 Should the menu page include:
 
 ```
@@ -347,22 +347,10 @@ Vegan option
 Children’s menu
 Allergens
 ```
-
-Should allergens be explicit?
-
-Should dietary restrictions be collected on RSVP and used by catering?
-
-Should each guest see their assigned meal?
+Yeah sounds good
 
 Should there be a “secret menu” or do you want everything public?
-
-Should the menu page also cover coffee, cake, midnight food, breakfast/brunch?
-
-Should it include supplier/caterer name?
-
-Should it be elegant prose or just practical?
-
-Should the menu change based on guest dietary restrictions?
+There should be room for a secret menu
 
 ---
 
@@ -388,21 +376,7 @@ Water station info
 Coffee/tea info
 ```
 
-Will there be signature drinks named after you?
-
-Should guests vote on signature cocktails before the wedding?
-
-Should guests be able to suggest drinks?
-
-Should the drinks page include alcohol-free options prominently?
-
-Should it include taxi/transport/safety info?
-
-Should it include allergens? Example nuts, dairy, citrus.
-
-Should there be a “nurse warning” joke about hydration?
-
-Should there be an “engineer-approved ethanol delivery system” joke, or is that too much?
+Give me a fun playful idea that you can think off i want you to be creative here and sell the idea to me.
 
 ---
 
@@ -413,31 +387,28 @@ This is a full technical subsystem.
 ## 8.1 Capture method
 
 Do you want guests to take pictures directly in the browser camera?
-
+Yes
 Or upload existing photos from their camera roll?
-
+Both
 Best practical version: support both.
-
+YES
 Should the page open camera immediately?
-
+Sure
 Should users be able to select multiple photos?
-
+Yes
 Should videos be allowed?
-
+Yes
 Should Live Photos be supported? Usually they become still images unless handled specially.
-
+Yes lets handle them, so both the video and the image is uploaded, separately
 Should uploads be compressed client-side?
-
-Should original quality be preserved?
-
+Yeah just slightly.
 Should EXIF metadata be stripped for privacy?
-
+Yes
 Should timestamps be preserved?
-
-Should uploaded photos be associated with a guest identity?
+Yes
 
 Should anonymous uploads be allowed?
-
+Yes
 ## 8.2 Storage
 
 You said “save on my server.”
@@ -452,11 +423,12 @@ Raspberry Pi?
 Cloud VM?
 Docker host?
 ```
+Home server.
 
 Do you have a domain name?
-
+Not yet.
 Do you have HTTPS?
-
+I want it, but maybe not required, is it hard to get?
 What backend stack do you prefer?
 
 Possible:
@@ -469,7 +441,7 @@ Go
 PHP
 Static frontend + upload API
 ```
-
+Python would be lovely, if the beautiful website can be achieve 
 Where should files be stored?
 
 ```
