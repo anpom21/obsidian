@@ -663,7 +663,7 @@ YES
 Should photos be private?
 
 Should the singles page be accessible after the wedding?
-
+NO
 Should uploaded images be used only privately?
 
 Should there be consent checkboxes for:
@@ -680,6 +680,7 @@ Should backups include personal data?
 Who has server access?
 
 Is the server in your home or a cloud region?
+at my home
 
 ---
 
@@ -700,6 +701,7 @@ Laravel
 Plain React/Vite + API
 ```
 
+
 Do you want server-side rendering?
 
 Do you care about SEO? Probably no, if private.
@@ -710,6 +712,7 @@ Should it look app-like on phones?
 
 Should it support Danish characters, emojis, and special typography?
 
+Not experience on frontend, just do whatever will make it the most proffesional looking
 ## 15.2 Backend
 
 What backend are you comfortable maintaining?
@@ -722,6 +725,7 @@ Next.js API routes
 SvelteKit server routes
 Go
 ```
+Django or FastAPI
 
 Do you want Docker deployment?
 
@@ -738,6 +742,7 @@ Cloudflare Tunnel
 
 Do you already have HTTPS certificates?
 
+Havent worked much with webiste backends so do what you trust, idont have https, is it hard to get?
 ## 15.3 Database
 
 What database?
@@ -748,6 +753,8 @@ PostgreSQL
 MariaDB
 MongoDB
 ```
+SQL sounds good.
+
 
 For this scope, SQLite is probably enough unless you expect heavy concurrent uploads/voting.
 
@@ -760,13 +767,13 @@ Where should backups go?
 ## 15.4 File storage
 
 Local server filesystem or object storage?
-
+Local file server.
 Should uploaded files be accessible through public URLs?
-
+yes
 Should photo URLs be signed/private?
-
+no
 Should image thumbnails be generated?
-
+yes
 Should there be malware scanning? Probably not necessary, but file type validation is.
 
 ## 15.5 Deployment
@@ -784,14 +791,15 @@ Netlify
 ```
 
 Do you need it to survive home internet outage?
-
+No
 Do you want to expose your home server publicly?
-
+No
 Should Cloudflare Tunnel be used?
-
+Sounds good
 Do you want daily backups?
-
+No
 Do you want uptime monitoring?
+No
 
 ---
 
@@ -801,13 +809,9 @@ At minimum, I see these entities:
 
 ```
 Guest
-Invitation
-RSVP
 PageContent
 SinglesProfile
 PhotoUpload
-Song
-SongVote
 TimelineEvent
 Table
 SeatAssignment
@@ -819,7 +823,7 @@ AdminUser
 Questions:
 
 Should every action map to a guest?
-
+No
 Can anonymous users upload photos or vote?
 
 Can one guest vote multiple times?
