@@ -441,7 +441,8 @@ Go
 PHP
 Static frontend + upload API
 ```
-Python would be lovely, if the beautiful website can be achieve 
+Python would be lovely, if the beautiful website can be achieved there, otherwise choose whatever that will bring the prettiest website.
+
 Where should files be stored?
 
 ```
@@ -452,6 +453,7 @@ MinIO on your server
 Google Drive
 Nextcloud
 ```
+Local filesystem on home server.
 
 If local filesystem:
 
@@ -461,54 +463,48 @@ If local filesystem:
 /data/wedding/photos/pending
 /data/wedding/photos/approved
 ```
+`/data/wedding/photos/originals/<timestamp>`
 
-Do you need backups?
 
 How much storage do you expect?
+i have 100 gb ready so should be plenty
 
-Example rough calculation:
-
-```
-100 guests × 30 photos × 4 MB = 12 GB
-100 guests × 10 videos × 50 MB = 50 GB
-```
 
 Should upload size be limited?
-
+no
 Should upload rate be limited?
 
 Should uploads continue if the phone locks? Usually not reliably in browser.
-
+No
 Should the app show upload progress?
-
+YES
 Should failed uploads retry?
-
+Yes
 Should there be QR codes on tables linking directly to upload page?
-
+Sure!
 ## 8.3 Moderation/gallery
 
 Should uploaded photos be immediately visible to guests?
-
-Or saved privately for you?
+Yes
 
 Should there be a live slideshow?
-
+Yes
 Should you approve photos before public display?
-
+No
 Can guests delete their own uploaded photos?
-
+No
 Should admins be able to delete/hide photos?
-
+YES
 Should you be able to download all photos as ZIP?
-
+Yes
 Should photos be grouped by uploader, table, timestamp, or event moment?
-
+Timestamp
 Should there be a post-wedding gallery?
-
+Yes
 Should guests be able to download photos later?
 
 Should uploads require consent text?
-
+YES
 Example:
 
 ```
