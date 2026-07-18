@@ -1345,7 +1345,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 13,
+      "totalTimesOpened": 15,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1385,6 +1385,12 @@
         },
         {
           "timestampMillis": 1784362934763
+        },
+        {
+          "timestampMillis": 1784390730783
+        },
+        {
+          "timestampMillis": 1784390760634
         }
       ]
     },
@@ -1648,11 +1654,27 @@
     },
     {
       "path": "Inbox/Context Builder.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784317615558
+        },
+        {
+          "timestampMillis": 1784390735337
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-07-13.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1784390732514
+        },
+        {
+          "timestampMillis": 1784390743279
         }
       ]
     }

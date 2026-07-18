@@ -5,7 +5,7 @@ tags:
 source:
 aliases:
 ---
-n0- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
+- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
 - [x] train new low res model with normal mineral wool as testing data ✅ 2026-06-04
 - [x] work on excalidraw ✅ 2026-06-19
 - [x]  ✅ 2026-06-19
@@ -27,7 +27,7 @@ n0- [x] sync to fierce-wolf ⏫ ✅ 2026-06-04
 - [ ] [[aris sync]] make outdoor wood be sorted to impregnated wood by default and indoor wood to normal wood #agent 
 - [ ] [[Image sorter]]
 - [ ] Make a standardized documentation format #ARIS #Documentation
-- [ ] Implement [[Nautilus scripts]] #agent 
+- [x] Implement [[Nautilus scripts]] #agent ✅ 2026-07-18
 - [ ] Dangerous waste project. Configure WADE display for new and more buttons. 🔼 
 - [ ] Handle secret API keys correctly ⏫  [[Evaluation tracking]] (Notion API, firebase upload, calculate cm performance)
 
