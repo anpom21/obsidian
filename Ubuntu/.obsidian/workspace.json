@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Context Builder"
+              "title": "Tasks"
             }
           }
         ],
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Context Builder"
+              "title": "Outgoing links from Tasks"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Daily/2026-07-18.md",
     "Weekly note.md",
     "Inbox/Unavngivet 4.md",
     "Archive/attachments/Bilag A - Key Employee Shareholders' Agreement.pdf",
@@ -298,7 +299,6 @@
     "Inbox/Bank møde.md",
     "Daily/2026-07-11.md",
     "Inbox/Training plan.md",
-    "Inbox/Mor.md",
     "Archive/attachments/att.HNBfQXnB7Nttn-61HIIchAS0K-zEfe_BlHEMSXkZxZI.jpeg",
     "Archive/attachments/att.TPQfy6TpwOFtgn-8WV1V3wfztCkvVrBD1i12vBg7h1o.jpeg",
     "Archive/attachments/Pasted image 20260710134831.png",
