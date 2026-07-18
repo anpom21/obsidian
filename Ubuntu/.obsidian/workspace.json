@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Wedding website prompt.md",
+                "file": "Inbox/Coding standard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Wedding website prompt"
+              "title": "Coding standard"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "coding ",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Wedding website prompt.md",
+                "file": "Inbox/Coding standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Wedding website prompt"
+              "title": "Outgoing links from Coding standard"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Inbox/Wedding website prompt.md",
     "Inbox/Image sorter.md",
     "Tasks.md",
     "Daily/2026-07-13.md",
@@ -298,7 +299,6 @@
     "Archive/attachments/Pasted image 20260712124114.png",
     "Archive/attachments/Pasted image 20260712123946.png",
     "Archive/attachments/Pasted image 20260712123924.png",
-    "Inbox/Bank møde.md",
     "Archive/attachments/att.HNBfQXnB7Nttn-61HIIchAS0K-zEfe_BlHEMSXkZxZI.jpeg",
     "Archive/attachments/att.TPQfy6TpwOFtgn-8WV1V3wfztCkvVrBD1i12vBg7h1o.jpeg",
     "Archive/attachments/Pasted image 20260710134831.png",
