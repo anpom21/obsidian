@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Image sorter.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Image sorter"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context builder",
+                "query": "image sorter",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Image sorter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasks"
+              "title": "Outgoing links from Image sorter"
             }
           },
           {
@@ -265,9 +265,9 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Tasks.md",
     "Daily/2026-07-13.md",
     "Inbox/Context Builder.md",
-    "Tasks.md",
     "Daily/2026-07-18.md",
     "Weekly note.md",
     "Inbox/Unavngivet 4.md",
