@@ -511,253 +511,7 @@ Example:
 By uploading, you allow us to store and use these photos privately for wedding memories.
 ```
 
-## 8.4 Technical risk
 
-What happens if the server goes down during the wedding?
-
-Do you need a fallback QR code to Google Photos/Drive?
-
-Do you want automatic monitoring?
-
-Do you want local venue Wi-Fi?
-
-Do you expect poor mobile coverage?
-
-Should the page be optimized for iPhone Safari and Android Chrome?
-
-Do you need HEIC support?
-
-Do you need server-side conversion from HEIC to JPEG?
-
----
-
-# 9. Playlist voting page
-
-This also needs proper constraints.
-
-## 9.1 Song database
-
-You mention “our top 300 songs.”
-
-Where does this list come from?
-
-Spotify playlist?
-
-CSV?
-
-Manually entered?
-
-YouTube?
-
-Apple Music?
-
-Should the page sync with Spotify?
-
-Do you want to embed Spotify previews?
-
-Do you want album art?
-
-Fields:
-
-```
-artist
-title
-spotify_url
-preview_url
-album_art
-genre
-language
-explicit
-added_by
-votes
-```
-
-Do you want guests to vote before the wedding, during the party, or both?
-
-Should votes influence the DJ playlist?
-
-Do you have a DJ?
-
-Will the DJ actually use the exported list?
-
-Should there be an export button?
-
-## 9.2 Voting rules
-
-How many votes per guest?
-
-Options:
-
-```
-Unlimited
-One vote per song
-Max 10 total votes
-Upvotes/downvotes
-Rank top 5
-```
-
-Should people be able to remove their vote?
-
-Should duplicate songs be prevented?
-
-Should guests be able to add new songs?
-
-Should added songs require approval?
-
-Should guests be able to vote on newly added songs?
-
-Should explicit songs be allowed?
-
-Should joke songs be allowed?
-
-Should there be a blacklist?
-
-Should there be categories?
-
-```
-Dinner music
-First dance
-Party
-Danish classics
-Singalong
-Do-not-play
-```
-
-Should there be a “ban this song” vote?
-
-Could people abuse voting? Do you care?
-
-Should voting be anonymous or visible?
-
-Should guests see current rankings?
-
-Should rankings be hidden to avoid herding?
-
-Should the top 300 be searchable/filterable?
-
-Should songs have preview playback?
-
-Should there be a “random song battle” interface?
-
-Example:
-
-```
-Which song should survive?
-[Song A] vs [Song B]
-```
-
-## 9.3 Integration
-
-Do you want to import from Spotify using Spotify API?
-
-Do you have a Spotify developer account?
-
-Should guests add songs by pasting Spotify links?
-
-Should the backend normalize duplicates?
-
-Example duplicate problem:
-
-```
-"Mr. Brightside"
-"Mr Brightside - Remastered"
-"The Killers - Mr. Brightside"
-```
-
-Should the playlist export back to Spotify automatically?
-
-Should the site generate a final playlist ordered by votes?
-
----
-
-# 10. Timeline page
-
-The question mark matters. Decide whether this is informational or dynamic.
-
-What timeline do you need?
-
-Before wedding:
-
-```
-RSVP deadline
-Hotel booking deadline
-Ceremony time
-Transport time
-```
-
-Wedding day:
-
-```
-Arrival
-Ceremony
-Reception
-Dinner
-Speeches
-Cake
-First dance
-Party
-Late-night snack
-Bar closes
-Transport home
-```
-
-After wedding:
-
-```
-Photo gallery
-Thank-you note
-```
-
-Should the timeline be public?
-
-Should it differ per guest group?
-
-Example:
-
-```
-Family arrives earlier for photos.
-Toastmaster sees speech schedule.
-Regular guests do not see internal logistics.
-```
-
-Should the timeline update live?
-
-Should it show “Now” during the wedding?
-
-Should it show countdown to next event?
-
-Should admins be able to modify it on the day?
-
-Should it include locations per event?
-
-Should it include maps between ceremony and venue?
-
-Should it include transport information?
-
-Should it include contact person for delays?
-
-Should it support hidden/internal timeline items?
-
-Example:
-
-```
-Photographer arrives
-Bride/groom prep
-Vendor setup
-Speech order
-```
-
-Do you need separate timelines for:
-
-```
-Guests
-Vendors
-Wedding party
-Couple
-Toastmaster
-```
-
----
 
 # 11. Bordplan / table plan
 
@@ -766,80 +520,26 @@ This is another real data model.
 ## 11.1 What guests see
 
 Should guests only see their own table?
-
+Yes
 Or the full seating chart?
-
+Yes
 Should they search their name?
-
+Yes
 Should there be a QR code at the entrance opening the table plan?
 
 Should the table plan be visible before the wedding?
-
+No
 Should it be hidden until the day?
-
+Yes
 Should guests be able to see who is at their table?
-
+Yes
 Should they be able to see the full room layout?
-
-Should the table names/numbers be themed?
-
-Should the page support last-minute changes?
-
-## 11.2 Admin table planning
-
-Do you want the site to help create the table plan, or only display a finished plan?
-
-If creating it:
-
-```
-Guests
-Relationships
-Groups
-Must sit together
-Should sit near
-Should not sit together
-Table capacity
-Children
-High chairs
-Wheelchair access
-Dietary meal placement
-```
-
-Should you import from spreadsheet?
-
-Should you drag-and-drop guests between tables?
-
-Should it validate capacities?
-
-Should it export printable PDFs?
-
-Should it generate place cards?
-
-Should it integrate with menu/dietary restrictions?
-
-If only displaying it:
-
-```
-Guest -> table number
-Table -> list of names
-Room map image
-```
-
-Should there be a graphical floorplan?
-
-Do you have venue layout dimensions?
-
-Should you upload an image of the room plan and overlay tables?
-
----
+Yes
 
 # 12. Missing likely pages/features
 
 Your current list is good, but I would question whether you also need these.
 
-## 12.1 RSVP page
-
-Do you want RSVP as part of personalized invitation, or a dedicated page?
 
 ## 12.2 Practical information page
 
@@ -853,7 +553,6 @@ Taxi numbers
 Hotel recommendations
 Check-in info
 Accessibility
-Childcare
 Contact person
 Gift info
 FAQ
