@@ -824,179 +824,17 @@ Questions:
 
 Should every action map to a guest?
 No
-Can anonymous users upload photos or vote?
+Can anonymous users upload photos?
+No
 
-Can one guest vote multiple times?
 
-Can one invitation include multiple guests?
 
-Can one guest have multiple dietary restrictions?
-
-Can one song have many aliases?
 
 Can one uploaded photo belong to multiple tags?
-
-Should table assignments be per guest or per invitation group?
-
----
-
-# 17. Permission model
-
-Who can do what?
-
-```
-Public visitor
-Invited guest
-Guest with personal token
-Singles participant
-Admin
-Toastmaster
-DJ
-Photographer
-```
-
-Questions:
-
-Can DJ access playlist export only?
-
-Can photographer access uploaded photos?
-
-Can toastmaster access speeches/timeline but not singles profiles?
-
-Can guests see table plan?
-
-Can guests see menu?
-
-Can guests upload photos without RSVP?
-
-Can declined guests still access pages?
-
-Can guests edit RSVP after deadline?
-
-Can admins impersonate guests to debug invitations?
+yes
 
 ---
 
-# 18. Content management
-
-How will page content be edited?
-
-Hardcoded in code?
-
-Markdown files?
-
-Admin UI?
-
-Database?
-
-Google Sheet?
-
-YAML files?
-
-For example:
-
-```
-content/
-  main.md
-  dress-code.md
-  menu.yaml
-  drinks.yaml
-  timeline.yaml
-```
-
-Do you want your partner to be able to edit text without touching code?
-
-Do you want version control?
-
-Do you want preview before publishing?
-
----
-
-# 19. Design/theme questions
-
-What visual identity?
-
-```
-Elegant
-Minimalist
-Romantic
-Playful
-Technical
-Medical/engineering references
-Danish summer wedding
-Classic formal
-```
-
-Colors?
-
-Fonts?
-
-Do you have invitation artwork already?
-
-Should the website match physical invitations?
-
-Should there be photos of you?
-
-Should there be illustrations?
-
-Should engineer/nurse theme be subtle or explicit?
-
-Possible subtle theme:
-
-```
-“Designed with precision, cared for with love.”
-```
-
-Too cheesy, or good?
-
-Should animations be minimal for performance?
-
-Should the UI be accessible for older guests?
-
-Large text mode?
-
-High contrast?
-
-Simple navigation?
-
----
-
-# 20. Operational wedding-day questions
-
-Who will maintain the site during the wedding?
-
-Do you want to be debugging uploads at your own wedding? Hopefully no.
-
-Should someone else have admin access?
-
-What features are allowed to fail without ruining anything?
-
-Critical:
-
-```
-Invitation
-RSVP
-Timeline
-Location
-Table plan
-```
-
-Fun but non-critical:
-
-```
-Singles page
-Playlist voting
-Photo upload
-Drinks page
-```
-
-Should high-risk features be isolated so they cannot break core info pages?
-
-Should static pages remain available even if the backend/database fails?
-
-I would strongly recommend yes.
-
----
 
 # 21. MVP vs nice-to-have
 
@@ -1008,14 +846,8 @@ I would split like this:
 
 ```
 Main page
-Personalized invitation
-RSVP
-Dress code
-Menu
-Drinks
 Timeline
 Table plan
-Practical info/location
 Admin guest import/export
 ```
 
@@ -1058,13 +890,6 @@ A possible domain tree:
 /
   main landing page
 
-/invite/[token]
-  personalized invitation
-  RSVP
-
-/rsvp
-  fallback RSVP entry
-
 /info
   practical information
 
@@ -1092,12 +917,6 @@ A possible domain tree:
 /gallery
   approved photo gallery, optional
 
-/playlist
-  vote on songs
-
-/playlist/add
-  suggest song
-
 /singles
   singles overview
 
@@ -1106,9 +925,6 @@ A possible domain tree:
 
 /singles/[profile]
   optional profile detail
-
-/speeches
-  contact toastmaster / entertainment signup
 
 /faq
   common questions
@@ -1146,21 +962,3 @@ The website should have a static/public-safe core that still works if all intera
 
 ---
 
-# 24. First answers I need from you
-
-Start with these. They unblock the architecture.
-
-1. Should guests have personal invite links, or one shared wedding password?
-2. Do you need RSVP, or is the personalized invitation only informational?
-3. Should one invitation support multiple people, like couples/families?
-4. Should the site be Danish, English, or bilingual?
-5. Where will the site be hosted?
-6. What backend/frontend stack do you prefer?
-7. Should photo upload support videos?
-8. Should uploaded photos be public to guests, private to you, or moderated first?
-9. Should singles profiles require admin approval before appearing?
-10. Should playlist voting integrate with Spotify?
-11. Do you want an admin dashboard, or are config files/spreadsheets acceptable?
-12. Is the table plan only for display, or should the site help you build it?
-
-My immediate recommendation: design the guest/invitation/permission model first. Everything else becomes much easier once you know who the user is, what they can access, and whether their actions are tied to a guest record.
