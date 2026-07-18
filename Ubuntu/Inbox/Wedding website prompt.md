@@ -550,14 +550,11 @@ Venue address
 Parking
 Transport
 Taxi numbers
-Hotel recommendations
-Check-in info
 Accessibility
 Contact person
 Gift info
-FAQ
 ```
-
+These should be implemented
 ## 12.3 Location page
 
 Should there be a page with:
@@ -565,50 +562,22 @@ Should there be a page with:
 ```
 Ceremony location
 Reception location
-Map links
 Parking map
-Public transport
-Walking directions
 ```
 
 ## 12.4 Contact page
 
 Should guests contact you, or should they contact toastmaster/best man/maid of honor?
-
+Contact me untill the day of the wedding it should change to my best man
 Should the contact page show phone numbers?
-
+Yes
 Should contact info be hidden behind guest access?
-
-## 12.5 Speeches/entertainment signup
-
-Do you need a page where guests can contact the toastmaster to give speeches or arrange entertainment?
-
-Fields:
-
-```
-Name
-Type: speech/song/game/video
-Estimated duration
-Needs projector/audio
-Notes
-```
-
-Should this go directly to the toastmaster?
+Yes
 
 ## 12.6 Gifts/wishes page
 
 Do you want a wish list?
-
-MobilePay?
-
-Bank transfer?
-
-Charity donation?
-
-Honeymoon fund?
-
-Should it be tasteful and optional?
-
+Yes just show a nice page with a big link to ønskeskyen.
 ## 12.7 FAQ page
 
 Common questions:
@@ -624,13 +593,8 @@ Can I post on social media?
 Who do I contact?
 ```
 
-## 12.8 Countdown / after-party / accommodation
+Sure
 
-Do guests need hotel recommendations?
-
-Do you need next-day brunch info?
-
-Do you need transport home?
 
 ---
 
@@ -642,13 +606,9 @@ What should admins manage?
 
 ```
 Guests
-RSVPs
 Dietary restrictions
-Invitations
 Singles profiles
 Photo uploads
-Playlist songs
-Song votes
 Timeline
 Menu
 Drinks
@@ -658,19 +618,19 @@ Site settings
 ```
 
 Should admin changes require code deployment, or should you edit everything in a UI?
-
+Simple easy to maintain UI would be nice.
 Do you want a CMS-like admin panel?
-
+What is that
 Would editing YAML/JSON files be acceptable?
-
+PLENTY fine!!
 Given your technical profile, a simple file-backed admin system may be fine, but RSVP/photo/song voting need a database.
 
 Do you want audit logs?
-
+What is this for?
 Should admin actions be reversible?
-
+Yes
 Do you want export buttons?
-
+Nah
 ```
 Export RSVPs CSV
 Export dietary restrictions CSV
@@ -689,13 +649,9 @@ What personal data are you storing?
 
 ```
 Names
-Emails
-Phone numbers
 Dietary restrictions
 Photos
 Relationship/single status
-Music preferences
-Messages
 ```
 
 How long will you keep it?
@@ -703,7 +659,7 @@ How long will you keep it?
 Should guests be able to request deletion?
 
 Should you have a simple privacy note?
-
+YES
 Should photos be private?
 
 Should the singles page be accessible after the wedding?
