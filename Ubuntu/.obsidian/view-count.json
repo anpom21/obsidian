@@ -1687,6 +1687,19 @@
           "timestampMillis": 1784400348314
         }
       ]
+    },
+    {
+      "path": "Inbox/Wedding website prompt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1784401754172
+        },
+        {
+          "timestampMillis": 1784401756706
+        }
+      ]
     }
   ]
 }

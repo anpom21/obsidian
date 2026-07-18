@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Image sorter.md",
+                "file": "Inbox/Wedding website prompt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Image sorter"
+              "title": "Wedding website prompt"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "image sorter",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -157,7 +157,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 716.5
+    "width": 200
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Image sorter.md",
+                "file": "Inbox/Wedding website prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Image sorter"
+              "title": "Outgoing links from Wedding website prompt"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Inbox/Image sorter.md",
     "Tasks.md",
     "Daily/2026-07-13.md",
     "Inbox/Context Builder.md",
@@ -298,7 +299,6 @@
     "Archive/attachments/Pasted image 20260712123946.png",
     "Archive/attachments/Pasted image 20260712123924.png",
     "Inbox/Bank møde.md",
-    "Daily/2026-07-11.md",
     "Archive/attachments/att.HNBfQXnB7Nttn-61HIIchAS0K-zEfe_BlHEMSXkZxZI.jpeg",
     "Archive/attachments/att.TPQfy6TpwOFtgn-8WV1V3wfztCkvVrBD1i12vBg7h1o.jpeg",
     "Archive/attachments/Pasted image 20260710134831.png",
