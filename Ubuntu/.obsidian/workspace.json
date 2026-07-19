@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-07-19.md",
+                "file": "Inbox/Context Builder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-19"
+              "title": "Context Builder"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "google sheet",
+                "query": "context builder",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-07-19.md",
+                "file": "Inbox/Context Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-07-19"
+              "title": "Outgoing links from Context Builder"
             }
           },
           {
@@ -265,11 +265,11 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Daily/2026-07-19.md",
     "Tasks.md",
     "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
     "Weekly note.md",
     "Inbox/Weight.md",
-    "Daily/2026-07-19.md",
     "Inbox/Wedding website prompt.md",
     "Inbox/Image sorter.md",
     "Daily/2026-07-13.md",
