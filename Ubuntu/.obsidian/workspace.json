@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Coding standard.md",
+                "file": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coding standard"
+              "title": "Event Tilmeldings Guide"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "coding ",
+                "query": "google sheet",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Coding standard.md",
+                "file": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding standard"
+              "title": "Outgoing links from Event Tilmeldings Guide"
             }
           },
           {
@@ -265,6 +265,7 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Weekly note.md",
     "Inbox/Weight.md",
     "Daily/2026-07-19.md",
     "Inbox/Wedding website prompt.md",
@@ -273,7 +274,6 @@
     "Daily/2026-07-13.md",
     "Inbox/Context Builder.md",
     "Daily/2026-07-18.md",
-    "Weekly note.md",
     "Inbox/Unavngivet 4.md",
     "Archive/attachments/Bilag A - Key Employee Shareholders' Agreement.pdf",
     "Archive/attachments/Warrantaftale vedr. ARIS Robotics ApS.pdf",

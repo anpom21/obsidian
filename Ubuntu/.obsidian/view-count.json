@@ -1031,8 +1031,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 33,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1781947517352
@@ -1072,6 +1072,9 @@
         },
         {
           "timestampMillis": 1784317429803
+        },
+        {
+          "timestampMillis": 1784454162993
         }
       ]
     },
@@ -1708,6 +1711,16 @@
       "openLogs": [
         {
           "timestampMillis": 1784405716289
+        }
+      ]
+    },
+    {
+      "path": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1784454172004
         }
       ]
     }
