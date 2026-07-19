@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+                "file": "Daily/2026-07-19.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Event Tilmeldings Guide"
+              "title": "2026-07-19"
             }
           }
         ],
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
+                "file": "Daily/2026-07-19.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Event Tilmeldings Guide"
+              "title": "Outgoing links from 2026-07-19"
             }
           },
           {
@@ -265,12 +265,13 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
     "Weekly note.md",
     "Inbox/Weight.md",
     "Daily/2026-07-19.md",
     "Inbox/Wedding website prompt.md",
     "Inbox/Image sorter.md",
-    "Tasks.md",
     "Daily/2026-07-13.md",
     "Inbox/Context Builder.md",
     "Daily/2026-07-18.md",
@@ -294,7 +295,6 @@
     "Archive/attachments/Bolig 2026-07-13 16.59.09.excalidraw.md",
     "Inbox/Bolig.md",
     "Archive/attachments/Pasted image 20260713170118.png",
-    "Inbox/Sommer arbejde 2026.md",
     "Archive/attachments/Pasted image 20260712124358.png",
     "Archive/attachments/Pasted image 20260712124114.png",
     "Archive/attachments/Pasted image 20260712123946.png",
