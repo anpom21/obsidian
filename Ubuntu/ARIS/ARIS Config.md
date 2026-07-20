@@ -115,6 +115,11 @@ subcategories:
 - Use hydra to organize configs
 - Use tensorboard to write logging messages
 - Use pytorch to write checkpoints 
+#### Hydra optimize multiruns
+- Evaluate option 
+	- evaluation.evaluate = {report, metrics, false, true} # default: "report", true = "report"
+- 
+
 ### Example
 
 ### Training run management
