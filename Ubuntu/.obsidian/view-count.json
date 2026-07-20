@@ -1155,7 +1155,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 5,
-      "totalTimesOpened": 18,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
           "timestampMillis": 1781852090080
@@ -1210,6 +1210,9 @@
         },
         {
           "timestampMillis": 1784540028042
+        },
+        {
+          "timestampMillis": 1784550143642
         }
       ]
     },
@@ -1585,10 +1588,13 @@
     {
       "path": "Inbox/Evaluation tracking.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784540035947
+        },
+        {
+          "timestampMillis": 1784550145616
         }
       ]
     }

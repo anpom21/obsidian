@@ -9,8 +9,9 @@ aliases:
 - [ ] Add logging?
 - [x] Log output path for manifest and report ✅ 2026-07-20
 - [x] Make the manifest use aris paths ✅ 2026-07-20
-- [ ] Make the pipeline more maintainable
-	- [ ] Make the upload script depend on the same manifest script.
+- [x] Make the pipeline more maintainable ✅ 2026-07-20
+	- [x] Make the upload script depend on the same manifest script. ✅ 2026-07-20
+- [ ] Make the `calculate_cm_performance.py` resolve indoor/ outdoor wood correctly
 
 
 
