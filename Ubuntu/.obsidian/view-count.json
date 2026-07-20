@@ -93,98 +93,11 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 30,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
-          "timestampMillis": 1781008772574
-        },
-        {
-          "timestampMillis": 1781008794105
-        },
-        {
-          "timestampMillis": 1781011937922
-        },
-        {
-          "timestampMillis": 1781012092736
-        },
-        {
-          "timestampMillis": 1781012140086
-        },
-        {
-          "timestampMillis": 1781012234180
-        },
-        {
-          "timestampMillis": 1781012236866
-        },
-        {
-          "timestampMillis": 1781012238564
-        },
-        {
-          "timestampMillis": 1781012241451
-        },
-        {
-          "timestampMillis": 1781012242716
-        },
-        {
-          "timestampMillis": 1781012304120
-        },
-        {
-          "timestampMillis": 1781012309190
-        },
-        {
-          "timestampMillis": 1781012323008
-        },
-        {
-          "timestampMillis": 1781012325298
-        },
-        {
-          "timestampMillis": 1781012326701
-        },
-        {
-          "timestampMillis": 1781012328555
-        },
-        {
-          "timestampMillis": 1781012330825
-        },
-        {
-          "timestampMillis": 1781012341344
-        },
-        {
-          "timestampMillis": 1781012344520
-        },
-        {
-          "timestampMillis": 1781012450850
-        },
-        {
-          "timestampMillis": 1781013803675
-        },
-        {
-          "timestampMillis": 1781014681761
-        },
-        {
-          "timestampMillis": 1781016195380
-        },
-        {
-          "timestampMillis": 1781016230042
-        },
-        {
-          "timestampMillis": 1781016530884
-        },
-        {
-          "timestampMillis": 1781016929971
-        },
-        {
-          "timestampMillis": 1781031935315
-        },
-        {
-          "timestampMillis": 1781198009870
-        },
-        {
-          "timestampMillis": 1781198069654
-        },
-        {
-          "timestampMillis": 1781203706093
+          "timestampMillis": 1784536971788
         }
       ]
     },
@@ -367,71 +280,14 @@
     },
     {
       "path": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 21,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
-          "timestampMillis": 1781012173245
+          "timestampMillis": 1784536957560
         },
         {
-          "timestampMillis": 1781012208671
-        },
-        {
-          "timestampMillis": 1781012209933
-        },
-        {
-          "timestampMillis": 1781012240731
-        },
-        {
-          "timestampMillis": 1781012241934
-        },
-        {
-          "timestampMillis": 1781012246483
-        },
-        {
-          "timestampMillis": 1781012310187
-        },
-        {
-          "timestampMillis": 1781012327372
-        },
-        {
-          "timestampMillis": 1781012329861
-        },
-        {
-          "timestampMillis": 1781012342965
-        },
-        {
-          "timestampMillis": 1781012365292
-        },
-        {
-          "timestampMillis": 1781012454790
-        },
-        {
-          "timestampMillis": 1781014595787
-        },
-        {
-          "timestampMillis": 1781016183290
-        },
-        {
-          "timestampMillis": 1781016231371
-        },
-        {
-          "timestampMillis": 1781016533784
-        },
-        {
-          "timestampMillis": 1781016535777
-        },
-        {
-          "timestampMillis": 1781017122736
-        },
-        {
-          "timestampMillis": 1781017253799
-        },
-        {
-          "timestampMillis": 1781018200429
-        },
-        {
-          "timestampMillis": 1781031953404
+          "timestampMillis": 1784536957900
         }
       ]
     },
@@ -1534,14 +1390,20 @@
     },
     {
       "path": "Inbox/Notion API.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1783685570169
         },
         {
           "timestampMillis": 1783685936385
+        },
+        {
+          "timestampMillis": 1784536962105
+        },
+        {
+          "timestampMillis": 1784536967447
         }
       ]
     },
@@ -1688,6 +1550,26 @@
       "openLogs": [
         {
           "timestampMillis": 1784457813977
+        }
+      ]
+    },
+    {
+      "path": "Weekly note.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1784536962937
+        }
+      ]
+    },
+    {
+      "path": "Excalidraw/Drawing 2026-07-09 10.34.51.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1784536970556
         }
       ]
     }
