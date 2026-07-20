@@ -1030,55 +1030,6 @@
       ]
     },
     {
-      "path": "Weekly note.md",
-      "uniqueDaysOpened": 8,
-      "totalTimesOpened": 34,
-      "openLogs": [
-        {
-          "timestampMillis": 1781947517352
-        },
-        {
-          "timestampMillis": 1781947517625
-        },
-        {
-          "timestampMillis": 1781947614834
-        },
-        {
-          "timestampMillis": 1782146375635
-        },
-        {
-          "timestampMillis": 1782714251114
-        },
-        {
-          "timestampMillis": 1784201066391
-        },
-        {
-          "timestampMillis": 1784202610985
-        },
-        {
-          "timestampMillis": 1784202614191
-        },
-        {
-          "timestampMillis": 1784202615555
-        },
-        {
-          "timestampMillis": 1784317013965
-        },
-        {
-          "timestampMillis": 1784317014156
-        },
-        {
-          "timestampMillis": 1784317399259
-        },
-        {
-          "timestampMillis": 1784317429803
-        },
-        {
-          "timestampMillis": 1784454162993
-        }
-      ]
-    },
-    {
       "path": "Daily/2026-06-07.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 2,
