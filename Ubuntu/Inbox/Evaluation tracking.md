@@ -7,9 +7,10 @@ aliases:
 ## [[Tasks]]
 ### Capture tracking
 - [ ] Add logging?
-- [ ] Log output path for manifest and report
-- [ ] Make the manifest use aris paths
-- [ ] Import 
+- [x] Log output path for manifest and report ✅ 2026-07-20
+- [x] Make the manifest use aris paths ✅ 2026-07-20
+- [ ] Make the pipeline more maintainable
+	- [ ] Make the upload script depend on the same manifest script.
 
 
 
