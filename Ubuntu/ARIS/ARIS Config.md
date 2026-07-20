@@ -131,7 +131,9 @@ multirun_parameters:
 If a hydra multi run is running, a lot of parameters can sometimes be explored resulting in 100+ runs, in this case it is imperative that time is not wasted too much and that memory for model checkpoints does not become a problem (luckily checkpoint trimming is now implemented). 
 Grill me on how early stopping can be expanded to also consider the performance of earlier runs in a multirun. There should be a simple check for if after x epochs the models is not within y points of the primary metric then the training should terminate and move on to the next parameter. Example: if the best model performance on the validation data is not within 15% after 25 epochs of the best model then the training loop should terminate.
 
-Im also open to discu  
+Im also open to discuss a more suffisticated method where if after a epochs the model is not projected to improve beyond the best model then just terminate. Where the projection would be calculate from either a linear fit from the last n validation evaluations or a more suited model fit. Idk if other has done this before?  
+
+Add an option to what should happen when a training run is terminated. Eg. nothing, erase the statedict of the checkpoint (do this rather than remove the file as i dont feel safe on using remove functions in python), so the checkpoint is updated to basically take up no space.
 ### Example
 
 ### Training run management
