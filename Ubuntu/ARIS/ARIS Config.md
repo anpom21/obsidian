@@ -117,9 +117,12 @@ subcategories:
 - Use pytorch to write checkpoints 
 #### Hydra optimize multiruns
 - Evaluate option 
-	- evaluation.evaluate = {report, metrics, false, true} # default: "report", true = "report"
-- 
-
+	- `evaluation.evaluate = {report, metrics, false, true} # default: "report", true = "report"`
+- Metrics
+```yaml
+#Changed parameters
+	changed_parame:
+```
 ### Example
 
 ### Training run management
