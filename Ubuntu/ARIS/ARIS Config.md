@@ -127,6 +127,8 @@ multirun_parameters:
 	system.seed: 2
 ```
 
+#### Optimization
+If a hydra multi run is running, a lot of parameters can sometimes be explored resulting in 100+ runs, in this case it is imperative that 
 ### Example
 
 ### Training run management
