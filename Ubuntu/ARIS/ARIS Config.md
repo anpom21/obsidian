@@ -134,6 +134,7 @@ Grill me on how early stopping can be expanded to also consider the performance 
 Im also open to discuss a more suffisticated method where if after a epochs the model is not projected to improve beyond the best model then just terminate. Where the projection would be calculate from either a linear fit from the last n validation evaluations or a more suited model fit. Idk if other has done this before?  
 
 Add an option to what should happen when a training run is terminated. Eg. nothing, erase the statedict of the checkpoint (do this rather than remove the file as i dont feel safe on using remove functions in python), so the checkpoint is updated to basically take up no space.
+
 ### Example
 
 ### Training run management
