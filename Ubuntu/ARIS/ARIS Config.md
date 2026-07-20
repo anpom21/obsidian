@@ -22,7 +22,7 @@ path:
 - [ ] Add proper logging 
 - [ ] Make the training script print the loaded [[data.yaml]]
 - [ ] Migrate from pytorch lightning to regular torch. 🔼 ,
-- [ ] Instead of saving the models under weird names, just keep them understandable during training. So instead of `model_resnet18_3.0.1_default0.0.1_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` do like `best-val-acc_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` or `lowest-val-loss_epoch=02_val_loss=1.14_val_acc=0.72.ckpt`
+- [x] Instead of saving the models under weird names, just keep them understandable during training. So instead of `model_resnet18_3.0.1_default0.0.1_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` do like `best-val-acc_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` or `lowest-val-loss_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` ✅ 2026-07-20
 - [ ] Fix the `_to_namespace` dependency everywhere
 - [ ] `mean` and `std` is hard coded into `previeiw_augmentation()` in `train_model.py` fix that, so i takes the mean and std for a config instead maybe.
 - [ ] fix data resolver so it can resolve test folder splits and work in `multiruns` ⏫ 
