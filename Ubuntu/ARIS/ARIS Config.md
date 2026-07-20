@@ -121,8 +121,12 @@ subcategories:
 - Metrics
 ```yaml
 #Changed parameters
-	changed_parame:
+multirun_parameters:
+	optimizer.learning_rate: 0.1
+	augmentation.cutmix.p: 0.3
+	system.seed: 2
 ```
+
 ### Example
 
 ### Training run management
