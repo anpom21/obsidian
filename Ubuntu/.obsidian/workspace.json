@@ -71,7 +71,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Weekly note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,7 +86,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Context Builder"
+              "title": "Weekly note"
             }
           }
         ],
@@ -192,12 +192,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Weekly note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Context Builder"
+              "title": "Outgoing links from Weekly note"
             }
           },
           {
@@ -265,6 +265,11 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Daily/2026-07-23.md",
+    "Inbox/Inference.md",
+    "Daily/2026-07-24.md",
+    "Inbox/DWWADE System Overview.md",
+    "Archive/attachments/DWWADE.pdf",
     "Inbox/Repo to python package.md",
     "Weekly note.md",
     "W29.md",
@@ -290,10 +295,6 @@
     "Inbox/Coding standard.md",
     "Inbox/Logging.md",
     "Daily/2026-07-22.md",
-    "Daily/2026-07-21.md",
-    "Daily/2026-07-17.md",
-    "Daily/2026-07-16.md",
-    "Daily/2026-07-14.md",
     "Archive/attachments/Pasted image 20260713170118.png",
     "Archive/attachments/Pasted image 20260712124358.png",
     "Archive/attachments/Pasted image 20260712124114.png",
@@ -310,7 +311,6 @@
     "People",
     "Speciale",
     "2026",
-    "test.json",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

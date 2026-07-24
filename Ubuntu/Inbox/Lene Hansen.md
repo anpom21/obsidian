@@ -19,6 +19,8 @@ children:
   - "[[Andreas Pommerencke]]"
 ---
 # Lene Hansen
+- [ ] Henne Mølleå badehotel til frokost #sommerhus
+
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

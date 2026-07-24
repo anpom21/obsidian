@@ -134,7 +134,35 @@ Grill me on how early stopping can be expanded to also consider the performance 
 Im also open to discuss a more suffisticated method where if after a epochs the model is not projected to improve beyond the best model then just terminate. Where the projection would be calculate from either a linear fit from the last n validation evaluations or a more suited model fit. Idk if other has done this before?  
 
 Add an option to what should happen when a training run is terminated. Eg. nothing, erase the statedict of the checkpoint (do this rather than remove the file as i dont feel safe on using remove functions in python), so the checkpoint is updated to basically take up no space.
+multirun_parameters:
+  optimizer.learning_rate: 0.05
+  train.batch_size: 16
 
+Simple:
+
+| Run | optimizer.learning_rate | train.batch_size | val_acc |
+| --- | ----------------------- | ---------------- | ------- |
+| 1   | 0.05                    | 16               | 0.82    |
+| 2   | 0.05                    | 8                | 0.81    |
+
+No name collision
+
+| Run | learning_rate | batch_size | cutmix.p | mixup.p | val_acc |
+| --- | ------------- | ---------- | -------- | ------- | ------- |
+| 1   | 0.05          | 16         | 0.2      | 0.2     | 0.84    |
+| 2   | 0.05          | 8          | 0.2      | 0.2     | 0.83    |
+## Parameter value averages
+
+| Parameter       | Value    |   Runs |   mean val_acc |   std val_acc |   mean test_acc |   std test_acc |
+|-----------------|----------|--------|----------------|---------------|-----------------|----------------|
+| n_frozen_layers | 7        |     11 |       0.912273 |     0.0211449 |        0.812273 |      0.0274163 |
+| n_frozen_layers | 5        |      6 |       0.888333 |     0.0259272 |        0.813333 |      0.020548  |
+| n_frozen_layers | 3        |      6 |       0.8475   |     0.0175    |        0.78     |      0.03937   |
+| n_frozen_layers | 0        |      6 |       0.8425   |     0.0446047 |        0.82     |      0.01      |
+| name            | resnet18 |     15 |       0.863333 |     0.0438432 |        0.808333 |      0.0274874 |
+| name            | resnet50 |     14 |       0.896786 |     0.0297974 |        0.809231 |      0.0301819 |
+| learning_rate   | 0.001    |     24 |       0.875208 |     0.0430958 |        0.813235 |      0.027383  |
+| learning_rate   | 0.0001   |      5 |       0.9      |     0.0212132 |        0.794    |      0.0298998 |
 ### Example
 
 ### Training run management

@@ -15,4 +15,10 @@ path:
 - [ ] Fix [[Evaluation]] script so when the training script auto runs it, the **misclassifications** are generated correctly ⏫ 
 - [ ] Fix evaluation report - data showcase is wrong
 
+
+## Naming conventions 
+```
+<fraction>_vx.x.x_<tag>_<timestamp>
+```
+
 ## Agent description
