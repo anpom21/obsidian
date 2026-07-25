@@ -59,13 +59,24 @@
             "id": "f3109425ae0ec1d0",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "Notion/Projects & Tasks/Tasks/Tasks.base",
-                "viewName": "Table View"
+                "file": "ARIS/Classification.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "Tasks"
+              "icon": "lucide-file",
+              "title": "Classification"
             }
           }
         ],
@@ -88,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "project and tasks",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -132,8 +143,7 @@
               "title": "Notebook Navigator"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Projects & Tasks/Tasks/Tasks.base",
+                "file": "ARIS/Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tasks"
+              "title": "Outgoing links from Classification"
             }
           },
           {
@@ -241,11 +251,16 @@
       "obsidian-map-view:Open map view": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-importer:Open Importer": false
+      "obsidian-importer:Open Importer": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Notion/Projects & Tasks/Projects & Tasks 1.md",
     "Notion/Projects & Tasks/Projects/New Customers 1.md",
     "Notion/Projects & Tasks/Projects/Deploying Production Code 1.md",
@@ -267,7 +282,6 @@
     "Notion/Projects & Tasks/Tasks/Train a model.md",
     "Notion/Projects & Tasks/Tasks/Data annotation of collected data.md",
     "Notion/Projects & Tasks/Tasks/Data collection at Posibi.md",
-    "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
     "Weekly note.md",
     "Notion/Projects & Tasks/Tasks/Tasks New task 3.md",
@@ -275,7 +289,6 @@
     "Notion/Projects & Tasks/Tasks/Tasks New task 1.md",
     "Notion/Projects & Tasks/Tasks/Tasks New task.md",
     "Notion/Projects & Tasks/Tasks/Test Jetson Orin Nano.md",
-    "Notion/Projects & Tasks/Tasks/Research cheaper cameras.md",
     "Archive/attachments/Implement Point Annotation from customers dashboard.jpeg",
     "Archive/attachments/Ubuntu_dialog-bokse.jpg",
     "Archive/attachments/image 11.png",
