@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +76,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Context Builder"
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "cde8c0b6f5d2d295",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Impact as Software Engineer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Impact as Software Engineer"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -182,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Context Builder.md",
+                "file": "Inbox/Impact as Software Engineer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Context Builder"
+              "title": "Outgoing links from Impact as Software Engineer"
             }
           },
           {
@@ -258,8 +282,12 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f3109425ae0ec1d0",
+  "active": "cde8c0b6f5d2d295",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Inbox/Impact as Software Engineer.md",
+    "Inbox/Context Builder.md",
+    "Daily/2026-07-13.md",
     "ARIS/Classification.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Notion/Projects & Tasks/Projects & Tasks 1.md",
@@ -286,10 +314,6 @@
     "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
     "Weekly note.md",
     "Notion/Projects & Tasks/Tasks/Tasks New task 3.md",
-    "Notion/Projects & Tasks/Tasks/Tasks New task 2.md",
-    "Notion/Projects & Tasks/Tasks/Tasks New task 1.md",
-    "Notion/Projects & Tasks/Tasks/Tasks New task.md",
-    "Notion/Projects & Tasks/Tasks/Test Jetson Orin Nano.md",
     "Archive/attachments/Implement Point Annotation from customers dashboard.jpeg",
     "Archive/attachments/Ubuntu_dialog-bokse.jpg",
     "Archive/attachments/image 11.png",

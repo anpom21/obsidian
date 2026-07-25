@@ -1151,24 +1151,9 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 19,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 20,
       "openLogs": [
-        {
-          "timestampMillis": 1781852090080
-        },
-        {
-          "timestampMillis": 1781852090375
-        },
-        {
-          "timestampMillis": 1781855102634
-        },
-        {
-          "timestampMillis": 1781855478577
-        },
-        {
-          "timestampMillis": 1781855582152
-        },
         {
           "timestampMillis": 1783683249376
         },
@@ -1210,6 +1195,9 @@
         },
         {
           "timestampMillis": 1784550143642
+        },
+        {
+          "timestampMillis": 1785010768887
         }
       ]
     },
@@ -1483,7 +1471,7 @@
     {
       "path": "Inbox/Context Builder.md",
       "uniqueDaysOpened": 4,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1784317615558
@@ -1496,19 +1484,25 @@
         },
         {
           "timestampMillis": 1785007659126
+        },
+        {
+          "timestampMillis": 1785010767744
         }
       ]
     },
     {
       "path": "Daily/2026-07-13.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1784390732514
         },
         {
           "timestampMillis": 1784390743279
+        },
+        {
+          "timestampMillis": 1785010761312
         }
       ]
     },
@@ -1719,6 +1713,16 @@
       "openLogs": [
         {
           "timestampMillis": 1785007134113
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Impact as Software Engineer.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785010910444
         }
       ]
     }
