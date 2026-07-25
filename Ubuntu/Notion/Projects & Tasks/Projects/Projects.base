@@ -1,0 +1,31 @@
+# Projects
+
+filters:
+  and:
+    - note["base"] == link("Projects.base")
+properties:
+  file.name:
+    displayName: Project name
+  Type:
+    displayName: Type
+  Owner:
+    displayName: Owner
+  Status:
+    displayName: Status
+  Priority:
+    displayName: Priority
+  Dates:
+    displayName: Dates
+  Tasks:
+    displayName: Tasks
+views:
+  - type: table
+    name: Table View
+    order:
+      - file.name
+      - Type
+      - Owner
+      - Status
+      - Priority
+      - Dates
+      - Tasks
