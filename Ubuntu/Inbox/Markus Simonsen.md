@@ -41,9 +41,12 @@ partner: "[[Maja Abrahamsen]]"
 - Starter arbejde 1. August
 
 ## Timeline
-- 
+- Ski tur [[2026-07-24]]
+- Bolig upgrades
+- ESP32 smart home. Beep nfc tag v døren, postkasse chip, phillips hue lamper, projektor, pull up ringe. 
+- 54 skruer
 
-- [ ] Ski tur i kbh i juli🔼 
+- [x] Ski tur i kbh i juli 🔼 ✅ 2026-07-24
 ---
 ## Related Notes
 

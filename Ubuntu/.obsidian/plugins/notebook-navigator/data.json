@@ -65,7 +65,8 @@
           "transitionStyle": "hue",
           "scope": "root"
         }
-      }
+      },
+      "descendantExcludedFolders": []
     }
   ],
   "vaultProfile": "default",
@@ -80,6 +81,9 @@
     "useFloatingToolbars": "synced",
     "dualPane": "synced",
     "dualPaneOrientation": "synced",
+    "narrowSidebarLayout": "synced",
+    "narrowSidebarTriggerMode": "synced",
+    "narrowSidebarCustomWidth": "synced",
     "paneTransitionDuration": "synced",
     "toolbarVisibility": "synced",
     "pinNavigationBanner": "synced",
@@ -115,6 +119,9 @@
   },
   "dualPane": true,
   "dualPaneOrientation": "horizontal",
+  "narrowSidebarLayout": "singlePane",
+  "narrowSidebarTriggerMode": "fitPanes",
+  "narrowSidebarCustomWidth": 350,
   "showTooltips": false,
   "showTooltipPath": true,
   "showTooltipWordCount": false,
@@ -134,6 +141,7 @@
     "list": {
       "back": true,
       "search": true,
+      "reveal": false,
       "descendants": true,
       "sort": true,
       "appearance": true,
@@ -154,12 +162,15 @@
   "showNoteCount": true,
   "separateNoteCounts": true,
   "showIndentGuides": false,
+  "navCountLeaderStyle": "none",
   "rootLevelSpacing": 0,
   "navIndent": 16,
   "navItemHeight": 28,
   "navItemHeightScaleText": true,
   "collapseBehavior": "all",
   "smartCollapse": true,
+  "excludeVaultRootFromCollapse": false,
+  "collapseOtherBranchesOnExpand": false,
   "autoSelectFirstFileOnFocusChange": false,
   "autoExpandNavItems": false,
   "springLoadedFolders": true,
@@ -185,7 +196,8 @@
   "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
   "pinCreatedFolderNote": false,
-  "openFolderNotesInNewTab": false,
+  "folderNoteOpenLocation": "current-tab",
+  "showNearestFolderNoteInSidebar": true,
   "showTags": true,
   "showTagIcons": true,
   "showAllTagsFolder": true,
@@ -214,6 +226,9 @@
   "noteGrouping": "date",
   "showSelectedNavigationPills": false,
   "stickyGroupHeaders": true,
+  "showFolderGroupPaths": true,
+  "showGroupHeaderItemCounts": false,
+  "showCurrentFolderFilesAtBottom": false,
   "filterPinnedByFolder": false,
   "compactItemHeight": 28,
   "compactItemHeightScaleText": true,
@@ -241,6 +256,7 @@
   "fileNameIconMap": {},
   "showCategoryIcons": false,
   "fileTypeIconMap": {},
+  "fileTypeIconPreset": "none",
   "fileNameRows": 1,
   "useFolderColorForTitles": false,
   "showFilePreview": true,
@@ -290,6 +306,7 @@
   "calendarMonthHeadingFormat": "full",
   "calendarHighlightToday": true,
   "calendarShowFeatureImage": true,
+  "calendarShowTasks": true,
   "calendarMonthHighlights": {},
   "calendarShowWeekNumber": true,
   "calendarShowQuarter": false,
@@ -342,6 +359,12 @@
     "pane:end": [
       {
         "key": "End",
+        "modifiers": []
+      }
+    ],
+    "pane:rename": [
+      {
+        "key": "F2",
         "modifiers": []
       }
     ],
@@ -416,6 +439,22 @@
         "key": "ArrowDown",
         "modifiers": [
           "Shift"
+        ]
+      }
+    ],
+    "list:manual-sort-up": [
+      {
+        "key": "ArrowUp",
+        "modifiers": [
+          "Mod"
+        ]
+      }
+    ],
+    "list:manual-sort-down": [
+      {
+        "key": "ArrowDown",
+        "modifiers": [
+          "Mod"
         ]
       }
     ],
@@ -509,7 +548,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.0.2",
+  "lastShownVersion": "3.2.4",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
