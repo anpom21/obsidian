@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Classification.md",
+                "file": "Inbox/Context Builder.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Classification"
+              "title": "Context Builder"
             }
           }
         ],
@@ -182,12 +182,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARIS/Classification.md",
+                "file": "Inbox/Context Builder.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Classification"
+              "title": "Outgoing links from Context Builder"
             }
           },
           {
@@ -260,6 +260,7 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
+    "ARIS/Classification.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Notion/Projects & Tasks/Projects & Tasks 1.md",
     "Notion/Projects & Tasks/Projects/New Customers 1.md",
