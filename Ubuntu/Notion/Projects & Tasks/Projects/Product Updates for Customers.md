@@ -1,5 +1,4 @@
 ---
-notion-id: c6a8f6c2-c20b-4028-85df-7f9beb877826
 base: "[[Projects.base]]"
 Type: General
 Owner:
@@ -7,8 +6,8 @@ Owner:
 Status: Done
 Priority: Medium
 Tasks:
-  - 4a369c78-d135-4303-a6f8-1b4fa871d6b4
-  - 9f0a84e1-7cec-4325-ac03-de599a926b14
+  - "[[Notion/Projects & Tasks/Tasks/Devise a plan-method for providing regular updates - what happens if nothing has been updated|Devise a plan-method for providing regular updates - what happens if nothing has been updated]]"
+  - "[[Notion/Projects & Tasks/Tasks/Create the template|Create the template]]"
 ---
 ## About this project
 

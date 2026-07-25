@@ -1,12 +1,11 @@
 ---
-notion-id: 48abfd49-2281-414d-9df2-cdf007dda05f
 base: "[[Projects.base]]"
 Owner: []
 Status: Backlog
 Tasks:
-  - f50b76d7-d4e2-419c-be60-06b69c288ffc
-  - ee988baa-5f69-46ed-b871-5436fd2867d7
-  - b5cdd0b4-33e8-44da-b763-4d42cd055763
+  - "[[Notion/Projects & Tasks/Tasks/Integration of Matoha sensor with Jetson Orin|Integration of Matoha sensor with Jetson Orin]]"
+  - "[[Notion/Projects & Tasks/Tasks/Test of Ibsen Photonics Spectrometer|Test of Ibsen Photonics Spectrometer]]"
+  - "[[Notion/Projects & Tasks/Tasks/Test of Hamamatsu Sensor|Test of Hamamatsu Sensor]]"
 ---
 ## About this project
 

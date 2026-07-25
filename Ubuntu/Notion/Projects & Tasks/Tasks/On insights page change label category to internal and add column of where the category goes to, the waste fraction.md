@@ -1,5 +1,4 @@
 ---
-notion-id: 1a0a52e3-6b64-80f1-8f53-d0f649f765d3
 base: "[[Tasks.base]]"
 Last edited time: 2025-03-03T15:37:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-02-26
 Priority: High
 Project:
-  - 19da52e3-6b64-8008-a712-e31fc1eb8c75
+  - "[[Notion/Projects & Tasks/Projects/General improvements|General improvements]]"
 ---
 Done-Criteria:
 

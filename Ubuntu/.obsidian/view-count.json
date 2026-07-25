@@ -1603,6 +1603,101 @@
           "timestampMillis": 1784550145616
         }
       ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785006880595
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Tasks.base",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785006884180
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Projects/PVC Classification.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1785006911228
+        },
+        {
+          "timestampMillis": 1785006997967
+        },
+        {
+          "timestampMillis": 1785007001747
+        },
+        {
+          "timestampMillis": 1785007004682
+        },
+        {
+          "timestampMillis": 1785007006570
+        },
+        {
+          "timestampMillis": 1785007009315
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Data collection at Posibi.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785006995073
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Data annotation of collected data.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785006999178
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Train a model.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785007003321
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/(Collect more data at Posibi).md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785007005662
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Projects & Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785007014479
+        }
+      ]
     }
   ]
 }

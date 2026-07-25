@@ -1,5 +1,4 @@
 ---
-notion-id: 17ea52e3-6b64-801c-9685-c8bb556beb1f
 base: "[[Tasks.base]]"
 Last edited time: 2025-02-20T12:42:00
 Current sprint: false
@@ -8,7 +7,7 @@ Assignee:
 Status: Done
 Priority: Low
 Project:
-  - 17ea52e3-6b64-80e6-9f25-e3fac9f62f73
+  - "[[Notion/Projects & Tasks/Projects/Bug fixes|Bug fixes]]"
 ---
 Happens in data collection mode possible also in normal mode
 

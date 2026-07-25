@@ -1,5 +1,4 @@
 ---
-notion-id: 322a52e3-6b64-80e3-a729-e8c27e4cbc7f
 base: "[[Tasks.base]]"
 Last edited time: 2026-07-21T13:15:00
 Current sprint: false

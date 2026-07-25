@@ -1,5 +1,4 @@
 ---
-notion-id: 1c9a52e3-6b64-80fd-b1fc-f33338c2675d
 base: "[[Tasks.base]]"
 Last edited time: 2025-05-28T13:20:00
 Current sprint: false
@@ -8,7 +7,7 @@ Assignee:
 Status: In Review
 Due: 2025-06-19
 Project:
-  - 1c9a52e3-6b64-80ef-8dc4-fe4283fe0d7e
+  - "[[Notion/Projects & Tasks/Projects/LCA Rework|LCA Rework]]"
 ---
 Questions
 

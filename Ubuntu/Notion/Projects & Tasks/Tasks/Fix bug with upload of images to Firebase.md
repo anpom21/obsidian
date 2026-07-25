@@ -1,5 +1,4 @@
 ---
-notion-id: 1dfa52e3-6b64-8003-808c-e19c58509562
 base: "[[Tasks.base]]"
 Last edited time: 2025-05-08T08:50:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-04-30
 Priority: High
 Project:
-  - 17ea52e3-6b64-80e6-9f25-e3fac9f62f73
+  - "[[Notion/Projects & Tasks/Projects/Bug fixes|Bug fixes]]"
 ---
 A couple of machines each week lose connection to Firebase, which means images are not uploaded to firebase, consequence of this is:
 

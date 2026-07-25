@@ -1,20 +1,19 @@
 ---
-notion-id: 1c1a52e3-6b64-80a2-8a57-e7a69525cd6a
 base: "[[Projects.base]]"
 Owner:
   - 7a9bee9b-5241-436b-9b1d-7f58eff580bf
 Status: In Progress
 Dates: 2025-04-16
 Tasks:
-  - 1c1a52e3-6b64-8074-9057-fb416012fd15
-  - 1c1a52e3-6b64-8038-ac02-f6f9afef61ca
-  - 1c1a52e3-6b64-8093-ab74-fd2e0769f9a3
-  - 1c1a52e3-6b64-8034-92d3-ce64ab32b2bd
-  - 1c1a52e3-6b64-8046-aff8-c61615fc8105
-  - 1c1a52e3-6b64-80a9-9cb6-e0cbe1d708be
-  - 1c1a52e3-6b64-8002-a55c-c5731d3c10ba
-  - 1c1a52e3-6b64-8020-ae23-f8ca9579a29f
-  - 1c1a52e3-6b64-8033-b66f-e97de89a1c0d
+  - "[[Notion/Projects & Tasks/Tasks/Implement an admin view of insights where all machines are are shown in list form with their id (e.g. smoldering-whale) as the first entry|Implement an admin view of insights where all machines are are shown in list form with their id (e.g. smoldering-whale) as the first entry]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement dropdowns in the admin view page for choosing specific machines and choosing the specific configuration|Implement dropdowns in the admin view page for choosing specific machines and choosing the specific configuration]]"
+  - "[[Notion/Projects & Tasks/Tasks/Move display-config into and Implement deployment-config|Move display-config into and Implement deployment-config]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement deployment-configs as objects in firebase with versioning, so that each unit can compare versioning of own deployment config to see if a new deployment config is available for the unit|Implement deployment-configs as objects in firebase with versioning, so that each unit can compare versioning of own deployment config to see if a new deployment config is available for the unit]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement a button on the admin page, that when activated takes the choices of the dropdowns and the selected machines and generates new deployment-config files that are then pushed to database bumping the version number|Implement a button on the admin page, that when activated takes the choices of the dropdowns and the selected machines and generates new deployment-config files that are then pushed to database bumping the version number]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement that machines check at specific time (e.g. 2.00 AM) versioning of their own deployment-config file and compare to the version number in the database|Implement that machines check at specific time (e.g. 2.00 AM) versioning of their own deployment-config file and compare to the version number in the database]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement units download if new config and then from the deployment-config read the new model to be downloaded and download this and restart state-machine to load in the new model|Implement units download if new config and then from the deployment-config read the new model to be downloaded and download this and restart state-machine to load in the new model]]"
+  - "[[Notion/Projects & Tasks/Tasks/Move default versions of configs to SBC-setup repo (main config and camera config)|Move default versions of configs to SBC-setup repo (main config and camera config)]]"
+  - "[[Notion/Projects & Tasks/Tasks/Develop cascading configs for main config and camera config, so that each unit has custom versions of the default configs that they override|Develop cascading configs for main config and camera config, so that each unit has custom versions of the default configs that they override]]"
 ---
 ## About this project
 

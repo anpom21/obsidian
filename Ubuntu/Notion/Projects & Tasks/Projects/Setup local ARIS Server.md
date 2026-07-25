@@ -1,5 +1,4 @@
 ---
-notion-id: 1eea52e3-6b64-8061-af09-ea92543f3a2c
 base: "[[Projects.base]]"
 Owner:
   - Christian

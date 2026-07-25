@@ -1,13 +1,12 @@
 ---
-notion-id: 196a52e3-6b64-80a4-8c76-df39a73267a9
 base: "[[Projects.base]]"
 Owner:
   - 7a9bee9b-5241-436b-9b1d-7f58eff580bf
 Status: Done
 Tasks:
-  - 196a52e3-6b64-80e6-b960-f5933a9d5a02
-  - 196a52e3-6b64-80d2-bbda-ebf9cd2b947d
-  - 196a52e3-6b64-8005-8f26-c8a64252d16f
+  - "[[Notion/Projects & Tasks/Tasks/Remove model-config, system-config & display config from GitHub|Remove model-config, system-config & display config from GitHub]]"
+  - "[[Notion/Projects & Tasks/Tasks/Do light refactor with renaming of config files to match, what they are configging for|Do light refactor with renaming of config files to match, what they are configging for]]"
+  - "[[Notion/Projects & Tasks/Tasks/Move model thresholds from system config to model config|Move model thresholds from system config to model config]]"
 ---
 ## About this project
 

@@ -1,5 +1,4 @@
 ---
-notion-id: 1c1a52e3-6b64-8020-ae23-f8ca9579a29f
 base: "[[Tasks.base]]"
 Last edited time: 2025-03-31T14:56:00
 Current sprint: false
@@ -9,5 +8,5 @@ Assignee:
 Status: Done
 Priority: High
 Project:
-  - 1c1a52e3-6b64-80a2-8a57-e7a69525cd6a
+  - "[[Notion/Projects & Tasks/Projects/Admin page for upload of models to units|Admin page for upload of models to units]]"
 ---

@@ -1,14 +1,13 @@
 ---
-notion-id: 1eea52e3-6b64-8082-b85f-c19d1316fe22
 base: "[[Projects.base]]"
 Owner: []
 Status: In Progress
 Dates: 2025-05-28
 Tasks:
-  - 1eea52e3-6b64-8023-9eab-e19f19e8f94e
-  - 1eea52e3-6b64-80b6-8d9b-e0879ad47d0b
-  - 1eea52e3-6b64-8089-bf49-ede3c2737b85
-  - 1eea52e3-6b64-807e-af10-f546741bcb25
+  - "[[Notion/Projects & Tasks/Tasks/Set up a test unit with just a Jetson and a Pico attached|Set up a test unit with just a Jetson and a Pico attached]]"
+  - "[[Notion/Projects & Tasks/Tasks/Read the communication code on the Pico|Read the communication code on the Pico]]"
+  - "[[Notion/Projects & Tasks/Tasks/Consider and write down pros and cons of changing to an event based communication|Consider and write down pros and cons of changing to an event based communication]]"
+  - "[[Notion/Projects & Tasks/Tasks/Refactor the Pico code based on the considerations|Refactor the Pico code based on the considerations]]"
 ---
 ## About this project
 

@@ -1,5 +1,4 @@
 ---
-notion-id: 18ca52e3-6b64-8052-8d3b-fccfe2cdecfc
 base: "[[Tasks.base]]"
 Last edited time: 2025-02-07T11:07:00
 Current sprint: false
@@ -8,5 +7,5 @@ Assignee:
 Status: Done
 Priority: Low
 Project:
-  - 17ea52e3-6b64-80a5-8b9b-cfc0dc03edac
+  - "[[Notion/Projects & Tasks/Projects/Update plastic model Jan 2025|Update plastic model Jan 2025]]"
 ---

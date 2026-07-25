@@ -1,17 +1,16 @@
 ---
-notion-id: 1c9a52e3-6b64-80ef-8dc4-fe4283fe0d7e
 base: "[[Projects.base]]"
 Owner:
   - William
 Status: In Progress
 Dates: 2025-04-22
 Tasks:
-  - 1c9a52e3-6b64-80fd-b1fc-f33338c2675d
-  - 1c9a52e3-6b64-80c2-b5c0-f9144e5b4a54
-  - 1c9a52e3-6b64-803c-b634-d339a838daef
-  - 1c9a52e3-6b64-804c-8f24-c8fd7208b27b
-  - 1c9a52e3-6b64-808b-8271-c10fd506cb00
-  - 1c9a52e3-6b64-80c4-a639-ec5da87507c0
+  - "[[Notion/Projects & Tasks/Tasks/Estimate quantity of wood it needs to move in order to be carbon equivalent neutral|Estimate quantity of wood it needs to move in order to be carbon equivalent neutral]]"
+  - "[[Notion/Projects & Tasks/Tasks/Estimate quantity of plastic it needs to move in order to be carbon equivalent neutral|Estimate quantity of plastic it needs to move in order to be carbon equivalent neutral]]"
+  - "[[Notion/Projects & Tasks/Tasks/Prepare calculations and estimations for LinkedIn-posts|Prepare calculations and estimations for LinkedIn-posts]]"
+  - "[[Notion/Projects & Tasks/Tasks/Estimate CO2eq saved per use of the machine after going CO2eq neutral for all current waste fractions|Estimate CO2eq saved per use of the machine after going CO2eq neutral for all current waste fractions]]"
+  - "[[Notion/Projects & Tasks/Tasks/Verify CO2eq for whole lifecycle of Wade product|Verify CO2eq for whole lifecycle of Wade product]]"
+  - "[[Notion/Projects & Tasks/Tasks/Go through and verify answers to questions from Frederiks LCA presentation|Go through and verify answers to questions from Frederiks LCA presentation]]"
 ---
 ## About this project
 

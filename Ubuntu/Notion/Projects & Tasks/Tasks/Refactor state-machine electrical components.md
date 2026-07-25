@@ -1,5 +1,4 @@
 ---
-notion-id: 1dfa52e3-6b64-8056-a5ad-e46dc885b2dd
 base: "[[Tasks.base]]"
 Last edited time: 2025-05-08T08:52:00
 Current sprint: false
@@ -10,6 +9,6 @@ Status: Done
 Due: 2025-05-02
 Priority: High
 Project:
-  - 19da52e3-6b64-8008-a712-e31fc1eb8c75
+  - "[[Notion/Projects & Tasks/Projects/General improvements|General improvements]]"
 ---
 Refactoring of multiprocessing in the state-machine

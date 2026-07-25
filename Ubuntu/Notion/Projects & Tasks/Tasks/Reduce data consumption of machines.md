@@ -1,5 +1,4 @@
 ---
-notion-id: 277a52e3-6b64-8086-9b3d-d0401c8aa463
 base: "[[Tasks.base]]"
 Last edited time: 2025-11-10T14:15:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-10-16
 Priority: High
 Project:
-  - 19da52e3-6b64-8008-a712-e31fc1eb8c75
+  - "[[Notion/Projects & Tasks/Projects/General improvements|General improvements]]"
 ---
 - [ ] Reduce data consumption of Wades
     - Playful-monkey located in RoboHouse is prime example of this

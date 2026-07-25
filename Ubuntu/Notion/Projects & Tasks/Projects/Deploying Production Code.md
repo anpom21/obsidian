@@ -1,17 +1,16 @@
 ---
-notion-id: 1bba52e3-6b64-802c-8f0b-ed188412b688
 base: "[[Projects.base]]"
 Owner:
   - 135d872b-594c-8169-8434-000285f1c45f
 Status: Done
 Tasks:
-  - 1bba52e3-6b64-8011-9090-f813a188e178
-  - 1bba52e3-6b64-808d-97f8-e5ab19a3bcc8
-  - 1bba52e3-6b64-8051-aecd-c37df04d4617
-  - 1bba52e3-6b64-8075-bd35-ec98a1ae251e
-  - 1bba52e3-6b64-8094-94a6-dba68c043fb2
-  - 1bba52e3-6b64-8035-a89b-f402891e33e5
-  - 1a0a52e3-6b64-801d-8935-cac3d22ce58d
+  - "[[Notion/Projects & Tasks/Tasks/Setup branches in wade-system Display-develop, Display-staging, Display-production|Setup branches in wade-system Display-develop, Display-staging, Display-production]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement automatic pull of the Display-staging git branch of wade-system if this branch is updated|Implement automatic pull of the Display-staging git branch of wade-system if this branch is updated]]"
+  - "[[Notion/Projects & Tasks/Tasks/Implement automatic pull of the Display-production git branch to all units|Implement automatic pull of the Display-production git branch to all units]]"
+  - "[[Notion/Projects & Tasks/Tasks/Setup admin-page with view of all units with their unit-id|Setup admin-page with view of all units with their unit-id]]"
+  - "[[Notion/Projects & Tasks/Tasks/Include in setup script & setup documentation, that machines are configured to upload to Insights|Include in setup script & setup documentation, that machines are configured to upload to Insights]]"
+  - "[[Notion/Projects & Tasks/Tasks/Setup, a test procedure for Fierce-Wolf where it takes x amount of pictures in y timeframe, which can then be used to validate a fully functioning system|Setup, a test procedure for Fierce-Wolf where it takes x amount of pictures in y timeframe, which can then be used to validate a fully functioning system]]"
+  - "[[Notion/Projects & Tasks/Tasks/Make versioning system for the config file(s)|Make versioning system for the config file(s)]]"
 ---
 ## About this project
 

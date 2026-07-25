@@ -1,5 +1,4 @@
 ---
-notion-id: 1c1a52e3-6b64-8074-9057-fb416012fd15
 base: "[[Tasks.base]]"
 Last edited time: 2025-06-19T10:05:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-06-19
 Priority: Medium
 Project:
-  - 1c1a52e3-6b64-80a2-8a57-e7a69525cd6a
+  - "[[Notion/Projects & Tasks/Projects/Admin page for upload of models to units|Admin page for upload of models to units]]"
 ---
 This is the pink drawing on the whiteboard. 
 

@@ -1,5 +1,4 @@
 ---
-notion-id: 1c1a52e3-6b64-80a9-9cb6-e0cbe1d708be
 base: "[[Tasks.base]]"
 Last edited time: 2026-03-03T14:12:00
 Current sprint: false
@@ -10,5 +9,5 @@ Status: Done
 Due: 2025-06-19
 Priority: Medium
 Project:
-  - 1c1a52e3-6b64-80a2-8a57-e7a69525cd6a
+  - "[[Notion/Projects & Tasks/Projects/Admin page for upload of models to units|Admin page for upload of models to units]]"
 ---

@@ -1,5 +1,4 @@
 ---
-notion-id: 27da52e3-6b64-8028-8065-ef563a81178f
 base: "[[Tasks.base]]"
 Last edited time: 2025-11-25T13:23:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-10-16
 Priority: Medium
 Project:
-  - 19da52e3-6b64-8008-a712-e31fc1eb8c75
+  - "[[Notion/Projects & Tasks/Projects/General improvements|General improvements]]"
 ---
 
 - [ ] Move all OpenVPN profiles from using Azure to using our self-hosted server  on ARIS server (behind Christians desk with ip 192.168.25.225 )

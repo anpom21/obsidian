@@ -56,22 +56,12 @@
             }
           },
           {
-            "id": "b7842ca1a4060e50",
-            "type": "leaf",
-            "state": {
-              "type": "view-count",
-              "state": {},
-              "icon": "eye",
-              "title": "View count"
-            }
-          },
-          {
             "id": "f3109425ae0ec1d0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Notion/Projects & Tasks/Projects & Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -86,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly note"
+              "title": "Projects & Tasks"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -109,7 +99,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "context builder",
+                "query": "project and tasks",
                 "matchingCase": false,
                 "explainSearch": true,
                 "collapseAll": false,
@@ -153,7 +143,8 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -192,12 +183,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly note.md",
+                "file": "Notion/Projects & Tasks/Projects & Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weekly note"
+              "title": "Outgoing links from Projects & Tasks"
             }
           },
           {
@@ -266,32 +257,35 @@
   },
   "active": "f3109425ae0ec1d0",
   "lastOpenFiles": [
-    "Notion/Projects & Tasks/Tasks/Add to admin page, overview of confusion matrix.md",
-    "Notion/Projects & Tasks/Tasks/Add to user page, overview of confusion matrix.md",
-    "Notion/Projects & Tasks/Tasks/Documentation of Philip software.md",
-    "Notion/Projects & Tasks/Tasks/Documentation of Simon software.md",
-    "Notion/Projects & Tasks/Tasks/Implement unit tests in wade system for production units when deploying new models.md",
-    "Notion/Projects & Tasks/Tasks/Implement graphs of confidence score from units on the admin page ( measure confidence drift).md",
-    "Notion/Projects & Tasks/Tasks/Data splitter improvements.md",
-    "Notion/Projects & Tasks/Tasks/Update codebase to work when filename is missing camera view in synthetics.md",
-    "Notion/Projects & Tasks/Tasks/Implement in Augmentations library enabled property for standard fixed list of augmentations.md",
-    "Notion/Projects & Tasks/Tasks/Create new treemodel based on data from Odense Renovation.md",
-    "Notion/Projects & Tasks/Tasks/User should be able to choose label and point to the folders that should represent this label.md",
-    "Notion/Projects & Tasks/Tasks/Drag file path into linux.md",
-    "Notion/Projects & Tasks/Tasks/Don’t copy files to cache.md",
-    "Notion/Projects & Tasks/Tasks/Train new basic plastic model.md",
-    "Notion/Projects & Tasks/Tasks/Make multiclass plastic model that handles background and hands.md",
-    "Notion/Projects & Tasks/Tasks/Go through annotated data and identify new subcategories that can be included in the multiclass model.md",
-    "Notion/Projects & Tasks/Tasks/Deploy multiclass tree model to all ARGO units.md",
-    "Notion/Projects & Tasks/Tasks/For the bulk download add an accompanying csv-file with name, model evaluations and user evaluations.md",
-    "Notion/Projects & Tasks/Tasks/Setup 8 Jetsons for production assembly.md",
-    "Notion/Projects & Tasks/Tasks/Experiment with Docker or Docker-related methods for setting up Jetsons.md",
-    "Notion/Projects & Tasks/Tasks/Fix camera bug in data collection mode.md",
-    "Notion/Projects & Tasks/Tasks/Fix Supervision view for other users.md",
-    "Notion/Projects & Tasks/Tasks/Fix bug with brightness slider becoming inaccessible when there are too many subcategories.md",
-    "Notion/Projects & Tasks/Tasks/Create the config_file as well with the values from the datasplitter such as class names and class weights.md",
-    "Notion/Projects & Tasks/Tasks/Align evaluate_model.ipynb with inference.py, so the experience is the same.md",
-    "Notion/Projects & Tasks/Tasks/Upgrade python version as 3.8 is being deprecated and test all software against the new version.md",
+    "Notion/Projects & Tasks/Projects/PVC Classification.md",
+    "Notion/Projects & Tasks/Tasks/(Collect more data at Posibi).md",
+    "Notion/Projects & Tasks/Tasks/Train a model.md",
+    "Notion/Projects & Tasks/Tasks/Data annotation of collected data.md",
+    "Notion/Projects & Tasks/Tasks/Data collection at Posibi.md",
+    "Notion/Projects & Tasks/Tasks/Tasks.base",
+    "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
+    "Weekly note.md",
+    "Notion/Projects & Tasks/Projects & Tasks.md",
+    "Notion/Projects & Tasks/Tasks/Tasks New task 3.md",
+    "Notion/Projects & Tasks/Tasks/Tasks New task 2.md",
+    "Notion/Projects & Tasks/Tasks/Tasks New task 1.md",
+    "Notion/Projects & Tasks/Tasks/Tasks New task.md",
+    "Notion/Projects & Tasks/Tasks/Test Jetson Orin Nano.md",
+    "Notion/Projects & Tasks/Tasks/Research cheaper cameras.md",
+    "Notion/Projects & Tasks/Tasks/Design lighting In-house.md",
+    "Notion/Projects & Tasks/Tasks/Research cheaper displays.md",
+    "Notion/Projects & Tasks/Tasks/Buy a Orin Nano.md",
+    "Notion/Projects & Tasks/Tasks/Configure Orin Nano with wade-system.md",
+    "Notion/Projects & Tasks/Tasks/Measure inference times.md",
+    "Notion/Projects & Tasks/Tasks/Compare inference times with Orin NX.md",
+    "Notion/Projects & Tasks/Tasks/Comparison between new and existing models.md",
+    "Notion/Projects & Tasks/Tasks/Unite images and annotation data in a common structured database - img-annot database.md",
+    "Notion/Projects & Tasks/Tasks/Model zoo of existing and past models - simplistic data folder version.md",
+    "Notion/Projects & Tasks/Tasks/Trigger batch annotation of real wade data.md",
+    "Notion/Projects & Tasks/Tasks/Connect img-annot database with annotation program to sync annotations.md",
+    "Notion/Projects & Tasks/Tasks/Img-annot database should have annotation version history.md",
+    "Archive/attachments/Implement Point Annotation from customers dashboard.jpeg",
+    "Archive/attachments/Ubuntu_dialog-bokse.jpg",
     "Archive/attachments/image 11.png",
     "Archive/attachments/image 10.png",
     "Archive/attachments/image 9.png",
@@ -300,11 +294,8 @@
     "Archive/attachments/image 6.png",
     "Archive/attachments/Sorteringshjlper-flytning-af-antenne.png",
     "Archive/attachments/be412566-c621-47a5-8c79-bbbeb9b5fbe7.png",
-    "Archive/attachments/859a5959-f29c-42cc-9205-f72fbdf99de0.png",
-    "Archive/attachments/image 5.png",
     "Archive/attachments/ARGO_2025_Uge14.pdf",
     "Notion/Projects & Tasks/Tasks/Investigate why images are misclassified",
-    "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Notion/Projects & Tasks/Tasks",
     "Notion/Projects & Tasks/Projects/Projects.base",
     "Notion/Projects & Tasks/Projects",

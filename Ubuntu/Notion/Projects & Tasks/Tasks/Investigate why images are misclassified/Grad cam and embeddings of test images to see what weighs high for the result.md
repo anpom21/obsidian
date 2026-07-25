@@ -1,5 +1,5 @@
 ---
-notion-id: 201a52e3-6b64-8026-8a19-c41261bca206
+
 ---
 - Mulitiple similar images should produce *very* close embeddings
     - They are spread to different clusters

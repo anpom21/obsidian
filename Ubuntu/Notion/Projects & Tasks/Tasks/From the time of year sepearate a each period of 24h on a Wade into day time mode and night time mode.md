@@ -1,5 +1,4 @@
 ---
-notion-id: 1b2a52e3-6b64-80e3-ab8b-f868ec3c94e4
 base: "[[Tasks.base]]"
 Last edited time: 2025-03-20T15:20:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-03-20
 Priority: High
 Project:
-  - 1afa52e3-6b64-80e4-9050-e561529434bb
+  - "[[Notion/Projects & Tasks/Projects/Make Wade more robust for brightness issues Part 1|Make Wade more robust for brightness issues Part 1]]"
 ---
 Night time mode will use a standard exposure time of 100 ms
 

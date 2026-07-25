@@ -1,13 +1,12 @@
 ---
-notion-id: 1b3a52e3-6b64-80b8-95fe-caf080a33905
 base: "[[Projects.base]]"
 Owner: []
 Status: Permanent
 Tasks:
-  - 1b3a52e3-6b64-80a7-a795-f5fea1df1a07
-  - 1bba52e3-6b64-80e4-8d1a-d74e67740280
-  - 277a52e3-6b64-80c7-b0ff-ff98aa8d2860
-  - 277a52e3-6b64-804c-b016-c01aeef4ab43
+  - "[[Notion/Projects & Tasks/Tasks/Remove the prompt (red hue) for point annotating an image when customers do evaluations on the Dashboard|Remove the prompt (red hue) for point annotating an image when customers do evaluations on the Dashboard]]"
+  - "[[Notion/Projects & Tasks/Tasks/Update units Jolly Giraffe, Playful Monkey & Smiling Donkey and set them up for Insights, so they can be viewed by us|Update units Jolly Giraffe, Playful Monkey & Smiling Donkey and set them up for Insights, so they can be viewed by us]]"
+  - "[[Notion/Projects & Tasks/Tasks/On Fredericia machine in Insights there is two “Tekstilaffald” categories, because they accidentally added an extra, remove one of them and make sure all map to the correct one|On Fredericia machine in Insights there is two “Tekstilaffald” categories, because they accidentally added an extra, remove one of them and make sure all map to the correct one]]"
+  - "[[Notion/Projects & Tasks/Tasks/On Vejen machine change the don’t know screen to ask an employee and include the image from taken|On Vejen machine change the don’t know screen to ask an employee and include the image from taken]]"
 ---
 ## About this project
 

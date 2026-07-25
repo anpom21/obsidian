@@ -1,12 +1,11 @@
 ---
-notion-id: 1e4a52e3-6b64-80c8-8d33-ec0630df7d14
 base: "[[Projects.base]]"
 Owner:
   - William
 Status: Done
 Dates: 2025-05-02
 Tasks:
-  - 1e4a52e3-6b64-8054-8747-eb7b27041b61
+  - "[[Notion/Projects & Tasks/Tasks/Make the report|Make the report]]"
 ---
 ## About this project
 

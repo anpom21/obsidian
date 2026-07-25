@@ -1,5 +1,4 @@
 ---
-notion-id: 3182ead9-7cb4-4697-bc67-083c56fb3c54
 base: "[[Projects.base]]"
 Type: Hardware
 Owner:
@@ -7,21 +6,21 @@ Owner:
 Status: Backlog
 Priority: No Priority
 Tasks:
-  - 5176e322-8e67-4e87-97ba-468e30b7f409
-  - fa66d317-a8a9-4de9-b6c6-25a85a41b9c7
-  - 53b35a78-ab43-42ff-b196-7f70dfa42560
-  - c257076d-0480-4025-a603-50ec9a547b46
-  - 205a8e97-4a7e-48b3-acf7-c9e767768fd5
-  - bc1df90c-655e-4227-9450-c616444613e6
-  - cb81bfb3-29c6-4115-b032-a1e80bd7063a
-  - 769e5c43-5e42-4f77-a3c3-ee53952c2f91
-  - 8220dc8b-dc4b-4dc3-b7dd-8ec729e7d134
-  - 81326a39-21ef-4ad1-a234-d3036a655d43
-  - b8c0bf63-bd14-4b0e-8d05-899e000212a8
-  - 4fcdb221-298c-45b3-a700-bbdfd760dfd5
-  - f3a451e8-f465-4553-849c-b01841ee7504
-  - 052a98f6-fc20-4327-9bb9-3fd8a81f80bc
-  - 96656fe6-24b1-4358-ad45-4345c58e4213
+  - "[[Notion/Projects & Tasks/Tasks/Test Jetson Orin Nano|Test Jetson Orin Nano]]"
+  - "[[Notion/Projects & Tasks/Tasks/Research cheaper cameras|Research cheaper cameras]]"
+  - "[[Notion/Projects & Tasks/Tasks/Design lighting In-house|Design lighting In-house]]"
+  - "[[Notion/Projects & Tasks/Tasks/Research cheaper displays|Research cheaper displays]]"
+  - "[[Notion/Projects & Tasks/Tasks/Reduce material consumption|Reduce material consumption]]"
+  - "[[Notion/Projects & Tasks/Tasks/Research cheaper alternatives across all smaller components|Research cheaper alternatives across all smaller components]]"
+  - "[[Notion/Projects & Tasks/Tasks/Separation of signboard and machine|Separation of signboard and machine]]"
+  - "[[Notion/Projects & Tasks/Tasks/Remove the table|Remove the table]]"
+  - "[[Notion/Projects & Tasks/Tasks/Remove the button|Remove the button]]"
+  - "[[Notion/Projects & Tasks/Tasks/Make components more modular to easily replace|Make components more modular to easily replace]]"
+  - "[[Notion/Projects & Tasks/Tasks/Get button input using only Jetson Orin|Get button input using only Jetson Orin]]"
+  - "[[Notion/Projects & Tasks/Tasks/Outsource full assembly & component sourcing|Outsource full assembly & component sourcing]]"
+  - "[[Notion/Projects & Tasks/Tasks/More interactive product, e.g. using RGB lighting|More interactive product, e.g. using RGB lighting]]"
+  - "[[Notion/Projects & Tasks/Tasks/Friendlier looking machine - more kid friendly|Friendlier looking machine - more kid friendly]]"
+  - "[[Notion/Projects & Tasks/Tasks/Get fully assembled PCB’s|Get fully assembled PCB’s]]"
 ---
 ## About this project
 

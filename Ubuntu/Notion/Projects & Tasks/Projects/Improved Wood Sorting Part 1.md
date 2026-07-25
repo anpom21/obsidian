@@ -1,17 +1,16 @@
 ---
-notion-id: 15da52e3-6b64-80ae-8493-f555ca739272
 base: "[[Projects.base]]"
 Owner:
   - 135d872b-594c-8169-8434-000285f1c45f
 Status: Done
 Dates: 2025-01-17
 Tasks:
-  - 15da52e3-6b64-80eb-808c-cb67c5989f32
-  - 15da52e3-6b64-802d-b6f0-e19fea471ca6
-  - 15da52e3-6b64-808d-8e3d-c9d18c4130c5
-  - 15da52e3-6b64-80d0-83c8-ce2b784681ea
-  - 15da52e3-6b64-80e1-af52-e70c5ed0517c
-  - 15da52e3-6b64-8092-ae96-ee44f749201c
+  - "[[Notion/Projects & Tasks/Tasks/Include background handling in the model- system code|Include background handling in the model- system code]]"
+  - "[[Notion/Projects & Tasks/Tasks/Train model to distinguish furniture wood|Train model to distinguish furniture wood]]"
+  - "[[Notion/Projects & Tasks/Tasks/Train model to distinguish between two types of painted wood prob indoor and prob outdoor|Train model to distinguish between two types of painted wood prob indoor and prob outdoor]]"
+  - "[[Notion/Projects & Tasks/Tasks/Train model to handle other objects - minimum requirement is arms and hands-gloves|Train model to handle other objects - minimum requirement is arms and hands-gloves]]"
+  - "[[Notion/Projects & Tasks/Tasks/Modify Wade system logic to handle more wood categories that should be piped to existing system outputs|Modify Wade system logic to handle more wood categories that should be piped to existing system outputs]]"
+  - "[[Notion/Projects & Tasks/Tasks/Modify Dashboard logic to handle more wood categories that should be directed to existing labels|Modify Dashboard logic to handle more wood categories that should be directed to existing labels]]"
 ---
 ## About this project
 

@@ -1,5 +1,4 @@
 ---
-notion-id: 1bba52e3-6b64-8094-94a6-dba68c043fb2
 base: "[[Tasks.base]]"
 Last edited time: 2025-03-21T07:27:00
 Current sprint: false
@@ -8,5 +7,5 @@ Assignee:
 Status: Done
 Priority: Low
 Project:
-  - 1bba52e3-6b64-802c-8f0b-ed188412b688
+  - "[[Notion/Projects & Tasks/Projects/Deploying Production Code|Deploying Production Code]]"
 ---

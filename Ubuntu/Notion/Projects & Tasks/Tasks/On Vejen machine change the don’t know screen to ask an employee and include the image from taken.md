@@ -1,5 +1,4 @@
 ---
-notion-id: 277a52e3-6b64-804c-b016-c01aeef4ab43
 base: "[[Tasks.base]]"
 Last edited time: 2025-09-29T11:08:00
 Current sprint: false
@@ -8,7 +7,7 @@ Assignee:
 Status: Done
 Priority: High
 Project:
-  - 1b3a52e3-6b64-80b8-95fe-caf080a33905
+  - "[[Notion/Projects & Tasks/Projects/Small requests|Small requests]]"
 ---
 Screen should say:
 

@@ -1,5 +1,4 @@
 ---
-notion-id: 1c3a52e3-6b64-80b6-8d5f-c817b5c326a2
 base: "[[Tasks.base]]"
 Last edited time: 2025-09-04T10:28:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: In Progress
 Due: 2025-06-19
 Priority: Medium
 Project:
-  - 1c3a52e3-6b64-80fb-999a-cb920f21535a
+  - "[[Notion/Projects & Tasks/Projects/Hardware Upgrades for Wade 2.0|Hardware Upgrades for Wade 2.0]]"
 ---
 The sunscreen needs 33 individual rubber sheets.
 

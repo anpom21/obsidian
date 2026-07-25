@@ -1,16 +1,15 @@
 ---
-notion-id: 1c3a52e3-6b64-80fb-999a-cb920f21535a
 base: "[[Projects.base]]"
 Owner:
   - William
 Status: Backlog
 Tasks:
-  - 1c3a52e3-6b64-8002-876b-f05b4a8abeba
-  - 1c3a52e3-6b64-80b6-8d5f-c817b5c326a2
-  - 1c3a52e3-6b64-8023-8cb4-fe22085fa386
-  - 1c3a52e3-6b64-8014-b8e7-c71486ff1afa
-  - 1c3a52e3-6b64-80a0-b4be-efb1bf7cff66
-  - 1eca52e3-6b64-809b-99ef-e25ea1b75702
+  - "[[Notion/Projects & Tasks/Tasks/Move the antenna from the the side of Wade to the top of the head|Move the antenna from the the side of Wade to the top of the head]]"
+  - "[[Notion/Projects & Tasks/Tasks/Improve mounting of rubber sheets on the sunscreen|Improve mounting of rubber sheets on the sunscreen]]"
+  - "[[Notion/Projects & Tasks/Tasks/Modify the camera reflector screen to allow air to pass through the bottom and modify it to make it easier to mount|Modify the camera reflector screen to allow air to pass through the bottom and modify it to make it easier to mount]]"
+  - "[[Notion/Projects & Tasks/Tasks/Modify the electronics box to have the camera on the outside of the electronics box in a Basler camera enclosure|Modify the electronics box to have the camera on the outside of the electronics box in a Basler camera enclosure]]"
+  - "[[Notion/Projects & Tasks/Tasks/Modify the cables into the electronics box to be panel mounted instead of going through glands|Modify the cables into the electronics box to be panel mounted instead of going through glands]]"
+  - "[[Notion/Projects & Tasks/Tasks/Slightly modify the bottom part of the glass fixture to not have sharp corners|Slightly modify the bottom part of the glass fixture to not have sharp corners]]"
 ---
 ## About this project
 

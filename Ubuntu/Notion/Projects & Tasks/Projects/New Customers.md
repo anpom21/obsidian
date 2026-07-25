@@ -1,11 +1,10 @@
 ---
-notion-id: 1bba52e3-6b64-8057-8058-c64c1aea71af
 base: "[[Projects.base]]"
 Owner: []
 Status: Permanent
 Tasks:
-  - 1bba52e3-6b64-805f-8345-c19e21b6c225
-  - 1e3a52e3-6b64-80e8-85bf-ea4e77df2dc9
+  - "[[Notion/Projects & Tasks/Tasks/Setup Majestic Horse to Vejen|Setup Majestic Horse to Vejen]]"
+  - "[[Notion/Projects & Tasks/Tasks/Setup Smiling Donkey for Ærø|Setup Smiling Donkey for Ærø]]"
 ---
 ## About this project
 

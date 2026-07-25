@@ -1,5 +1,4 @@
 ---
-notion-id: 1c1a52e3-6b64-8093-ab74-fd2e0769f9a3
 base: "[[Tasks.base]]"
 Last edited time: 2025-05-16T09:50:00
 Current sprint: false
@@ -9,7 +8,7 @@ Status: Done
 Due: 2025-05-28
 Priority: Medium
 Project:
-  - 1c1a52e3-6b64-80a2-8a57-e7a69525cd6a
+  - "[[Notion/Projects & Tasks/Projects/Admin page for upload of models to units|Admin page for upload of models to units]]"
 ---
 Deployment configs will contain information on the following:
 

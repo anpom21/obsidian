@@ -1,5 +1,4 @@
 ---
-notion-id: 3cfc20da-c447-44e7-a3bc-a1553ae1c343
 base: "[[Projects.base]]"
 Type: AI
 Owner:
@@ -7,11 +6,11 @@ Owner:
 Status: Done
 Priority: High
 Tasks:
-  - f2548f98-8e05-453a-9e77-16f4ddd51250
-  - 452f71a2-3eab-4ce9-ae26-d2fc72dc347c
-  - 257a63c0-45ed-4c73-bcda-74fda756b6f0
-  - dfc36d2d-0355-4ce3-a0c3-19421e6e572e
-  - de1285af-2762-43ef-b5ae-2bc68d71bc64
+  - "[[Notion/Projects & Tasks/Tasks/Data collection at Posibi|Data collection at Posibi]]"
+  - "[[Notion/Projects & Tasks/Tasks/Data annotation of collected data|Data annotation of collected data]]"
+  - "[[Notion/Projects & Tasks/Tasks/Train a model|Train a model]]"
+  - "[[Notion/Projects & Tasks/Tasks/Review gradcam and plots|Review gradcam and plots]]"
+  - "[[Notion/Projects & Tasks/Tasks/(Collect more data at Posibi)|(Collect more data at Posibi)]]"
 ---
 ## About this project
 

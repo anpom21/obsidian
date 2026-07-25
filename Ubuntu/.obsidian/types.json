@@ -30,6 +30,11 @@
     "Status": "text",
     "Priority": "text",
     "Dates": "date",
-    "Tasks": "multitext"
+    "Tasks": "multitext",
+    "Last edited time": "datetime",
+    "Current sprint": "checkbox",
+    "Assignee": "multitext",
+    "Due": "date",
+    "Project": "multitext"
   }
 }

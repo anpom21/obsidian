@@ -1,5 +1,4 @@
 ---
-notion-id: 196a52e3-6b64-80e6-b960-f5933a9d5a02
 base: "[[Tasks.base]]"
 Last edited time: 2025-03-12T11:32:00
 Current sprint: false
@@ -8,5 +7,5 @@ Assignee:
 Status: Done
 Priority: High
 Project:
-  - 196a52e3-6b64-80a4-8c76-df39a73267a9
+  - "[[Notion/Projects & Tasks/Projects/Streamlining config-files|Streamlining config-files]]"
 ---

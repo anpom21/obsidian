@@ -1,23 +1,22 @@
 ---
-notion-id: 17ea52e3-6b64-80e6-9f25-e3fac9f62f73
 base: "[[Projects.base]]"
 Owner: []
 Status: Permanent
 Tasks:
-  - 17ea52e3-6b64-801c-9685-c8bb556beb1f
-  - 17ea52e3-6b64-8044-bad9-ee615b26bb5f
-  - 188a52e3-6b64-8038-a3f6-f2feaae8e910
-  - 1aca52e3-6b64-8062-b2aa-ea0d2189cec8
-  - 1bba52e3-6b64-8068-8496-fdeaa23a7997
-  - 1bba52e3-6b64-80f5-ace4-fccbaad2e2d5
-  - 1c2a52e3-6b64-8071-982c-cd7055f20f9a
-  - 1cfa52e3-6b64-8040-b381-ddcd469733d1
-  - 1dea52e3-6b64-8047-b9e2-dd9f7d65187c
-  - 1dfa52e3-6b64-8003-808c-e19c58509562
-  - 295a52e3-6b64-8049-bc71-e4597c09a0ef
-  - 295a52e3-6b64-8053-94e1-edd5bb1c9feb
-  - 295a52e3-6b64-8057-a2bb-d1a0da2719fe
-  - 2a7a52e3-6b64-8012-a612-e6366f928fe5
+  - "[[Notion/Projects & Tasks/Tasks/Fix camera bug in data collection mode|Fix camera bug in data collection mode]]"
+  - "[[Notion/Projects & Tasks/Tasks/Fix Supervision view for other users|Fix Supervision view for other users]]"
+  - "[[Notion/Projects & Tasks/Tasks/Fix bug with brightness slider becoming inaccessible when there are too many subcategories|Fix bug with brightness slider becoming inaccessible when there are too many subcategories]]"
+  - "[[Notion/Projects & Tasks/Tasks/Look at the ARGO units, some are not displaying correctly in Insights|Look at the ARGO units, some are not displaying correctly in Insights]]"
+  - "[[Notion/Projects & Tasks/Tasks/Correct customer reports - Reports for ARGO are in Swedish|Correct customer reports - Reports for ARGO are in Swedish]]"
+  - "[[Notion/Projects & Tasks/Tasks/Develop script for synchronising images to firebase as quick fix to upload bug|Develop script for synchronising images to firebase as quick fix to upload bug]]"
+  - "[[Notion/Projects & Tasks/Tasks/Look at the Hässleholm unit, the summary of weekly activity is not displaying properly|Look at the Hässleholm unit, the summary of weekly activity is not displaying properly]]"
+  - "[[Notion/Projects & Tasks/Tasks/Look at weekly report, the graphics are not displaying correctly in the document|Look at weekly report, the graphics are not displaying correctly in the document]]"
+  - "[[Notion/Projects & Tasks/Tasks/Fix issue with machines  ipfc-files dissappear requiring restart of the state-machine service|Fix issue with machines  ipfc-files dissappear requiring restart of the state-machine service]]"
+  - "[[Notion/Projects & Tasks/Tasks/Fix bug with upload of images to Firebase|Fix bug with upload of images to Firebase]]"
+  - "[[Notion/Projects & Tasks/Tasks/In the new machine for Plastic at Fredericia (Blushing Lion) the images that get classified as Dangerous Waste won’t appear on insights, but they can be found locally on images_backup and in the inference records|In the new machine for Plastic at Fredericia (Blushing Lion) the images that get classified as Dangerous Waste won’t appear on insights, but they can be found locally on images_backup and in the inference records]]"
+  - "[[Notion/Projects & Tasks/Tasks/First time loading insights and going to any machine the weekly data does not appear, going back one week and then forward again will bring the weekly data back|First time loading insights and going to any machine the weekly data does not appear, going back one week and then forward again will bring the weekly data back]]"
+  - "[[Notion/Projects & Tasks/Tasks/Fredericia Plastic on Insights should have data from old computer (smoldering-whale) and new computer (blushing-lion) on Insights|Fredericia Plastic on Insights should have data from old computer (smoldering-whale) and new computer (blushing-lion) on Insights]]"
+  - "[[Notion/Projects & Tasks/Tasks/In the weekly report sent to ARGO, Viby is not populated by any data|In the weekly report sent to ARGO, Viby is not populated by any data]]"
 ---
 ## About this project
 

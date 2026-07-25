@@ -1,5 +1,4 @@
 ---
-notion-id: 37ca52e3-6b64-80b2-82c6-d5a7be61ac38
 base: "[[Tasks.base]]"
 Last edited time: 2026-07-08T15:25:00
 Current sprint: false
@@ -8,7 +7,7 @@ Assignee:
 Status: Done
 Priority: Medium
 Project:
-  - 37ca52e3-6b64-80dd-b3ab-e8b4c59f104f
+  - "[[Notion/Projects & Tasks/Projects/Model evaluation tracking|Model evaluation tracking]]"
 ---
 # Generate model evaluation manifest with fileserver paths and full classification metrics
 
