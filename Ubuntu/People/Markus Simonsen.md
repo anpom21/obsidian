@@ -42,9 +42,9 @@ partner: "[[Maja Abrahamsen]]"
 
 ## Timeline
 - Ski tur [[2026-07-24]]
-- Bolig upgrades
-- ESP32 smart home. Beep nfc tag v døren, postkasse chip, phillips hue lamper, projektor, pull up ringe. 
-- 54 skruer
+	- Bolig upgrades
+	- ESP32 smart home. Beep nfc tag v døren, postkasse chip, phillips hue lamper, projektor, pull up ringe. 
+	- 54 skruer
 
 - [x] Ski tur i kbh i juli 🔼 ✅ 2026-07-24
 ---

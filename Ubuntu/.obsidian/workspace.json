@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Impact as Software Engineer.md",
+                "file": "Inbox/Better deep ensemble test.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,7 +100,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Impact as Software Engineer"
+              "title": "Better deep ensemble test"
             }
           }
         ],
@@ -117,23 +117,6 @@
         "id": "d4726f9420ca4792",
         "type": "tabs",
         "children": [
-          {
-            "id": "8cf9f3420477a1a0",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "",
-                "matchingCase": false,
-                "explainSearch": true,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "f50f8682467b428a",
             "type": "leaf",
@@ -167,11 +150,12 @@
               "title": "Notebook Navigator"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 632.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -206,12 +190,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Impact as Software Engineer.md",
+                "file": "Inbox/Better deep ensemble test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Impact as Software Engineer"
+              "title": "Outgoing links from Better deep ensemble test"
             }
           },
           {
@@ -284,36 +268,36 @@
   },
   "active": "cde8c0b6f5d2d295",
   "lastOpenFiles": [
-    "Tasks.md",
-    "Inbox/Impact as Software Engineer.md",
-    "Inbox/Context Builder.md",
-    "Daily/2026-07-13.md",
-    "ARIS/Classification.md",
+    "Inbox/Daily Story.md",
+    "Inbox/Færdig uddannet fejring.md",
+    "Inbox/Obsidian Hotkeys.md",
+    "Inbox/Password manager.md",
+    "Inbox/DataView.md",
+    "Inbox/2026-06-10 - Speciale oplæsning.md",
+    "Inbox/emm.md",
+    "Inbox/Løn forhandling.md",
+    "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
+    "Inbox/todo.md",
+    "People/Flemming Something.md",
+    "People/Karsten Lykke Something.md",
+    "People/Storm Holm.md",
+    "People/Dexter Holm.md",
+    "People/Mathias Tungelund Kristensen.md",
+    "People/Casper Rask.md",
+    "People/Aksel Lytsen.md",
+    "People/Magne Vethal Kanneworff.md",
+    "People/Rasmus Storm.md",
+    "People/Tobias Pedersen.md",
+    "People/Victor Nielsen.md",
+    "People/Chris Sejerskilde.md",
+    "People/Søren ….md",
+    "People/Tina ….md",
+    "People/Claus Pommerencke.md",
+    "People/Birthe Pommerencke.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
-    "Notion/Projects & Tasks/Projects & Tasks 1.md",
-    "Notion/Projects & Tasks/Projects/New Customers 1.md",
-    "Notion/Projects & Tasks/Projects/Deploying Production Code 1.md",
     "Archive/attachments/1000012395 1.jpg",
-    "Notion/Projects & Tasks/Projects/Admin page for upload of models to units 1.md",
     "Archive/attachments/1000012491 1.jpg",
-    "Notion/Projects & Tasks/Projects/Hardware Upgrades for Wade 2.0 1.md",
-    "Notion/Projects & Tasks/Projects/LCA Rework 1.md",
-    "Notion/Projects & Tasks/Projects/Vestforbrænding Ballerup Report 1.md",
-    "Notion/Projects & Tasks/Projects/Update communication between Jetson and Pico 1.md",
-    "Notion/Projects & Tasks/Projects/Setup local ARIS Server 1.md",
-    "Notion/Projects & Tasks/Projects/Dangerous waste identification 1.md",
-    "Notion/Projects & Tasks/Projects/Model evaluation tracking 1.md",
-    "Notion/Projects & Tasks/Tasks/Agents Figure out reproducible way to use Matt Pococks workflow (LANGUAGE.md & CONTEXT.md).md",
-    "Notion/Projects & Tasks/Projects & Tasks.md",
     "Notion/Projects & Tasks/Projects/Projects.base",
-    "Notion/Projects & Tasks/Projects/PVC Classification.md",
-    "Notion/Projects & Tasks/Tasks/(Collect more data at Posibi).md",
-    "Notion/Projects & Tasks/Tasks/Train a model.md",
-    "Notion/Projects & Tasks/Tasks/Data annotation of collected data.md",
-    "Notion/Projects & Tasks/Tasks/Data collection at Posibi.md",
-    "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
-    "Weekly note.md",
-    "Notion/Projects & Tasks/Tasks/Tasks New task 3.md",
     "Archive/attachments/Implement Point Annotation from customers dashboard.jpeg",
     "Archive/attachments/Ubuntu_dialog-bokse.jpg",
     "Archive/attachments/image 11.png",

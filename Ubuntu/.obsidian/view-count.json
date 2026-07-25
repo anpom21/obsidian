@@ -1,64 +1,12 @@
 {
   "items": [
     {
-      "path": "Inbox/2026-06-09 - Løn forhandling.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1781006915176
-        },
-        {
-          "timestampMillis": 1781007163467
-        },
-        {
-          "timestampMillis": 1781007208749
-        },
-        {
-          "timestampMillis": 1781007212266
-        },
-        {
-          "timestampMillis": 1781008771309
-        }
-      ]
-    },
-    {
       "path": "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
-          "timestampMillis": 1781007154218
-        },
-        {
-          "timestampMillis": 1781007159880
-        },
-        {
-          "timestampMillis": 1781007194258
-        },
-        {
-          "timestampMillis": 1781007206782
-        },
-        {
-          "timestampMillis": 1781007207913
-        },
-        {
-          "timestampMillis": 1781007210533
-        },
-        {
-          "timestampMillis": 1781008641289
-        },
-        {
-          "timestampMillis": 1781203599711
-        },
-        {
-          "timestampMillis": 1781203600144
-        },
-        {
-          "timestampMillis": 1781203634136
-        },
-        {
-          "timestampMillis": 1781203656516
+          "timestampMillis": 1785011512292
         }
       ]
     },
@@ -93,14 +41,17 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 32,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1784536971788
         },
         {
           "timestampMillis": 1784555961623
+        },
+        {
+          "timestampMillis": 1785011417817
         }
       ]
     },
@@ -133,10 +84,19 @@
     {
       "path": "ARIS/Classification.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1785007354664
+        },
+        {
+          "timestampMillis": 1785011414994
+        },
+        {
+          "timestampMillis": 1785011416640
+        },
+        {
+          "timestampMillis": 1785011417375
         }
       ]
     },
@@ -186,11 +146,14 @@
     },
     {
       "path": "ARIS/Wade-System.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1781008802047
+          "timestampMillis": 1785011416112
+        },
+        {
+          "timestampMillis": 1785011417022
         }
       ]
     },
@@ -242,36 +205,15 @@
       ]
     },
     {
-      "path": "Inbox/ARIS AI Classification Workflow.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 9,
+      "path": "ARIS/ARIS AI Classification Workflow.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
-          "timestampMillis": 1781012105660
+          "timestampMillis": 1785011378121
         },
         {
-          "timestampMillis": 1781012152071
-        },
-        {
-          "timestampMillis": 1781012206289
-        },
-        {
-          "timestampMillis": 1781012235978
-        },
-        {
-          "timestampMillis": 1781012308389
-        },
-        {
-          "timestampMillis": 1781012362896
-        },
-        {
-          "timestampMillis": 1781016928296
-        },
-        {
-          "timestampMillis": 1781017848532
-        },
-        {
-          "timestampMillis": 1781018199808
+          "timestampMillis": 1785011410523
         }
       ]
     },
@@ -705,28 +647,22 @@
       ]
     },
     {
-      "path": "Inbox/Karsten Lykke Something.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "People/Karsten Lykke Something.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1781204423552
-        },
-        {
-          "timestampMillis": 1781204620582
+          "timestampMillis": 1785011484794
         }
       ]
     },
     {
-      "path": "Inbox/Flemming Something.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "People/Flemming Something.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1781204507685
-        },
-        {
-          "timestampMillis": 1781204617775
+          "timestampMillis": 1785011486241
         }
       ]
     },
@@ -754,44 +690,32 @@
       ]
     },
     {
-      "path": "Inbox/Storm Holm.md",
-      "uniqueDaysOpened": 1,
+      "path": "People/Storm Holm.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011484253
+        }
+      ]
+    },
+    {
+      "path": "People/Dexter Holm.md",
+      "uniqueDaysOpened": 2,
       "totalTimesOpened": 2,
       "openLogs": [
         {
-          "timestampMillis": 1781204678376
-        },
-        {
-          "timestampMillis": 1781205349831
+          "timestampMillis": 1785011483803
         }
       ]
     },
     {
-      "path": "Inbox/Dexter Holm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "People/Mathias Tungelund Kristensen.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
-          "timestampMillis": 1781204957333
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Mathias Tungelund Kristensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205151887
-        },
-        {
-          "timestampMillis": 1781205227510
-        },
-        {
-          "timestampMillis": 1781205365170
-        },
-        {
-          "timestampMillis": 1781207473696
+          "timestampMillis": 1785011483277
         }
       ]
     },
@@ -819,66 +743,42 @@
       ]
     },
     {
-      "path": "Inbox/Mathias Jensen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "path": "People/Mathias Jensen.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
-          "timestampMillis": 1781205397505
-        },
-        {
-          "timestampMillis": 1781207474568
-        },
-        {
-          "timestampMillis": 1781245676223
+          "timestampMillis": 1785011462899
         }
       ]
     },
     {
-      "path": "Inbox/Magne Vethal Kanneworff.md",
+      "path": "People/Magne Vethal Kanneworff.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011480317
+        }
+      ]
+    },
+    {
+      "path": "People/Casper Rask.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 4,
       "openLogs": [
         {
-          "timestampMillis": 1781205500245
-        },
-        {
-          "timestampMillis": 1781205816211
-        },
-        {
-          "timestampMillis": 1781206100809
-        },
-        {
-          "timestampMillis": 1781245674077
+          "timestampMillis": 1785011481652
         }
       ]
     },
     {
-      "path": "Inbox/Casper Rask.md",
-      "uniqueDaysOpened": 1,
+      "path": "People/Aksel Lytsen.md",
+      "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1781205511365
-        },
-        {
-          "timestampMillis": 1781205645747
-        },
-        {
-          "timestampMillis": 1781205778261
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Aksel Lytsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205521021
-        },
-        {
-          "timestampMillis": 1781205811389
+          "timestampMillis": 1785011480812
         }
       ]
     },
@@ -1285,9 +1185,9 @@
       ]
     },
     {
-      "path": "Inbox/Asger Wendel Tilma.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "path": "People/Asger Wendel Tilma.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1783683529040
@@ -1297,6 +1197,9 @@
         },
         {
           "timestampMillis": 1783683743621
+        },
+        {
+          "timestampMillis": 1785011454643
         }
       ]
     },
@@ -1386,9 +1289,9 @@
       ]
     },
     {
-      "path": "Inbox/Notion API.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "path": "ARIS/Notion API.md",
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1783685570169
@@ -1401,6 +1304,9 @@
         },
         {
           "timestampMillis": 1784536967447
+        },
+        {
+          "timestampMillis": 1785011374371
         }
       ]
     },
@@ -1460,11 +1366,14 @@
     },
     {
       "path": "Inbox/Warrantaftale - ARIS.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784202733168
+        },
+        {
+          "timestampMillis": 1785011360635
         }
       ]
     },
@@ -1507,12 +1416,15 @@
       ]
     },
     {
-      "path": "Inbox/Image sorter.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "ARIS/Image sorter.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784400348314
+        },
+        {
+          "timestampMillis": 1785011359580
         }
       ]
     },
@@ -1530,12 +1442,15 @@
       ]
     },
     {
-      "path": "Inbox/Coding standard.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "path": "ARIS/Coding standard.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784405716289
+        },
+        {
+          "timestampMillis": 1785011372265
         }
       ]
     },
@@ -1583,15 +1498,18 @@
       ]
     },
     {
-      "path": "Inbox/Evaluation tracking.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "ARIS/Evaluation tracking.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1784540035947
         },
         {
           "timestampMillis": 1784550145616
+        },
+        {
+          "timestampMillis": 1785011354367
         }
       ]
     },
@@ -1717,12 +1635,389 @@
       ]
     },
     {
-      "path": "Inbox/Impact as Software Engineer.md",
+      "path": "ARIS/Impact as Software Engineer.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1785010910444
+        },
+        {
+          "timestampMillis": 1785011319644
+        },
+        {
+          "timestampMillis": 1785011364253
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Inference.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1785010910444
+          "timestampMillis": 1785011349493
+        }
+      ]
+    },
+    {
+      "path": "ARIS/DWWADE System Overview.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011350226
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Repo to python package.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011355872
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Logging.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011367995
+        }
+      ]
+    },
+    {
+      "path": "People/Markus Simonsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011424004
+        },
+        {
+          "timestampMillis": 1785011444653
+        },
+        {
+          "timestampMillis": 1785011452209
+        },
+        {
+          "timestampMillis": 1785011459393
+        },
+        {
+          "timestampMillis": 1785011467302
+        }
+      ]
+    },
+    {
+      "path": "People/Lene Hansen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011443901
+        }
+      ]
+    },
+    {
+      "path": "People/Nicklas Nikolaj Grønvall.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011450266
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Emma sommer arbejde.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011451449
+        }
+      ]
+    },
+    {
+      "path": "People/Claus Petersen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011455362
+        }
+      ]
+    },
+    {
+      "path": "People/Karen-Louise Pommerencke.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011455911
+        }
+      ]
+    },
+    {
+      "path": "People/Morten Pahus.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011456421
+        }
+      ]
+    },
+    {
+      "path": "People/Peter Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011456827
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Peter Holm?.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011457291
+        }
+      ]
+    },
+    {
+      "path": "People/Rasmus Heide.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011460936
+        }
+      ]
+    },
+    {
+      "path": "People/Cecilie Veidiksen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011462478
+        }
+      ]
+    },
+    {
+      "path": "People/Emma Malm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011464377
+        }
+      ]
+    },
+    {
+      "path": "People/Amelia Bloch Sønstebø.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011465162
+        }
+      ]
+    },
+    {
+      "path": "People/Mark Staunsager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011465885
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Obsidian Sync Reminder Server Setup.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011466704
+        }
+      ]
+    },
+    {
+      "path": "People/Kristoffer Kranker Jensen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011470631
+        }
+      ]
+    },
+    {
+      "path": "People/Nikolai Schulz Prip.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011471176
+        }
+      ]
+    },
+    {
+      "path": "People/Maja Abrahamsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011472548
+        }
+      ]
+    },
+    {
+      "path": "People/Johan Egtved Nissen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011473025
+        }
+      ]
+    },
+    {
+      "path": "People/Birthe Pommerencke.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011473589
+        }
+      ]
+    },
+    {
+      "path": "People/Claus Pommerencke.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011474046
+        }
+      ]
+    },
+    {
+      "path": "People/Tina ….md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011474556
+        }
+      ]
+    },
+    {
+      "path": "People/Søren ….md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011476609
+        }
+      ]
+    },
+    {
+      "path": "People/Chris Sejerskilde.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011476997
+        }
+      ]
+    },
+    {
+      "path": "People/Victor Nielsen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011478226
+        }
+      ]
+    },
+    {
+      "path": "People/Tobias Pedersen.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011478668
+        }
+      ]
+    },
+    {
+      "path": "People/Rasmus Storm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011479053
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Daily Story.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011518643
+        },
+        {
+          "timestampMillis": 1785011524301
+        },
+        {
+          "timestampMillis": 1785011526416
+        },
+        {
+          "timestampMillis": 1785011534791
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Password manager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011527023
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Obsidian Hotkeys.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011528332
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Better deep ensemble test.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011535481
         }
       ]
     }
