@@ -1,3 +1,5 @@
+# Tasks
+
 filters:
   and:
     - note["base"] == link("Tasks.base")
@@ -30,5 +32,3 @@ views:
       - Due
       - Priority
       - Project
-    columnSize:
-      file.name: 417

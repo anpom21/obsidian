@@ -1617,10 +1617,13 @@
     {
       "path": "Notion/Projects & Tasks/Tasks/Tasks.base",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785006884180
+        },
+        {
+          "timestampMillis": 1785007136920
         }
       ]
     },
@@ -1692,10 +1695,33 @@
     {
       "path": "Notion/Projects & Tasks/Projects & Tasks.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785007014479
+        },
+        {
+          "timestampMillis": 1785007112872
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Projects/Projects.base",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785007059384
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Agents Figure out reproducible way to use Matt Pococks workflow (LANGUAGE.md & CONTEXT.md).md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785007134113
         }
       ]
     }
