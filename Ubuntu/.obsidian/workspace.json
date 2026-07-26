@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekly note.md",
+                "file": "ARIS/Coding standard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Weekly note"
+              "title": "Coding standard"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekly note.md",
+                "file": "ARIS/Coding standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Weekly note"
+              "title": "Outgoing links from Coding standard"
             }
           },
           {
@@ -294,6 +294,7 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Weekly note.md",
     "Tasks.md",
     "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
     "Inbox/Come De Chanay.md",
@@ -301,7 +302,6 @@
     "Inbox/F1 Premium.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Inbox/Prompt - Dataset clean up script.md",
-    "Weekly note.md",
     "Daily/2026-07-26.md",
     "Inbox/Warrantaftale - ARIS.md",
     "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",

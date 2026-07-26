@@ -1413,14 +1413,17 @@
     },
     {
       "path": "ARIS/Coding standard.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1784405716289
         },
         {
           "timestampMillis": 1785011372265
+        },
+        {
+          "timestampMillis": 1785097883791
         }
       ]
     },
