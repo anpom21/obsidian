@@ -997,8 +997,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 20,
+      "uniqueDaysOpened": 7,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1044,6 +1044,9 @@
         },
         {
           "timestampMillis": 1785010768887
+        },
+        {
+          "timestampMillis": 1785080343258
         }
       ]
     },
@@ -2101,13 +2104,16 @@
     {
       "path": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1785067700724
         },
         {
           "timestampMillis": 1785070451455
+        },
+        {
+          "timestampMillis": 1785080344477
         }
       ]
     }
