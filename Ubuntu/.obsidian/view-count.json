@@ -1444,7 +1444,7 @@
     {
       "path": "Weekly note.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1454,6 +1454,9 @@
         },
         {
           "timestampMillis": 1785067606172
+        },
+        {
+          "timestampMillis": 1785067606471
         }
       ]
     },
@@ -1495,14 +1498,17 @@
     },
     {
       "path": "Notion/Projects & Tasks/Tasks/Tasks.base",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1785006884180
         },
         {
           "timestampMillis": 1785007136920
+        },
+        {
+          "timestampMillis": 1785067641810
         }
       ]
     },
@@ -2079,6 +2085,26 @@
       "openLogs": [
         {
           "timestampMillis": 1785011596341
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Prompt - Dataset clean up script.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785067629381
+        }
+      ]
+    },
+    {
+      "path": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785067700724
         }
       ]
     }

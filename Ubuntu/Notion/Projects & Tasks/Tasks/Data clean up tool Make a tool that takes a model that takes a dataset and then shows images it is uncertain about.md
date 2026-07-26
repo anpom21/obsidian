@@ -7,7 +7,7 @@ Status: Not Started
 Project: []
 ---
 
-Start a /grilling session about this plan:
+Start a /grill-with-docs session about this plan:
 Data clean up tool: Make a tool that takes a model that takes a dataset and then shows images it is uncertain about. This could done by looking at:
 
 - Low confidence examples

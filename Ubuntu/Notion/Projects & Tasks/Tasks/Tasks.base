@@ -30,3 +30,6 @@ views:
       - Due
       - Priority
       - Project
+    sort:
+      - property: Current sprint
+        direction: DESC

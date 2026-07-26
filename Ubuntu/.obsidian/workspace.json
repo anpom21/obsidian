@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
+                "file": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ARIS Fuldtid Ansættelseskontrakt"
+              "title": "Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about"
             }
           },
           {
@@ -148,6 +148,23 @@
               "icon": "notebook-navigator",
               "title": "Notebook Navigator"
             }
+          },
+          {
+            "id": "378d454da1e2808f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
           }
         ],
         "currentTab": 2
@@ -189,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
+                "file": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from ARIS Fuldtid Ansættelseskontrakt"
+              "title": "Outgoing links from Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about"
             }
           },
           {
@@ -236,6 +253,16 @@
               "icon": "calendar-with-checkmark",
               "title": "Calendar"
             }
+          },
+          {
+            "id": "99f69acb6a90264e",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "eye",
+              "title": "View count"
+            }
           }
         ],
         "currentTab": 1
@@ -267,6 +294,10 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Notion/Projects & Tasks/Tasks/Tasks.base",
+    "Inbox/Prompt - Dataset clean up script.md",
+    "Weekly note.md",
+    "Daily/2026-07-26.md",
     "Inbox/Warrantaftale - ARIS.md",
     "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
     "Archive/Documents",
@@ -290,11 +321,6 @@
     "Inbox/Unavngivet 2.md",
     "Inbox/Unavngivet 1.md",
     "Inbox/Unavngivet.md",
-    "Inbox/fierce-wolf.md",
-    "Inbox/config.yaml.md",
-    "Inbox/Thesis defense prompt.md",
-    "Inbox/Daily Story.md",
-    "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
     "Notion/Projects & Tasks/Projects/Projects.base",
