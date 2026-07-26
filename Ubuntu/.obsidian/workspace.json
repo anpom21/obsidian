@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
+                "file": "Weekly note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about"
+              "title": "Weekly note"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
+                "file": "Weekly note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about"
+              "title": "Outgoing links from Weekly note"
             }
           },
           {
