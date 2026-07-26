@@ -870,71 +870,17 @@
     },
     {
       "path": "Inbox/W24.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 21,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
-          "timestampMillis": 1781206957068
-        },
-        {
-          "timestampMillis": 1781207146736
-        },
-        {
-          "timestampMillis": 1781207188329
-        },
-        {
-          "timestampMillis": 1781207196914
-        },
-        {
-          "timestampMillis": 1781207208298
-        },
-        {
-          "timestampMillis": 1781207250520
-        },
-        {
-          "timestampMillis": 1781207343412
-        },
-        {
-          "timestampMillis": 1781207352425
-        },
-        {
-          "timestampMillis": 1781207364558
-        },
-        {
-          "timestampMillis": 1781207547520
-        },
-        {
-          "timestampMillis": 1781207555105
-        },
-        {
-          "timestampMillis": 1781209711657
-        },
-        {
-          "timestampMillis": 1781245749949
-        },
-        {
-          "timestampMillis": 1781245767735
-        },
-        {
-          "timestampMillis": 1781245961646
-        },
-        {
-          "timestampMillis": 1781246014848
-        },
-        {
-          "timestampMillis": 1781246040175
-        },
-        {
-          "timestampMillis": 1781246041120
-        },
-        {
-          "timestampMillis": 1781246059003
-        },
-        {
-          "timestampMillis": 1781852776830
-        },
-        {
           "timestampMillis": 1783686542009
+        },
+        {
+          "timestampMillis": 1785011571246
+        },
+        {
+          "timestampMillis": 1785011573167
         }
       ]
     },
@@ -1328,8 +1274,8 @@
     },
     {
       "path": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
           "timestampMillis": 1784202577650
@@ -1351,6 +1297,18 @@
         },
         {
           "timestampMillis": 1784202653682
+        },
+        {
+          "timestampMillis": 1785011626513
+        },
+        {
+          "timestampMillis": 1785011639368
+        },
+        {
+          "timestampMillis": 1785011650351
+        },
+        {
+          "timestampMillis": 1785011665161
         }
       ]
     },
@@ -1367,13 +1325,22 @@
     {
       "path": "Inbox/Warrantaftale - ARIS.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1784202733168
         },
         {
           "timestampMillis": 1785011360635
+        },
+        {
+          "timestampMillis": 1785011599988
+        },
+        {
+          "timestampMillis": 1785011639878
+        },
+        {
+          "timestampMillis": 1785011645686
         }
       ]
     },
@@ -1476,14 +1443,17 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
         },
         {
           "timestampMillis": 1784871205596
+        },
+        {
+          "timestampMillis": 1785067606172
         }
       ]
     },
@@ -1733,16 +1703,6 @@
       ]
     },
     {
-      "path": "Inbox/Emma sommer arbejde.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011451449
-        }
-      ]
-    },
-    {
       "path": "People/Claus Petersen.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
@@ -1779,16 +1739,6 @@
       "openLogs": [
         {
           "timestampMillis": 1785011456827
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Peter Holm?.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011457291
         }
       ]
     },
@@ -1845,10 +1795,16 @@
     {
       "path": "Inbox/Obsidian Sync Reminder Server Setup.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1785011466704
+        },
+        {
+          "timestampMillis": 1785011576932
+        },
+        {
+          "timestampMillis": 1785011578236
         }
       ]
     },
@@ -1975,7 +1931,7 @@
     {
       "path": "Inbox/Daily Story.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1785011518643
@@ -1988,6 +1944,9 @@
         },
         {
           "timestampMillis": 1785011534791
+        },
+        {
+          "timestampMillis": 1785011547372
         }
       ]
     },
@@ -2012,12 +1971,114 @@
       ]
     },
     {
-      "path": "Inbox/Better deep ensemble test.md",
+      "path": "Inbox/Thesis defense prompt.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1785011535481
+          "timestampMillis": 1785011548064
+        }
+      ]
+    },
+    {
+      "path": "Inbox/fierce-wolf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011552471
+        },
+        {
+          "timestampMillis": 1785011556801
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Nautilus scripts.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011575154
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Jernpande.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011578909
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Wind surf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011579562
+        },
+        {
+          "timestampMillis": 1785011580839
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Verdensbaletten 2026.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011584521
+        },
+        {
+          "timestampMillis": 1785011588683
+        },
+        {
+          "timestampMillis": 1785011591710
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Disc golf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011593877
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Bank møde.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011594916
+        }
+      ]
+    },
+    {
+      "path": "Inbox/W28.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011595912
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Sommer arbejde 2026.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785011596341
         }
       ]
     }
