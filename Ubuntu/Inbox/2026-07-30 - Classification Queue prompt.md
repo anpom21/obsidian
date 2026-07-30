@@ -39,4 +39,4 @@ python3 classification/scripts/train_hydra.py   --config-path /home/simon/Deskto
 Have a look at the config folder:
 `/home/simon/Desktop/classification/configs`
 
-Take heavy inspiration from this queue_manager.py script from a similar project
+Take heavy inspiration from this queue_manager.py script from a similar project 
