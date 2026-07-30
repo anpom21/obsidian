@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Coding standard.md",
+                "file": "Clean up script.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coding standard"
+              "title": "Clean up script"
             }
           },
           {
@@ -206,12 +206,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARIS/Coding standard.md",
+                "file": "Clean up script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Coding standard"
+              "title": "Outgoing links from Clean up script"
             }
           },
           {
@@ -295,6 +295,8 @@
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
     "Weekly note.md",
+    "Clean up script.md",
+    "Daily/2026-07-27.md",
     "Tasks.md",
     "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
     "Inbox/Come De Chanay.md",
@@ -320,8 +322,6 @@
     "Inbox/Unavngivet 3.md",
     "Inbox/Emma.md",
     "Inbox/Nautilus scripts.md",
-    "Inbox/amalie.md",
-    "Inbox/W24.md",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
     "Notion/Projects & Tasks/Projects/Projects.base",

@@ -1449,8 +1449,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1469,6 +1469,12 @@
         },
         {
           "timestampMillis": 1785096803145
+        },
+        {
+          "timestampMillis": 1785411976731
+        },
+        {
+          "timestampMillis": 1785411977039
         }
       ]
     },
@@ -2123,6 +2129,19 @@
         },
         {
           "timestampMillis": 1785080344477
+        }
+      ]
+    },
+    {
+      "path": "Clean up script.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1785411983423
+        },
+        {
+          "timestampMillis": 1785412172265
         }
       ]
     }
