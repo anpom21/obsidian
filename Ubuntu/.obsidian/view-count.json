@@ -2168,6 +2168,16 @@
           "timestampMillis": 1785397805056
         }
       ]
+    },
+    {
+      "path": "Inbox/2026-07-30 - Classification Queue prompt.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785415301304
+        }
+      ]
     }
   ]
 }
