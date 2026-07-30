@@ -7,7 +7,7 @@ aliases:
 Prompt:
 
 
-Okay so basically i want to make a training queue where the user paste config files into ``
+Okay so basically i want to make a training queue where the user paste config files into `/home/simon/Desktop/classification/configs/_queue`, the `_queue` folder has a 3 subfolders `succesful`, `failed` and `planning`. If a training run runs without errors it gets moved after the run to `succesful` if not it is moved to `failed`. `planning` can be used to plan new configs, but if the `queue_manager.py` is run then it shouldnt put the planning configs in the queue. 
 Config:
 ```yaml
 # @package _global_
