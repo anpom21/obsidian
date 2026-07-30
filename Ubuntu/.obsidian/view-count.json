@@ -41,8 +41,8 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 33,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1784536971788
@@ -52,6 +52,9 @@
         },
         {
           "timestampMillis": 1785011417817
+        },
+        {
+          "timestampMillis": 1785413183923
         }
       ]
     },
@@ -146,14 +149,26 @@
     },
     {
       "path": "ARIS/Wade-System.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1785011416112
         },
         {
           "timestampMillis": 1785011417022
+        },
+        {
+          "timestampMillis": 1785397796989
+        },
+        {
+          "timestampMillis": 1785397809385
+        },
+        {
+          "timestampMillis": 1785397816336
+        },
+        {
+          "timestampMillis": 1785404189944
         }
       ]
     },
@@ -997,8 +1012,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 7,
-      "totalTimesOpened": 21,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1047,6 +1062,21 @@
         },
         {
           "timestampMillis": 1785080343258
+        },
+        {
+          "timestampMillis": 1785397759642
+        },
+        {
+          "timestampMillis": 1785397789956
+        },
+        {
+          "timestampMillis": 1785397807481
+        },
+        {
+          "timestampMillis": 1785397814053
+        },
+        {
+          "timestampMillis": 1785404143714
         }
       ]
     },
@@ -1349,8 +1379,8 @@
     },
     {
       "path": "Inbox/Context Builder.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1784317615558
@@ -1366,6 +1396,9 @@
         },
         {
           "timestampMillis": 1785010767744
+        },
+        {
+          "timestampMillis": 1785397767753
         }
       ]
     },
@@ -1449,8 +1482,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1469,12 +1502,6 @@
         },
         {
           "timestampMillis": 1785096803145
-        },
-        {
-          "timestampMillis": 1785411976731
-        },
-        {
-          "timestampMillis": 1785411977039
         }
       ]
     },
@@ -2133,15 +2160,12 @@
       ]
     },
     {
-      "path": "Clean up script.md",
+      "path": "Notion/Projects & Tasks/Projects/Deploying Production Code.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1785411983423
-        },
-        {
-          "timestampMillis": 1785412172265
+          "timestampMillis": 1785397805056
         }
       ]
     }

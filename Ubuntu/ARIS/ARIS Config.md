@@ -25,7 +25,7 @@ path:
 - [x] Instead of saving the models under weird names, just keep them understandable during training. So instead of `model_resnet18_3.0.1_default0.0.1_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` do like `best-val-acc_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` or `lowest-val-loss_epoch=02_val_loss=1.14_val_acc=0.72.ckpt` ✅ 2026-07-20
 - [ ] Fix the `_to_namespace` dependency everywhere
 - [ ] `mean` and `std` is hard coded into `previeiw_augmentation()` in `train_model.py` fix that, so i takes the mean and std for a config instead maybe.
-- [ ] fix data resolver so it can resolve test folder splits and work in `multiruns` ⏫ 
+- [x] fix data resolver so it can resolve test folder splits and work in `multiruns` ⏫ ✅ 2026-07-30
 - [ ] Make it possible to pass classes directly in the config like:
 ```yaml
 impregnated_wood:
@@ -127,30 +127,8 @@ multirun_parameters:
 	system.seed: 2
 ```
 
-#### Optimization
-If a hydra multi run is running, a lot of parameters can sometimes be explored resulting in 100+ runs, in this case it is imperative that time is not wasted too much and that memory for model checkpoints does not become a problem (luckily checkpoint trimming is now implemented). 
-Grill me on how early stopping can be expanded to also consider the performance of earlier runs in a multirun. There should be a simple check for if after x epochs the models is not within y points of the primary metric then the training should terminate and move on to the next parameter. Example: if the best model performance on the validation data is not within 15% after 25 epochs of the best model then the training loop should terminate.
 
-Im also open to discuss a more suffisticated method where if after a epochs the model is not projected to improve beyond the best model then just terminate. Where the projection would be calculate from either a linear fit from the last n validation evaluations or a more suited model fit. Idk if other has done this before?  
 
-Add an option to what should happen when a training run is terminated. Eg. nothing, erase the statedict of the checkpoint (do this rather than remove the file as i dont feel safe on using remove functions in python), so the checkpoint is updated to basically take up no space.
-multirun_parameters:
-  optimizer.learning_rate: 0.05
-  train.batch_size: 16
-
-Simple:
-
-| Run | optimizer.learning_rate | train.batch_size | val_acc |
-| --- | ----------------------- | ---------------- | ------- |
-| 1   | 0.05                    | 16               | 0.82    |
-| 2   | 0.05                    | 8                | 0.81    |
-
-No name collision
-
-| Run | learning_rate | batch_size | cutmix.p | mixup.p | val_acc |
-| --- | ------------- | ---------- | -------- | ------- | ------- |
-| 1   | 0.05          | 16         | 0.2      | 0.2     | 0.84    |
-| 2   | 0.05          | 8          | 0.2      | 0.2     | 0.83    |
 ## Parameter value averages
 
 | Parameter       | Value    |   Runs |   mean val_acc |   std val_acc |   mean test_acc |   std test_acc |
