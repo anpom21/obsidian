@@ -2178,6 +2178,16 @@
           "timestampMillis": 1785415301304
         }
       ]
+    },
+    {
+      "path": "Inbox/2026-07-30 - background model.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785420222889
+        }
+      ]
     }
   ]
 }
