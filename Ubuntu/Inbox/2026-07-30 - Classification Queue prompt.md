@@ -8,7 +8,7 @@ Prompt:
 
 
 Okay so basically i want to make a training queue where the user paste config files into `/home/simon/Desktop/classification/configs/_queue`, the `_queue` folder has a 3 subfolders `succesful`, `failed` and `planning`. If a training run runs without errors it gets moved after the run to `succesful` if not it is moved to `failed`. `planning` can be used to plan new configs, but if the `queue_manager.py` is run then it shouldnt put the planning configs in the queue. 
-
+See an example config file here:
 Config:
 ```yaml
 # @package _global_
@@ -30,7 +30,13 @@ hydra:
     dir: outputs/${fraction}/${experiment_name}/${now:%Y-%m-%d}/multirun_${now:%H-%M-%S}
     subdir: ${hydra.job.num}
 ```
+It is from `/home/simon/Desktop/classification/configs/_queue/config.yaml`
+The queue_manager.py script should run it with (where the config name matches the filename with no extension):
 To run:
 ```
 python3 classification/scripts/train_hydra.py   --config-path /home/simon/Desktop/classification/configs   --config-name _queue/config
 ```
+Have a look at the config folder:
+`/home/simon/Desktop/classification/configs`
+
+Take heavy inspiration from this queue_manager.py script from a similar project
