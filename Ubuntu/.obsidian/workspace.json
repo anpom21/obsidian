@@ -128,9 +128,57 @@
               "icon": "lucide-file",
               "title": "2026-08-01 - Sandcastle"
             }
+          },
+          {
+            "id": "f60209073923ed59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARIS/Image sorter.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Image sorter"
+            }
+          },
+          {
+            "id": "3d897499509d404d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -235,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/2026-08-01 - Sandcastle.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -321,16 +369,17 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "bd32cba8f32bb3ad",
+  "active": "3d897499509d404d",
   "lastOpenFiles": [
+    "ARIS/Image sorter.md",
+    "Tasks.md",
+    "Inbox/2026-08-01 - Sandcastle.md",
     "Archive/attachments/Pasted image 20260801143238.png",
     "Archive/attachments/Pasted image 20260801143143.png",
     "Inbox/2026-08-01 - whipser.md",
-    "Inbox/2026-08-01 - Sandcastle.md",
     "Inbox/Warrantaftale - ARIS.md",
     "ARIS/Classification.md",
     "Inbox/2026-08-01 - Add groundtruth label and model confidence for each category. .md",
-    "Tasks.md",
     "Weekly note.md",
     "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Daily/2026-07-31.md",
@@ -361,7 +410,6 @@
     "Archive/attachments/image 10.png",
     "Archive/attachments/image 9.png",
     "Archive/attachments/image 8.png",
-    "Archive/attachments/image 7.png",
     "Archive/attachments/ARGO_2025_Uge14.pdf",
     "Notion/Projects & Tasks/Tasks/Investigate why images are misclassified",
     "Notion/Projects & Tasks/Tasks",
