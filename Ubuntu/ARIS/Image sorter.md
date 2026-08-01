@@ -11,7 +11,7 @@ path:
 ## Ideas
 
 # [[Tasks]]
-- [ ] All view; add timestamp of each image just below the category #agent 
+- [x] All view; add timestamp of each image just below the category #agent ✅ 2026-08-01
 - [x] Instead of sorting the All View after category, sort it after timestamp ✅ 2026-07-18
 - [x] Add zoom levels, take a look how the zoom levels was implemented in the original collection_sorter.py #agent ✅ 2026-07-18
 - [x] In the all view, if the user clicks and drags then the category menu should not be shown, ONLY if the user clicks and nothing else. #agent ✅ 2026-07-18

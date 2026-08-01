@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Image sorter.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Image sorter"
+              "title": "Tasks"
             }
           },
           {
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARIS/Image sorter.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -371,9 +371,9 @@
   },
   "active": "f60209073923ed59",
   "lastOpenFiles": [
-    "Inbox/2026-08-01 - Sandcastle.md",
-    "Tasks.md",
     "ARIS/Image sorter.md",
+    "Tasks.md",
+    "Inbox/2026-08-01 - Sandcastle.md",
     "Archive/attachments/Pasted image 20260801143238.png",
     "Archive/attachments/Pasted image 20260801143143.png",
     "Inbox/2026-08-01 - whipser.md",

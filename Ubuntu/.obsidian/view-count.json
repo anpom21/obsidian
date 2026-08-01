@@ -1022,7 +1022,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 31,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1101,6 +1101,15 @@
         },
         {
           "timestampMillis": 1785587781157
+        },
+        {
+          "timestampMillis": 1785588890450
+        },
+        {
+          "timestampMillis": 1785588923881
+        },
+        {
+          "timestampMillis": 1785589010240
         }
       ]
     },
@@ -1451,7 +1460,7 @@
     {
       "path": "ARIS/Image sorter.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1784400348314
@@ -1467,6 +1476,12 @@
         },
         {
           "timestampMillis": 1785588848528
+        },
+        {
+          "timestampMillis": 1785588922108
+        },
+        {
+          "timestampMillis": 1785589008142
         }
       ]
     },
