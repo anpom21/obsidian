@@ -81,7 +81,7 @@ For a clean installation, use Docker’s official Ubuntu repository. This instal
 
 Add Docker’s repository:
 
-```
+```bash 
 sudo apt update
 sudo apt install -y ca-certificates curl
 
@@ -90,28 +90,28 @@ sudo install -m 0755 -d /etc/apt/keyrings
 sudo curl -fsSL \
     https://download.docker.com/linux/ubuntu/gpg \
     -o /etc/apt/keyrings/docker.asc
-
-sudo chmod a+r /etc/apt/keyrings/docker.asc
-
-sudo tee /etc/apt/sources.list.d/docker.sources >/dev/null <<EOF
-Types: deb
-URIs: https://download.docker.com/linux/ubuntu
-Suites: $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}")
-Components: stable
-Architectures: $(dpkg --print-architecture)
-Signed-By: /etc/apt/keyrings/docker.asc
-EOF
+# 
+# sudo chmod a+r /etc/apt/keyrings/docker.asc
+# 
+# sudo tee /etc/apt/sources.list.d/docker.sources >/dev/null <<EOF
+# Types: deb
+# URIs: https://download.docker.com/linux/ubuntu
+# Suites: $(. /etc/os-release && echo "${UBUNTU_CODENAME:-$VERSION_CODENAME}")
+# Components: stable
+# Architectures: $(dpkg --print-architecture)
+# Signed-By: /etc/apt/keyrings/docker.asc
+# EOF
 
 sudo apt update
 ```
 
 Install Docker:
 
-```
+``` bash
 sudo apt install -y \
     docker-ce \
     docker-ce-cli \
-    containerd.io \
+    #containerd.io \
     docker-buildx-plugin \
     docker-compose-plugin
 ```
@@ -129,3 +129,78 @@ Verify the service:
 ```
 sudo systemctl status docker
 ```
+## 4. Allow the current user to run Docker
+
+Create the Docker group if necessary and add the current user:
+```
+
+sudo groupadd docker 2>/dev/null || true
+sudo usermod -aG docker "$USER"
+```
+
+Apply the new group membership:
+
+```
+newgrp docker
+```
+
+Alternatively, log out and back in.
+
+Verify that Docker works without sudo:
+
+```
+docker run --rm hello-world
+```
+
+The Docker group grants root-equivalent access to the Docker daemon, so membership should only be given to trusted users.
+
+Verify Buildx:
+
+```
+docker buildx version
+```
+
+
+
+## 5. Install and authenticate GitHub CLI
+
+Install GitHub CLI if it is not already present:
+
+```
+sudo apt install -y gh
+```
+
+Authenticate on the host:
+
+```
+gh auth login
+```
+
+Verify access to the target repository:
+
+```
+gh auth status
+gh repo view ARIS-Robotics/classification
+```
+
+The second command must succeed before continuing.
+
+If the repository belongs to an organization using SSO, ensure the selected token or GitHub CLI login is authorized for that organization.
+
+## 6. Install Claude Code and create an OAuth token
+
+Install Claude Code according to its current installation instructions.
+
+Verify:
+
+```
+claude --version
+```
+
+Generate a Claude Code subscription token:
+
+```
+claude setup-token
+```
+
+Copy the generated value somewhere temporary and secure. It will later be added to `.sandcastle/.env`.
