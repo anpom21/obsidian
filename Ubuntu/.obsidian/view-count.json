@@ -87,7 +87,7 @@
     {
       "path": "ARIS/Classification.md",
       "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1785007354664
@@ -103,6 +103,12 @@
         },
         {
           "timestampMillis": 1785578977575
+        },
+        {
+          "timestampMillis": 1785581487359
+        },
+        {
+          "timestampMillis": 1785581488058
         }
       ]
     },
@@ -1016,7 +1022,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 28,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1086,6 +1092,9 @@
         },
         {
           "timestampMillis": 1785575142250
+        },
+        {
+          "timestampMillis": 1785581482656
         }
       ]
     },
@@ -1366,8 +1375,8 @@
     },
     {
       "path": "Inbox/Warrantaftale - ARIS.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1784202733168
@@ -1383,6 +1392,12 @@
         },
         {
           "timestampMillis": 1785011645686
+        },
+        {
+          "timestampMillis": 1785581576887
+        },
+        {
+          "timestampMillis": 1785581582309
         }
       ]
     },
@@ -1491,8 +1506,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1511,6 +1526,9 @@
         },
         {
           "timestampMillis": 1785096803145
+        },
+        {
+          "timestampMillis": 1785581470943
         }
       ]
     },
@@ -2208,6 +2226,19 @@
       "openLogs": [
         {
           "timestampMillis": 1785423114663
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-08-01 - Sandcastle.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1785581536294
+        },
+        {
+          "timestampMillis": 1785581584539
         }
       ]
     }

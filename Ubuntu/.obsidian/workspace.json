@@ -85,7 +85,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "ARIS/Classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,16 +100,16 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Classification"
             }
           },
           {
-            "id": "cde8c0b6f5d2d295",
+            "id": "bd32cba8f32bb3ad",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Warrantaftale - ARIS.md",
+                "file": "Inbox/2026-08-01 - Sandcastle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,11 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Warrantaftale - ARIS"
+              "title": "2026-08-01 - Sandcastle"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARIS/Classification.md",
+                "file": "Inbox/2026-08-01 - Sandcastle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -319,14 +319,18 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "956380966d8684e1",
+  "active": "bd32cba8f32bb3ad",
   "lastOpenFiles": [
+    "Inbox/Warrantaftale - ARIS.md",
+    "Inbox/2026-08-01 - Sandcastle.md",
+    "ARIS/Classification.md",
+    "Inbox/2026-08-01 - Add groundtruth label and model confidence for each category. .md",
     "Tasks.md",
+    "Weekly note.md",
     "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Daily/2026-07-31.md",
     "Inbox/2026-07-30 - floor_tile model.md",
     "Inbox/2026-07-30 - background model.md",
-    "Weekly note.md",
     "Clean up script.md",
     "Daily/2026-07-27.md",
     "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
@@ -336,7 +340,6 @@
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Inbox/Prompt - Dataset clean up script.md",
     "Daily/2026-07-26.md",
-    "Inbox/Warrantaftale - ARIS.md",
     "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
     "Archive/Documents",
     "Inbox/Unavngivet 4.md",
@@ -346,9 +349,6 @@
     "Inbox/Disc golf.md",
     "Inbox/Verdensbaletten 2026.md",
     "Inbox/Emma sommer arbejde.md",
-    "Inbox/Wind surf.md",
-    "Inbox/Peter Holm?.md",
-    "Inbox/Jernpande.md",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
     "Notion/Projects & Tasks/Projects/Projects.base",
