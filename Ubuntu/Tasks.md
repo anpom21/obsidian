@@ -34,6 +34,7 @@ aliases:
 - [ ] [[Image sorter]] add Ctrl + G - makes the user type the image index for a category to go to, so if in a folder of 245 images the user can skip to any image in that folder by doing ctrl + g and typing the index. Check if the index is possible before going.
 - [ ] [[Image sorter]] when adding a new folder prompt the user IF the folder should be added to a fraction, instead of forcing the user to choose a fraction.
 
+- [ ] Audit: Make it so the audit can be run from a single audit.py script instead of __main__.py The audit script should be able to take prediction.csv files as input and show direct audit results on that. OR optionally just import the image files and then use a different model to audit  
 
 
 

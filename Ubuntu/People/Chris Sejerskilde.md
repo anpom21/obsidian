@@ -36,6 +36,8 @@ partner:
   ---
   
 ## Updates
+- Søger job i hele landet
+- Matilde bliver færdig i November
 - 
 
 ## Timeline

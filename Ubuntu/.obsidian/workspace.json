@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "956380966d8684e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
             "id": "88c5341eab50e180",
             "type": "leaf",
             "state": {
@@ -103,7 +127,8 @@
               "title": "Warrantaftale - ARIS"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -133,7 +158,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -206,12 +233,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clean up script.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Clean up script"
+              "title": "Outgoing links"
             }
           },
           {
@@ -292,8 +319,9 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "956380966d8684e1",
   "lastOpenFiles": [
+    "Daily/2026-07-31.md",
     "Inbox/2026-07-30 - floor_tile model.md",
     "Inbox/2026-07-30 - background model.md",
     "Inbox/2026-07-30 - Classification Queue prompt.md",
@@ -321,7 +349,6 @@
     "Inbox/Wind surf.md",
     "Inbox/Peter Holm?.md",
     "Inbox/Jernpande.md",
-    "Inbox/Obsidian Sync Reminder Server Setup.md",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
     "Notion/Projects & Tasks/Projects/Projects.base",
