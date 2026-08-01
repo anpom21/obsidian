@@ -187,6 +187,14 @@ The second command must succeed before continuing.
 
 If the repository belongs to an organization using SSO, ensure the selected token or GitHub CLI login is authorized for that organization.
 
+### 5.1 Make new Github API token
+1) Go to:
+https://github.com/settings/tokens
+![[Pasted image 20260801143238.png]]
+2) Press **generate new token (classic)**
+3) Scope it to **repo**
+
+Copy the token and paste into `.env`
 ## 6. Install Claude Code and create an OAuth token
 
 Install Claude Code according to its current installation instructions.
