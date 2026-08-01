@@ -6,3 +6,7 @@ aliases:
 ---
 # Install
 
+1. Install npm:
+```
+
+```
