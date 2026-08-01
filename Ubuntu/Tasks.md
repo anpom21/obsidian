@@ -23,7 +23,7 @@ aliases:
 - [ ] [[Image sorter]] when adding a new folder prompt the user IF the folder should be added to a fraction, instead of forcing the user to choose a fraction.
 
 - [ ] Audit: Make it so the audit can be run from a single audit.py script instead of __main__.py The audit script should be able to take prediction.csv files as input and show direct audit results on that. OR optionally just import the image files and then use a different model to audit the data.  It should be possible to provide n number of models by importing as a comma seperated input to --model-config path/to/model_config.yaml,/path/to/2nd/model_config.yaml. It should also be possible to run the audit on a folder, from which it should discover all the images recursively and discover the correct class for each image based on its parent folder. Example: /home/ap/cloud/ARIS/repositories/classification/outputs/debug/background_hands/2026-08-01/run_10-37-49/evaluation/trained_config.yaml. Predictions: /home/ap/cloud/ARIS/repositories/classification/outputs/debug/background_hands/2026-08-01/run_10-37-49/evaluation/predictions.csv. Image folder: /home/ap/Datasets/Background_Dataset_07-26/train
-
+- [ ] Make model .ckpt files inherit the model configuration such as, normalization, preprocessing, inference on test images, model config,
 
 
 # This week
