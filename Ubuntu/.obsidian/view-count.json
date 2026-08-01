@@ -1022,7 +1022,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 34,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1110,6 +1110,9 @@
         },
         {
           "timestampMillis": 1785589010240
+        },
+        {
+          "timestampMillis": 1785590844533
         }
       ]
     },
@@ -2251,11 +2254,14 @@
     },
     {
       "path": "Inbox/2026-07-30 - floor_tile model.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785423114663
+        },
+        {
+          "timestampMillis": 1785590859622
         }
       ]
     },
