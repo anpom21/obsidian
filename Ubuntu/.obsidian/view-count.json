@@ -2244,7 +2244,7 @@
     {
       "path": "Inbox/2026-08-01 - Sandcastle.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1785581536294
@@ -2254,6 +2254,9 @@
         },
         {
           "timestampMillis": 1785585945704
+        },
+        {
+          "timestampMillis": 1785588338374
         }
       ]
     },

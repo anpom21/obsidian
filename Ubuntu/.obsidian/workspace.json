@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/2026-08-01 - Sandcastle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -369,10 +369,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "3d897499509d404d",
+  "active": "bd32cba8f32bb3ad",
   "lastOpenFiles": [
-    "ARIS/Image sorter.md",
     "Tasks.md",
+    "ARIS/Image sorter.md",
     "Inbox/2026-08-01 - Sandcastle.md",
     "Archive/attachments/Pasted image 20260801143238.png",
     "Archive/attachments/Pasted image 20260801143143.png",

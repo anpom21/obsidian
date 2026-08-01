@@ -725,6 +725,11 @@ nano .sandcastle/.env
 echo '.sandcastle/.env' >> .gitignore
 echo 'node_modules/' >> .gitignore
 
+# Commit package and add npm to .gitignore
+printf 'node_modules/\n' >> .gitignore
+git add .gitignore package.json package-lock.json .sandcastle/
+git commit -m "Add sandcastle config and npm manifest"
+
 # Verify and build
 docker run --rm hello-world
 npx @ai-hero/sandcastle docker build-image
