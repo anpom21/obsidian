@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "ARIS/Classification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -52,7 +52,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Classification"
             }
           },
           {
@@ -233,7 +233,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "ARIS/Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -321,8 +321,8 @@
   },
   "active": "956380966d8684e1",
   "lastOpenFiles": [
-    "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Tasks.md",
+    "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Daily/2026-07-31.md",
     "Inbox/2026-07-30 - floor_tile model.md",
     "Inbox/2026-07-30 - background model.md",
