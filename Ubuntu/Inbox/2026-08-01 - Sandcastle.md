@@ -724,3 +724,21 @@ npx @ai-hero/sandcastle docker build-image
 # Run
 npm run sandcastle
 ```
+
+Docker group:
+`usermod -aG docker "$USER"` adds your user to the `docker` group permanently. `newgrp docker` does **not** make a global permanent change; it starts a new shell with refreshed group membership.
+
+That is why it can seem to “keep happening” in other terminals or shells opened before the group change.
+
+Check whether your account is permanently in the group:
+
+```
+getent group docker
+groups "$USER"
+```
+
+You should see your username listed under `docker`.
+
+```
+ hello-world
+```
