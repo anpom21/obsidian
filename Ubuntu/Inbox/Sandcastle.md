@@ -717,8 +717,6 @@ npx @ai-hero/sandcastle@latest init
 npm pkg set scripts.sandcastle="tsx .sandcastle/main.mts"
 
 # Create private environment
-cp .sandcastle/.env.example .sandcastle/.env
-nano .sandcastle/.env
 
 # Protect secrets
 echo '.sandcastle/.env' >> .gitignore
