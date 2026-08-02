@@ -135,7 +135,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-07-30 - floor_tile model.md",
+                "file": "Daily/2026-08-01.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -150,7 +150,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-07-30 - floor_tile model"
+              "title": "2026-08-01"
             }
           },
           {
@@ -232,7 +232,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "classification",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -244,7 +244,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/2026-07-30 - floor_tile model.md",
+                "file": "Daily/2026-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -372,6 +372,8 @@
   "active": "f60209073923ed59",
   "lastOpenFiles": [
     "Tasks.md",
+    "Daily/2026-08-01.md",
+    "Inbox/Sandcastle.md",
     "ARIS/Image sorter.md",
     "Inbox/2026-08-01 - Sandcastle.md",
     "Archive/attachments/Pasted image 20260801143238.png",
@@ -399,8 +401,6 @@
     "Inbox/Unavngivet 4.md",
     "Inbox/Sommer arbejde 2026.md",
     "Inbox/W28.md",
-    "Inbox/Bank møde.md",
-    "Inbox/Disc golf.md",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
     "Notion/Projects & Tasks/Projects/Projects.base",

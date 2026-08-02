@@ -1021,8 +1021,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 35,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1113,6 +1113,12 @@
         },
         {
           "timestampMillis": 1785590844533
+        },
+        {
+          "timestampMillis": 1785649261064
+        },
+        {
+          "timestampMillis": 1785649261461
         }
       ]
     },
@@ -2266,31 +2272,22 @@
       ]
     },
     {
-      "path": "Inbox/2026-08-01 - Sandcastle.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1785581536294
-        },
-        {
-          "timestampMillis": 1785581584539
-        },
-        {
-          "timestampMillis": 1785585945704
-        },
-        {
-          "timestampMillis": 1785588338374
-        }
-      ]
-    },
-    {
       "path": "Inbox/2026-08-01 - whipser.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
           "timestampMillis": 1785585944669
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-08-01.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785649471197
         }
       ]
     }
