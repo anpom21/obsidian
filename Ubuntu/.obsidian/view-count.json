@@ -86,8 +86,8 @@
     },
     {
       "path": "ARIS/Classification.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 10,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1785007354664
@@ -100,15 +100,6 @@
         },
         {
           "timestampMillis": 1785011417375
-        },
-        {
-          "timestampMillis": 1785578977575
-        },
-        {
-          "timestampMillis": 1785581487359
-        },
-        {
-          "timestampMillis": 1785581488058
         }
       ]
     },
@@ -1021,8 +1012,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 10,
-      "totalTimesOpened": 39,
+      "uniqueDaysOpened": 8,
+      "totalTimesOpened": 26,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1086,45 +1077,6 @@
         },
         {
           "timestampMillis": 1785404143714
-        },
-        {
-          "timestampMillis": 1785574413532
-        },
-        {
-          "timestampMillis": 1785575142250
-        },
-        {
-          "timestampMillis": 1785581482656
-        },
-        {
-          "timestampMillis": 1785587774773
-        },
-        {
-          "timestampMillis": 1785587781157
-        },
-        {
-          "timestampMillis": 1785588890450
-        },
-        {
-          "timestampMillis": 1785588923881
-        },
-        {
-          "timestampMillis": 1785589010240
-        },
-        {
-          "timestampMillis": 1785590844533
-        },
-        {
-          "timestampMillis": 1785649261064
-        },
-        {
-          "timestampMillis": 1785649261461
-        },
-        {
-          "timestampMillis": 1785649865715
-        },
-        {
-          "timestampMillis": 1785649865959
         }
       ]
     },
@@ -1405,8 +1357,8 @@
     },
     {
       "path": "Inbox/Warrantaftale - ARIS.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1784202733168
@@ -1422,12 +1374,6 @@
         },
         {
           "timestampMillis": 1785011645686
-        },
-        {
-          "timestampMillis": 1785581576887
-        },
-        {
-          "timestampMillis": 1785581582309
         }
       ]
     },
@@ -1474,29 +1420,14 @@
     },
     {
       "path": "ARIS/Image sorter.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1784400348314
         },
         {
           "timestampMillis": 1785011359580
-        },
-        {
-          "timestampMillis": 1785587757026
-        },
-        {
-          "timestampMillis": 1785587778616
-        },
-        {
-          "timestampMillis": 1785588848528
-        },
-        {
-          "timestampMillis": 1785588922108
-        },
-        {
-          "timestampMillis": 1785589008142
         }
       ]
     },
@@ -1551,8 +1482,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1571,9 +1502,6 @@
         },
         {
           "timestampMillis": 1785096803145
-        },
-        {
-          "timestampMillis": 1785581470943
         }
       ]
     },
@@ -2243,57 +2171,34 @@
     },
     {
       "path": "Inbox/2026-07-30 - Classification Queue prompt.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
           "timestampMillis": 1785415301304
-        },
-        {
-          "timestampMillis": 1785575140476
         }
       ]
     },
     {
       "path": "Inbox/2026-07-30 - background model.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785420222889
+        },
+        {
+          "timestampMillis": 1785656131952
         }
       ]
     },
     {
       "path": "Inbox/2026-07-30 - floor_tile model.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
       "openLogs": [
         {
           "timestampMillis": 1785423114663
-        },
-        {
-          "timestampMillis": 1785590859622
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-08-01 - whipser.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785585944669
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-01.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785649471197
         }
       ]
     }
