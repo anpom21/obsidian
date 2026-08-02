@@ -178,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -283,7 +283,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-08-01.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -369,10 +369,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "f60209073923ed59",
+  "active": "3d897499509d404d",
   "lastOpenFiles": [
-    "Tasks.md",
     "Daily/2026-08-01.md",
+    "Tasks.md",
     "Inbox/Sandcastle.md",
     "ARIS/Image sorter.md",
     "Inbox/2026-08-01 - Sandcastle.md",
