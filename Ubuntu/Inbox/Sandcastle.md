@@ -215,6 +215,9 @@ claude setup-token
 
 Copy the generated value somewhere temporary and secure. It will later be added to `.sandcastle/.env`.
 
+---
+# Per repository:
+
 ## 7. Enter the project repository
 
 ```

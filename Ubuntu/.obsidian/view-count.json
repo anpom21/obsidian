@@ -2214,10 +2214,16 @@
     {
       "path": "Inbox/Sandcastle.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1785657578163
+        },
+        {
+          "timestampMillis": 1785658201211
+        },
+        {
+          "timestampMillis": 1785658209702
         }
       ]
     }
