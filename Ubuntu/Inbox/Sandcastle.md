@@ -156,12 +156,6 @@ docker run --rm hello-world
 
 The Docker group grants root-equivalent access to the Docker daemon, so membership should only be given to trusted users.
 
-Verify Buildx:
-
-```
-docker buildx version
-```
-
 
 
 ## 5. Install and authenticate GitHub CLI

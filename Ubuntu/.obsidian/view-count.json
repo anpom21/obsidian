@@ -41,8 +41,8 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 34,
+      "uniqueDaysOpened": 6,
+      "totalTimesOpened": 35,
       "openLogs": [
         {
           "timestampMillis": 1784536971788
@@ -55,6 +55,9 @@
         },
         {
           "timestampMillis": 1785413183923
+        },
+        {
+          "timestampMillis": 1785658818019
         }
       ]
     },
@@ -1016,7 +1019,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 9,
-      "totalTimesOpened": 28,
+      "totalTimesOpened": 29,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1086,6 +1089,9 @@
         },
         {
           "timestampMillis": 1785657526959
+        },
+        {
+          "timestampMillis": 1785658819107
         }
       ]
     },
@@ -2180,24 +2186,30 @@
     },
     {
       "path": "Inbox/2026-07-30 - Classification Queue prompt.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785415301304
+        },
+        {
+          "timestampMillis": 1785658816046
         }
       ]
     },
     {
       "path": "Inbox/2026-07-30 - background model.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1785420222889
         },
         {
           "timestampMillis": 1785656131952
+        },
+        {
+          "timestampMillis": 1785658814867
         }
       ]
     },
