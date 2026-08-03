@@ -2215,6 +2215,16 @@
           "timestampMillis": 1785663685145
         }
       ]
+    },
+    {
+      "path": "Inbox/Fjernvarme fyn.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785778998420
+        }
+      ]
     }
   ]
 }
