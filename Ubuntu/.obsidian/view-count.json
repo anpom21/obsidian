@@ -154,31 +154,6 @@
       ]
     },
     {
-      "path": "ARIS/Wade-System.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011416112
-        },
-        {
-          "timestampMillis": 1785011417022
-        },
-        {
-          "timestampMillis": 1785397796989
-        },
-        {
-          "timestampMillis": 1785397809385
-        },
-        {
-          "timestampMillis": 1785397816336
-        },
-        {
-          "timestampMillis": 1785404189944
-        }
-      ]
-    },
-    {
       "path": "ARIS/WADE.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
@@ -1018,8 +993,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 9,
-      "totalTimesOpened": 30,
+      "uniqueDaysOpened": 10,
+      "totalTimesOpened": 31,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1095,6 +1070,9 @@
         },
         {
           "timestampMillis": 1785660264847
+        },
+        {
+          "timestampMillis": 1785772890241
         }
       ]
     },
@@ -1686,16 +1664,6 @@
         },
         {
           "timestampMillis": 1785011364253
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Inference.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011349493
         }
       ]
     },

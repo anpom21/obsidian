@@ -3,7 +3,7 @@ created: 2026-07-23
 tags:
   - ARIS
   - repository
-source:
+source: https://github.com/ARIS-Robotics/inference
 aliases:
 ---
 

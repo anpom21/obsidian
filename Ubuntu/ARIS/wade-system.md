@@ -2,7 +2,7 @@
 created: 2026-06-08
 tags:
   - "#ARIS"
-source:
+source: https://github.com/ARIS-Robotics/wade-system
 aliases:
   - WADE
 GitHub:
@@ -63,3 +63,8 @@ Take inspiration from the current integration test to make this version. See the
 - [ ] Make the run on laptop script open a qt app, where the main window is a web view. And below is one or multiple buttons. Buttons should be centered below the image and the buttons should appear in a row. 
 - [ ] 
 ## Agent description
+
+
+
+# Full system overview
+![[Wade-System - Full System overview.excalidraw]]
