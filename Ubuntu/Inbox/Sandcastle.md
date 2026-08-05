@@ -762,10 +762,8 @@ echo Install local dependencies
 npm init -y
 npm install --save-dev @ai-hero/sandcastle tsx
 npm pkg set scripts.sandcastle="tsx .sandcastle/main.mts"
-
 echo Verify Docker installation
 docker run --rm hello-world
 echo Building Sandcastle image
-npx @ai-hero/sandcastle docker build-image
-
+npx @ai-hero/sandcastle docker build-image<>
 ```
