@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Fjernvarme fyn.md",
+                "file": "Inbox/Sandcastle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Fjernvarme fyn"
+              "title": "Sandcastle"
             }
           }
         ],
@@ -307,7 +307,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Fjernvarme fyn.md",
+                "file": "Inbox/Sandcastle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -395,8 +395,21 @@
   },
   "active": "8dc67b0a7692afa1",
   "lastOpenFiles": [
-    "Archive/attachments/Fjernvarme Fyn offentligt udbud.pdf",
     "Tasks.md",
+    "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+    "Daily/2026-08-05.md",
+    "Archive/attachments/Fjernvarme fyn 2026-08-05 10.33.02.excalidraw.md",
+    "Inbox/Anna ....md",
+    "Inbox/Andreas ....md",
+    "Inbox/Kenneth ....md",
+    "Archive/attachments/Fjernvarme Fyn Meeting notes.pdf",
+    "Inbox/Dagepenge - Ydelseskort.md",
+    "Inbox/Documentation TODO.md",
+    "ARIS/image-sorter.md",
+    "Archive/attachments/b65b8aad-eb13-4917-a119-76dff98630f6_Sprgsml_til_sitevisit.pdf",
+    "Inbox/2026-08-04 - npx @ai-hero/sandcastle docker build-image.md",
+    "Inbox/2026-08-04 - npx @ai-hero",
+    "Archive/attachments/Fjernvarme Fyn offentligt udbud.pdf",
     "Inbox/Fjernvarme fyn.md",
     "ARIS/inference.md",
     "Archive/attachments/Wade-System - Full System overview.excalidraw.md",
@@ -414,16 +427,7 @@
     "Weekly note.md",
     "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Daily/2026-07-31.md",
-    "Inbox/2026-07-30 - floor_tile model.md",
-    "Inbox/2026-07-30 - background model.md",
-    "Clean up script.md",
-    "Daily/2026-07-27.md",
-    "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
-    "Inbox/Come De Chanay.md",
-    "Inbox/Unavngivet.md",
-    "Inbox/F1 Premium.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
-    "Inbox/Prompt - Dataset clean up script.md",
     "Archive/Documents",
     "Archive/attachments/1000012395 1.jpg",
     "Archive/attachments/1000012491 1.jpg",
@@ -437,10 +441,6 @@
     "Archive/attachments/ARGO_2025_Uge14.pdf",
     "Notion/Projects & Tasks/Tasks/Investigate why images are misclassified",
     "Notion/Projects & Tasks/Tasks",
-    "Notion/Projects & Tasks/Projects",
-    "Notion/Projects & Tasks",
-    "Notion",
-    "Archive/attachments/DWWADE.pdf",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

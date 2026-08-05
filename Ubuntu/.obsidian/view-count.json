@@ -993,8 +993,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 10,
-      "totalTimesOpened": 31,
+      "uniqueDaysOpened": 11,
+      "totalTimesOpened": 33,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1073,6 +1073,12 @@
         },
         {
           "timestampMillis": 1785772890241
+        },
+        {
+          "timestampMillis": 1785943141174
+        },
+        {
+          "timestampMillis": 1785943141425
         }
       ]
     },
@@ -1411,19 +1417,6 @@
         },
         {
           "timestampMillis": 1785010761312
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Image sorter.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1784400348314
-        },
-        {
-          "timestampMillis": 1785011359580
         }
       ]
     },
@@ -2196,8 +2189,8 @@
     },
     {
       "path": "Inbox/Sandcastle.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1785657578163
@@ -2213,6 +2206,12 @@
         },
         {
           "timestampMillis": 1785663685145
+        },
+        {
+          "timestampMillis": 1785943145540
+        },
+        {
+          "timestampMillis": 1785943359251
         }
       ]
     },

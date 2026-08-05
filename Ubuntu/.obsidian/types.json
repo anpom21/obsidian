@@ -35,6 +35,7 @@
     "Current sprint": "checkbox",
     "Assignee": "multitext",
     "Due": "date",
-    "Project": "multitext"
+    "Project": "multitext",
+    "colleagues": "multitext"
   }
 }
