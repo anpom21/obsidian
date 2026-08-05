@@ -773,4 +773,5 @@ npx @ai-hero/sandcastle docker build-image<>
 
 
 - [ ] Make more distinguishable branches
-- [ ] 
+- [ ] Mountable image
+- [ ] Make tests not rely on secrets `data/.env`
