@@ -200,9 +200,33 @@
               "icon": "lucide-file",
               "title": "Sandcastle"
             }
+          },
+          {
+            "id": "953cc101ec412010",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Environment variables.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Environment variables"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -307,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Sandcastle.md",
+                "file": "Inbox/Environment variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -393,8 +417,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8dc67b0a7692afa1",
+  "active": "953cc101ec412010",
   "lastOpenFiles": [
+    "Inbox/Sandcastle.md",
+    "Inbox/Environment variables.md",
     "Tasks.md",
     "Inbox/2026-08-05 - Machine Linux .bashrc .md",
     "Daily/2026-08-05.md",
@@ -415,7 +441,6 @@
     "Archive/attachments/Wade-System - Full System overview.excalidraw.md",
     "ARIS/wade-system.md",
     "Daily/2026-08-01.md",
-    "Inbox/Sandcastle.md",
     "ARIS/Image sorter.md",
     "Inbox/2026-08-01 - Sandcastle.md",
     "Archive/attachments/Pasted image 20260801143238.png",
@@ -426,7 +451,6 @@
     "Inbox/2026-08-01 - Add groundtruth label and model confidence for each category. .md",
     "Weekly note.md",
     "Inbox/2026-07-30 - Classification Queue prompt.md",
-    "Daily/2026-07-31.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Archive/Documents",
     "Archive/attachments/1000012395 1.jpg",

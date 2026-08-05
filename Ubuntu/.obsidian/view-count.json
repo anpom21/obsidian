@@ -2224,6 +2224,16 @@
           "timestampMillis": 1785778998420
         }
       ]
+    },
+    {
+      "path": "Inbox/Environment variables.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1785955235692
+        }
+      ]
     }
   ]
 }
