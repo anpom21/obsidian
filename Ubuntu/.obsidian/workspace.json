@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-08-06.md",
+                "file": "Areas/Linux/Chezmoi.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-06"
+              "title": "Chezmoi"
             }
           }
         ],
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-08-06.md",
+                "file": "Areas/Linux/Chezmoi.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -419,8 +419,8 @@
   },
   "active": "953cc101ec412010",
   "lastOpenFiles": [
-    "Areas/Linux/Chezmoi.md",
     "Daily/2026-08-06.md",
+    "Areas/Linux/Chezmoi.md",
     "Tasks.md",
     "Inbox/Environment variables.md",
     "Inbox/Sandcastle.md",

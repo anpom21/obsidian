@@ -2260,10 +2260,13 @@
     {
       "path": "Areas/Linux/Chezmoi.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786020085948
+        },
+        {
+          "timestampMillis": 1786020134974
         }
       ]
     }
