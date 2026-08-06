@@ -2269,6 +2269,16 @@
           "timestampMillis": 1786020134974
         }
       ]
+    },
+    {
+      "path": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786024483400
+        }
+      ]
     }
   ]
 }
