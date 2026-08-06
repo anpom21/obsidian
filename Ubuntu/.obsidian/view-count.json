@@ -993,8 +993,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 11,
-      "totalTimesOpened": 33,
+      "uniqueDaysOpened": 12,
+      "totalTimesOpened": 34,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1079,6 +1079,9 @@
         },
         {
           "timestampMillis": 1785943141425
+        },
+        {
+          "timestampMillis": 1785996401067
         }
       ]
     },
@@ -2227,11 +2230,14 @@
     },
     {
       "path": "Inbox/Environment variables.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1785955235692
+        },
+        {
+          "timestampMillis": 1785996409026
         }
       ]
     }
