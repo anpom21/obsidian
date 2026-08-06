@@ -51,4 +51,4 @@ tags:
 ...
 
 ## References
-- 
+- Den hedonistiske trædemølle er ==en psykologisk tendens, hvor mennesker hurtigt vender tilbage til et fast niveau af lykke, selv efter store positive eller negative livsændringer==. Når vi opnår mere (som en højere løn eller nye ting), stiger vores forventninger med, så glæden hurtigt forsvinder, og vi jager det næste. [[1](https://da.wikipedia.org/wiki/Den_hedonistiske_tr%C3%A6dem%C3%B8lle), [2](https://mindcamp.io/hvorfor-er-det-saa-svaert-at-vaere-taknemmelig-for-det-vi-har/)]
