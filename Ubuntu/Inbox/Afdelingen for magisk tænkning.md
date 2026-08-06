@@ -47,6 +47,7 @@ tags:
 - “Allerede de næste 10 år bliver 200.000 flere ældre danskere over 80 år” s. 94
 - “Lige nu antager man at årsagen til omkring 90 procent af alle tilfælde med rygsmerter ikke kan forklares. Uanset undersøgelsesmetoder, blodprøver, you name it.” S 101
 - “Der findes ikke raske mennesker. Der findes kun syge mennesker, der ikke er blevet undersøgt godt nok.”
+- “Defensiv medicin betyder sundhedsprofessionelle, især, læger bestiller tests og un
 # Chapter 1: ...
 ...
 
