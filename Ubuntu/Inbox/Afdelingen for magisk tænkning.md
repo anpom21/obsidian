@@ -45,6 +45,8 @@ tags:
 - Helt almindelige fejlbarlige forældre er bedst s. 1 - 38
 - 60-30-10 -> “60 procent af behandlingen virker. 30 procent er spild af tid. 10 procent er direkte skadelig for patienterne” - internationalt meta studie. S. 94
 - “Allerede de næste 10 år bliver 200.000 flere ældre danskere over 80 år” s. 94
+- “Lige nu antager man at årsagen til omkring 90 procent af alle tilfælde med rygsmerter ikke kan forklares. Uanset undersøgelsesmetoder, blodprøver, you name it.” S 101
+- “Der findes ikke raske mennesker. Der findes kun syge mennesker, der ikke er blevet undersøgt godt nok.”
 # Chapter 1: ...
 ...
 
