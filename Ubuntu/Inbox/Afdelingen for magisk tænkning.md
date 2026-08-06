@@ -31,7 +31,7 @@ tags:
 - Link: 
 
 ![[{{localCoverImage}}|200]]
-
+![[IMG_4422.jpeg]]
 # Brief description
 
 
@@ -44,7 +44,7 @@ tags:
 - Opdragelse - langt de fleste forældre er gode nok. Skift bleerne, giv dem mad, krammere, og semi-håndhævede regler. 
 - Helt almindelige fejlbarlige forældre er bedst s. 1 - 38
 - 60-30-10 -> “60 procent af behandlingen virker. 30 procent er spild af tid. 10 procent er direkte skadelig for patienterne” - internationalt meta studie. S. 94
-- 
+- “Allerede de næste 10 år bliver 200.000 flere ældre danskere over 80 år” s. 94
 # Chapter 1: ...
 ...
 
