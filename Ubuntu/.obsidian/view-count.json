@@ -2273,10 +2273,13 @@
     {
       "path": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786024483400
+        },
+        {
+          "timestampMillis": 1786035122856
         }
       ]
     }
