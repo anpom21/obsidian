@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Environment variables.md",
+                "file": "Daily/2026-08-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Environment variables"
+              "title": "2026-08-06"
             }
           }
         ],
@@ -331,7 +331,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Environment variables.md",
+                "file": "Daily/2026-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -420,6 +420,7 @@
   "active": "953cc101ec412010",
   "lastOpenFiles": [
     "Tasks.md",
+    "Daily/2026-08-06.md",
     "Inbox/Environment variables.md",
     "Inbox/Sandcastle.md",
     "Inbox/2026-08-05 - Machine Linux .bashrc .md",
@@ -450,7 +451,6 @@
     "ARIS/Classification.md",
     "Inbox/2026-08-01 - Add groundtruth label and model confidence for each category. .md",
     "Weekly note.md",
-    "Inbox/2026-07-30 - Classification Queue prompt.md",
     "Notion/Projects & Tasks/Tasks/Tasks.base",
     "Archive/Documents",
     "Archive/attachments/1000012395 1.jpg",
