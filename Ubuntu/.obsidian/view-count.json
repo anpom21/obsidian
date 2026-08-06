@@ -2247,10 +2247,23 @@
     {
       "path": "Daily/2026-08-06.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786000072905
+        },
+        {
+          "timestampMillis": 1786020089752
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Chezmoi.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786020085948
         }
       ]
     }
