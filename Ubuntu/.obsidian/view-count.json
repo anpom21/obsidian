@@ -993,8 +993,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 12,
-      "totalTimesOpened": 35,
+      "uniqueDaysOpened": 13,
+      "totalTimesOpened": 37,
       "openLogs": [
         {
           "timestampMillis": 1783683249376
@@ -1085,6 +1085,12 @@
         },
         {
           "timestampMillis": 1786000064635
+        },
+        {
+          "timestampMillis": 1786174834857
+        },
+        {
+          "timestampMillis": 1786174835275
         }
       ]
     },
@@ -2280,6 +2286,19 @@
         },
         {
           "timestampMillis": 1786035122856
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-08-08 - VSCode.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1786174840924
+        },
+        {
+          "timestampMillis": 1786174961678
         }
       ]
     }

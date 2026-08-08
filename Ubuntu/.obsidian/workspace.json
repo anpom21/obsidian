@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,11 +222,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-05 - Machine Linux .bashrc"
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "a7260856bf427a87",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-08-08 - VSCode.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-08 - VSCode"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -331,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+                "file": "Inbox/2026-08-08 - VSCode.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -417,12 +441,13 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "a7260856bf427a87",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Inbox/2026-08-08 - VSCode.md",
     "Archive/attachments/IMG_4422.jpeg",
     "Areas/Linux/Chezmoi.md",
     "Daily/2026-08-06.md",
-    "Tasks.md",
     "Inbox/Environment variables.md",
     "Inbox/Sandcastle.md",
     "Inbox/2026-08-05 - Machine Linux .bashrc .md",
@@ -461,7 +486,6 @@
     "Archive/attachments/image 11.png",
     "Archive/attachments/image 10.png",
     "Archive/attachments/image 9.png",
-    "Archive/attachments/image 8.png",
     "Archive/attachments/ARGO_2025_Uge14.pdf",
     "Notion/Projects & Tasks/Tasks/Investigate why images are misclassified",
     "Notion/Projects & Tasks/Tasks",
