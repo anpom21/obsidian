@@ -1483,8 +1483,8 @@
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1784536962937
@@ -1503,6 +1503,12 @@
         },
         {
           "timestampMillis": 1785096803145
+        },
+        {
+          "timestampMillis": 1786264176190
+        },
+        {
+          "timestampMillis": 1786264176494
         }
       ]
     },
@@ -2299,6 +2305,16 @@
         },
         {
           "timestampMillis": 1786174961678
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-08-09.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786264177484
         }
       ]
     }
