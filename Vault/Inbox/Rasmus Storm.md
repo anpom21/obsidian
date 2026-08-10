@@ -4,18 +4,21 @@ tags:
   - person
 source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
+  - Rasmus
+  - 
+id: p-20260613090334
 type: person
 relationship: friend
-birthday: 2000-10-12
+birthday: 2001-07-10
 address:
-phone: "+4551412012"
+phone: "+4529709395"
 email:
-partner: "[[Cecilie Veidiksen]]"
+partner: "[[Ditte]]"
+profession:
+parents:
+siblings:
 ---
-# Mathias Jensen
+# Rasmus Storm
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

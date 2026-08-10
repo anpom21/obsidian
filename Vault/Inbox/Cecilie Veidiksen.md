@@ -4,18 +4,17 @@ tags:
   - person
 source:
 aliases:
-  - Jensen
-  - Mathias (J)
-id: p-20260613090447
+  - Cecilie
+id: p-20260613091105
 type: person
 relationship: friend
-birthday: 2000-10-12
+birthday: 2000-06-29
 address:
-phone: "+4551412012"
+phone:
 email:
-partner: "[[Cecilie Veidiksen]]"
+partner: "[[Mathias Jensen]]"
 ---
-# Mathias Jensen
+# Cecilie Veidiksen
 ## Details 
 > [!info]- Nuværende alder: 
 > `=date(today)-date(this.birthday)`

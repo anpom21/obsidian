@@ -979,19 +979,6 @@
       ]
     },
     {
-      "path": "Inbox/2026-06-11 - Cecilie Veidiksen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205392039
-        },
-        {
-          "timestampMillis": 1781207474317
-        }
-      ]
-    },
-    {
       "path": "Inbox/Mathias Jensen.md",
       "uniqueDaysOpened": 2,
       "totalTimesOpened": 3,
@@ -1033,48 +1020,6 @@
         },
         {
           "timestampMillis": 1781206952902
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Rasmus Storm.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205458113
-        },
-        {
-          "timestampMillis": 1781206665082
-        },
-        {
-          "timestampMillis": 1781245676023
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Tobias Pedersen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205465469
-        },
-        {
-          "timestampMillis": 1781245675820
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-06-11 - Victor Nielsen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1781205470628
-        },
-        {
-          "timestampMillis": 1781245675456
         }
       ]
     },
@@ -1407,8 +1352,8 @@
     },
     {
       "path": "Daily/2026-06-12.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781243780491
@@ -1426,13 +1371,7 @@
           "timestampMillis": 1781246081541
         },
         {
-          "timestampMillis": 1781270695513
-        },
-        {
-          "timestampMillis": 1781270697393
-        },
-        {
-          "timestampMillis": 1781271152374
+          "timestampMillis": 1781366818084
         }
       ]
     },
@@ -1450,38 +1389,53 @@
       ]
     },
     {
-      "path": "Daily/2026-06-04.md",
+      "path": "Daily/2026-06-13.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
-          "timestampMillis": 1781270841109
+          "timestampMillis": 1781366818424
         },
         {
-          "timestampMillis": 1781270849079
+          "timestampMillis": 1781382986231
         },
         {
-          "timestampMillis": 1781270849310
+          "timestampMillis": 1781383400235
+        },
+        {
+          "timestampMillis": 1781383405437
         }
       ]
     },
     {
-      "path": "ARIS/Excalidraw/Mineral wool plastic bag - Overview.md",
+      "path": "Daily/2026-06-14.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
-          "timestampMillis": 1781270844429
+          "timestampMillis": 1781366825997
+        },
+        {
+          "timestampMillis": 1781382893077
+        },
+        {
+          "timestampMillis": 1781382971609
+        },
+        {
+          "timestampMillis": 1781383396015
+        },
+        {
+          "timestampMillis": 1781383402567
         }
       ]
     },
     {
-      "path": "ARIS/Excalidraw/Speciale - Overview.md",
+      "path": "Daily/2026-08-10.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1781270855297
+          "timestampMillis": 1786388552204
         }
       ]
     }
