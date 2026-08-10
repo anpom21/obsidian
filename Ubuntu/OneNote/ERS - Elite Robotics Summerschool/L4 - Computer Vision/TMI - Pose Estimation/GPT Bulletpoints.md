@@ -1,0 +1,20 @@
+---
+onenote-id: 0-c49c5ab3546841a6946fbbac8fc7209d!1-CE7A9D2936F1E9C3!s5f40bae83aec410a8c081536d57fe2a2
+---
+- Definition of **pose estimation** – mapping object model coordinates to sensory data
+- Applications: robotic automation, grasping, registration, augmented reality
+- Pose representation: rotation (SO(3)) and translation (R3\mathbb{R}^3R3), homogeneous transformation matrices
+- Transformation estimation scenarios:
+	- **3D****–****2D** – Perspective-n-Point (PnP) problem, minimal points, calibration
+	- **3D****–****3D** – Kabsch algorithm for rotation/translation from matched 3D points
+- **Correspondence problem** – matching object and scene points in 2D or 3D
+- Local alignment: **Iterative Closest Point (ICP)** – nearest neighbor search, stopping criteria, k-d trees for efficiency
+- Global alignment – free-form pose estimation, when ICP fails
+- Local shape features – PFH, FPFH, support radius, surface normals, 4D histograms
+- Feature matching – nearest neighbor search in high-dimensional feature space, outliers/inliers
+- Robust pose estimation – RANSAC for sampling and fitting under outlier contamination
+- Classical vs. deep learning methods for pose estimation
+- Deep learning example: **SurfEmb** – single RGB image to 6D pose using object detection, learned correspondences, PnP, RANSAC, local refinement
+- **YOLO** object detection – bounding boxes, confidence, class probabilities
+- Multiview SurfEmb – calibrated multiview triangulation, epipolar geometry, Kabsh, geometric consistency checks
+- SpyroPose – pose distribution estimation using hierarchical SE(3) pyramids
