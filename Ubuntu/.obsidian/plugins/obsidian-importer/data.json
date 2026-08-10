@@ -1,0 +1,18 @@
+{
+  "secrets": {},
+  "outputLocations": {},
+  "outputSettings": {
+    "onenote": {
+      "folder": "OneNote",
+      "attachments": {
+        "mode": "folder",
+        "path": "OneNote/attachments"
+      },
+      "duplicates": "update",
+      "saveSourceId": true
+    }
+  },
+  "onenoteAttachments": {},
+  "sourceFolders": {},
+  "lastSourceFolder": ""
+}

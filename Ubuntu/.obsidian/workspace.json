@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Sandcastle.md",
+                "file": "Daily/2026-08-06.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Sandcastle"
+              "title": "2026-08-06"
             }
           },
           {
@@ -231,7 +231,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-08-09.md",
+                "file": "Daily/2026-08-05.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -246,11 +246,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-09"
+              "title": "2026-08-05"
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-08-09.md",
+                "file": "Daily/2026-08-06.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -441,8 +441,10 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "a7260856bf427a87",
+  "active": "8dc67b0a7692afa1",
   "lastOpenFiles": [
+    "Inbox/Sandcastle.md",
+    "Daily/2026-08-05.md",
     "Tasks.md",
     "Daily/2026-08-10.md",
     "Weekly note.md",
@@ -452,9 +454,7 @@
     "Areas/Linux/Chezmoi.md",
     "Daily/2026-08-06.md",
     "Inbox/Environment variables.md",
-    "Inbox/Sandcastle.md",
     "Inbox/2026-08-05 - Machine Linux .bashrc .md",
-    "Daily/2026-08-05.md",
     "Archive/attachments/Fjernvarme fyn 2026-08-05 10.33.02.excalidraw.md",
     "Inbox/Anna ....md",
     "Inbox/Andreas ....md",
