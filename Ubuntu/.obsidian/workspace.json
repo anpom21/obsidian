@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-08-06.md",
+                "file": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +198,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-08-06"
+              "title": "TMI - Pose Estimation"
             }
           },
           {
@@ -355,7 +355,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-08-06.md",
+                "file": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -442,8 +442,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "8dc67b0a7692afa1",
   "lastOpenFiles": [
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
+    "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
+    "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
+    "Daily/2026-08-06.md",
+    "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",
     "OneNote/attachments/DK - Quality Control image 47f950c108832f86.png",
     "OneNote/attachments/DK - Quality Control image e45780f8764a1139.png",
     "OneNote/attachments/DK - Quality Control image 8198af3c3a038dd0.png",
@@ -451,13 +456,8 @@
     "OneNote/attachments/DK - Quality Control image bc3525de2d726e11.png",
     "OneNote/attachments/DK - Quality Control image 75ea76e33ad1d643.png",
     "OneNote/attachments/DK - Quality Control image a9b1c2b24366f152.png",
-    "OneNote/attachments/DK - Quality Control image 890aed2b696c258b.png",
-    "OneNote/attachments/DK - Quality Control image 2781f4b7899c9356.png",
-    "OneNote/attachments/DK - Quality Control image 9a2d87df374b260e.png",
-    "OneNote/attachments/DK - Quality Control image bb89346b3698a1db.png",
     "OneNote/attachments/Computer vision and quality control for robotic assembly.pdf",
     "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
     "OneNote/attachments/6 DoF Object Pose Estimation - 2025.pdf",
     "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation",
@@ -489,7 +489,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/OneDrive folder.md",
     "Inbox/Sandcastle.md",
     "Daily/2026-08-05.md",
-    "Tasks.md",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

@@ -2348,6 +2348,46 @@
           "timestampMillis": 1786378137512
         }
       ]
+    },
+    {
+      "path": "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786381318832
+        }
+      ]
+    },
+    {
+      "path": "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786381319870
+        }
+      ]
+    },
+    {
+      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786381323560
+        }
+      ]
+    },
+    {
+      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786381328427
+        }
+      ]
     }
   ]
 }
