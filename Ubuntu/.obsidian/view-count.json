@@ -743,23 +743,11 @@
     },
     {
       "path": "Daily/2026-06-10.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
-          "timestampMillis": 1781204141796
-        },
-        {
-          "timestampMillis": 1781204272514
-        },
-        {
-          "timestampMillis": 1781204321581
-        },
-        {
-          "timestampMillis": 1781204324608
-        },
-        {
-          "timestampMillis": 1781206255851
+          "timestampMillis": 1786389809840
         }
       ]
     },
@@ -1166,10 +1154,16 @@
     {
       "path": "Inbox/Sandcastle.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1786388942034
+        },
+        {
+          "timestampMillis": 1786389822758
+        },
+        {
+          "timestampMillis": 1786389835149
         }
       ]
     },
@@ -1210,6 +1204,16 @@
       "openLogs": [
         {
           "timestampMillis": 1786389755460
+        }
+      ]
+    },
+    {
+      "path": "Speciale/2026-06-10 - Speciale oplæsning.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786389808500
         }
       ]
     }
