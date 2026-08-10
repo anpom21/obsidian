@@ -2,11 +2,41 @@
   "items": [
     {
       "path": "Archive/Clippings/How to Negotiate Salary after Job Offer  5 Practical Tips.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 11,
       "openLogs": [
         {
-          "timestampMillis": 1785011512292
+          "timestampMillis": 1781007154218
+        },
+        {
+          "timestampMillis": 1781007159880
+        },
+        {
+          "timestampMillis": 1781007194258
+        },
+        {
+          "timestampMillis": 1781007206782
+        },
+        {
+          "timestampMillis": 1781007207913
+        },
+        {
+          "timestampMillis": 1781007210533
+        },
+        {
+          "timestampMillis": 1781008641289
+        },
+        {
+          "timestampMillis": 1781203599711
+        },
+        {
+          "timestampMillis": 1781203600144
+        },
+        {
+          "timestampMillis": 1781203634136
+        },
+        {
+          "timestampMillis": 1781203656516
         }
       ]
     },
@@ -41,23 +71,98 @@
     },
     {
       "path": "ARIS/ARIS Config.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 35,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 30,
       "openLogs": [
         {
-          "timestampMillis": 1784536971788
+          "timestampMillis": 1781008772574
         },
         {
-          "timestampMillis": 1784555961623
+          "timestampMillis": 1781008794105
         },
         {
-          "timestampMillis": 1785011417817
+          "timestampMillis": 1781011937922
         },
         {
-          "timestampMillis": 1785413183923
+          "timestampMillis": 1781012092736
         },
         {
-          "timestampMillis": 1785658818019
+          "timestampMillis": 1781012140086
+        },
+        {
+          "timestampMillis": 1781012234180
+        },
+        {
+          "timestampMillis": 1781012236866
+        },
+        {
+          "timestampMillis": 1781012238564
+        },
+        {
+          "timestampMillis": 1781012241451
+        },
+        {
+          "timestampMillis": 1781012242716
+        },
+        {
+          "timestampMillis": 1781012304120
+        },
+        {
+          "timestampMillis": 1781012309190
+        },
+        {
+          "timestampMillis": 1781012323008
+        },
+        {
+          "timestampMillis": 1781012325298
+        },
+        {
+          "timestampMillis": 1781012326701
+        },
+        {
+          "timestampMillis": 1781012328555
+        },
+        {
+          "timestampMillis": 1781012330825
+        },
+        {
+          "timestampMillis": 1781012341344
+        },
+        {
+          "timestampMillis": 1781012344520
+        },
+        {
+          "timestampMillis": 1781012450850
+        },
+        {
+          "timestampMillis": 1781013803675
+        },
+        {
+          "timestampMillis": 1781014681761
+        },
+        {
+          "timestampMillis": 1781016195380
+        },
+        {
+          "timestampMillis": 1781016230042
+        },
+        {
+          "timestampMillis": 1781016530884
+        },
+        {
+          "timestampMillis": 1781016929971
+        },
+        {
+          "timestampMillis": 1781031935315
+        },
+        {
+          "timestampMillis": 1781198009870
+        },
+        {
+          "timestampMillis": 1781198069654
+        },
+        {
+          "timestampMillis": 1781203706093
         }
       ]
     },
@@ -89,23 +194,17 @@
     },
     {
       "path": "ARIS/Classification.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
-          "timestampMillis": 1785007354664
+          "timestampMillis": 1781008776513
         },
         {
-          "timestampMillis": 1785011414994
+          "timestampMillis": 1781008777047
         },
         {
-          "timestampMillis": 1785011416640
-        },
-        {
-          "timestampMillis": 1785011417375
-        },
-        {
-          "timestampMillis": 1785657525575
+          "timestampMillis": 1781008778371
         }
       ]
     },
@@ -201,28 +300,72 @@
       ]
     },
     {
-      "path": "ARIS/ARIS AI Classification Workflow.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011378121
-        },
-        {
-          "timestampMillis": 1785011410523
-        }
-      ]
-    },
-    {
       "path": "Archive/attachments/ARIS AI Classification Workflow - Overview.excalidraw.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 21,
       "openLogs": [
         {
-          "timestampMillis": 1784536957560
+          "timestampMillis": 1781012173245
         },
         {
-          "timestampMillis": 1784536957900
+          "timestampMillis": 1781012208671
+        },
+        {
+          "timestampMillis": 1781012209933
+        },
+        {
+          "timestampMillis": 1781012240731
+        },
+        {
+          "timestampMillis": 1781012241934
+        },
+        {
+          "timestampMillis": 1781012246483
+        },
+        {
+          "timestampMillis": 1781012310187
+        },
+        {
+          "timestampMillis": 1781012327372
+        },
+        {
+          "timestampMillis": 1781012329861
+        },
+        {
+          "timestampMillis": 1781012342965
+        },
+        {
+          "timestampMillis": 1781012365292
+        },
+        {
+          "timestampMillis": 1781012454790
+        },
+        {
+          "timestampMillis": 1781014595787
+        },
+        {
+          "timestampMillis": 1781016183290
+        },
+        {
+          "timestampMillis": 1781016231371
+        },
+        {
+          "timestampMillis": 1781016533784
+        },
+        {
+          "timestampMillis": 1781016535777
+        },
+        {
+          "timestampMillis": 1781017122736
+        },
+        {
+          "timestampMillis": 1781017253799
+        },
+        {
+          "timestampMillis": 1781018200429
+        },
+        {
+          "timestampMillis": 1781031953404
         }
       ]
     },
@@ -643,26 +786,6 @@
       ]
     },
     {
-      "path": "People/Karsten Lykke Something.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011484794
-        }
-      ]
-    },
-    {
-      "path": "People/Flemming Something.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011486241
-        }
-      ]
-    },
-    {
       "path": "People/Thomas Lykke Holm.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
@@ -682,36 +805,6 @@
         },
         {
           "timestampMillis": 1781205361741
-        }
-      ]
-    },
-    {
-      "path": "People/Storm Holm.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011484253
-        }
-      ]
-    },
-    {
-      "path": "People/Dexter Holm.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011483803
-        }
-      ]
-    },
-    {
-      "path": "People/Mathias Tungelund Kristensen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011483277
         }
       ]
     },
@@ -739,42 +832,69 @@
       ]
     },
     {
-      "path": "People/Mathias Jensen.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011462899
-        }
-      ]
-    },
-    {
-      "path": "People/Magne Vethal Kanneworff.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011480317
-        }
-      ]
-    },
-    {
-      "path": "People/Casper Rask.md",
+      "path": "Weekly note.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 20,
       "openLogs": [
         {
-          "timestampMillis": 1785011481652
-        }
-      ]
-    },
-    {
-      "path": "People/Aksel Lytsen.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
+          "timestampMillis": 1781206142861
+        },
         {
-          "timestampMillis": 1785011480812
+          "timestampMillis": 1781206265601
+        },
+        {
+          "timestampMillis": 1781206300882
+        },
+        {
+          "timestampMillis": 1781206590140
+        },
+        {
+          "timestampMillis": 1781206608269
+        },
+        {
+          "timestampMillis": 1781206624701
+        },
+        {
+          "timestampMillis": 1781206659335
+        },
+        {
+          "timestampMillis": 1781206665772
+        },
+        {
+          "timestampMillis": 1781207519599
+        },
+        {
+          "timestampMillis": 1781207523281
+        },
+        {
+          "timestampMillis": 1781207524332
+        },
+        {
+          "timestampMillis": 1781207531591
+        },
+        {
+          "timestampMillis": 1781207534747
+        },
+        {
+          "timestampMillis": 1781207636782
+        },
+        {
+          "timestampMillis": 1781245676651
+        },
+        {
+          "timestampMillis": 1781245740229
+        },
+        {
+          "timestampMillis": 1781245863089
+        },
+        {
+          "timestampMillis": 1781245969798
+        },
+        {
+          "timestampMillis": 1781245988102
+        },
+        {
+          "timestampMillis": 1781246034283
         }
       ]
     },
@@ -866,17 +986,65 @@
     },
     {
       "path": "Inbox/W24.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 23,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 19,
       "openLogs": [
         {
-          "timestampMillis": 1783686542009
+          "timestampMillis": 1781206957068
         },
         {
-          "timestampMillis": 1785011571246
+          "timestampMillis": 1781207146736
         },
         {
-          "timestampMillis": 1785011573167
+          "timestampMillis": 1781207188329
+        },
+        {
+          "timestampMillis": 1781207196914
+        },
+        {
+          "timestampMillis": 1781207208298
+        },
+        {
+          "timestampMillis": 1781207250520
+        },
+        {
+          "timestampMillis": 1781207343412
+        },
+        {
+          "timestampMillis": 1781207352425
+        },
+        {
+          "timestampMillis": 1781207364558
+        },
+        {
+          "timestampMillis": 1781207547520
+        },
+        {
+          "timestampMillis": 1781207555105
+        },
+        {
+          "timestampMillis": 1781209711657
+        },
+        {
+          "timestampMillis": 1781245749949
+        },
+        {
+          "timestampMillis": 1781245767735
+        },
+        {
+          "timestampMillis": 1781245961646
+        },
+        {
+          "timestampMillis": 1781246014848
+        },
+        {
+          "timestampMillis": 1781246040175
+        },
+        {
+          "timestampMillis": 1781246041120
+        },
+        {
+          "timestampMillis": 1781246059003
         }
       ]
     },
@@ -905,8 +1073,8 @@
     },
     {
       "path": "Daily/2026-06-12.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 6,
       "openLogs": [
         {
           "timestampMillis": 1781243780491
@@ -925,9 +1093,6 @@
         },
         {
           "timestampMillis": 1781366818084
-        },
-        {
-          "timestampMillis": 1781852780005
         }
       ]
     },
@@ -965,8 +1130,8 @@
     },
     {
       "path": "Daily/2026-06-14.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1781366825997
@@ -982,1540 +1147,29 @@
         },
         {
           "timestampMillis": 1781383402567
-        },
-        {
-          "timestampMillis": 1781852775700
-        },
-        {
-          "timestampMillis": 1783686541299
         }
       ]
     },
     {
-      "path": "Tasks.md",
-      "uniqueDaysOpened": 15,
-      "totalTimesOpened": 41,
-      "openLogs": [
-        {
-          "timestampMillis": 1783683249376
-        },
-        {
-          "timestampMillis": 1783683249659
-        },
-        {
-          "timestampMillis": 1783683744882
-        },
-        {
-          "timestampMillis": 1783684209519
-        },
-        {
-          "timestampMillis": 1783686539140
-        },
-        {
-          "timestampMillis": 1783686540523
-        },
-        {
-          "timestampMillis": 1784362934480
-        },
-        {
-          "timestampMillis": 1784362934763
-        },
-        {
-          "timestampMillis": 1784390730783
-        },
-        {
-          "timestampMillis": 1784390760634
-        },
-        {
-          "timestampMillis": 1784457812162
-        },
-        {
-          "timestampMillis": 1784538393650
-        },
-        {
-          "timestampMillis": 1784540028042
-        },
-        {
-          "timestampMillis": 1784550143642
-        },
-        {
-          "timestampMillis": 1785010768887
-        },
-        {
-          "timestampMillis": 1785080343258
-        },
-        {
-          "timestampMillis": 1785397759642
-        },
-        {
-          "timestampMillis": 1785397789956
-        },
-        {
-          "timestampMillis": 1785397807481
-        },
-        {
-          "timestampMillis": 1785397814053
-        },
-        {
-          "timestampMillis": 1785404143714
-        },
-        {
-          "timestampMillis": 1785657403786
-        },
-        {
-          "timestampMillis": 1785657526959
-        },
-        {
-          "timestampMillis": 1785658819107
-        },
-        {
-          "timestampMillis": 1785660264847
-        },
-        {
-          "timestampMillis": 1785772890241
-        },
-        {
-          "timestampMillis": 1785943141174
-        },
-        {
-          "timestampMillis": 1785943141425
-        },
-        {
-          "timestampMillis": 1785996401067
-        },
-        {
-          "timestampMillis": 1786000064635
-        },
-        {
-          "timestampMillis": 1786174834857
-        },
-        {
-          "timestampMillis": 1786174835275
-        },
-        {
-          "timestampMillis": 1786299585345
-        },
-        {
-          "timestampMillis": 1786299585608
-        },
-        {
-          "timestampMillis": 1786378120177
-        },
-        {
-          "timestampMillis": 1786378120627
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-19.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 10,
-      "openLogs": [
-        {
-          "timestampMillis": 1781852122563
-        },
-        {
-          "timestampMillis": 1781852706299
-        },
-        {
-          "timestampMillis": 1781852772671
-        },
-        {
-          "timestampMillis": 1781852777682
-        },
-        {
-          "timestampMillis": 1781852782327
-        },
-        {
-          "timestampMillis": 1781853932481
-        },
-        {
-          "timestampMillis": 1781855114323
-        },
-        {
-          "timestampMillis": 1781855489792
-        },
-        {
-          "timestampMillis": 1781855596125
-        },
-        {
-          "timestampMillis": 1781947614033
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-29.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1782714255989
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-30.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1782714258735
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-07-01.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1782714906522
-        },
-        {
-          "timestampMillis": 1783684728053
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-22.md",
+      "path": "Daily/2026-08-10.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 2,
       "openLogs": [
         {
-          "timestampMillis": 1783683504816
+          "timestampMillis": 1786388552204
         },
         {
-          "timestampMillis": 1783683743754
-        }
-      ]
-    },
-    {
-      "path": "People/Asger Wendel Tilma.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1783683529040
-        },
-        {
-          "timestampMillis": 1783683585936
-        },
-        {
-          "timestampMillis": 1783683743621
-        },
-        {
-          "timestampMillis": 1785011454643
-        }
-      ]
-    },
-    {
-      "path": "ARIS/The Training Bible.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1783684323531
-        },
-        {
-          "timestampMillis": 1783684415748
-        },
-        {
-          "timestampMillis": 1783684422824
-        },
-        {
-          "timestampMillis": 1783684436294
-        },
-        {
-          "timestampMillis": 1783684448420
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Evaluation.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1783684339552
-        },
-        {
-          "timestampMillis": 1783684447161
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-07-08.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1783684523941
-        },
-        {
-          "timestampMillis": 1783685772509
-        },
-        {
-          "timestampMillis": 1783685945780
-        },
-        {
-          "timestampMillis": 1783686226509
-        },
-        {
-          "timestampMillis": 1783686322188
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-07-10.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 7,
-      "openLogs": [
-        {
-          "timestampMillis": 1783684543714
-        },
-        {
-          "timestampMillis": 1783684712129
-        },
-        {
-          "timestampMillis": 1783684782099
-        },
-        {
-          "timestampMillis": 1783686589524
-        },
-        {
-          "timestampMillis": 1784202613028
-        },
-        {
-          "timestampMillis": 1784202615172
-        },
-        {
-          "timestampMillis": 1784538397875
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Notion API.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1783685570169
-        },
-        {
-          "timestampMillis": 1783685936385
-        },
-        {
-          "timestampMillis": 1784536962105
-        },
-        {
-          "timestampMillis": 1784536967447
-        },
-        {
-          "timestampMillis": 1785011374371
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-02.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1783685755525
-        },
-        {
-          "timestampMillis": 1783685836086
-        },
-        {
-          "timestampMillis": 1783685930000
-        }
-      ]
-    },
-    {
-      "path": "Inbox/ARIS Fuldtid Ansættelseskontrakt.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 11,
-      "openLogs": [
-        {
-          "timestampMillis": 1784202577650
-        },
-        {
-          "timestampMillis": 1784202635255
-        },
-        {
-          "timestampMillis": 1784202637014
-        },
-        {
-          "timestampMillis": 1784202637788
-        },
-        {
-          "timestampMillis": 1784202639691
-        },
-        {
-          "timestampMillis": 1784202652127
-        },
-        {
-          "timestampMillis": 1784202653682
-        },
-        {
-          "timestampMillis": 1785011626513
-        },
-        {
-          "timestampMillis": 1785011639368
-        },
-        {
-          "timestampMillis": 1785011650351
-        },
-        {
-          "timestampMillis": 1785011665161
-        }
-      ]
-    },
-    {
-      "path": "Archive/attachments/Anættelsesaftale - Fuldtid - Andreas Pommerencke_cje_underskrevet.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1784202604381
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Warrantaftale - ARIS.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1784202733168
-        },
-        {
-          "timestampMillis": 1785011360635
-        },
-        {
-          "timestampMillis": 1785011599988
-        },
-        {
-          "timestampMillis": 1785011639878
-        },
-        {
-          "timestampMillis": 1785011645686
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Context Builder.md",
-      "uniqueDaysOpened": 5,
-      "totalTimesOpened": 6,
-      "openLogs": [
-        {
-          "timestampMillis": 1784317615558
-        },
-        {
-          "timestampMillis": 1784390735337
-        },
-        {
-          "timestampMillis": 1784461671090
-        },
-        {
-          "timestampMillis": 1785007659126
-        },
-        {
-          "timestampMillis": 1785010767744
-        },
-        {
-          "timestampMillis": 1785397767753
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-07-13.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1784390732514
-        },
-        {
-          "timestampMillis": 1784390743279
-        },
-        {
-          "timestampMillis": 1785010761312
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Wedding website prompt.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1784401754172
-        },
-        {
-          "timestampMillis": 1784401756706
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Coding standard.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1784405716289
-        },
-        {
-          "timestampMillis": 1785011372265
-        },
-        {
-          "timestampMillis": 1785097883791
-        }
-      ]
-    },
-    {
-      "path": "Areas/Robrådet/copy/Event Tilmeldings Guide.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1784454172004
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-07-19.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1784457813977
-        }
-      ]
-    },
-    {
-      "path": "Weekly note.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1784536962937
-        },
-        {
-          "timestampMillis": 1784871205596
-        },
-        {
-          "timestampMillis": 1785067606172
-        },
-        {
-          "timestampMillis": 1785067606471
-        },
-        {
-          "timestampMillis": 1785096802890
-        },
-        {
-          "timestampMillis": 1785096803145
-        },
-        {
-          "timestampMillis": 1786264176190
-        },
-        {
-          "timestampMillis": 1786264176494
-        }
-      ]
-    },
-    {
-      "path": "Excalidraw/Drawing 2026-07-09 10.34.51.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1784536970556
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Evaluation tracking.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1784540035947
-        },
-        {
-          "timestampMillis": 1784550145616
-        },
-        {
-          "timestampMillis": 1785011354367
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/A system that makes it possible to run a new and an old model on the same data, so we can compare predictions before switching to a newer model. Then if it looks good let it gradually take over.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785006880595
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Tasks.base",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785006884180
-        },
-        {
-          "timestampMillis": 1785007136920
-        },
-        {
-          "timestampMillis": 1785067641810
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Projects/PVC Classification.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
-      "openLogs": [
-        {
-          "timestampMillis": 1785006911228
-        },
-        {
-          "timestampMillis": 1785006997967
-        },
-        {
-          "timestampMillis": 1785007001747
-        },
-        {
-          "timestampMillis": 1785007004682
-        },
-        {
-          "timestampMillis": 1785007006570
-        },
-        {
-          "timestampMillis": 1785007009315
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Data collection at Posibi.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785006995073
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Data annotation of collected data.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785006999178
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Train a model.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785007003321
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/(Collect more data at Posibi).md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785007005662
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Projects & Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785007014479
-        },
-        {
-          "timestampMillis": 1785007112872
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Projects/Projects.base",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785007059384
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Agents Figure out reproducible way to use Matt Pococks workflow (LANGUAGE.md & CONTEXT.md).md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785007134113
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Impact as Software Engineer.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785010910444
-        },
-        {
-          "timestampMillis": 1785011319644
-        },
-        {
-          "timestampMillis": 1785011364253
-        }
-      ]
-    },
-    {
-      "path": "ARIS/DWWADE System Overview.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011350226
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Repo to python package.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011355872
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Logging.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011367995
-        }
-      ]
-    },
-    {
-      "path": "People/Markus Simonsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011424004
-        },
-        {
-          "timestampMillis": 1785011444653
-        },
-        {
-          "timestampMillis": 1785011452209
-        },
-        {
-          "timestampMillis": 1785011459393
-        },
-        {
-          "timestampMillis": 1785011467302
-        }
-      ]
-    },
-    {
-      "path": "People/Lene Hansen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011443901
-        }
-      ]
-    },
-    {
-      "path": "People/Nicklas Nikolaj Grønvall.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011450266
-        }
-      ]
-    },
-    {
-      "path": "People/Claus Petersen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011455362
-        }
-      ]
-    },
-    {
-      "path": "People/Karen-Louise Pommerencke.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011455911
-        }
-      ]
-    },
-    {
-      "path": "People/Morten Pahus.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011456421
-        }
-      ]
-    },
-    {
-      "path": "People/Peter Holm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011456827
-        }
-      ]
-    },
-    {
-      "path": "People/Rasmus Heide.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011460936
-        }
-      ]
-    },
-    {
-      "path": "People/Cecilie Veidiksen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011462478
-        }
-      ]
-    },
-    {
-      "path": "People/Emma Malm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011464377
-        }
-      ]
-    },
-    {
-      "path": "People/Amelia Bloch Sønstebø.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011465162
-        }
-      ]
-    },
-    {
-      "path": "People/Mark Staunsager.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011465885
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Obsidian Sync Reminder Server Setup.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011466704
-        },
-        {
-          "timestampMillis": 1785011576932
-        },
-        {
-          "timestampMillis": 1785011578236
-        }
-      ]
-    },
-    {
-      "path": "People/Kristoffer Kranker Jensen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011470631
-        }
-      ]
-    },
-    {
-      "path": "People/Nikolai Schulz Prip.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011471176
-        }
-      ]
-    },
-    {
-      "path": "People/Maja Abrahamsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011472548
-        }
-      ]
-    },
-    {
-      "path": "People/Johan Egtved Nissen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011473025
-        }
-      ]
-    },
-    {
-      "path": "People/Birthe Pommerencke.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011473589
-        }
-      ]
-    },
-    {
-      "path": "People/Claus Pommerencke.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011474046
-        }
-      ]
-    },
-    {
-      "path": "People/Tina ….md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011474556
-        }
-      ]
-    },
-    {
-      "path": "People/Søren ….md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011476609
-        }
-      ]
-    },
-    {
-      "path": "People/Chris Sejerskilde.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011476997
-        }
-      ]
-    },
-    {
-      "path": "People/Victor Nielsen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011478226
-        }
-      ]
-    },
-    {
-      "path": "People/Tobias Pedersen.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011478668
-        }
-      ]
-    },
-    {
-      "path": "People/Rasmus Storm.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011479053
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Daily Story.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011518643
-        },
-        {
-          "timestampMillis": 1785011524301
-        },
-        {
-          "timestampMillis": 1785011526416
-        },
-        {
-          "timestampMillis": 1785011534791
-        },
-        {
-          "timestampMillis": 1785011547372
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Password manager.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011527023
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Obsidian Hotkeys.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011528332
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Thesis defense prompt.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011548064
-        }
-      ]
-    },
-    {
-      "path": "Inbox/fierce-wolf.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011552471
-        },
-        {
-          "timestampMillis": 1785011556801
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Nautilus scripts.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011575154
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Jernpande.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011578909
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Wind surf.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011579562
-        },
-        {
-          "timestampMillis": 1785011580839
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Verdensbaletten 2026.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011584521
-        },
-        {
-          "timestampMillis": 1785011588683
-        },
-        {
-          "timestampMillis": 1785011591710
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Disc golf.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011593877
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Bank møde.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011594916
-        }
-      ]
-    },
-    {
-      "path": "Inbox/W28.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011595912
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Sommer arbejde 2026.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785011596341
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Prompt - Dataset clean up script.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785067629381
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Tasks/Data clean up tool Make a tool that takes a model that takes a dataset and then shows images it is uncertain about.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785067700724
-        },
-        {
-          "timestampMillis": 1785070451455
-        },
-        {
-          "timestampMillis": 1785080344477
-        }
-      ]
-    },
-    {
-      "path": "Notion/Projects & Tasks/Projects/Deploying Production Code.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785397805056
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-07-30 - Classification Queue prompt.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785415301304
-        },
-        {
-          "timestampMillis": 1785658816046
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-07-30 - background model.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1785420222889
-        },
-        {
-          "timestampMillis": 1785656131952
-        },
-        {
-          "timestampMillis": 1785658814867
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-07-30 - floor_tile model.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1785423114663
+          "timestampMillis": 1786388671545
         }
       ]
     },
     {
       "path": "Inbox/Sandcastle.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 8,
-      "openLogs": [
-        {
-          "timestampMillis": 1785657578163
-        },
-        {
-          "timestampMillis": 1785658201211
-        },
-        {
-          "timestampMillis": 1785658209702
-        },
-        {
-          "timestampMillis": 1785658501116
-        },
-        {
-          "timestampMillis": 1785663685145
-        },
-        {
-          "timestampMillis": 1785943145540
-        },
-        {
-          "timestampMillis": 1785943359251
-        },
-        {
-          "timestampMillis": 1786378138839
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Fjernvarme fyn.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1785778998420
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Environment variables.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1785955235692
-        },
-        {
-          "timestampMillis": 1785996409026
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-06.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1786000072905
-        },
-        {
-          "timestampMillis": 1786020089752
-        },
-        {
-          "timestampMillis": 1786378142089
-        }
-      ]
-    },
-    {
-      "path": "Areas/Linux/Chezmoi.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786020085948
-        },
-        {
-          "timestampMillis": 1786020134974
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786024483400
-        },
-        {
-          "timestampMillis": 1786035122856
-        }
-      ]
-    },
-    {
-      "path": "Inbox/2026-08-08 - VSCode.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786174840924
-        },
-        {
-          "timestampMillis": 1786174961678
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-09.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786264177484
-        },
-        {
-          "timestampMillis": 1786299588338
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-05.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786378137512
-        }
-      ]
-    },
-    {
-      "path": "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381318832
-        }
-      ]
-    },
-    {
-      "path": "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381319870
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381323560
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381328427
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/GPT Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381344783
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/LN - Stereo Vision.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381345430
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/GPT - Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381346883
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Exercise.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381349554
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Robot control.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381351167
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/GPT - Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381351733
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/GPT Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381352431
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/AK - Trajectory planning.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381353437
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/GPT Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381360440
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/HP - Planning of collision free and feasible robot motions.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381362231
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - LSP.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381363894
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/GPT Bulletpoints.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381364959
-        }
-      ]
-    },
-    {
-      "path": "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1786381366487
+          "timestampMillis": 1786388942034
         }
       ]
     }
