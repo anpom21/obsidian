@@ -1172,6 +1172,46 @@
           "timestampMillis": 1786388942034
         }
       ]
+    },
+    {
+      "path": "Archive/attachments/1000011855.jpg",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786389681645
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/1000012222.jpg",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786389682626
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Fjernvarme fyn 2026-08-05 10.33.02.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786389742139
+        }
+      ]
+    },
+    {
+      "path": "Inbox/2026-08-04 - npx @ai-hero/sandcastle docker build-image.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786389755460
+        }
+      ]
     }
   ]
 }

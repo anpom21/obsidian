@@ -135,7 +135,6 @@ Verify that the installation is successful by running the `hello-world` image:
 
 Create the Docker group if necessary and add the current user:
 ```
-
 sudo groupadd docker 2>/dev/null || true
 sudo usermod -aG docker "$USER"
 ```
