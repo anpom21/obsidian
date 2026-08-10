@@ -8,7 +8,7 @@
         "mode": "folder",
         "path": "OneNote/attachments"
       },
-      "duplicates": "update",
+      "duplicates": "create-copy",
       "saveSourceId": true
     }
   },
