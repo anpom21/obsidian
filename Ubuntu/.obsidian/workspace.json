@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ARIS/Coding standard.md",
+                "file": "Areas/Home server/Network storage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Coding standard"
+              "title": "Network storage"
             }
           },
           {
@@ -340,7 +340,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -379,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ARIS/Coding standard.md",
+                "file": "Areas/Home server/Network storage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -467,6 +467,14 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
+    "Areas/Home server/Stack over flow.md",
+    "Areas/Home server/Testing.md",
+    "Areas/Home server/Syncthing.md",
+    "Areas/Home server/Network storage.md",
+    "Areas/Home server/HomeLab - Getting Started.md",
+    "Areas/Linux/Ubuntu.md",
+    "Areas/Linux/Zsh.md",
+    "ARIS/Coding standard.md",
     "Inbox/Wedding website prompt.md",
     "Areas/Linux/SSH.md",
     "Inbox/Opskrift - Teriyaki stir fry.md",
@@ -488,14 +496,8 @@
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/GPT - Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Robot control.md",
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Exercise.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/GPT - Bulletpoints.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/LN - Stereo Vision.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/GPT Bulletpoints.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
     "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
     "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
-    "Daily/2026-08-06.md",
     "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",
     "OneNote/attachments/DK - Quality Control image 47f950c108832f86.png",
     "OneNote/attachments/DK - Quality Control image e45780f8764a1139.png",
@@ -511,8 +513,6 @@
     "OneNote/attachments/Exercises.pdf",
     "OneNote/attachments/Slides - Control 2024_.pdf",
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control",
-    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/XZ - Dynamic model.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

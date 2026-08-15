@@ -1189,6 +1189,85 @@
           "timestampMillis": 1786797724879
         }
       ]
+    },
+    {
+      "path": "Areas/Home server/HomeLab - Getting Started.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801845948
+        },
+        {
+          "timestampMillis": 1786801906464
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Network storage.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801885180
+        },
+        {
+          "timestampMillis": 1786801906977
+        },
+        {
+          "timestampMillis": 1786801911876
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Zsh.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801894093
+        }
+      ]
+    },
+    {
+      "path": "Areas/Linux/Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801896284
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Syncthing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801907406
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Testing.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801907937
+        }
+      ]
+    },
+    {
+      "path": "Areas/Home server/Stack over flow.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786801911362
+        }
+      ]
     }
   ]
 }
