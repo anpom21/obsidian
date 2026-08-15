@@ -1159,6 +1159,16 @@
           "timestampMillis": 1786389808500
         }
       ]
+    },
+    {
+      "path": "Areas/Linux/SSH.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786797199485
+        }
+      ]
     }
   ]
 }

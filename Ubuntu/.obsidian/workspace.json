@@ -205,12 +205,24 @@
             "id": "8f95855254794331",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.13.6"
+                "file": "Areas/Linux/SSH.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.6"
+              "icon": "lucide-file",
+              "title": "SSH"
             }
           },
           {
@@ -367,6 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Areas/Linux/SSH.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -452,7 +465,7 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "8f95855254794331",
   "lastOpenFiles": [
     "Inbox/Opskrift - Teriyaki stir fry.md",
     "Archive/attachments/Pasted image 20260815114353.png",
