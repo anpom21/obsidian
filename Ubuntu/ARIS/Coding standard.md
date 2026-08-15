@@ -22,6 +22,7 @@ logger.error("Could not connect to database")
 logger.critical("Application cannot continue")
 ```
 
-Make sure to l
+## Debugging
+At every possible point of failure makes sure to prepare logging around that section, which should only be triggered when the `DEBUGGING` env variable is `1`. 
 ## Package manager
 The project should use `uv` for managing packages. Add packages with `uv add`.

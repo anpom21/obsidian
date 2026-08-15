@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Linux/SSH.md",
+                "file": "ARIS/Coding standard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SSH"
+              "title": "Coding standard"
             }
           },
           {
@@ -379,7 +379,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Linux/SSH.md",
+                "file": "ARIS/Coding standard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -467,6 +467,8 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
+    "Inbox/Wedding website prompt.md",
+    "Areas/Linux/SSH.md",
     "Inbox/Opskrift - Teriyaki stir fry.md",
     "Archive/attachments/Pasted image 20260815114353.png",
     "Daily/2026-08-12.md",
@@ -511,8 +513,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control",
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/XZ - Dynamic model.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Digital twins notes.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/CS - Digital Twins.md",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
