@@ -82,7 +82,6 @@ group by filename
 sort by description
 
 ```
-
 # Tasks waiting
 ```tasks
 not done
