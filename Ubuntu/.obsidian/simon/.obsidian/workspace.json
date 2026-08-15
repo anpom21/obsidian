@@ -1,0 +1,674 @@
+{
+  "main": {
+    "id": "679770509f7d653c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f971e13d2ba4e505",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c68b79f2a9c21d32",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Context Builder.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "Context Builder"
+            }
+          },
+          {
+            "id": "17cee26bca6605bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "0466698bbec5e411",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "a43ea2194de90001",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "809668dcc24cbe7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ARIS/ARIS Config.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ARIS Config"
+            }
+          },
+          {
+            "id": "49940eaf95185799",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-07-30 - Classification Queue prompt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-07-30 - Classification Queue prompt"
+            }
+          },
+          {
+            "id": "688b6b9ea29720ce",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-07-30 - background model.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-07-30 - background model"
+            }
+          },
+          {
+            "id": "84e157818a1400ec",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Sandcastle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Sandcastle"
+            }
+          },
+          {
+            "id": "f516732b2c71e607",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "05a53a9027ee41f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Documentation TODO.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Documentation TODO"
+            }
+          },
+          {
+            "id": "83af85325c63a9f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "bdf44a5643911b7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026-08-05.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "2026-08-05"
+            }
+          },
+          {
+            "id": "a365796900995e23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Fjernvarme fyn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fjernvarme fyn"
+            }
+          },
+          {
+            "id": "a20516d3cb7a2221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Fjernvarme fyn.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Fjernvarme fyn"
+            }
+          },
+          {
+            "id": "6acbad3c715e078d",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Archive/attachments/Fjernvarme fyn 2026-08-05 10.33.02.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Fjernvarme fyn 2026-08-05 10.33.02.excalidraw"
+            }
+          },
+          {
+            "id": "59eb0de13c2e0704",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2026-08-05 - Machine Linux .bashrc"
+            }
+          },
+          {
+            "id": "2dab489a90a26862",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tasks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "dfbeb1faf9c9693b",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Archive/attachments/Firestore overview.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Firestore overview.excalidraw"
+            }
+          }
+        ],
+        "currentTab": 16
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5a927eb0ef729c7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4726f9420ca4792",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cf9f3420477a1a0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#sandcastle",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f50f8682467b428a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "4e7393e431b113b6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "1ee630c582774de1",
+            "type": "leaf",
+            "state": {
+              "type": "notebook-navigator",
+              "state": {},
+              "icon": "notebook-navigator",
+              "title": "Notebook Navigator"
+            }
+          },
+          {
+            "id": "5bba87bd6640bc41",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ARIS/Excalidraw/Speciale - Overview.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Speciale - Overview"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 381.5
+  },
+  "right": {
+    "id": "10b7dc54a46eae74",
+    "type": "split",
+    "children": [
+      {
+        "id": "58eed16cb05b2748",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "088500ace93147d6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "SSH.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for SSH"
+            }
+          },
+          {
+            "id": "d2151a084d2f394b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "How tos/Home server/HomeLab - Getting Started.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from HomeLab - Getting Started"
+            }
+          },
+          {
+            "id": "6618fe08289607af",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "3a5774c537f23144",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Tasks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "b7842ca1a4060e50",
+            "type": "leaf",
+            "state": {
+              "type": "view-count",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "view-count"
+            }
+          },
+          {
+            "id": "2c17feb903f24487",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 297.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "notebook-navigator:Notebook Navigator": false,
+      "obsidian-map-view:Open map view": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "2dab489a90a26862",
+  "lastOpenFiles": [
+    "Inbox/Firestore.md",
+    "Daily/2026-08-10.md",
+    "Tasks.md",
+    "Notion/Projects & Tasks/Tasks/Documentation of insights.md",
+    "ARIS/Excalidraw/Speciale - Overview.md",
+    "ARIS/Dangerous waste.md",
+    "Notion/Projects & Tasks/Projects/Hardware Upgrades for Wade 2.0.md",
+    "Archive/attachments/Firestore overview.excalidraw.md",
+    "Archive/attachments/Pasted image 20260811090129.png",
+    "Archive/attachments/Pasted image 20260811090113.png",
+    "Inbox/2026-08-05 - Machine Linux .bashrc .md",
+    "Inbox/2026-08-11 - chezmoi init.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control/DK - Quality Control.md",
+    "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",
+    "OneNote/attachments/DK - Quality Control image 47f950c108832f86.png",
+    "OneNote/attachments/DK - Quality Control image e45780f8764a1139.png",
+    "OneNote/attachments/DK - Quality Control image 8198af3c3a038dd0.png",
+    "OneNote/attachments/DK - Quality Control image a5436b721001b86f.png",
+    "OneNote/attachments/DK - Quality Control image bc3525de2d726e11.png",
+    "OneNote/attachments/DK - Quality Control image 75ea76e33ad1d643.png",
+    "OneNote/attachments/DK - Quality Control image a9b1c2b24366f152.png",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/GPT Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation/TMI - Pose Estimation.md",
+    "OneNote/attachments/6 DoF Object Pose Estimation - 2025.pdf",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/GPT Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision/LN - Stereo Vision.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/LN - Stereo Vision",
+    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/GPT - Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Exercise.md",
+    "OneNote/attachments/Exercises.pdf",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Robot control.md",
+    "OneNote/attachments/Slides - Control 2024_.pdf",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/GPT - Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/XZ - Dynamic model.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model",
+    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control",
+    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/GPT Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/AK - Trajectory planning.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/GPT Bulletpoints.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/HP - Planning of collision free and feasible robot motions.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - LSP.md",
+    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/GPT Bulletpoints.md",
+    "Inbox/Untitled.canvas",
+    "Untitled.canvas",
+    "Untitled 1.canvas"
+  ]
+}

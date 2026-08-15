@@ -1,0 +1,10 @@
+{
+  "folderSpecificTemplates": [
+    {
+      "folderPath": "Inbox",
+      "templateName": "daily"
+    }
+  ],
+  "disablePrompt": false,
+  "debug": false
+}

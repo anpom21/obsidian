@@ -27,7 +27,6 @@ aliases:
 - [ ] [[wade-system]] LOGGING universal logger for all repos
 - [ ] [[Dangerous waste]] prompt. <5% amfotere overfladeaktive stoffer, nonioniskeoverfladeaktive stoffer
 
-
 # This week
 ```tasks
 # Only tasks that are not done, that is, which begin like this (but without the quotes):
