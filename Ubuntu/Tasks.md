@@ -5,14 +5,14 @@ tags:
 source:
 aliases:
 ---
-****- [ ] Make excalidraw overview of config
+ - [ ] Make excalidraw overview of config
 - [ ] Make excalidraw of classification pipeline and [[Classification]] evaluation logging
   - Answer: Use Templater for the note body/frontmatter and QuickAdd for the filename. For a creation date in every new note, add `created: 2026-06-09` to the relevant template. For notes created through QuickAdd, include `{{DATE:YYYY-MM-DD}}` in the filename or template. Daily Notes already points at `Templates/daily.md`, so that template can carry the date automatically for daily pages.
 - [ ] Think of way to best way/ place to store task when using obsidian shortcut, maybe have shortcut go to daily note instead? 🔽 #agent 
   - Answer: Keep the shortcut as a quick capture into `Tasks.md` or an Inbox capture, then review it into daily/project notes later. Sending every shortcut task directly to the daily note feels tidy today but makes old tasks harder to find after a few days. A good setup is: capture fast to `Tasks.md`, optionally prefix with today's date or source, and use the existing Tasks queries plus daily review to decide what belongs on today's note.
 - [ ] Fix [[Zsh]] terminal bugs #home  🔽 
-- [ ] [[aris sync]] fix default folders for mineral wool #agent #implement  
-- [ ] [[wade-system|WADE]] make it possible to configure normalization in deployment config #agent #implement
+- [x] [[aris sync]] fix default folders for mineral wool #agent #implement ✅ 2026-08-12
+- [x] [[wade-system|WADE]] make it possible to configure normalization in deployment config #agent #implement ✅ 2026-08-12
 - [ ] [[aris sync]] make outdoor wood be sorted to impregnated wood by default and indoor wood to normal wood #agent 
 - [ ] Make a standardized documentation format #ARIS #Documentation
 - [ ] Dangerous waste project. Configure WADE display for new and more buttons. 🔼 
@@ -25,6 +25,7 @@ aliases:
 - [ ] Make model .ckpt files inherit the model configuration such as, normalization, preprocessing, inference on test images, model config, #sandcastle [[Classification]]
 - [ ] Add a groundtruth label at the top as well, make it clear what reference directory is used for the image, as its written with small letters. For each image show the category folders found in its reference folder. For each new image follow the marked ground truth category on the left. So if there is a long list of categories the groundtruth category might not be visible when going to a new page fix this so its visible on new pages. #sandcastle [[Classification]] 
 - [ ] [[wade-system]] LOGGING universal logger for all repos
+- [ ] [[Dangerous waste]] prompt. <5% amfotere overfladeaktive stoffer, nonioniskeoverfladeaktive stoffer
 
 
 # This week

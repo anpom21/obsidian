@@ -183,7 +183,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
+                "file": "Weekly note.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +198,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mini guide"
+              "title": "Weekly note"
+            }
+          },
+          {
+            "id": "8f95855254794331",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.6"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.6"
             }
           },
           {
@@ -250,7 +262,7 @@
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -320,7 +332,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 632.5
+    "width": 351.5
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -355,7 +367,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -434,7 +445,6 @@
       "obsidian-map-view:Open map view": false,
       "templater-obsidian:Templater": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-importer:Open Importer": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
       "pdf-plus:PDF++: Toggle auto-paste": false,
@@ -442,8 +452,17 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "8dc67b0a7692afa1",
+  "active": "1ee630c582774de1",
   "lastOpenFiles": [
+    "Inbox/Opskrift - Teriyaki stir fry.md",
+    "Archive/attachments/Pasted image 20260815114353.png",
+    "Daily/2026-08-12.md",
+    "Archive/attachments/Firestore overview.excalidraw.md",
+    "Inbox/Firestore.md",
+    "Archive/attachments/Pasted image 20260811090129.png",
+    "Archive/attachments/Pasted image 20260811090113.png",
+    "Inbox/2026-08-11 - chezmoi init.md",
+    "Weekly note.md",
     "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control/DK - Quality Control.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/GPT Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - LSP.md",
@@ -467,9 +486,6 @@
     "OneNote/attachments/DK - Quality Control image e45780f8764a1139.png",
     "OneNote/attachments/DK - Quality Control image 8198af3c3a038dd0.png",
     "OneNote/attachments/DK - Quality Control image a5436b721001b86f.png",
-    "OneNote/attachments/DK - Quality Control image bc3525de2d726e11.png",
-    "OneNote/attachments/DK - Quality Control image 75ea76e33ad1d643.png",
-    "OneNote/attachments/DK - Quality Control image a9b1c2b24366f152.png",
     "OneNote/attachments/Computer vision and quality control for robotic assembly.pdf",
     "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control",
     "OneNote/attachments/6 DoF Object Pose Estimation - 2025.pdf",
@@ -484,12 +500,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Mini guide.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/Digital twins notes.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/CS - Digital Twins.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/KS - Introduction to robotics/GPT Bulletpoints.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/KS - Introduction to robotics/KS - Introduction to robotics.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/Schedule.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/OneDrive folder.md",
-    "Inbox/Sandcastle.md",
-    "Daily/2026-08-05.md",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
