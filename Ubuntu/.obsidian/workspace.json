@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Areas/Home server/Network storage.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,19 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Network storage"
+              "title": "Tasks"
+            }
+          },
+          {
+            "id": "f789949e69cf84db",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.13.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.13.7"
             }
           },
           {
@@ -379,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Areas/Home server/Network storage.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -467,6 +479,8 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "Untitled.md",
     "Areas/Home server/Stack over flow.md",
     "Areas/Home server/Testing.md",
     "Areas/Home server/Syncthing.md",
@@ -494,8 +508,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/AK - Trajectory planning.md",
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/GPT Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/XZ - Dynamic model/GPT - Bulletpoints.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Robot control.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L3 - Robot modelling and control/CS - Robot control/CS - Exercise.md",
     "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
     "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
     "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",
