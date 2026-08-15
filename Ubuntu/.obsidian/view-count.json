@@ -25,6 +25,79 @@
           "timestampMillis": 1786804335323
         }
       ]
+    },
+    {
+      "path": "Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805112234
+        },
+        {
+          "timestampMillis": 1786805154667
+        }
+      ]
+    },
+    {
+      "path": "2026-08-15.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805150265
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-08-01.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805154940
+        }
+      ]
+    },
+    {
+      "path": "Weekly note.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805155773
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Classification.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805156426
+        }
+      ]
+    },
+    {
+      "path": "Clean up script.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805156824
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Opskrift - Teriyaki stir fry.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786805171680
+        }
+      ]
     }
   ]
 }
