@@ -1,9 +1,9 @@
 
 ## I køleskabet lige nu:
-- Løg
+- Lidt Løg
 - Iceberg
-- Kartofler
-- Gulerødder
+- 0,5 kg Kartofler
+- 1 kg Gulerødder
 
 ## Vores stables:
 ### Kylling m kartofler i airfyeren
@@ -12,17 +12,18 @@ Kartofler skæres i mellem store både ogs med olie og allaround krydderi, får 
 ##### Variation
 tilføjer vi løg, gulerødder eller sødekartofler til kartoflerne i airfryeren
 
-## Tortillias
+### Tortillias
 Protein:
 Kylling, hakket oksekød, champignon og kikærter
 Salat til: som regel hvad der lige er i køleskabet. Kunne være iceberg, pepperfrugt (rigtig glad for pepperfrugt), agurk, tomat eller lignende, salsa til, evt guac.
 
-## Burger
+### Burger
 
+### Forårsruller
 
-## Forårsruller
+### Flæskesteg 
 
-## Flæskesteg 
+### Grillmad
 
-## Grillmad
+### Frikadeller
 
