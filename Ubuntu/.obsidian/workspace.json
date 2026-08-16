@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-03.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "2026-06-03"
             }
           },
           {
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Daily/2026-06-03.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -493,8 +493,8 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
-    "ARIS/Evaluation tracking.md",
     "Tasks.md",
+    "ARIS/Evaluation tracking.md",
     "Inbox/Password manager.md",
     "2026-08-15.md",
     "Untitled 1.md",
