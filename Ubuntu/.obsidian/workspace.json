@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Password manager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Password manager"
             }
           },
           {
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Password manager.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -448,6 +448,20 @@
               "icon": "eye",
               "title": "View count"
             }
+          },
+          {
+            "id": "d638ac5c6cca62d6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
           }
         ],
         "currentTab": 1
@@ -479,6 +493,7 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
+    "Tasks.md",
     "2026-08-15.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -507,7 +522,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/HP - Planning of collision free and feasible robot motions.md",
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/GPT Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/AK - Trajectory planning.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/GPT Bulletpoints.md",
     "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
     "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
     "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",

@@ -28,8 +28,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1786805112234
@@ -42,6 +42,9 @@
         },
         {
           "timestampMillis": 1786810245669
+        },
+        {
+          "timestampMillis": 1786872675267
         }
       ]
     },
@@ -105,6 +108,16 @@
         },
         {
           "timestampMillis": 1786810209916
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Password manager.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1786872682194
         }
       ]
     }
