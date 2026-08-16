@@ -146,10 +146,13 @@
     {
       "path": "Daily/2026-06-03.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786876609131
+        },
+        {
+          "timestampMillis": 1786878494494
         }
       ]
     }
