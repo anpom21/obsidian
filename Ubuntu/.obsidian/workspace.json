@@ -207,7 +207,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Password manager.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Password manager"
+              "title": "Tasks"
             }
           },
           {
@@ -391,7 +391,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Password manager.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -493,7 +493,9 @@
   },
   "active": "8f95855254794331",
   "lastOpenFiles": [
+    "ARIS/Evaluation tracking.md",
     "Tasks.md",
+    "Inbox/Password manager.md",
     "2026-08-15.md",
     "Untitled 1.md",
     "Untitled.md",
@@ -520,8 +522,6 @@
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - Digital Twins/GPT Bulletpoints.md",
     "OneNote/ERS - Elite Robotics Summerschool/L1 - Introduction to Robotics/CS - LSP.md",
     "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/HP - Planning of collision free and feasible robot motions.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/HP - Planning of collision free and feasible robot motions/GPT Bulletpoints.md",
-    "OneNote/ERS - Elite Robotics Summerschool/L2 - Collision free path planning/AK - Trajectory planning/AK - Trajectory planning.md",
     "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
     "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
     "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",

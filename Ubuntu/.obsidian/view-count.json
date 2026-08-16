@@ -29,7 +29,7 @@
     {
       "path": "Tasks.md",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
+      "totalTimesOpened": 8,
       "openLogs": [
         {
           "timestampMillis": 1786805112234
@@ -45,6 +45,15 @@
         },
         {
           "timestampMillis": 1786872675267
+        },
+        {
+          "timestampMillis": 1786873177756
+        },
+        {
+          "timestampMillis": 1786873214202
+        },
+        {
+          "timestampMillis": 1786873218095
         }
       ]
     },
@@ -118,6 +127,19 @@
       "openLogs": [
         {
           "timestampMillis": 1786872682194
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Evaluation tracking.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1786873212213
+        },
+        {
+          "timestampMillis": 1786873215215
         }
       ]
     }
