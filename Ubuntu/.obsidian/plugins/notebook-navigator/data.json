@@ -191,8 +191,7 @@
   "folderSortOrder": "alpha-asc",
   "enableFolderNotes": false,
   "folderNoteType": "markdown",
-  "folderNoteName": "",
-  "folderNoteNamePattern": "",
+  "folderNoteNamePattern": "{{folder}}",
   "folderNoteTemplate": null,
   "enableFolderNoteLinks": true,
   "hideFolderNoteInList": true,
@@ -558,7 +557,7 @@
     "#404040",
     "#404040"
   ],
-  "lastShownVersion": "3.3.3",
+  "lastShownVersion": "3.3.4",
   "rootFolderOrder": [],
   "rootTagOrder": [],
   "rootPropertyOrder": []
