@@ -145,8 +145,8 @@
     },
     {
       "path": "Daily/2026-06-03.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1786876609131
@@ -156,6 +156,81 @@
         },
         {
           "timestampMillis": 1787158138255
+        },
+        {
+          "timestampMillis": 1787236029125
+        }
+      ]
+    },
+    {
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236097315
+        },
+        {
+          "timestampMillis": 1787236097422
+        }
+      ]
+    },
+    {
+      "path": "References/Geolocations/Hjem.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236098712
+        },
+        {
+          "timestampMillis": 1787236105180
+        }
+      ]
+    },
+    {
+      "path": "References/Geolocations/Bolbro Discgolf.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236100000
+        }
+      ]
+    },
+    {
+      "path": "References/LaTeX Ubuntu.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236101344
+        }
+      ]
+    },
+    {
+      "path": "References/Minecraft.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236102467
+        },
+        {
+          "timestampMillis": 1787236106574
+        },
+        {
+          "timestampMillis": 1787236118928
+        }
+      ]
+    },
+    {
+      "path": "Projects/Food planner app.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236138747
         }
       ]
     }
