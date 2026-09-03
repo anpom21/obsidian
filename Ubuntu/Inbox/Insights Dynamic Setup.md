@@ -43,4 +43,4 @@ npm exec firebase-tools -- hosting:channel:deploy dev-preview --expires 7d
 >You'll also need `npx firebase login` once if you haven't. Note `npm exec firebase-tools` re-downloads firebase-tools 15.x each time (it's not a devDependency) — worth adding to `devDependencies` if you deploy often.
 
 ### Idea
-Prompt and sorting list should be fetched whenever 
+Prompt and sorting list should be fetched whenever a new version is detected in the cloud.
