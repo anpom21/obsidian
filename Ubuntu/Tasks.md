@@ -15,6 +15,8 @@ aliases:
 - [ ] Add a groundtruth label at the top as well, make it clear what reference directory is used for the image, as its written with small letters. For each image show the category folders found in its reference folder. For each new image follow the marked ground truth category on the left. So if there is a long list of categories the groundtruth category might not be visible when going to a new page fix this so its visible on new pages. #sandcastle [[Classification]] 
 - [ ] [[wade-system]] LOGGING universal logger for all repos
 - [ ] [[Dangerous waste]] prompt. <5% amfotere overfladeaktive stoffer, nonioniskeoverfladeaktive stoffer
+- [ ] Make sure machines are up to date with network monitoring and chezmoi
+- [ ] chezmoi: make the production machine auto fill the system key in chezmoi with the active wade service 
 
 # This week
 ```tasks

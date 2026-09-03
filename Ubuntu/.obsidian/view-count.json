@@ -28,8 +28,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 8,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 10,
       "openLogs": [
         {
           "timestampMillis": 1786805112234
@@ -54,6 +54,12 @@
         },
         {
           "timestampMillis": 1786873218095
+        },
+        {
+          "timestampMillis": 1788418293639
+        },
+        {
+          "timestampMillis": 1788418300918
         }
       ]
     },
@@ -69,41 +75,65 @@
     },
     {
       "path": "Daily/2026-08-01.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786805154940
+        },
+        {
+          "timestampMillis": 1788418302849
         }
       ]
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1786805155773
+        },
+        {
+          "timestampMillis": 1788418109313
+        },
+        {
+          "timestampMillis": 1788418115458
+        },
+        {
+          "timestampMillis": 1788418299775
+        },
+        {
+          "timestampMillis": 1788418304138
         }
       ]
     },
     {
       "path": "ARIS/Classification.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1786805156426
+        },
+        {
+          "timestampMillis": 1788418303773
+        },
+        {
+          "timestampMillis": 1788418304471
         }
       ]
     },
     {
       "path": "Clean up script.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1786805156824
+        },
+        {
+          "timestampMillis": 1788418305271
         }
       ]
     },
@@ -163,15 +193,21 @@
       ]
     },
     {
-      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "References/UNI/Master_Thesis_CasperAndreas.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1787236097315
         },
         {
           "timestampMillis": 1787236097422
+        },
+        {
+          "timestampMillis": 1788418100987
+        },
+        {
+          "timestampMillis": 1788418123895
         }
       ]
     },
@@ -226,11 +262,83 @@
     },
     {
       "path": "Projects/Food planner app.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1787236138747
+        },
+        {
+          "timestampMillis": 1788418065708
+        }
+      ]
+    },
+    {
+      "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418096003
+        },
+        {
+          "timestampMillis": 1788418108629
+        },
+        {
+          "timestampMillis": 1788418298604
+        }
+      ]
+    },
+    {
+      "path": "Templates/daily.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1787236138747
+          "timestampMillis": 1788418236246
+        }
+      ]
+    },
+    {
+      "path": "Templates/inbox template.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418237646
+        },
+        {
+          "timestampMillis": 1788418297331
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Master thesis.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418270645
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-08-05.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418294495
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Insights Dynamic Setup.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418330770
         }
       ]
     }

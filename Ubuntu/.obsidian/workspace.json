@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clean up script.md",
+                "file": "Inbox/Insights Dynamic Setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,255 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Clean up script"
-            }
-          },
-          {
-            "id": "956380966d8684e1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARIS/Classification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classification"
-            }
-          },
-          {
-            "id": "88c5341eab50e180",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly note.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Weekly note"
-            }
-          },
-          {
-            "id": "f3109425ae0ec1d0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARIS/Classification.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Classification"
-            }
-          },
-          {
-            "id": "bd32cba8f32bb3ad",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/2026-08-01 - Sandcastle.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "2026-08-01 - Sandcastle"
-            }
-          },
-          {
-            "id": "f60209073923ed59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-08-01.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-01"
-            }
-          },
-          {
-            "id": "3d897499509d404d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "8dc67b0a7692afa1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekly note.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Weekly note"
-            }
-          },
-          {
-            "id": "8f95855254794331",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Food planner app.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Food planner app"
-            }
-          },
-          {
-            "id": "f789949e69cf84db",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.13.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.13.7"
-            }
-          },
-          {
-            "id": "953cc101ec412010",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Tasks"
-            }
-          },
-          {
-            "id": "a7260856bf427a87",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily/2026-08-05.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "2026-08-05"
+              "title": "Insights Dynamic Setup"
             }
           }
-        ],
-        "currentTab": 8
+        ]
       }
     ],
     "direction": "vertical"
@@ -381,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Food planner app.md",
+                "file": "Inbox/Insights Dynamic Setup.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -481,36 +236,36 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "8f95855254794331",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
-    "References/Minecraft.md",
+    "Clean up script.md",
+    "ARIS/Classification.md",
+    "Weekly note.md",
+    "Daily/2026-08-01.md",
+    "Tasks.md",
+    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
+    "Templates/inbox template.md",
+    "Daily/2026-08-05.md",
+    "Inbox/Master thesis.md",
+    "Templates/daily.md",
+    "References/UNI/Master_Thesis_CasperAndreas.pdf",
+    "MasterThesisCasperAndreas.pdf.md",
     "Projects/Food planner app.md",
+    "Unavngivet.md",
+    "Inbox/Insights Dynamic Setup.md",
+    "Areas/Linux/Desktop window setup.md",
+    "Daily/2026-08-29.md",
+    "Wingfoiling.md",
+    "ARIS Inspiration.md",
+    "Aktier.md",
+    "aris sync.md",
+    "Areas/Linux/Network storage.md",
+    "References/Minecraft.md",
     "References/Geolocations/Hjem.md",
     "References/LaTeX Ubuntu.md",
     "References/Geolocations/Bolbro Discgolf.md",
-    "References/UNI/MasterThesisCasperAndreas.pdf",
     "Daily/2026-06-03.md",
-    "2026-08-18.md",
     "SDU-Grade-Transcript.pdf.pdf",
-    "Madplan.md",
-    "Unavngivet.md",
-    "2026-08-16.md",
-    "Tasks.md",
-    "ARIS/Evaluation tracking.md",
-    "Inbox/Password manager.md",
-    "2026-08-15.md",
-    "Untitled 1.md",
-    "Untitled.md",
-    "Areas/Home server/Stack over flow.md",
-    "Areas/Home server/Testing.md",
-    "Areas/Home server/Syncthing.md",
-    "Areas/Home server/Network storage.md",
-    "Areas/Home server/HomeLab - Getting Started.md",
-    "Areas/Linux/Ubuntu.md",
-    "Areas/Linux/Zsh.md",
-    "ARIS/Coding standard.md",
-    "Inbox/Wedding website prompt.md",
-    "Areas/Linux/SSH.md",
     "Archive/attachments/Pasted image 20260815114353.png",
     "Archive/attachments/Pasted image 20260811090129.png",
     "Archive/attachments/Pasted image 20260811090113.png",
