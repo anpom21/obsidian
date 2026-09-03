@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Insights Dynamic Setup.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Insights Dynamic Setup"
+              "title": "Tasks"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Insights Dynamic Setup.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -238,8 +238,8 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
-    "home/ap/Repositories/wade-system-dangerous-waste-mobile.md",
     "Inbox/Insights Dynamic Setup.md",
+    "home/ap/Repositories/wade-system-dangerous-waste-mobile.md",
     "home/ap/Repositories",
     "home/ap",
     "home",
