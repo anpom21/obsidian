@@ -18,6 +18,7 @@ aliases:
 - [ ] Make sure machines are up to date with network monitoring and chezmoi
 - [ ] chezmoi: make the production machine auto fill the system key in chezmoi with the active wade service 
 - [ ] Greve kan ikke findes under lokationer
+- [ ] Warning server: Make the status threshold be 10 min instead of 2 hours
 
 # This week
 ```tasks
