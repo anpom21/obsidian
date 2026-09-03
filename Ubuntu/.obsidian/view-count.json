@@ -335,10 +335,26 @@
     {
       "path": "Inbox/Insights Dynamic Setup.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1788418330770
+        },
+        {
+          "timestampMillis": 1788418386272
+        },
+        {
+          "timestampMillis": 1788418404495
+        }
+      ]
+    },
+    {
+      "path": "path.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788418383449
         }
       ]
     }
