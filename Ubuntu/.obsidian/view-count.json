@@ -411,6 +411,16 @@
           "timestampMillis": 1788969033606
         }
       ]
+    },
+    {
+      "path": "Inbox/Færøerne.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788969131907
+        }
+      ]
     }
   ]
 }

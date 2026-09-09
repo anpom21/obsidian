@@ -32,6 +32,30 @@
             }
           },
           {
+            "id": "b26820adf2b620e4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Færøerne.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Færøerne"
+            }
+          },
+          {
             "id": "306ad920f8a4f4f5",
             "type": "leaf",
             "state": {
@@ -55,7 +79,8 @@
               "title": "Realmæglerne - Kundeuniverset"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -160,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Havremarken 7.md",
+                "file": "Inbox/Færøerne.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -260,10 +285,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "b26820adf2b620e4",
   "lastOpenFiles": [
-    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
     "Inbox/Havremarken 7.md",
+    "Inbox/Færøerne.md",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
     "Inbox/Havremarken 7.md.tmp.20308.97afd903d743",
     "Inbox/Havremarken 7.md.tmp.20308.336f4b267981",
     "Inbox/Havremarken 7.md.tmp.20308.643cb380cf39",
@@ -273,7 +299,6 @@
     "Inbox/Havremarken 7.md.tmp.20308.373c18c6af38",
     "Inbox/Havremarken 7.md.tmp.20308.06c672345b22",
     "Inbox/Havremarken 7.md.tmp.20308.a7181aa21e38",
-    "Archive/Documents/Bolig/Havremarken 7/BBR-meddelelse.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
     "Inbox/Realmæglerne - Kundeuniverset.md",
     "Daily/2026-09-09.md",
