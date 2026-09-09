@@ -55,8 +55,7 @@
               "title": "Realmæglerne - Kundeuniverset"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Realmæglerne - Kundeuniverset.md",
+                "file": "Inbox/Havremarken 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -261,8 +260,9 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "1ee630c582774de1",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Inbox/Realmæglerne - Kundeuniverset.md",
     "Archive/Documents/Bolig/Havremarken 7/Grundejerforening/HRMG Budget 2026.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Grundejerforening/HRMG Årsregnskab 2025.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Grundejerforening",
@@ -273,9 +273,7 @@
     "Archive/Documents/Bolig/Havremarken 7/Tilbud_Ejerskifteforsikring.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Købsaftale.pdf",
     "Archive/Documents/Bolig/Havremarken 7/HRMG Budget 2026.pdf",
-    "Archive/Documents/Bolig/Havremarken 7/HRMG Årsregnskab 2025.pdf",
     "Inbox/Havremarken 7.md",
-    "Inbox/Realmæglerne - Kundeuniverset.md",
     "Daily/2026-09-09.md",
     "Unavngivet 1.md",
     "Tasks.md",
