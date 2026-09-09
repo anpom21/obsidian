@@ -367,10 +367,23 @@
     {
       "path": "Inbox/Havremarken 7.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1788929444545
+        },
+        {
+          "timestampMillis": 1788966624435
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Realmæglerne - Kundeuniverset.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788966646246
         }
       ]
     }

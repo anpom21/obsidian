@@ -30,8 +30,33 @@
               "icon": "lucide-file",
               "title": "Havremarken 7"
             }
+          },
+          {
+            "id": "306ad920f8a4f4f5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inbox/Realmæglerne - Kundeuniverset.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Realmæglerne - Kundeuniverset"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Havremarken 7.md",
+                "file": "Inbox/Realmæglerne - Kundeuniverset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -236,11 +261,14 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "306ad920f8a4f4f5",
   "lastOpenFiles": [
+    "Inbox/Havremarken 7.md",
+    "Inbox/Realmæglerne - Kundeuniverset.md",
+    "Daily/2026-09-09.md",
+    "Unavngivet 1.md",
     "Tasks.md",
     "Daily/2026-09-08.md",
-    "Inbox/Havremarken 7.md",
     "Koebsaftale_ejerbolig_260_788711.pdf",
     "Inbox/insights-dashboard.md",
     "Inbox/log-watchdog.md",
@@ -274,9 +302,6 @@
     "References/UNI/Master_Thesis_CasperAndreas.pdf",
     "MasterThesisCasperAndreas.pdf.md",
     "Projects/Food planner app.md",
-    "Unavngivet.md",
-    "Areas/Linux/Desktop window setup.md",
-    "Daily/2026-08-29.md",
     "SDU-Grade-Transcript.pdf.pdf",
     "Archive/attachments/Pasted image 20260815114353.png",
     "Archive/attachments/Pasted image 20260811090129.png",

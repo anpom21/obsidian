@@ -22,3 +22,28 @@ Test
 ```
 nano ../wade-system-dangerous-waste/data/.env/wade-system-openai-key.txt
 ```
+
+
+### Redone
+```
+chezmoi init --prompt
+mkdir ~/.env
+cp ~/wade-system/data/.env/serviceAccountCredentials.json ~/.env/
+cz update
+```
+
+```
+sudo nano /etc/systemd/system/state-machine.service
+```
+
+Add 
+```
+Environment = 'PYTHONUNBUFFERED=1'
+```
+Run
+```
+sudo systemctl daemon-reload
+sudo systemctl restart state-machine.service
+sudo journalctl -fu state-machine.service -o short-precise
+```
+bold-eagle
