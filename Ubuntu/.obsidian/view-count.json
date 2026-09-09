@@ -367,7 +367,7 @@
     {
       "path": "Inbox/Havremarken 7.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1788929444545
@@ -380,6 +380,9 @@
         },
         {
           "timestampMillis": 1788968053567
+        },
+        {
+          "timestampMillis": 1788968679364
         }
       ]
     },
