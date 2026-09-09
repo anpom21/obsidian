@@ -24,24 +24,16 @@ Energimærk: C
 
 ## Frister
 
-Dato for garanti21.09.2026
-
-Overtagelsesdato01.12.2026
-
-Dispositionsdato01.12.2026
-
-Dato for 1. deponering17.09.2026
-
-Skøde seneste underskriftsdato24.11.2026
-
-Udløb af fortrydelsesret17.09.2026
-
-Dato for signering af skøde22.11.2026
-
-Dato for anmeldelse af skøde26.11.2026
-
-Indsigelsesfrist købers rådgiver17.09.2026
-
-Udarbejdelse af refusionsopgørelse31.12.2026
-
-Indsigelsesfrist købers pengeinstitut17.09.2026
+| Frist                                 | Dato       |
+| ------------------------------------- | ---------- |
+| Udarbejdelse af refusionsopgørelse    | 31.12.2026 |
+| Overtagelsesdato                      | 01.12.2026 |
+| Dispositionsdato                      | 01.12.2026 |
+| Dato for anmeldelse af skøde          | 26.11.2026 |
+| Skøde seneste underskriftsdato        | 24.11.2026 |
+| Dato for signering af skøde           | 22.11.2026 |
+| Dato for garanti                      | 21.09.2026 |
+| Dato for 1. deponering                | 17.09.2026 |
+| Udløb af fortrydelsesret              | 17.09.2026 |
+| Indsigelsesfrist købers rådgiver      | 17.09.2026 |
+| Indsigelsesfrist købers pengeinstitut | 17.09.2026 |
