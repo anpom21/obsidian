@@ -52,6 +52,8 @@ Energimærk: C
 - Øvrige bygninger: Udhus 6 m² (opført 2007) + skur 1,50 m², Carport 26 m² (opført 1990), overdækket areal 15 m²
 - Tilbehør medfølger: køle/fryseskab (Bosch), emhætte (Silverline Crystal), ovn/induktionskogeplader/opvaskemaskine (Siemens), vaskemaskine (Point), tørretumbler (Bauknecht), mikrobølgeovn (Exido). Markise og ladestander til el-bil medfølger IKKE.
 
+Kilder: [[Salgsopstilling_villa_260_788711.pdf]], [[BBR-meddelelse.pdf]], [[Ejendomskort.pdf]]
+
 ### 2. Pris & økonomi
 - Kontantpris: 2.695.000 kr. · Ejerudgift/md.: 2.003 kr.
 - Udbetaling: 135.000 kr. · Brt./nt. ekskl. ejerudgift: 15.065/12.101 kr.
@@ -61,6 +63,8 @@ Energimærk: C
 - Statslig indefrysningslån: 1.295,84 kr.
 - Ejendomsbidrag 2026 (kommunalt, ekskl. skat som opkræves af SKAT separat): kun rottebekæmpelse 196,90 kr.
 - Varmeudgift 2025 (fjernvarme): forbrug 42,26 GJ / 326,62 m³, i alt 10.363,66 kr. (der var 42,50 kr. for lidt faktureret ift. aconto)
+
+Kilder: [[Salgsopstilling_villa_260_788711.pdf]], [[Off. vurdering 2022 og foreløbig vurdering 2024.pdf]], [[Ejendomsbidragsbillet 2026.pdf]], [[Ejendomsbidrags kvittering 2026.png]], [[Varmeopgørelse 2025.pdf]]
 
 ### 3. Tilstand & installationer
 **Tilstandsrapport** (gyldig 11.08.2026–11.02.2027, løbenr. H-26-01818-0072):
@@ -81,11 +85,15 @@ Energimærk: C
 - I carport/skur: dåse/roset uden låg, ulovlig bøjelig ledning som fast installation (2 steder), brugsgenstand ikke forbundet til beskyttelsesleder
 - Skur har ingen elinstallation og blev ikke gennemgået
 
+Kilder: [[Tilstandsrapport.pdf]], [[Elinstallationsrapport.pdf]]
+
 ### 4. Energimærke
 - Energimærke C, gyldig 11.08.2026–11.08.2036 (udarbejdet af BMH Rådgivning ApS)
 - Nuværende årlig energiudgift: 14.900 kr. (fjernvarme 10.500 kr. + el 4.400 kr.)
 - Anbefalet forbedring: montage af fremløbstermostatventiler på radiatorer — sparer 700 kr./år, koster 4.800 kr., ca. 2 dages renovering
 - Sekundær (ikke-rentabel) anbefaling: isolering af loftrum med 100 mm isolering, sparer 400 kr./år
+
+Kilder: [[Energimærke.pdf]]
 
 ### 5. Servitutter & tinglysning
 - Ejer: Sven-Erik Peterson, 100% ejerandel, siden skøde 23.05.1995 (købesum dengang 765.000 kr.)
@@ -94,6 +102,8 @@ Energimærk: C
   1. 16.11.1957: Dok om forsynings-/afløbsledninger mv.
   2. 05.09.1985: Dok om bebyggelse, benyttelse mv. Indeholder bestemmelser om salg
   3. 10.09.1985: Dok om bebyggelse, benyttelse, grundejerforening mv.
+
+Kilder: [[Tingbog.pdf]], [[Servitut 1 - 6.11.1957.pdf]], [[Servitut 2 - 5.9.1985.pdf]], [[Servitut 3 - 10.09.1985.pdf]]
 
 ### 6. Lokalplan & offentlige forhold
 - Zonestatus: Byzone
@@ -107,6 +117,8 @@ Energimærk: C
 - Vand/afløb: Alment vandforsyningsanlæg, afløb til offentligt kloaksystem; ejendommen ligger i et område med drikkevandsinteresser (ikke følsomt indvindingsområde)
 - Radon: Odense kommune klasse 2 (radonniveau 1,0–3,0%)
 
+Kilder: [[Ejendomsdatarapport.pdf]], [[Ejendomsdatarapport Resumé.pdf]], [[Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf]], [[Raastofplanskort.pdf]], [[Jordforureningsattest kommune - ingen.pdf]], [[Jordforureningsattest Region - ingen.pdf]], [[Fredningsstatus - ingen.pdf]]
+
 ### 7. Grundejerforening
 Foreningen: Havremarken/Rugmarken/Majsmarken/Græsmarken
 - Kontingent 2026 (budget): 2.500 kr./år (135 husstande) — op fra 2.000 kr. i 2025
@@ -114,6 +126,8 @@ Foreningen: Havremarken/Rugmarken/Majsmarken/Græsmarken
 - Regnskab 2025 (realiseret): indtægter 270.248 kr., udgifter 144.502 kr., driftsresultat 125.746 kr. + investeringsafkast 60.458 kr. = årets resultat 186.204 kr.
 - Foreningens formue pr. 31.12.2025: aktiver i alt 2.272.962 kr. (fri egenkapital 245.468 kr. + vejfond 2.027.494 kr.) — økonomisk solidt fundament, stor vejfond opsparet til fremtidig vejrenovering
 - Store udgiftsposter: vedligeholdelse af grønne områder (~80-100t kr./år), julefrokost bestyrelse, forsikringer (~9t kr.)
+
+Kilder: [[GF - Årsregnskab 2025.pdf]], [[GF - Budget 2026.pdf]], [[GF - vedtægter.pdf]], [[GF - Seneste referat.pdf]]
 
 ### 8. Forsikring
 **Nuværende husforsikring** (sælgers, GF Forsikring, police 128804625, "Senior husforsikring", ikrafttrædelse 01.10.2024):
@@ -125,3 +139,5 @@ Foreningen: Havremarken/Rugmarken/Majsmarken/Græsmarken
 - Dansk Boligforsikring (i samarbejde med GF Forsikring): Basis 5 år 13.501 kr. / 10 år 21.000 kr.; Udvidet 5 år 24.550 kr. (5.000 kr. selvrisiko) / 10 år 31.771 kr.; tillægskøb husforsikring ca. 4.043 kr./år, flytteforsikring 0 kr. ved Super-/Pluspakke
 - Gjensidige: Basis 5 år 22.552 kr. / 10 år 33.803 kr.; Udvidet 5 år 31.739 kr. / 10 år 47.584 kr. (5.300 kr. selvrisiko); med rabat ved samtidig husforsikring: Basis 5 år 19.177 kr. (spar 3.339 kr.) osv. Husforsikring vejledende 265–578 kr./md. afhængig af niveau.
 - Alle tilbud bemærker at forhold nævnt i tilstandsrapporten/el-rapporten IKKE er dækket.
+
+Kilder: [[Husforsikring, police.pdf]], [[Ejerskifteforsikring, tilbud - Alm. brand.pdf]], [[Ejerskifteforsikring, tilbud - Dansk Boligforsikring.pdf]], [[Ejerskifteforsikring, tilbud - Gjensidige.pdf]]
