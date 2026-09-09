@@ -28,8 +28,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 11,
+      "uniqueDaysOpened": 4,
+      "totalTimesOpened": 12,
       "openLogs": [
         {
           "timestampMillis": 1786805112234
@@ -63,6 +63,9 @@
         },
         {
           "timestampMillis": 1788422467862
+        },
+        {
+          "timestampMillis": 1788929438207
         }
       ]
     },
@@ -358,6 +361,16 @@
       "openLogs": [
         {
           "timestampMillis": 1788418383449
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Havremarken 7.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1788929444545
         }
       ]
     }

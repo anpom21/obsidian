@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Havremarken 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks"
+              "title": "Havremarken 7"
             }
           }
         ]
@@ -136,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Inbox/Havremarken 7.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -238,6 +238,24 @@
   },
   "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Daily/2026-09-08.md",
+    "Inbox/Havremarken 7.md",
+    "Koebsaftale_ejerbolig_260_788711.pdf",
+    "Inbox/insights-dashboard.md",
+    "Inbox/log-watchdog.md",
+    "ARIS/Sorteringslister.md",
+    "Pasted image 20260907094529.png",
+    "Pasted image 20260907094452.png",
+    "Pasted image 20260907094357.png",
+    "Sorteringsvejledning, Version 04-2024.pdf",
+    "Sorteringsvejledning, PDF, STOR skrift, 01.04. 2026.pdf",
+    "Pasted image 20260907093301.png",
+    "Sorteringsliste ver.27.pdf",
+    "Affaldstyper version 28-2026 NORDVÆRK.pdf",
+    "Madplanen.md",
+    "Cookies.md",
+    "Dankort tilknytninger.md",
     "Inbox/Insights Dynamic Setup.md",
     "home/ap/Repositories/wade-system-dangerous-waste-mobile.md",
     "home/ap/Repositories",
@@ -248,7 +266,6 @@
     "ARIS/Classification.md",
     "Weekly note.md",
     "Daily/2026-08-01.md",
-    "Tasks.md",
     "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
     "Templates/inbox template.md",
     "Daily/2026-08-05.md",
@@ -260,14 +277,6 @@
     "Unavngivet.md",
     "Areas/Linux/Desktop window setup.md",
     "Daily/2026-08-29.md",
-    "Wingfoiling.md",
-    "ARIS Inspiration.md",
-    "Aktier.md",
-    "aris sync.md",
-    "Areas/Linux/Network storage.md",
-    "References/Minecraft.md",
-    "References/Geolocations/Hjem.md",
-    "References/LaTeX Ubuntu.md",
     "SDU-Grade-Transcript.pdf.pdf",
     "Archive/attachments/Pasted image 20260815114353.png",
     "Archive/attachments/Pasted image 20260811090129.png",
@@ -275,15 +284,6 @@
     "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
     "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
     "OneNote/attachments/DK - Quality Control image e2384e3f05c6cd4f.png",
-    "OneNote/attachments/DK - Quality Control image 47f950c108832f86.png",
-    "OneNote/attachments/DK - Quality Control image e45780f8764a1139.png",
-    "OneNote/attachments/DK - Quality Control image 8198af3c3a038dd0.png",
-    "OneNote/attachments/DK - Quality Control image a5436b721001b86f.png",
-    "OneNote/attachments/Computer vision and quality control for robotic assembly.pdf",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/DK - Quality Control",
-    "OneNote/attachments/6 DoF Object Pose Estimation - 2025.pdf",
-    "OneNote/ERS - Elite Robotics Summerschool/L4 - Computer Vision/TMI - Pose Estimation",
-    "OneNote/attachments/Perceiving Depth from Images - Stereoscopic Vision and the Stereo Correspondence Problem.pdf",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"

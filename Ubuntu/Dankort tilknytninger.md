@@ -1,0 +1,5 @@
+- Mobilepay
+- Greentel
+- Coop 365
+- Netto
+- REMA 1000

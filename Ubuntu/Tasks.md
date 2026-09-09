@@ -19,6 +19,10 @@ aliases:
 - [ ] chezmoi: make the production machine auto fill the system key in chezmoi with the active wade service 
 - [ ] Greve kan ikke findes under lokationer
 - [ ] Warning server: Make the status threshold be 10 min instead of 2 hours
+- [ ] [[wade-system|WADE]] : Add an internal watch dog of important threads or similar that are waited for and if they never return or fail then exit 0. Eg. open-ai key doesn't work.
+- [ ] [[insights-dashboard]] Make the initials in the top left match the initials shown in image page. 
+- [ ] Automatic email service https://chatgpt.com/c/6a9e6e36-8d8c-83eb-8f60-09e3c2bc7f95
+- [ ] 
 
 # This week
 ```tasks
