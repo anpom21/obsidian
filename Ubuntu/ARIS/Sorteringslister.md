@@ -10,7 +10,7 @@
 ### Poolprodukter
 ![[PUBLICERET - Sorteringsvejledning Poolprodukter Version 1 2025 D25-1308694 1.0.pdf]]
 ## Stena recycling
-![[Sorteringsvejledning, Version 04-2024.pdf]]
+![[Stena Recycling V04-2024.pdf]]
 
 ![[Pasted image 20260907094357.png]]
 

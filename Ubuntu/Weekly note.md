@@ -3,12 +3,22 @@ tags:
   - dashboard
   - weekly
   - rolling-review
+<<<<<<< HEAD
   - weekly-review
 created: 2026-07-12 15
 week_start: 2026-07-06
 week_end: 2026-07-12
 ---
 
+=======
+created: 11-06-2026
+---
+
+# Rolling Weekly Dashboard
+> Rolling overview of the last 7 daily notes.
+
+---
+>>>>>>> origin/master
 
 ## Last 7 daily notes
 
@@ -77,4 +87,22 @@ if (tasks.length === 0) {
 }
 ```
 
+<<<<<<< HEAD
 ---
+=======
+---
+
+## Weekly reflection
+
+### Wins
+- Snakket om løn - bare det at gøre det var fedt.
+- Anders var fan af mit arbejde
+- Emma er bare for dejlig
+
+
+### Problems / blockers
+
+### Follow-ups
+
+### Priorities for the next 7 days
+>>>>>>> origin/master

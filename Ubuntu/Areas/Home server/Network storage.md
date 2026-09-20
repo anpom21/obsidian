@@ -58,7 +58,8 @@ As admin CMD turn off Fast Startup with:
 `powercfg /h off`
 This also disables hibernation (recommended for dual-boot).
 ___
-## Mount server folder
+# Mount server folder
+## Host machine
 
 On the **machine hosting the folder**:
 ```
@@ -88,7 +89,7 @@ Restart:
 ```
 sudo systemctl restart smbd
 ```
-## Auto mount server folder
+## Client machine
 
 ### Install CIFS tools
 ```

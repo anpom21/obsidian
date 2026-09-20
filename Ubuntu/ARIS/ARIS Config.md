@@ -233,6 +233,7 @@ cs = ConfigStore.instance()
 cs.store(name="config", node=Config)
 ```
 
+<<<<<<< HEAD
 
 ## Fire store Example
 ```json
@@ -245,5 +246,25 @@ cs.store(name="config", node=Config)
 	dataset_file: "2026-05-03T16-53-23",
 }
 ```
+=======
+>>>>>>> origin/master
 
+## Fire store Example
+```json
+{
+	time_stamp: "2026-05-04T10-21-56",
+	fileserver_path:"
+	model_name: "epoch=004-val_loss=0.231.pt",
+	f1: 0.89,
+	accuracy: 0.90,
+	dataset_file: "2026-05-03T16-53-23",
+}
+```
+# [[Tasks]]
+- [ ] Grill session with thesis config and current classification setup
+- [ ] Implement data handling in configs
+- [ ] Implement new config management
+- [ ] Test old method, and new method and ensure similar results are obtained
+- [ ] Setup notion table which can be manually written to in the beginning
+- [ ] 
 ## Agent description

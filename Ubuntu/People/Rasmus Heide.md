@@ -36,10 +36,11 @@ partner: "[[Yui …]]"
   ---
   
 ## Updates
-- 
+- Heide shunglere venner studie, praktik, job og liv
+- Lidt presset af at Yui ikke må have job
 
 ## Timeline
-- 
+- Yui skal have svar på om hun kan få opholdstilladelse inden november. 
 
 ---
 ## Related Notes

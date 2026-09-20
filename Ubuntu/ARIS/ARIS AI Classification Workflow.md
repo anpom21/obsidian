@@ -17,4 +17,4 @@ aliases:
 
 ## Manifest
 - [ ] Make the `manifest.py` script upload only specific files and folders instead of the whole rundir.
-- [ ] 
+- [x]  ✅ 2026-09-19

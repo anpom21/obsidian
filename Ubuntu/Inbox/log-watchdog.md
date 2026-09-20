@@ -43,7 +43,22 @@ Environment = 'PYTHONUNBUFFERED=1'
 Run
 ```
 sudo systemctl daemon-reload
+```
+```
+sudo systemctl daemon-reload
 sudo systemctl restart state-machine.service
 sudo journalctl -fu state-machine.service -o short-precise
 ```
-bold-eagle
+
+
+Missing:
+calm-panda
+daring-leopard
+energetic-kangaroo 
+majestic-horse
+mysterious-owl
+radiant-bear
+
+```
+journalctl -u 'log-watchdog@*' -f 
+```

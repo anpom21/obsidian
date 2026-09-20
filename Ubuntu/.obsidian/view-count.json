@@ -268,14 +268,17 @@
     },
     {
       "path": "Projects/Food planner app.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1787236138747
         },
         {
           "timestampMillis": 1788418065708
+        },
+        {
+          "timestampMillis": 1789918643719
         }
       ]
     },
@@ -366,8 +369,8 @@
     },
     {
       "path": "Inbox/Havremarken 7.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
           "timestampMillis": 1788929444545
@@ -386,19 +389,25 @@
         },
         {
           "timestampMillis": 1788969036617
+        },
+        {
+          "timestampMillis": 1789918514301
         }
       ]
     },
     {
       "path": "Inbox/Realmæglerne - Kundeuniverset.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1788966646246
         },
         {
           "timestampMillis": 1788967632784
+        },
+        {
+          "timestampMillis": 1789918512533
         }
       ]
     },
@@ -414,11 +423,33 @@
     },
     {
       "path": "Inbox/Færøerne.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
       "openLogs": [
         {
           "timestampMillis": 1788969131907
+        },
+        {
+          "timestampMillis": 1789918496993
+        }
+      ]
+    },
+    {
+      "path": "Projects/Multiboard.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 4,
+      "openLogs": [
+        {
+          "timestampMillis": 1789918618611
+        },
+        {
+          "timestampMillis": 1789918646374
+        },
+        {
+          "timestampMillis": 1789918647784
+        },
+        {
+          "timestampMillis": 1789918648047
         }
       ]
     }

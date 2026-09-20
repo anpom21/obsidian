@@ -1,7 +1,7 @@
 ---
 created: 2026-06-09
 tags:
-source:
+source: https://docs.google.com/spreadsheets/d/1-p3zlqRAhaeQ-_lz0DigkGCTm6zISXQnKvTG3kXtPqw/edit?gid=0#gid=0
 aliases:
 Kontantpris: 2.695.000
 Boligareal: "93"
@@ -12,7 +12,7 @@ Varmekilde: Fjernvarme
 Energimærk: C
 ---
 ## Køberaftale
-![[Koebsaftale_ejerbolig_260_788711.pdf]]
+![[Købsaftale_Havremarken_7.pdf]]
 
 
 
@@ -20,7 +20,11 @@ Energimærk: C
 - Sælger afmelder nuværende tilslutninger og hæfter for evt. gebyr i forbindelse med afmelding/opsigelse. Køber står selv for  at finde egne udbydere og hæfter for evt. tilslutningsgebyr/omkostninger forbundet hermed
 
 # Spørgsmål og TODO
-
+- Gardiner?
+- Hvad dækker ejerskifteforsikring 
+- Hvad dækker husforsikring
+- El vand og varme
+- 
 
 ## Frister
 
@@ -140,4 +144,15 @@ Kilder: [[GF - Årsregnskab 2025.pdf]], [[GF - Budget 2026.pdf]], [[GF - vedtæg
 - Gjensidige: Basis 5 år 22.552 kr. / 10 år 33.803 kr.; Udvidet 5 år 31.739 kr. / 10 år 47.584 kr. (5.300 kr. selvrisiko); med rabat ved samtidig husforsikring: Basis 5 år 19.177 kr. (spar 3.339 kr.) osv. Husforsikring vejledende 265–578 kr./md. afhængig af niveau.
 - Alle tilbud bemærker at forhold nævnt i tilstandsrapporten/el-rapporten IKKE er dækket.
 
+#### Dansk Boligforsikring
+![[IMG_4543.png]]
+![[IMG_4542.png]]
+
+#### Alm. Brand
+![[IMG_4545.png]]
+![[IMG_4544.png]]
+#### Gjensidig
+![[IMG_4547.png]]
+
 Kilder: [[Husforsikring, police.pdf]], [[Ejerskifteforsikring, tilbud - Alm. brand.pdf]], [[Ejerskifteforsikring, tilbud - Dansk Boligforsikring.pdf]], [[Ejerskifteforsikring, tilbud - Gjensidige.pdf]]
+

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inbox/Havremarken 7.md",
+                "file": "Projects/Multiboard.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,59 +28,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Havremarken 7"
-            }
-          },
-          {
-            "id": "b26820adf2b620e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Færøerne.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Færøerne"
-            }
-          },
-          {
-            "id": "306ad920f8a4f4f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inbox/Realmæglerne - Kundeuniverset.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Realmæglerne - Kundeuniverset"
+              "title": "Multiboard"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,7 +136,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inbox/Færøerne.md",
+                "file": "Projects/Multiboard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -285,10 +236,41 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "b26820adf2b620e4",
+  "active": "42f0b622cf6a2780",
   "lastOpenFiles": [
+    "Projects/Food planner app.md",
+    "Projects/Multiboard.md",
     "Inbox/Havremarken 7.md",
+    "Inbox/Realmæglerne - Kundeuniverset.md",
     "Inbox/Færøerne.md",
+    "Wing foiling.md",
+    "Daily/2026-09-14.md",
+    "conflict-files-obsidian-git.md",
+    "Købsaftale_Havremarken_7.pdf",
+    "Inbox/Better deep ensemble test.md",
+    "Inbox/Karsten Lykke Something.md",
+    "Inbox/Storm Holm.md",
+    "Inbox/Magne Vethal Kanneworff.md",
+    "Inbox/Flemming Something.md",
+    "Inbox/Dexter Holm.md",
+    "Inbox/Casper Rask.md",
+    "Inbox/Aksel Lytsen.md",
+    "Inbox/Rasmus Storm.md",
+    "Inbox/Mathias Jensen.md",
+    "Inbox/Mathias Tungelund Kristensen.md",
+    "Inbox/Cecilie Veidiksen.md",
+    "Inbox/Tobias Pedersen.md",
+    "Inbox/Victor Nielsen.md",
+    "Inbox/config.yaml.md",
+    "Inbox/2026-06-11 - Kristoffer Jensen.md",
+    "Inbox/2026-06-11 - Johan Egtved Nissen.md",
+    "Inbox/2026-06-11 - Maja Abrahamsen.md",
+    "IMG_4542.png",
+    "IMG_4543.png",
+    "IMG_4544.png",
+    "IMG_4547.png",
+    "IMG_4545.png",
+    "Stena Recycling V04-2024.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
     "Inbox/Havremarken 7.md.tmp.20308.97afd903d743",
     "Inbox/Havremarken 7.md.tmp.20308.336f4b267981",
@@ -297,42 +279,11 @@
     "Inbox/Havremarken 7.md.tmp.20308.8ddd742fc310",
     "Inbox/Havremarken 7.md.tmp.20308.815187212f97",
     "Inbox/Havremarken 7.md.tmp.20308.373c18c6af38",
-    "Inbox/Havremarken 7.md.tmp.20308.06c672345b22",
-    "Inbox/Havremarken 7.md.tmp.20308.a7181aa21e38",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
-    "Inbox/Realmæglerne - Kundeuniverset.md",
-    "Daily/2026-09-09.md",
-    "Unavngivet 1.md",
-    "Tasks.md",
-    "Daily/2026-09-08.md",
-    "Inbox/insights-dashboard.md",
-    "Inbox/log-watchdog.md",
-    "ARIS/Sorteringslister.md",
     "Pasted image 20260907094529.png",
     "Pasted image 20260907094452.png",
     "Pasted image 20260907094357.png",
     "Pasted image 20260907093301.png",
-    "Madplanen.md",
-    "Cookies.md",
-    "Dankort tilknytninger.md",
-    "Inbox/Insights Dynamic Setup.md",
-    "home/ap/Repositories/wade-system-dangerous-waste-mobile.md",
-    "path.md",
-    "Clean up script.md",
-    "ARIS/Classification.md",
-    "Weekly note.md",
-    "Daily/2026-08-01.md",
-    "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-    "Templates/inbox template.md",
-    "Daily/2026-08-05.md",
-    "Inbox/Master thesis.md",
-    "Templates/daily.md",
-    "MasterThesisCasperAndreas.pdf.md",
-    "Archive/attachments/Pasted image 20260815114353.png",
-    "Archive/attachments/Pasted image 20260811090129.png",
-    "Archive/attachments/Pasted image 20260811090113.png",
-    "OneNote/attachments/CS - LSP image 2b601c3b9b9283e4.png",
-    "OneNote/attachments/CS - LSP image a477e5e664609b3a.png",
     "Inbox/Untitled.canvas",
     "Untitled.canvas",
     "Untitled 1.canvas"
