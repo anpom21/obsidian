@@ -30,8 +30,21 @@
               "icon": "lucide-file",
               "title": "Multiboard"
             }
+          },
+          {
+            "id": "8712ab9a46b624eb",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Multiboard 2026-09-20 17.42.18.excalidraw"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Multiboard.md",
+                "file": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -236,10 +249,11 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "42f0b622cf6a2780",
+  "active": "8712ab9a46b624eb",
   "lastOpenFiles": [
-    "Projects/Food planner app.md",
     "Projects/Multiboard.md",
+    "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
+    "Projects/Food planner app.md",
     "Inbox/Havremarken 7.md",
     "Inbox/Realmæglerne - Kundeuniverset.md",
     "Inbox/Færøerne.md",
@@ -264,7 +278,6 @@
     "Inbox/config.yaml.md",
     "Inbox/2026-06-11 - Kristoffer Jensen.md",
     "Inbox/2026-06-11 - Johan Egtved Nissen.md",
-    "Inbox/2026-06-11 - Maja Abrahamsen.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
