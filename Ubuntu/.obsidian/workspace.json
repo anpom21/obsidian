@@ -4,8 +4,32 @@
     "type": "split",
     "children": [
       {
+        "id": "a40f79df105b4124",
+        "type": "tabs",
+        "dimension": 74.20731707317073,
+        "children": [
+          {
+            "id": "47a64bea4ea60c3a",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Stena Recycling V04-2024.pdf",
+                "page": 7,
+                "left": -10,
+                "top": 130,
+                "zoom": 1.4676980447490426
+              },
+              "icon": "lucide-file-text",
+              "title": "Stena Recycling V04-2024"
+            }
+          }
+        ]
+      },
+      {
         "id": "a83f7ecf77aad180",
         "type": "tabs",
+        "dimension": 25.79268292682927,
         "children": [
           {
             "id": "42f0b622cf6a2780",
@@ -35,12 +59,24 @@
             "id": "8712ab9a46b624eb",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md"
+                "file": "ARIS/Sorteringslister.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "excalidraw-icon",
-              "title": "Multiboard 2026-09-20 17.42.18.excalidraw"
+              "icon": "lucide-file",
+              "title": "Sorteringslister"
             }
           }
         ],
@@ -149,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
+                "file": "Stena Recycling V04-2024.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -249,17 +285,23 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "8712ab9a46b624eb",
+  "active": "47a64bea4ea60c3a",
   "lastOpenFiles": [
-    "Projects/Multiboard.md",
+    "ARIS/Sorteringslister.md",
+    "Stena Recycling V04-2024.pdf",
+    "Daily/2026-10-09.md",
     "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
+    "conflict-files-obsidian-git.md",
+    "Daily/2026-09-23.md",
+    "Daily/2026-09-24.md",
+    "Daily/2026-09-21.md",
+    "Projects/Multiboard.md",
     "Projects/Food planner app.md",
     "Inbox/Havremarken 7.md",
     "Inbox/Realmæglerne - Kundeuniverset.md",
     "Inbox/Færøerne.md",
     "Wing foiling.md",
     "Daily/2026-09-14.md",
-    "conflict-files-obsidian-git.md",
     "Købsaftale_Havremarken_7.pdf",
     "Inbox/Better deep ensemble test.md",
     "Inbox/Karsten Lykke Something.md",
@@ -272,18 +314,11 @@
     "Inbox/Rasmus Storm.md",
     "Inbox/Mathias Jensen.md",
     "Inbox/Mathias Tungelund Kristensen.md",
-    "Inbox/Cecilie Veidiksen.md",
-    "Inbox/Tobias Pedersen.md",
-    "Inbox/Victor Nielsen.md",
-    "Inbox/config.yaml.md",
-    "Inbox/2026-06-11 - Kristoffer Jensen.md",
-    "Inbox/2026-06-11 - Johan Egtved Nissen.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
     "IMG_4547.png",
     "IMG_4545.png",
-    "Stena Recycling V04-2024.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
     "Inbox/Havremarken 7.md.tmp.20308.97afd903d743",
     "Inbox/Havremarken 7.md.tmp.20308.336f4b267981",

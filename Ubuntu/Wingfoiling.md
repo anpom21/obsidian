@@ -1,3 +1,6 @@
+## Exercises
+https://www.windsurf.co.uk/6-exercises-every-windsurfer-should-do-every-single-day/
+
 ## Tips and tricks
 - Toe and heal side trap
 Lean a little back to avoid toe side trap but not too much to avoid the heel side trap.

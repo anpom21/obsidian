@@ -455,11 +455,56 @@
     },
     {
       "path": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1789918938352
+        },
+        {
+          "timestampMillis": 1791573325808
+        },
+        {
+          "timestampMillis": 1791573326477
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-10-09.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1789918938352
+          "timestampMillis": 1791573331180
+        }
+      ]
+    },
+    {
+      "path": "ARIS/Sorteringslister.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1791573335931
+        },
+        {
+          "timestampMillis": 1791573346560
+        }
+      ]
+    },
+    {
+      "path": "Stena Recycling V04-2024.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 3,
+      "openLogs": [
+        {
+          "timestampMillis": 1791573340759
+        },
+        {
+          "timestampMillis": 1791573340889
+        },
+        {
+          "timestampMillis": 1791573488315
         }
       ]
     }
