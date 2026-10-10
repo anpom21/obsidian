@@ -28,44 +28,14 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 4,
-      "totalTimesOpened": 12,
+      "uniqueDaysOpened": 5,
+      "totalTimesOpened": 13,
       "openLogs": [
         {
-          "timestampMillis": 1786805112234
-        },
-        {
-          "timestampMillis": 1786805154667
-        },
-        {
-          "timestampMillis": 1786810245521
-        },
-        {
-          "timestampMillis": 1786810245669
-        },
-        {
-          "timestampMillis": 1786872675267
-        },
-        {
-          "timestampMillis": 1786873177756
-        },
-        {
-          "timestampMillis": 1786873214202
-        },
-        {
-          "timestampMillis": 1786873218095
-        },
-        {
-          "timestampMillis": 1788418293639
-        },
-        {
-          "timestampMillis": 1788418300918
-        },
-        {
-          "timestampMillis": 1788422467862
-        },
-        {
           "timestampMillis": 1788929438207
+        },
+        {
+          "timestampMillis": 1791652341509
         }
       ]
     },
@@ -505,6 +475,16 @@
         },
         {
           "timestampMillis": 1791573488315
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-10-10.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1791652343120
         }
       ]
     }

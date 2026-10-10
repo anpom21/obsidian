@@ -12,16 +12,36 @@
             "id": "47a64bea4ea60c3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Stena Recycling V04-2024.pdf",
-                "page": 7,
-                "left": -10,
-                "top": 130,
-                "zoom": 1.4676980447490426
+                "file": "Daily/2026-10-10.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Stena Recycling V04-2024"
+              "icon": "lucide-file",
+              "title": "2026-10-10"
+            }
+          },
+          {
+            "id": "82fa0453497bdccd",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.4"
             }
           }
         ]
@@ -29,7 +49,7 @@
       {
         "id": "a83f7ecf77aad180",
         "type": "tabs",
-        "dimension": 25.79268292682927,
+        "dimension": 25.792682926829272,
         "children": [
           {
             "id": "42f0b622cf6a2780",
@@ -185,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Stena Recycling V04-2024.pdf",
+                "file": "Daily/2026-10-10.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -287,6 +307,8 @@
   },
   "active": "47a64bea4ea60c3a",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Daily/2026-10-10.md",
     "ARIS/Sorteringslister.md",
     "Stena Recycling V04-2024.pdf",
     "Daily/2026-10-09.md",
@@ -313,7 +335,6 @@
     "Inbox/Aksel Lytsen.md",
     "Inbox/Rasmus Storm.md",
     "Inbox/Mathias Jensen.md",
-    "Inbox/Mathias Tungelund Kristensen.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
