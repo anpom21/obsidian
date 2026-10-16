@@ -1,509 +1,369 @@
 {
   "items": [
     {
-      "path": "Untitled.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "path": "References/UNI/MasterThesisCasperAndreas.pdf",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
-          "timestampMillis": 1786804255302
+          "timestampMillis": 1780495216748
         },
         {
-          "timestampMillis": 1786804305265
+          "timestampMillis": 1780495299161
+        },
+        {
+          "timestampMillis": 1780495775905
+        },
+        {
+          "timestampMillis": 1780495777319
+        },
+        {
+          "timestampMillis": 1780495892326
+        },
+        {
+          "timestampMillis": 1780496340822
+        },
+        {
+          "timestampMillis": 1780559335343
+        },
+        {
+          "timestampMillis": 1780559335499
+        },
+        {
+          "timestampMillis": 1780559341341
+        },
+        {
+          "timestampMillis": 1780559373158
+        },
+        {
+          "timestampMillis": 1780559479800
+        },
+        {
+          "timestampMillis": 1780559480125
+        },
+        {
+          "timestampMillis": 1780561785593
+        },
+        {
+          "timestampMillis": 1780561888768
+        },
+        {
+          "timestampMillis": 1780564552381
+        },
+        {
+          "timestampMillis": 1780564713179
         }
       ]
     },
     {
       "path": "Daily/2026-08-12.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786804313228
-        },
-        {
-          "timestampMillis": 1786804335323
-        }
-      ]
-    },
-    {
-      "path": "Tasks.md",
-      "uniqueDaysOpened": 6,
-      "totalTimesOpened": 15,
-      "openLogs": [
-        {
-          "timestampMillis": 1791652341509
-        },
-        {
-          "timestampMillis": 1792128942589
-        },
-        {
-          "timestampMillis": 1792128943350
-        }
-      ]
-    },
-    {
-      "path": "2026-08-15.md",
-      "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1786805150265
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-01.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786805154940
-        },
-        {
-          "timestampMillis": 1788418302849
+          "timestampMillis": 1786550680016
         }
       ]
     },
     {
       "path": "Weekly note.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 5,
-      "openLogs": [
-        {
-          "timestampMillis": 1786805155773
-        },
-        {
-          "timestampMillis": 1788418109313
-        },
-        {
-          "timestampMillis": 1788418115458
-        },
-        {
-          "timestampMillis": 1788418299775
-        },
-        {
-          "timestampMillis": 1788418304138
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Classification.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1786805156426
-        },
-        {
-          "timestampMillis": 1788418303773
-        },
-        {
-          "timestampMillis": 1788418304471
-        }
-      ]
-    },
-    {
-      "path": "Clean up script.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786805156824
-        },
-        {
-          "timestampMillis": 1788418305271
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Opskrift - Teriyaki stir fry.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1786805171680
-        },
-        {
-          "timestampMillis": 1786810209916
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Password manager.md",
       "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1786872682194
+          "timestampMillis": 1789458554187
         }
       ]
     },
     {
-      "path": "ARIS/Evaluation tracking.md",
+      "path": "Areas/Home server/Network storage.md",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
-          "timestampMillis": 1786873212213
+          "timestampMillis": 1789458579101
         },
         {
-          "timestampMillis": 1786873215215
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-06-03.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1786876609131
+          "timestampMillis": 1789459157170
         },
         {
-          "timestampMillis": 1786878494494
+          "timestampMillis": 1789459457768
         },
         {
-          "timestampMillis": 1787158138255
+          "timestampMillis": 1789459758431
         },
         {
-          "timestampMillis": 1787236029125
-        }
-      ]
-    },
-    {
-      "path": "References/UNI/Master_Thesis_CasperAndreas.pdf",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236097315
+          "timestampMillis": 1789460058969
         },
         {
-          "timestampMillis": 1787236097422
+          "timestampMillis": 1789460360152
         },
         {
-          "timestampMillis": 1788418100987
+          "timestampMillis": 1789460660660
         },
         {
-          "timestampMillis": 1788418123895
-        }
-      ]
-    },
-    {
-      "path": "References/Geolocations/Hjem.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236098712
+          "timestampMillis": 1789460961231
         },
         {
-          "timestampMillis": 1787236105180
-        }
-      ]
-    },
-    {
-      "path": "References/Geolocations/Bolbro Discgolf.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236100000
-        }
-      ]
-    },
-    {
-      "path": "References/LaTeX Ubuntu.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236101344
-        }
-      ]
-    },
-    {
-      "path": "References/Minecraft.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236102467
+          "timestampMillis": 1789461261836
         },
         {
-          "timestampMillis": 1787236106574
+          "timestampMillis": 1789461562320
         },
         {
-          "timestampMillis": 1787236118928
-        }
-      ]
-    },
-    {
-      "path": "Projects/Food planner app.md",
-      "uniqueDaysOpened": 3,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1787236138747
+          "timestampMillis": 1789461862944
         },
         {
-          "timestampMillis": 1788418065708
+          "timestampMillis": 1789462163443
         },
         {
-          "timestampMillis": 1789918643719
-        }
-      ]
-    },
-    {
-      "path": "Archive/attachments/Meeting - 11.00 2026-06-03 15.58.49.excalidraw.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418096003
+          "timestampMillis": 1789462464019
         },
         {
-          "timestampMillis": 1788418108629
+          "timestampMillis": 1789462764597
         },
         {
-          "timestampMillis": 1788418298604
-        }
-      ]
-    },
-    {
-      "path": "Templates/daily.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418236246
-        }
-      ]
-    },
-    {
-      "path": "Templates/inbox template.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418237646
+          "timestampMillis": 1789463065265
         },
         {
-          "timestampMillis": 1788418297331
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Master thesis.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418270645
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-08-05.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418294495
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Insights Dynamic Setup.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418330770
-        },
-        {
-          "timestampMillis": 1788418386272
-        },
-        {
-          "timestampMillis": 1788418404495
-        }
-      ]
-    },
-    {
-      "path": "path.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1788418383449
+          "timestampMillis": 1789463365802
         }
       ]
     },
     {
       "path": "Inbox/Havremarken 7.md",
-      "uniqueDaysOpened": 2,
+      "uniqueDaysOpened": 1,
       "totalTimesOpened": 7,
       "openLogs": [
         {
-          "timestampMillis": 1788929444545
+          "timestampMillis": 1789477098539
         },
         {
-          "timestampMillis": 1788966624435
+          "timestampMillis": 1789477287568
         },
         {
-          "timestampMillis": 1788967633797
+          "timestampMillis": 1789478253691
         },
         {
-          "timestampMillis": 1788968053567
+          "timestampMillis": 1789478285434
         },
         {
-          "timestampMillis": 1788968679364
+          "timestampMillis": 1789480126172
         },
         {
-          "timestampMillis": 1788969036617
+          "timestampMillis": 1789480146038
         },
         {
-          "timestampMillis": 1789918514301
+          "timestampMillis": 1789480166881
         }
       ]
     },
     {
-      "path": "Inbox/Realmæglerne - Kundeuniverset.md",
+      "path": "Købsaftale_Havremarken_7.pdf",
       "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 16,
       "openLogs": [
         {
-          "timestampMillis": 1788966646246
+          "timestampMillis": 1789477112414
         },
         {
-          "timestampMillis": 1788967632784
+          "timestampMillis": 1789477112703
         },
         {
-          "timestampMillis": 1789918512533
+          "timestampMillis": 1789477682388
+        },
+        {
+          "timestampMillis": 1789477725616
+        },
+        {
+          "timestampMillis": 1789478248655
+        },
+        {
+          "timestampMillis": 1789478255024
+        },
+        {
+          "timestampMillis": 1789478587839
+        },
+        {
+          "timestampMillis": 1789478889098
+        },
+        {
+          "timestampMillis": 1789479486831
+        },
+        {
+          "timestampMillis": 1789479788211
+        },
+        {
+          "timestampMillis": 1789480089148
+        },
+        {
+          "timestampMillis": 1789480111986
+        },
+        {
+          "timestampMillis": 1789480123594
+        },
+        {
+          "timestampMillis": 1789480690507
+        },
+        {
+          "timestampMillis": 1789481006632
+        },
+        {
+          "timestampMillis": 1789980329661
         }
       ]
     },
     {
       "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
       "uniqueDaysOpened": 1,
+      "totalTimesOpened": 6,
+      "openLogs": [
+        {
+          "timestampMillis": 1789478539798
+        },
+        {
+          "timestampMillis": 1789478540315
+        },
+        {
+          "timestampMillis": 1789478590377
+        },
+        {
+          "timestampMillis": 1789478893016
+        },
+        {
+          "timestampMillis": 1789480116127
+        },
+        {
+          "timestampMillis": 1789480124887
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-09-21.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 33,
+      "openLogs": [
+        {
+          "timestampMillis": 1789980331563
+        },
+        {
+          "timestampMillis": 1789980744731
+        },
+        {
+          "timestampMillis": 1789980765604
+        },
+        {
+          "timestampMillis": 1789981231657
+        },
+        {
+          "timestampMillis": 1789981532104
+        },
+        {
+          "timestampMillis": 1789981832570
+        },
+        {
+          "timestampMillis": 1789982132990
+        },
+        {
+          "timestampMillis": 1789982433480
+        },
+        {
+          "timestampMillis": 1789982733896
+        },
+        {
+          "timestampMillis": 1789983034385
+        },
+        {
+          "timestampMillis": 1789983334801
+        },
+        {
+          "timestampMillis": 1789983635223
+        },
+        {
+          "timestampMillis": 1789983935638
+        },
+        {
+          "timestampMillis": 1789984236075
+        },
+        {
+          "timestampMillis": 1789984536517
+        },
+        {
+          "timestampMillis": 1789984836969
+        },
+        {
+          "timestampMillis": 1789985137460
+        },
+        {
+          "timestampMillis": 1789985437883
+        },
+        {
+          "timestampMillis": 1789985738404
+        },
+        {
+          "timestampMillis": 1789986038830
+        },
+        {
+          "timestampMillis": 1789986339339
+        },
+        {
+          "timestampMillis": 1789986639988
+        },
+        {
+          "timestampMillis": 1789986940460
+        },
+        {
+          "timestampMillis": 1789987241160
+        },
+        {
+          "timestampMillis": 1789987541664
+        },
+        {
+          "timestampMillis": 1789987842166
+        },
+        {
+          "timestampMillis": 1789988142918
+        },
+        {
+          "timestampMillis": 1789988443505
+        },
+        {
+          "timestampMillis": 1789988744156
+        },
+        {
+          "timestampMillis": 1789989044645
+        },
+        {
+          "timestampMillis": 1789989345249
+        },
+        {
+          "timestampMillis": 1789989646174
+        },
+        {
+          "timestampMillis": 1789989947132
+        }
+      ]
+    },
+    {
+      "path": "Tasks.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1792135818010
+        },
+        {
+          "timestampMillis": 1792135818386
+        }
+      ]
+    },
+    {
+      "path": "Daily/2026-10-16.md",
+      "uniqueDaysOpened": 1,
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1788969033606
-        }
-      ]
-    },
-    {
-      "path": "Inbox/Færøerne.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1788969131907
-        },
-        {
-          "timestampMillis": 1789918496993
-        }
-      ]
-    },
-    {
-      "path": "Projects/Multiboard.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 4,
-      "openLogs": [
-        {
-          "timestampMillis": 1789918618611
-        },
-        {
-          "timestampMillis": 1789918646374
-        },
-        {
-          "timestampMillis": 1789918647784
-        },
-        {
-          "timestampMillis": 1789918648047
-        }
-      ]
-    },
-    {
-      "path": "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1789918938352
-        },
-        {
-          "timestampMillis": 1791573325808
-        },
-        {
-          "timestampMillis": 1791573326477
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-10-09.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 1,
-      "openLogs": [
-        {
-          "timestampMillis": 1791573331180
-        }
-      ]
-    },
-    {
-      "path": "ARIS/Sorteringslister.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1791573335931
-        },
-        {
-          "timestampMillis": 1791573346560
-        }
-      ]
-    },
-    {
-      "path": "Stena Recycling V04-2024.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
-      "openLogs": [
-        {
-          "timestampMillis": 1791573340759
-        },
-        {
-          "timestampMillis": 1791573340889
-        },
-        {
-          "timestampMillis": 1791573488315
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-10-10.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1791652343120
-        },
-        {
-          "timestampMillis": 1791711858439
-        }
-      ]
-    },
-    {
-      "path": "Daily/2026-10-11.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
-      "openLogs": [
-        {
-          "timestampMillis": 1791781949389
-        },
-        {
-          "timestampMillis": 1791781958223
+          "timestampMillis": 1792135822871
         }
       ]
     },
@@ -513,7 +373,7 @@
       "totalTimesOpened": 1,
       "openLogs": [
         {
-          "timestampMillis": 1792128948790
+          "timestampMillis": 1792135832788
         }
       ]
     }
