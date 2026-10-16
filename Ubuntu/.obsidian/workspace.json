@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily/2026-10-11.md",
+                "file": "Daily/2026-10-15.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "2026-10-11"
+              "title": "2026-10-15"
             }
           },
           {
@@ -205,7 +205,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-10-11.md",
+                "file": "Daily/2026-10-15.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -307,11 +307,12 @@
   },
   "active": "47a64bea4ea60c3a",
   "lastOpenFiles": [
+    "Tasks.md",
+    "Daily/2026-10-15.md",
     "conflict-files-obsidian-git.md",
     "Daily/2026-10-10.md",
     "Daily/2026-10-11.md",
     "Pasted image 20261011114420.png",
-    "Tasks.md",
     "ARIS/Sorteringslister.md",
     "Stena Recycling V04-2024.pdf",
     "Daily/2026-10-09.md",
@@ -335,7 +336,6 @@
     "Inbox/Dexter Holm.md",
     "Inbox/Casper Rask.md",
     "Inbox/Aksel Lytsen.md",
-    "Inbox/Rasmus Storm.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
