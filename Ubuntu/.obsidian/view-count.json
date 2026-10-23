@@ -346,14 +346,17 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1792135818010
         },
         {
           "timestampMillis": 1792135818386
+        },
+        {
+          "timestampMillis": 1792415970450
         }
       ]
     },
@@ -374,6 +377,29 @@
       "openLogs": [
         {
           "timestampMillis": 1792135832788
+        }
+      ]
+    },
+    {
+      "path": "Inbox/Security overhaul.md",
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1792415977073
+        },
+        {
+          "timestampMillis": 1792667429189
+        }
+      ]
+    },
+    {
+      "path": "Inbox/syslog fix.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1792667483642
         }
       ]
     }
