@@ -6,7 +6,7 @@
       {
         "id": "68c06579bfdde8e7",
         "type": "tabs",
-        "dimension": 52.88232491662696,
+        "dimension": 52.88232491662697,
         "children": [
           {
             "id": "206e64d6f35e6d60",
@@ -43,7 +43,6 @@
           {
             "id": "a3fce44f1dc84fd5",
             "type": "leaf",
-            "dimension": 50,
             "state": {
               "type": "pdf",
               "state": {
@@ -60,7 +59,6 @@
           {
             "id": "7e13b92c831e66da",
             "type": "leaf",
-            "dimension": 33.333333333333336,
             "state": {
               "type": "pdf",
               "state": {
@@ -77,7 +75,6 @@
           {
             "id": "568ce9eb58cd1bfa",
             "type": "leaf",
-            "dimension": 25,
             "state": {
               "type": "pdf",
               "state": {
@@ -94,7 +91,6 @@
           {
             "id": "30daff0edad55d9c",
             "type": "leaf",
-            "dimension": 20,
             "state": {
               "type": "pdf",
               "state": {
@@ -111,7 +107,6 @@
           {
             "id": "0d1be21e9e1a9e2b",
             "type": "leaf",
-            "dimension": 16.666666666666668,
             "state": {
               "type": "pdf",
               "state": {
@@ -128,7 +123,6 @@
           {
             "id": "d95fd8967bca6db1",
             "type": "leaf",
-            "dimension": 14.285714285714286,
             "state": {
               "type": "pdf",
               "state": {
@@ -145,7 +139,6 @@
           {
             "id": "20b1391b3867159f",
             "type": "leaf",
-            "dimension": 12.5,
             "state": {
               "type": "pdf",
               "state": {
@@ -162,7 +155,6 @@
           {
             "id": "8df7279379a3a953",
             "type": "leaf",
-            "dimension": 11.11111111111111,
             "state": {
               "type": "pdf",
               "state": {
@@ -179,11 +171,10 @@
           {
             "id": "ae007d5c0eb835ac",
             "type": "leaf",
-            "dimension": 10,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "People/Emma Lykke Holm.md",
+                "file": "Inbox/Sandcastle.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -198,7 +189,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Emma Lykke Holm"
+              "title": "Sandcastle"
             }
           }
         ],
@@ -207,7 +198,7 @@
       {
         "id": "a40f79df105b4124",
         "type": "tabs",
-        "dimension": 47.11767508337304,
+        "dimension": 47.11767508337303,
         "children": [
           {
             "id": "47a64bea4ea60c3a",
@@ -464,6 +455,7 @@
   },
   "active": "ae007d5c0eb835ac",
   "lastOpenFiles": [
+    "People/Emma Lykke Holm.md",
     "Inbox/Bank møde.md",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
     "Inbox/Havremarken 7.md",
@@ -501,7 +493,6 @@
     "Daily/2026-09-14.md",
     "Inbox/Better deep ensemble test.md",
     "Inbox/Karsten Lykke Something.md",
-    "Inbox/Storm Holm.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
