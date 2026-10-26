@@ -15,9 +15,9 @@
               "type": "pdf",
               "state": {
                 "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
-                "page": 1,
+                "page": 2,
                 "left": -10,
-                "top": 845,
+                "top": 774,
                 "zoom": 1.4677966671146352
               },
               "icon": "lucide-file-text",
@@ -48,7 +48,8 @@
               "title": "Release Notes 1.14.4"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "a83f7ecf77aad180",
@@ -209,7 +210,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -309,8 +309,9 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "47a64bea4ea60c3a",
+  "active": "82fa0453497bdccd",
   "lastOpenFiles": [
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
     "Tasks.md",
     "Padel.md",
     "Inbox/syslog fix.md",
@@ -339,7 +340,6 @@
     "Inbox/Better deep ensemble test.md",
     "Inbox/Karsten Lykke Something.md",
     "Inbox/Storm Holm.md",
-    "Inbox/Magne Vethal Kanneworff.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",

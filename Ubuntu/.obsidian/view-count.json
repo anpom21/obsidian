@@ -409,13 +409,16 @@
     {
       "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 2,
+      "totalTimesOpened": 3,
       "openLogs": [
         {
           "timestampMillis": 1792999418533
         },
         {
           "timestampMillis": 1792999438994
+        },
+        {
+          "timestampMillis": 1793001383880
         }
       ]
     }
