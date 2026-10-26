@@ -346,8 +346,8 @@
     },
     {
       "path": "Tasks.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 3,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 4,
       "openLogs": [
         {
           "timestampMillis": 1792135818010
@@ -357,6 +357,9 @@
         },
         {
           "timestampMillis": 1792415970450
+        },
+        {
+          "timestampMillis": 1792999396978
         }
       ]
     },
@@ -400,6 +403,19 @@
       "openLogs": [
         {
           "timestampMillis": 1792667483642
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1792999418533
+        },
+        {
+          "timestampMillis": 1792999438994
         }
       ]
     }

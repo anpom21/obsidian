@@ -12,24 +12,28 @@
             "id": "47a64bea4ea60c3a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Daily/2026-10-15.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 845,
+                "zoom": 1.4677966671146352
               },
-              "icon": "lucide-file",
-              "title": "2026-10-15"
+              "icon": "lucide-file-text",
+              "title": "Tilstandsrapport"
+            }
+          },
+          {
+            "id": "ebb1a475a679ca19",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.14.5"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.14.5"
             }
           },
           {
@@ -205,7 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily/2026-10-15.md",
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -307,11 +311,11 @@
   },
   "active": "47a64bea4ea60c3a",
   "lastOpenFiles": [
+    "Tasks.md",
     "Padel.md",
     "Inbox/syslog fix.md",
     "Inbox/Security overhaul.md",
     "Daily/2026-10-16.md",
-    "Tasks.md",
     "Daily/2026-10-15.md",
     "conflict-files-obsidian-git.md",
     "Daily/2026-10-10.md",
