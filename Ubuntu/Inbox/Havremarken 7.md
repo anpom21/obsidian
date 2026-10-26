@@ -71,6 +71,7 @@ Kilder: [[Salgsopstilling_villa_260_788711.pdf]], [[BBR-meddelelse.pdf]], [[Ejen
 Kilder: [[Salgsopstilling_villa_260_788711.pdf]], [[Off. vurdering 2022 og foreløbig vurdering 2024.pdf]], [[Ejendomsbidragsbillet 2026.pdf]], [[Ejendomsbidrags kvittering 2026.png]], [[Varmeopgørelse 2025.pdf]]
 
 ### 3. Tilstand & installationer
+[[Tilstandsrapport.pdf]]
 **Tilstandsrapport** (gyldig 11.08.2026–11.02.2027, løbenr. H-26-01818-0072):
 - Ingen kritiske (røde) skader udvendigt/i bygningskonstruktion, men 3 røde skader i badeværelset:
   - Samling mellem afløbsskål og rist lavet med beton (risiko for fugtindtrængning)

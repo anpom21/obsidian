@@ -132,29 +132,53 @@
     },
     {
       "path": "Inbox/Havremarken 7.md",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 7,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 22,
       "openLogs": [
         {
-          "timestampMillis": 1789477098539
+          "timestampMillis": 1793001863095
         },
         {
-          "timestampMillis": 1789477287568
+          "timestampMillis": 1793001881140
         },
         {
-          "timestampMillis": 1789478253691
+          "timestampMillis": 1793001882744
         },
         {
-          "timestampMillis": 1789478285434
+          "timestampMillis": 1793001885080
         },
         {
-          "timestampMillis": 1789480126172
+          "timestampMillis": 1793001920211
         },
         {
-          "timestampMillis": 1789480146038
+          "timestampMillis": 1793001937726
         },
         {
-          "timestampMillis": 1789480166881
+          "timestampMillis": 1793001940551
+        },
+        {
+          "timestampMillis": 1793001950619
+        },
+        {
+          "timestampMillis": 1793001952485
+        },
+        {
+          "timestampMillis": 1793001965720
+        },
+        {
+          "timestampMillis": 1793002023261
+        },
+        {
+          "timestampMillis": 1793002033400
+        },
+        {
+          "timestampMillis": 1793002044732
+        },
+        {
+          "timestampMillis": 1793002063161
+        },
+        {
+          "timestampMillis": 1793002079988
         }
       ]
     },
@@ -409,7 +433,7 @@
     {
       "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
       "uniqueDaysOpened": 1,
-      "totalTimesOpened": 3,
+      "totalTimesOpened": 5,
       "openLogs": [
         {
           "timestampMillis": 1792999418533
@@ -419,6 +443,135 @@
         },
         {
           "timestampMillis": 1793001383880
+        },
+        {
+          "timestampMillis": 1793001850668
+        },
+        {
+          "timestampMillis": 1793001875544
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Off. vurdering 2022 og foreløbig vurdering 2024.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001890238
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidragsbillet 2026.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001934226
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001937940
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Varmeopgørelse 2025.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001942155
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/BBR-meddelelse.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 2,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001950790
+        },
+        {
+          "timestampMillis": 1793001950977
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomskort.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793001953184
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tingbog.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002019900
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 1 - 6.11.1957.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002023592
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 2 - 5.9.1985.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002033720
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 3 - 10.09.1985.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002045086
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsdatarapport.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002063532
+        }
+      ]
+    },
+    {
+      "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793002080302
         }
       ]
     }

@@ -4,24 +4,225 @@
     "type": "split",
     "children": [
       {
+        "id": "68c06579bfdde8e7",
+        "type": "tabs",
+        "dimension": 52.88232491662696,
+        "children": [
+          {
+            "id": "206e64d6f35e6d60",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Off. vurdering 2022 og foreløbig vurdering 2024.pdf",
+                "page": 1,
+                "left": -16,
+                "top": 599,
+                "zoom": 0.9531784719018072
+              },
+              "icon": "lucide-file-text",
+              "title": "Off. vurdering 2022 og foreløbig vurdering 2024"
+            }
+          },
+          {
+            "id": "2aac159c170762ad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidragsbillet 2026.pdf",
+                "page": 2,
+                "left": -11,
+                "top": 722,
+                "zoom": 1.3328965710391627
+              },
+              "icon": "lucide-file-text",
+              "title": "Ejendomsbidragsbillet 2026"
+            }
+          },
+          {
+            "id": "a3fce44f1dc84fd5",
+            "type": "leaf",
+            "dimension": 50,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Varmeopgørelse 2025.pdf",
+                "page": 5,
+                "left": -11,
+                "top": 722,
+                "zoom": 1.3328965710391627
+              },
+              "icon": "lucide-file-text",
+              "title": "Varmeopgørelse 2025"
+            }
+          },
+          {
+            "id": "7e13b92c831e66da",
+            "type": "leaf",
+            "dimension": 33.333333333333336,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/BBR-meddelelse.pdf",
+                "page": 4,
+                "left": -11,
+                "top": 722,
+                "zoom": 1.3329413740970941
+              },
+              "icon": "lucide-file-text",
+              "title": "BBR-meddelelse"
+            }
+          },
+          {
+            "id": "568ce9eb58cd1bfa",
+            "type": "leaf",
+            "dimension": 25,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomskort.pdf",
+                "page": 2,
+                "left": -11,
+                "top": 722,
+                "zoom": 1.3329413740970941
+              },
+              "icon": "lucide-file-text",
+              "title": "Ejendomskort"
+            }
+          },
+          {
+            "id": "30daff0edad55d9c",
+            "type": "leaf",
+            "dimension": 20,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tingbog.pdf",
+                "page": 3,
+                "left": -11,
+                "top": 790,
+                "zoom": 1.3329861577744928
+              },
+              "icon": "lucide-file-text",
+              "title": "Tingbog"
+            }
+          },
+          {
+            "id": "0d1be21e9e1a9e2b",
+            "type": "leaf",
+            "dimension": 16.666666666666668,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 1 - 6.11.1957.pdf",
+                "page": 20,
+                "left": -4,
+                "top": 700,
+                "zoom": 1.3634020618556701
+              },
+              "icon": "lucide-file-text",
+              "title": "Servitut 1 - 6.11.1957"
+            }
+          },
+          {
+            "id": "d95fd8967bca6db1",
+            "type": "leaf",
+            "dimension": 14.285714285714286,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 2 - 5.9.1985.pdf",
+                "page": 11,
+                "left": -11,
+                "top": 103,
+                "zoom": 1.3358585858585859
+              },
+              "icon": "lucide-file-text",
+              "title": "Servitut 2 - 5.9.1985"
+            }
+          },
+          {
+            "id": "20b1391b3867159f",
+            "type": "leaf",
+            "dimension": 12.5,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 3 - 10.09.1985.pdf",
+                "page": 6,
+                "left": -12,
+                "top": 76,
+                "zoom": 1.3313758389261745
+              },
+              "icon": "lucide-file-text",
+              "title": "Servitut 3 - 10.09.1985"
+            }
+          },
+          {
+            "id": "8df7279379a3a953",
+            "type": "leaf",
+            "dimension": 11.11111111111111,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsdatarapport.pdf",
+                "page": 17,
+                "left": -11,
+                "top": 463,
+                "zoom": 1.3329973541640419
+              },
+              "icon": "lucide-file-text",
+              "title": "Ejendomsdatarapport"
+            }
+          },
+          {
+            "id": "ae007d5c0eb835ac",
+            "type": "leaf",
+            "dimension": 10,
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
+                "page": 1,
+                "left": -11,
+                "top": 846,
+                "zoom": 1.3336134453781514
+              },
+              "icon": "lucide-file-text",
+              "title": "Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780"
+            }
+          }
+        ],
+        "currentTab": 10
+      },
+      {
         "id": "a40f79df105b4124",
         "type": "tabs",
-        "dimension": 74.20731707317073,
+        "dimension": 47.11767508337304,
         "children": [
           {
             "id": "47a64bea4ea60c3a",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
-                "page": 2,
-                "left": -10,
-                "top": 774,
-                "zoom": 1.4677966671146352
+                "file": "Inbox/Havremarken 7.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Tilstandsrapport"
+              "icon": "lucide-file",
+              "title": "Havremarken 7"
             }
           },
           {
@@ -48,64 +249,7 @@
               "title": "Release Notes 1.14.4"
             }
           }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a83f7ecf77aad180",
-        "type": "tabs",
-        "dimension": 25.792682926829272,
-        "children": [
-          {
-            "id": "42f0b622cf6a2780",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Multiboard.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Multiboard"
-            }
-          },
-          {
-            "id": "8712ab9a46b624eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ARIS/Sorteringslister.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Sorteringslister"
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -191,7 +335,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily/2026-07-10.md",
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +345,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2026-07-10"
+              "title": "Backlinks"
             }
           },
           {
@@ -210,6 +354,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -281,12 +426,12 @@
               "title": "All properties"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 458.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -309,9 +454,20 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "82fa0453497bdccd",
+  "active": "ae007d5c0eb835ac",
   "lastOpenFiles": [
-    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tilstandsrapport.pdf",
+    "Inbox/Havremarken 7.md",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsdatarapport.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 3 - 10.09.1985.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 2 - 5.9.1985.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 1 - 6.11.1957.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Tingbog.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomskort.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/BBR-meddelelse.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Varmeopgørelse 2025.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidragsbillet 2026.pdf",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Off. vurdering 2022 og foreløbig vurdering 2024.pdf",
     "Tasks.md",
     "Padel.md",
     "Inbox/syslog fix.md",
@@ -323,7 +479,6 @@
     "Daily/2026-10-11.md",
     "Pasted image 20261011114420.png",
     "ARIS/Sorteringslister.md",
-    "Stena Recycling V04-2024.pdf",
     "Daily/2026-10-09.md",
     "Excalidraw/Multiboard 2026-09-20 17.42.18.excalidraw.md",
     "Daily/2026-09-23.md",
@@ -331,12 +486,10 @@
     "Daily/2026-09-21.md",
     "Projects/Multiboard.md",
     "Projects/Food planner app.md",
-    "Inbox/Havremarken 7.md",
     "Inbox/Realmæglerne - Kundeuniverset.md",
     "Inbox/Færøerne.md",
     "Wing foiling.md",
     "Daily/2026-09-14.md",
-    "Købsaftale_Havremarken_7.pdf",
     "Inbox/Better deep ensemble test.md",
     "Inbox/Karsten Lykke Something.md",
     "Inbox/Storm Holm.md",
@@ -345,15 +498,6 @@
     "IMG_4544.png",
     "IMG_4547.png",
     "IMG_4545.png",
-    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
-    "Inbox/Havremarken 7.md.tmp.20308.97afd903d743",
-    "Inbox/Havremarken 7.md.tmp.20308.336f4b267981",
-    "Inbox/Havremarken 7.md.tmp.20308.643cb380cf39",
-    "Inbox/Havremarken 7.md.tmp.20308.febd7ebae7a9",
-    "Inbox/Havremarken 7.md.tmp.20308.8ddd742fc310",
-    "Inbox/Havremarken 7.md.tmp.20308.815187212f97",
-    "Inbox/Havremarken 7.md.tmp.20308.373c18c6af38",
-    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
     "Pasted image 20260907094529.png",
     "Pasted image 20260907094452.png",
     "Pasted image 20260907094357.png",
