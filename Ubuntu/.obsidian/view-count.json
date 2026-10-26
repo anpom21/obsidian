@@ -574,6 +574,26 @@
           "timestampMillis": 1793002080302
         }
       ]
+    },
+    {
+      "path": "Inbox/Bank møde.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793003101516
+        }
+      ]
+    },
+    {
+      "path": "People/Emma Lykke Holm.md",
+      "uniqueDaysOpened": 1,
+      "totalTimesOpened": 1,
+      "openLogs": [
+        {
+          "timestampMillis": 1793003130653
+        }
+      ]
     }
   ]
 }

@@ -181,16 +181,24 @@
             "type": "leaf",
             "dimension": 10,
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
-                "page": 1,
-                "left": -11,
-                "top": 846,
-                "zoom": 1.3336134453781514
+                "file": "People/Emma Lykke Holm.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-file-text",
-              "title": "Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780"
+              "icon": "lucide-file",
+              "title": "Emma Lykke Holm"
             }
           }
         ],
@@ -335,7 +343,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
+                "file": "People/Emma Lykke Holm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -354,7 +362,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
+                "file": "People/Emma Lykke Holm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -456,6 +464,8 @@
   },
   "active": "ae007d5c0eb835ac",
   "lastOpenFiles": [
+    "Inbox/Bank møde.md",
+    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
     "Inbox/Havremarken 7.md",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsdatarapport.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 3 - 10.09.1985.pdf",
@@ -467,7 +477,6 @@
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Varmeopgørelse 2025.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidrags kvittering 2026.png",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsbidragsbillet 2026.pdf",
-    "Archive/Documents/Bolig/Havremarken 7/Nybolig/Off. vurdering 2022 og foreløbig vurdering 2024.pdf",
     "Tasks.md",
     "Padel.md",
     "Inbox/syslog fix.md",
