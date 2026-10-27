@@ -132,8 +132,8 @@
     },
     {
       "path": "Inbox/Havremarken 7.md",
-      "uniqueDaysOpened": 2,
-      "totalTimesOpened": 22,
+      "uniqueDaysOpened": 3,
+      "totalTimesOpened": 23,
       "openLogs": [
         {
           "timestampMillis": 1793001863095
@@ -179,6 +179,9 @@
         },
         {
           "timestampMillis": 1793002079988
+        },
+        {
+          "timestampMillis": 1793127997152
         }
       ]
     },
@@ -239,26 +242,11 @@
     },
     {
       "path": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
-      "uniqueDaysOpened": 1,
-      "totalTimesOpened": 6,
+      "uniqueDaysOpened": 2,
+      "totalTimesOpened": 7,
       "openLogs": [
         {
-          "timestampMillis": 1789478539798
-        },
-        {
-          "timestampMillis": 1789478540315
-        },
-        {
-          "timestampMillis": 1789478590377
-        },
-        {
-          "timestampMillis": 1789478893016
-        },
-        {
-          "timestampMillis": 1789480116127
-        },
-        {
-          "timestampMillis": 1789480124887
+          "timestampMillis": 1793127997471
         }
       ]
     },

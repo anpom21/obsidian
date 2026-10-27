@@ -6,7 +6,7 @@
       {
         "id": "68c06579bfdde8e7",
         "type": "tabs",
-        "dimension": 9.52834683182468,
+        "dimension": 9.532888465204957,
         "children": [
           {
             "id": "206e64d6f35e6d60",
@@ -196,9 +196,32 @@
         "currentTab": 10
       },
       {
+        "id": "c06954f7dc9cd6ce",
+        "type": "tabs",
+        "dimension": 80.79122974261202,
+        "children": [
+          {
+            "id": "aa5a20807f278b1f",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "Archive/Documents/Bolig/Havremarken 7/Nybolig/Salgsopstilling_villa_260_788711.pdf",
+                "page": 1,
+                "left": -10,
+                "top": 269,
+                "zoom": 1.5732463389200628
+              },
+              "icon": "lucide-file-text",
+              "title": "Salgsopstilling_villa_260_788711"
+            }
+          }
+        ]
+      },
+      {
         "id": "a40f79df105b4124",
         "type": "tabs",
-        "dimension": 90.47165316817532,
+        "dimension": 9.675881792183032,
         "children": [
           {
             "id": "47a64bea4ea60c3a",
@@ -318,7 +341,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200
   },
   "right": {
     "id": "10b7dc54a46eae74",
@@ -453,12 +476,13 @@
       "obsidian-importer:Import notes": false
     }
   },
-  "active": "ae007d5c0eb835ac",
+  "active": "aa5a20807f278b1f",
   "lastOpenFiles": [
+    "Inbox/Havremarken 7.md",
+    "Inbox/Sandcastle.md",
     "People/Emma Lykke Holm.md",
     "Inbox/Bank møde.md",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Lokalplan - Område mellem Landbrugsvej og Bjørnemosevej - Boliger erhverv og service - 5-780.pdf",
-    "Inbox/Havremarken 7.md",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Ejendomsdatarapport.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 3 - 10.09.1985.pdf",
     "Archive/Documents/Bolig/Havremarken 7/Nybolig/Servitut 2 - 5.9.1985.pdf",
@@ -492,7 +516,6 @@
     "Wing foiling.md",
     "Daily/2026-09-14.md",
     "Inbox/Better deep ensemble test.md",
-    "Inbox/Karsten Lykke Something.md",
     "IMG_4542.png",
     "IMG_4543.png",
     "IMG_4544.png",
